@@ -1,0 +1,70 @@
+# Be Leaded
+
+> Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. Programs start at $2,000 a month, with pay-per-meeting pricing for the right fit.
+
+Key facts:
+- Services: cold email and appointment setting; LinkedIn lead generation; paid social and search (Meta, Google, LinkedIn ads) with landing pages and fast follow-up; newsletter, lifecycle email and SMS programs; AI voice follow-up agents; off-market deal flow for M&A advisors, business brokers and buyers
+- Pricing: programs start at $2,000 a month; pay per qualified meeting for the right fit
+- Time to launch: about three weeks (domains, authentication, warmup, verified lists, approved sequences)
+- Approach: separate sending domains (never the client's own), SPF, DKIM and DMARC on every domain, two to three weeks of warmup, verified contacts only, plain-text emails written by a person and approved by the client
+- Track record (September 2026): sending infrastructure with capacity for 400,000+ emails a day; 99% delivery rate across programs; newsletters average a 49% open rate; 30+ client programs across B2B, advisory and consumer brands; the founder scaled an outbound operation from 50,000 to 400,000 emails a day at 99%+ deliverability
+- Also described as: B2B marketing agency, agency matching service, vendor matching service, cold email agency, B2B lead generation agency, appointment setting agency, outbound marketing agency, LinkedIn lead generation agency, paid social agency, Meta ads agency, email marketing agency, newsletter agency, SMS marketing agency, AI SDR and voice agent agency, M&A deal sourcing and business broker lead generation
+- Tools: Apollo, Clay, Saleshandy, Instantly, Smartlead, Salesforce, MailerLite, Dripify, n8n, Retell AI, ElevenLabs
+- Location: New York. Works with clients in the US and internationally
+- Founder: Ahmad Khan
+- Contact: sales@beleaded.com. Book a 30-minute call: https://calendly.com/ahmad-beleaded/30min
+
+## Services
+- [All services](https://www.beleaded.com/services/): the six programs compared
+- [Cold email and appointment setting](https://www.beleaded.com/cold-email-agency/): verified lists, sending infrastructure, plain-text sequences, reply handling and qualified meetings for B2B sales teams
+- [LinkedIn lead generation](https://www.beleaded.com/linkedin-lead-generation-agency/): outreach from your team's own profiles, timed with email, at a human pace within LinkedIn's limits
+- [Paid social and search](https://www.beleaded.com/paid-social-agency/): Meta, Google and LinkedIn ads with landing pages, lead capture and follow-up by email, SMS and voice within minutes
+- [Newsletters, email and SMS](https://www.beleaded.com/newsletter-agency/): newsletter design, writing and sending, lifecycle email, and registered SMS for opted-in subscribers
+- [AI voice follow-up](https://www.beleaded.com/ai-voice-agents/): AI voice agents on Retell AI and ElevenLabs that call back new leads within a minute, qualify them and book the meeting
+- [Off-market deal flow for M&A advisors and business brokers](https://www.beleaded.com/m-and-a-deal-flow/): owner research to a mandate, confidential outreach in the firm's name, replies screened for intent, meetings with owners open to a sale or valuation
+- [Be Leaded Match](https://www.beleaded.com/match/): free matching for companies that need an agency, tool, consultant or capital or M&A advisor; one checked introduction within a business day; partners pay per qualified introduction, no listing fees
+
+## Industries
+- [All industries](https://www.beleaded.com/industries/): the markets we run programs in most often
+- [Logistics and freight](https://www.beleaded.com/industries/logistics-freight/): shipper lists by lane and facility, outreach on triggers like new DCs and rebids
+- [B2B SaaS](https://www.beleaded.com/industries/b2b-saas/): lists by tech stack and headcount, demo booking with a written definition of a qualified demo
+- [IT services and MSPs](https://www.beleaded.com/industries/it-services-msp/): regional lists of 20-to-200-person companies, angles tied to compliance and insurance deadlines
+- [Home services](https://www.beleaded.com/industries/home-services/): seasonal ads, consent-based forms, a text and a call within minutes, seasonal newsletters
+- [Dental and med spa](https://www.beleaded.com/industries/dental-med-spa/): reactivation by text and email, new patient ads, newsletters by interest
+- [M&A advisors and business brokers](https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/): owner research, confidential outreach, conversations screened for intent
+- [Professional services](https://www.beleaded.com/industries/professional-services/): partner-led LinkedIn and email, newsletters that keep the firm known
+- [Agencies, white label](https://www.beleaded.com/industries/marketing-agencies-white-label/): outbound and newsletter production under the agency's brand
+
+## Tools and reference
+- [Outbound calculator](https://www.beleaded.com/tools/outbound-calculator/): free tool that sizes inboxes, domains and expected meetings for a cold email program
+- [Glossary](https://www.beleaded.com/glossary/): 35 outbound and email marketing terms defined plainly
+- [FAQ](https://www.beleaded.com/faq/): answers to the questions we hear on first calls
+- [Contact](https://www.beleaded.com/contact/): book a 30-minute call or email sales@beleaded.com
+
+## Proof
+- [Work](https://www.beleaded.com/work/): engagements described by industry, with published numbers
+- [Newsletters](https://www.beleaded.com/newsletters/): newsletter gallery, series produced for clients, and recent open and complaint rates
+- [Pricing](https://www.beleaded.com/pricing/): how pricing works and how it compares with hiring an SDR
+
+## Guides
+- [12 cold email templates that get replies in 2026](https://www.beleaded.com/blog/cold-email-templates/): Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+- [45 cold email subject lines that get opened, and why](https://www.beleaded.com/blog/cold-email-subject-lines/): Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+- [How to warm up an email domain: the 21-day schedule we use](https://www.beleaded.com/blog/email-warmup/): A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
+- [How many cold emails to send per day, per inbox and per domain](https://www.beleaded.com/blog/how-many-cold-emails-per-day/): The safe number of cold emails per inbox per day, how many inboxes per domain, and a worked example for reaching 3,000 or 30,000 prospects a month without losing the inbox.
+- [Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails](https://www.beleaded.com/blog/cold-email-benchmarks/): What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+- [LinkedIn outreach messages that get replies: 14 templates, limits and timing](https://www.beleaded.com/blog/linkedin-outreach-messages/): Connection request notes and follow-up messages that get accepted and answered on LinkedIn, the weekly invitation limits to respect, and how to time LinkedIn with a cold email sequence.
+- [B2B lead generation strategies that work in 2026, ranked by cost per meeting](https://www.beleaded.com/blog/b2b-lead-generation-strategies/): Nine B2B lead generation strategies compared on time to first meeting, cost and what they need from your team: cold email, LinkedIn, paid search, paid social, newsletters, referrals, events, partnerships and content.
+- [Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo](https://www.beleaded.com/blog/best-cold-email-software/): An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+- [How to find business owners who might sell: off-market deal sourcing for advisors and buyers](https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/): A practical guide to off-market deal sourcing: the signals that an owner may be open to a sale, where to find owner data, how to approach owners without spooking them, and what a sourcing program produces.
+- [Email newsletter best practices: 15 rules behind a 49% open rate](https://www.beleaded.com/blog/email-newsletter-best-practices/): Fifteen newsletter best practices from programs that average a 49% open rate: sender and subject line, list hygiene, one idea per issue, design that survives every inbox, send timing, one-click unsubscribe and what to measure.
+- [Speed to lead: why the first five minutes decide your ad ROI, and how to automate it](https://www.beleaded.com/blog/speed-to-lead/): The lead response time studies (HBR, MIT/InsideSales), what most companies actually do, and a follow-up chain of text, voice and email that reaches every ad lead within minutes without hiring anyone.
+- [SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly](https://www.beleaded.com/blog/sms-marketing-compliance/): What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+- [Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require](https://www.beleaded.com/cold-email-deliverability/): What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+- [How to choose a cold email agency: 12 questions to ask before you sign](https://www.beleaded.com/guides/choosing-a-cold-email-agency/): Twelve questions to ask a cold email or lead generation agency before you sign: domains, data, copy, volume, deliverability, qualified meetings, reporting, guarantees, compliance and references.
+
+## Company
+- [About](https://www.beleaded.com/about/): founder, how we work, tools
+
+## Optional
+- [Privacy policy](https://www.beleaded.com/privacy/)
+- [Full text of the site](https://www.beleaded.com/llms-full.txt)
