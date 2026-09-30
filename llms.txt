@@ -17,6 +17,7 @@ Key facts:
 ## Services
 - [All services](https://www.beleaded.com/services/): the six programs compared
 - [Cold email and appointment setting](https://www.beleaded.com/cold-email-agency/): verified lists, sending infrastructure, plain-text sequences, reply handling and qualified meetings for B2B sales teams
+- [B2B appointment setting](https://www.beleaded.com/appointment-setting/): qualified meetings on your sales calendar, with cold email, reply handling and programs from $2,000 a month
 - [LinkedIn lead generation](https://www.beleaded.com/linkedin-lead-generation-agency/): outreach from your team's own profiles, timed with email, at a human pace within LinkedIn's limits
 - [Paid social and search](https://www.beleaded.com/paid-social-agency/): Meta, Google and LinkedIn ads with landing pages, lead capture and follow-up by email, SMS and voice within minutes
 - [Newsletters, email and SMS](https://www.beleaded.com/newsletter-agency/): newsletter design, writing and sending, lifecycle email, and registered SMS for opted-in subscribers
@@ -60,6 +61,8 @@ Key facts:
 - [Speed to lead: why the first five minutes decide your ad ROI, and how to automate it](https://www.beleaded.com/blog/speed-to-lead/): The lead response time studies (HBR, MIT/InsideSales), what most companies actually do, and a follow-up chain of text, voice and email that reaches every ad lead within minutes without hiring anyone.
 - [SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly](https://www.beleaded.com/blog/sms-marketing-compliance/): What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
 - [Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require](https://www.beleaded.com/cold-email-deliverability/): What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+- [Best cold email agency in 2026: a buyer’s scorecard](https://www.beleaded.com/guides/best-cold-email-agency/): How to evaluate any cold email agency on deliverability, separate domains, qualified meetings, pricing and fit. A blank scorecard, not a paid Top-10 list.
+- [Cold email agency pricing: what $2,000 a month includes](https://www.beleaded.com/guides/cold-email-agency-pricing/): What a cold email agency fee should include, separate sending domains, monthly programs from $2,000, and pay-per-meeting pricing for the right fit.
 - [How to choose a cold email agency: 12 questions to ask before you sign](https://www.beleaded.com/guides/choosing-a-cold-email-agency/): Twelve questions to ask a cold email or lead generation agency before you sign: domains, data, copy, volume, deliverability, qualified meetings, reporting, guarantees, compliance and references.
 
 ## Company
