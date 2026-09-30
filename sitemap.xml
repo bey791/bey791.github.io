@@ -2,102 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.beleaded.com/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/services/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/cold-email-agency/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.beleaded.com/appointment-setting/</loc>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/linkedin-lead-generation-agency/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/paid-social-agency/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/newsletter-agency/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/ai-voice-agents/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/m-and-a-deal-flow/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/logistics-freight/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/b2b-saas/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/it-services-msp/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/home-services/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/dental-med-spa/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/professional-services/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/marketing-agencies-white-label/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/match/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/work/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/newsletters/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
     <image:image><image:loc>https://www.beleaded.com/assets/newsletters/copperline.jpg</image:loc><image:title>The Comfort Report, newsletter sample for a heating and air company</image:title></image:image>
     <image:image><image:loc>https://www.beleaded.com/assets/newsletters/kettle-crane.jpg</image:loc><image:title>The Roast Letter, newsletter sample for a coffee roaster</image:title></image:image>
@@ -106,112 +111,117 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/pricing/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/tools/outbound-calculator/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/faq/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/contact/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/glossary/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/cold-email-templates/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/cold-email-subject-lines/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/email-warmup/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/how-many-cold-emails-per-day/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/cold-email-benchmarks/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/linkedin-outreach-messages/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/b2b-lead-generation-strategies/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/best-cold-email-software/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/email-newsletter-best-practices/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/speed-to-lead/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/sms-marketing-compliance/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/cold-email-deliverability/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/guides/choosing-a-cold-email-agency/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.beleaded.com/guides/best-cold-email-agency/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.beleaded.com/about/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/privacy/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
