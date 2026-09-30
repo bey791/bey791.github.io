@@ -1,19 +1,37 @@
 (function () {
   "use strict";
   var root = document.documentElement;
-  var reduce = !!(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+  var reduceMq = window.matchMedia ? window.matchMedia("(prefers-reduced-motion: reduce)") : null;
+  var smallMq = window.matchMedia ? window.matchMedia("(max-width: 768px)") : null;
+  var reduce = !!(reduceMq && reduceMq.matches);
   var motion = "IntersectionObserver" in window;
   var scrollDriven = !!(window.CSS && CSS.supports && CSS.supports("animation-timeline: view()"));
+  /* Small screens and reduced-motion share a calm path: no competing canvas loops. */
+  function isSmall() { return !!(smallMq && smallMq.matches); }
+  function holdMotion() { return reduce || isSmall(); }
+  var scrolling = false, scrollTimer = 0, canvasResumes = [];
+  function resumeCanvases() { canvasResumes.forEach(function (fn) { fn(); }); }
   root.classList.add("js");
   if (motion) root.classList.add("motion");
   if (reduce) root.classList.add("reduce");
-  if (!scrollDriven || reduce) root.classList.add("jsreveal");
+  if (isSmall()) root.classList.add("calm");
+  if (!scrollDriven || reduce || isSmall()) root.classList.add("jsreveal");
 
   /* ---------------- Header, progress, nav ---------------- */
   var header = document.querySelector(".site-header");
   var bar = document.querySelector(".progress span");
   var ticking = false;
   function onScroll() {
+    if (isSmall()) {
+      scrolling = true;
+      root.classList.add("is-scrolling");
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(function () {
+        scrolling = false;
+        root.classList.remove("is-scrolling");
+        resumeCanvases();
+      }, 180);
+    }
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(function () {
@@ -32,16 +50,47 @@
 
   var navToggle = document.querySelector(".nav-toggle");
   var navList = document.getElementById("nav-list");
+  var navScrim = null;
+  var scrollLockY = 0;
+  if (navToggle && navList) {
+    navScrim = document.createElement("button");
+    navScrim.type = "button";
+    navScrim.className = "nav-scrim";
+    navScrim.setAttribute("aria-label", "Close menu");
+    navScrim.hidden = true;
+    document.body.appendChild(navScrim);
+    navToggle.setAttribute("aria-label", "Open menu");
+  }
   function setNav(open) {
     if (!navToggle || !navList) return;
+    var wasOpen = document.body.classList.contains("nav-open");
     navToggle.setAttribute("aria-expanded", String(open));
+    navToggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+    navToggle.textContent = open ? "Close" : "Menu";
     navList.setAttribute("data-open", String(open));
+    if (navScrim) {
+      navScrim.hidden = !open;
+      navScrim.setAttribute("data-open", String(open));
+    }
+    if (open) {
+      scrollLockY = window.scrollY || 0;
+      document.body.style.top = "-" + scrollLockY + "px";
+      document.body.classList.add("nav-open");
+    } else if (wasOpen) {
+      document.body.classList.remove("nav-open");
+      document.body.style.top = "";
+      window.scrollTo(0, scrollLockY);
+    }
   }
   if (navToggle && navList) {
     navToggle.addEventListener("click", function () {
       setNav(navToggle.getAttribute("aria-expanded") !== "true");
     });
+    navScrim.addEventListener("click", function () { setNav(false); });
   }
+  window.addEventListener("resize", function () {
+    if (window.innerWidth > 1020 && navToggle && navToggle.getAttribute("aria-expanded") === "true") setNav(false);
+  });
   var drops = Array.prototype.slice.call(document.querySelectorAll(".nav-drop"));
   function closeDrops(except) {
     drops.forEach(function (d) {
@@ -110,11 +159,13 @@
   function setupReveals(scope) {
     if (!motion) return;
     var vh = window.innerHeight;
-    var sel = (scrollDriven && !reduce) ? "[data-split]:not([data-seen])" : "[data-reveal]:not([data-seen]), [data-split]:not([data-seen])";
+    var calm = holdMotion();
+    var sel = (scrollDriven && !calm) ? "[data-split]:not([data-seen])" : "[data-reveal]:not([data-seen]), [data-split]:not([data-seen])";
     scope.querySelectorAll(sel).forEach(function (el) {
       el.setAttribute("data-seen", "");
       var r = el.getBoundingClientRect();
       if (r.top < vh * 0.9 && r.bottom > 0) return; // already visible: leave it alone
+      if (calm) return; // small screens and reduced motion: no stacked entrance transforms
       if (el.hasAttribute("data-split") && !reduce) { splitWords(el); el.classList.add("split"); }
       else if (el.hasAttribute("data-split")) { el.setAttribute("data-reveal", ""); }
       if (reduce) el.classList.add("fade");
@@ -229,7 +280,7 @@
       } else { go(0); }
       // Pointer tilt on the compose card
       var zone = rot.querySelector("[data-tilt-zone]");
-      if (zone && motion && !reduce && window.matchMedia("(hover: hover)").matches) {
+      if (zone && motion && !holdMotion() && window.matchMedia("(hover: hover)").matches) {
         zone.addEventListener("pointermove", function (e) {
           var card = zone.querySelector(".slide.active [data-tilt]"); if (!card) return;
           var r = zone.getBoundingClientRect();
@@ -323,11 +374,17 @@
 
   /* ---------------- Parallax (small, tasteful) ---------------- */
   function setupParallax(scope) {
-    if (!motion || reduce) return;
+    if (!motion) return;
     scope.querySelectorAll("[data-parallax]:not([data-on])").forEach(function (el) {
       el.setAttribute("data-on", "");
       var figs = el.querySelectorAll("figure");
       function update() {
+        if (holdMotion()) {
+          if (figs[0]) figs[0].style.translate = "";
+          if (figs[1]) figs[1].style.translate = "";
+          if (figs[2]) figs[2].style.translate = "";
+          return;
+        }
         if (el.offsetParent === null) return;
         var r = el.getBoundingClientRect();
         var k = (r.top + r.height / 2 - window.innerHeight / 2) / window.innerHeight;
@@ -341,6 +398,7 @@
     scope.querySelectorAll(".cta-mark:not([data-on])").forEach(function (m) {
       m.setAttribute("data-on", "");
       function update() {
+        if (holdMotion()) { m.style.removeProperty("--py"); return; }
         if (m.offsetParent === null) return;
         var r = m.getBoundingClientRect();
         var k = (r.top - window.innerHeight) / window.innerHeight;
@@ -353,7 +411,7 @@
 
   /* ---------------- Spotlight + magnetic ---------------- */
   function setupPointer(scope) {
-    if (!window.matchMedia("(hover: hover)").matches || reduce) return;
+    if (!window.matchMedia("(hover: hover)").matches || holdMotion()) return;
     scope.querySelectorAll(".feature, .post, .plan, .panel, .nl, .work-card, .svc-card, .ind-card, .glossary dt, .faq-list details, .calc-out").forEach(function (c) { c.classList.add("spot"); });
     scope.querySelectorAll(".spot:not([data-on])").forEach(function (c) {
       c.setAttribute("data-on", "");
@@ -517,9 +575,9 @@
       var cap = hero.querySelector("[data-cap-n]");
       if (cap) {
         var c0 = performance.now(), perSec = 400000 / 86400;
-        setInterval(function () { cap.textContent = Math.floor((performance.now() - c0) / 1000 * perSec).toLocaleString("en-US"); }, reduce ? 1000 : 140);
+        setInterval(function () { cap.textContent = Math.floor((performance.now() - c0) / 1000 * perSec).toLocaleString("en-US"); }, holdMotion() ? 1000 : 140);
       }
-      if (reduce || !cv) return;
+      if (!cv) return;
       var ctx = cv.getContext("2d"); if (!ctx) return;
       var W = 0, H = 0, dots = [], mx = -9999, my = -9999, t0 = performance.now(), raf = 0, visible = false, ripples = [], lastAmb = 0;
       function size() {
@@ -531,7 +589,8 @@
         for (var y = gap / 2; y < H; y += gap) for (var x = gap / 2; x < W; x += gap) dots.push({ x: x, y: y, o: Math.random() * 6.283 });
       }
       function frame(now) {
-        raf = 0; if (!visible) return;
+        raf = 0;
+        if (!visible || holdMotion() || scrolling) return;
         var t = (now - t0) / 1000;
         if (now - lastAmb > 5200) { lastAmb = now; ripples.push({ x: W * (0.15 + Math.random() * 0.7), y: H * (0.2 + Math.random() * 0.6), t: now }); }
         for (var q = ripples.length - 1; q >= 0; q--) if (now - ripples[q].t > 2200) ripples.splice(q, 1);
@@ -551,12 +610,13 @@
           ctx.beginPath(); ctx.arc(d.x, d.y - k * 10, r, 0, 6.283);
           ctx.fillStyle = "rgba(" + cr + "," + cg + "," + cb + "," + a.toFixed(3) + ")"; ctx.fill();
         }
-        raf = requestAnimationFrame(frame);
+        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible) raf = requestAnimationFrame(frame); }
+      function start() { if (!raf && visible && !holdMotion() && !scrolling) raf = requestAnimationFrame(frame); }
+      canvasResumes.push(function () { if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
       var io = new IntersectionObserver(function (en) {
         visible = en.some(function (x) { return x.isIntersecting; });
-        if (visible) { if (!W) size(); start(); }
+        if (visible && !holdMotion()) { if (!W) size(); start(); }
       }, { threshold: 0.05 });
       io.observe(hero);
       window.addEventListener("resize", function () { if (visible) size(); });
@@ -579,7 +639,7 @@
 
   /* ---------------- Custom cursor ---------------- */
   function setupCursor() {
-    if (reduce || !window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+    if (reduce || isSmall() || !window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
     var dot = document.createElement("div"); dot.className = "cur";
     var ring = document.createElement("div"); ring.className = "cur-ring";
     var label = document.createElement("span"); label.className = "cur-label"; ring.appendChild(label);
@@ -613,7 +673,7 @@
 
   /* ---------------- Cursor light on dark surfaces, shine on lime ---------------- */
   function setupLights(scope) {
-    if (reduce || !window.matchMedia("(hover: hover)").matches) return;
+    if (holdMotion() || !window.matchMedia("(hover: hover)").matches) return;
     scope.querySelectorAll(".on-night, .machine, .call, .board, .cta-card, .plan-main, .li-card, .report").forEach(function (el) {
       if (el.hasAttribute("data-light")) return;
       el.setAttribute("data-light", "");
@@ -652,23 +712,33 @@
   function setupMarquee(scope) {
     scope.querySelectorAll(".marquee-track:not([data-on])").forEach(function (track) {
       track.setAttribute("data-on", "");
-      if (!motion || reduce) return;
-      track.classList.add("js-marq");
-      var x = 0, half = 0, lastY = window.scrollY || 0, vel = 0, visible = false, paused = false;
+      if (!motion) return;
+      var x = 0, half = 0, lastY = window.scrollY || 0, vel = 0, visible = false, paused = false, raf = 0;
       function measure() { half = track.scrollWidth / 2; }
       measure(); window.addEventListener("resize", measure);
       var wrap = track.closest(".marquee");
       if (wrap) { wrap.addEventListener("pointerenter", function () { paused = true; }); wrap.addEventListener("pointerleave", function () { paused = false; }); }
-      new IntersectionObserver(function (en) { visible = en.some(function (e) { return e.isIntersecting; }); }).observe(track);
-      (function tick() {
+      function tick() {
+        raf = 0;
+        if (!visible || holdMotion() || scrolling) { track.style.transform = ""; return; }
         var y = window.scrollY || 0; vel = vel * 0.88 + (y - lastY) * 0.12; lastY = y;
-        if (visible && half > 0) {
+        if (half > 0) {
           var speed = (paused ? 0.15 : 0.8) + Math.max(-7, Math.min(7, vel * 0.3));
           x -= speed; if (x <= -half) x += half; if (x > 0) x -= half;
           track.style.transform = "translate3d(" + x.toFixed(1) + "px,0,0)";
         }
-        requestAnimationFrame(tick);
-      })();
+        raf = requestAnimationFrame(tick);
+      }
+      function start() {
+        if (raf || !visible || holdMotion() || scrolling) return;
+        track.classList.add("js-marq");
+        raf = requestAnimationFrame(tick);
+      }
+      canvasResumes.push(function () {
+        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } track.classList.remove("js-marq"); track.style.transform = ""; return; }
+        start();
+      });
+      new IntersectionObserver(function (en) { visible = en.some(function (e) { return e.isIntersecting; }); if (visible) start(); }).observe(track);
     });
   }
 
@@ -742,7 +812,7 @@
       });
       document.addEventListener("click", function (e) { if (!e.target.closest(".jn")) nodes.forEach(function (x) { x.classList.remove("open"); }); });
       var cv = j.querySelector("[data-jcanvas]"), ref = j.querySelector("[data-jpath]");
-      if (!cv || !ref || reduce || !motion) return;
+      if (!cv || !ref || !motion) return;
       var ctx = cv.getContext("2d"); if (!ctx) return;
       var pts = [], W = 0, H = 0, len = 0, parts = [], visible = false, raf = 0, last = 0, acc = 0, mx = -9999, my = -9999, pulses = [];
       var stageT = [];
@@ -765,7 +835,8 @@
         parts.push({ t: 0, v: 0.075 + Math.random() * 0.04, r: 1.3 + Math.random() * 1.1, a: 0.55 + Math.random() * 0.35, lime: false, star: false, dead: 0, wob: Math.random() * 6.28, off: (Math.random() - 0.5) * 14 });
       }
       function frame(now) {
-        raf = 0; if (!visible) return;
+        raf = 0;
+        if (!visible || holdMotion() || scrolling) return;
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         acc += dt * 26; while (acc > 1) { spawn(); acc -= 1; }
         ctx.clearRect(0, 0, W, H);
@@ -814,15 +885,16 @@
           var pu = pulses[q]; pu.t += dt; if (pu.t > 1.2) { pulses.splice(q, 1); continue; }
           ctx.beginPath(); ctx.arc(end[0], end[1], 30 + pu.t * 70, 0, 6.283); ctx.strokeStyle = "rgba(166,226,58," + ((1 - pu.t / 1.2) * 0.7).toFixed(3) + ")"; ctx.lineWidth = 2; ctx.stroke();
         }
-        raf = requestAnimationFrame(frame);
+        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible) { last = performance.now(); raf = requestAnimationFrame(frame); } }
-      new IntersectionObserver(function (en) { visible = en.some(function (x) { return x.isIntersecting; }); if (visible) { if (!pts.length) size(); start(); } }, { threshold: 0.05 }).observe(j);
+      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      canvasResumes.push(function () { if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
+      new IntersectionObserver(function (en) { visible = en.some(function (x) { return x.isIntersecting; }); if (visible) { if (!pts.length && !holdMotion()) size(); start(); } }, { threshold: 0.05 }).observe(j);
       window.addEventListener("resize", function () { if (visible) size(); });
       j.addEventListener("pointermove", function (e) { var r = j.getBoundingClientRect(); mx = e.clientX - r.left; my = e.clientY - r.top; });
       j.addEventListener("pointerleave", function () { mx = my = -9999; });
       // pre-fill the stream so it's alive on first paint
-      for (var w = 0; w < 160; w++) { spawn(); parts[parts.length - 1].t = Math.random() * 0.55; if (parts[parts.length - 1].t > 0.25) parts[parts.length - 1].lime = true; }
+      if (!holdMotion()) { for (var w = 0; w < 160; w++) { spawn(); parts[parts.length - 1].t = Math.random() * 0.55; if (parts[parts.length - 1].t > 0.25) parts[parts.length - 1].lime = true; } }
     });
   }
 
@@ -1148,7 +1220,7 @@
 
       /* ---- scene ---- */
       function drawGrid(t) {
-        var step = 80, gx0 = -1600, gx1 = 1600, gz0 = -560, gz1 = 1600, reveal = reduce ? 1 : clamp(sceneT / 1.4, 0, 1);
+        var step = 80, gx0 = -1600, gx1 = 1600, gz0 = -560, gz1 = 1600, reveal = holdMotion() ? 1 : clamp(sceneT / 1.4, 0, 1);
         var ex = gx0 + (gx1 - gx0) * reveal;
         for (var z = gz0; z <= gz1; z += step) { var a = z > 400 ? 0.085 * (1 - (z - 400) / 1250) : 0.085; seg(gx0, 0, z, ex, 0, z, INK, a, 1); }
         var ez = gz0 + (gz1 - gz0) * reveal;
@@ -1173,10 +1245,10 @@
         var lit = w.from < 0 ? running : (w.from >= 0 && mods[w.from].on);
         poly(pts, INK, lit ? 0.5 : 0.22, 1.1, false);
         for (var k = 0; k < w.pts.length; k++) dot(w.pts[k][0], 6, w.pts[k][1], 1.1, INK, lit ? 0.55 : 0.25);
-        if (lit && !reduce) { var s = frac(t * 0.35) * w.len; var p = wireAt(w, s), p2 = wireAt(w, Math.max(0, s - 26)); seg(p2[0], 6, p2[2], p[0], 6, p[2], LIME3, 0.35, 2); }
+        if (lit && !holdMotion()) { var s = frac(t * 0.35) * w.len; var p = wireAt(w, s), p2 = wireAt(w, Math.max(0, s - 26)); seg(p2[0], 6, p2[2], p[0], 6, p[2], LIME3, 0.35, 2); }
       }
       function drawModule(m, i, t) {
-        var c = m.c, a = reduce ? 1 : m.boot, isHot = hover === i || opened === i;
+        var c = m.c, a = holdMotion() ? 1 : m.boot, isHot = hover === i || opened === i;
         var pad = 10;
         poly([[c[0] - HW - pad, 0.5, c[2] - HD - pad], [c[0] + HW + pad, 0.5, c[2] - HD - pad], [c[0] + HW + pad, 0.5, c[2] + HD + pad], [c[0] - HW - pad, 0.5, c[2] + HD + pad]], isHot ? LIME3 : INK, (isHot ? 0.9 : 0.3) * Math.max(0.35, a), 1, true, [4, 6]);
         var rgb = isHot ? LIME3 : INK, al = (m.on ? 0.78 : 0.4) + m.hot * 0.2;
@@ -1185,7 +1257,7 @@
           box(c[0], 0, c[2], HW, HH, HD, rgb, isHot ? 1 : al, isHot ? 1.6 : 1.15, a);
           if (i === 6) seg(c[0] + HW, 0, c[2] + HD, c[0] + HW, 2 * HH, c[2] + HD, LIME3, 0.9 * a, 1.2, 1, [3, 5]);
           for (var k = 0; k < 4; k++) { var fx = k < 2 ? c[0] - HW : c[0] + HW, fz = k % 2 ? c[2] + HD : c[2] - HD; seg(fx, 2 * HH, fz, fx, 2 * HH + 8, fz, rgb, 0.5 * a); }
-          GLYPH[i](m, reduce ? 7.6 : t, a);
+          GLYPH[i](m, holdMotion() ? 7.6 : t, a);
         }
         var tp = proj(c[0], 2 * HH + (mode === "m" ? 8 : 26), c[2]);
         if (m.lab && tp) {
@@ -1229,7 +1301,7 @@
         var ts = document.createElement("span"); ts.className = "sys-ts"; var s = Math.max(0, sceneT); ts.textContent = "[" + (s < 10 ? "0" : "") + s.toFixed(1) + "s]";
         var tx = document.createElement("span"); tx.className = "sys-tx"; li.appendChild(ts); li.appendChild(tx); logList.appendChild(li);
         while (logList.children.length > 8) logList.removeChild(logList.firstChild);
-        if (reduce) { tx.textContent = item.text; nextLog(); return; }
+        if (holdMotion()) { tx.textContent = item.text; nextLog(); return; }
         var i = 0, iv = setInterval(function () { i += 2; tx.textContent = item.text.slice(0, i); if (i >= item.text.length) { clearInterval(iv); setTimeout(nextLog, 110); } }, 18);
       }
       function setState(s) { if (hudState) hudState.textContent = s; sys.setAttribute("data-state", s); }
@@ -1237,15 +1309,15 @@
       /* ---- state ---- */
       function bootModule(i) {
         var m = mods[i]; if (m.on) return;
-        m.on = true; m.cT = 0; if (reduce) { m.boot = 1; m.count = DEF[i].n; }
+        m.on = true; m.cT = 0; if (holdMotion()) { m.boot = 1; m.count = DEF[i].n; }
         m.lab.classList.add("on"); if (!DEF[i].n) m.lab.querySelector("[data-sm-stat]").textContent = DEF[i].text(0);
         log(DEF[i].log);
-        if (i === 6 && !finished) { finished = true; setTimeout(function () { log("cycle complete. awaiting your list_", "sys-done"); setState("running"); }, reduce ? 0 : 1400); }
+        if (i === 6 && !finished) { finished = true; setTimeout(function () { log("cycle complete. awaiting your list_", "sys-done"); setState("running"); }, holdMotion() ? 0 : 1400); }
       }
       function update(dt, t) {
         sceneT += dt;
         if (!running && sceneT > 0.3) { running = true; bootModule(0); }
-        if (!reduce) {
+        if (!holdMotion()) {
           var intro = clamp(sceneT / 1.9, 0, 1), ei = ease(intro), kk = Math.min(1, dt * 4.5);
           if (explore) {
             yaw += (tYaw - yaw) * kk; pitch += (tPitch - pitch) * kk; dolly += (tDolly - dolly) * kk;
@@ -1253,7 +1325,7 @@
           } else {
             dolly += ((0.6 + 0.4 * ei) - dolly) * (intro < 1 ? 1 : kk);
             var idle = t - pointerT > 2.4 && !dragging;
-            var driftY = idle ? Math.sin(t * 0.22) * 0.05 : 0, driftP = idle ? Math.sin(t * 0.17) * 0.015 : 0;
+            var driftY = idle && !isSmall() ? Math.sin(t * 0.22) * 0.05 : 0, driftP = idle && !isSmall() ? Math.sin(t * 0.17) * 0.015 : 0;
             var goalY = (intro < 1 ? -0.28 * (1 - ei) : 0) + tYaw + driftY, goalP = basePitch + (intro < 1 ? 0.3 * (1 - ei) : 0) + (tPitch - basePitch) + driftP;
             yaw += (goalY - yaw) * kk; pitch += (goalP - pitch) * kk;
             T[0] += (baseT[0] - T[0]) * kk; T[1] += (baseT[1] - T[1]) * kk; T[2] += (baseT[2] - T[2]) * kk;
@@ -1265,7 +1337,7 @@
           if (m.hot > 0) m.hot = Math.max(0, m.hot - dt * 2.2);
           if (m.on && m.cT >= 0 && m.cT < 1.6) { m.cT += dt; var u = ease(clamp(m.cT / 1.4, 0, 1)); var n = Math.round(DEF[i].n * u); if (n !== m.count) { m.count = n; m.lab.querySelector("[data-sm-stat]").textContent = DEF[i].text(n); } }
         }
-        if (reduce || !running || sceneT < 0.9) return;
+        if (holdMotion() || !running || sceneT < 0.9) return;
         emitAcc += dt * (quality > 1 ? 12 : 7);
         while (emitAcc > 1) { emitAcc -= 1; packets.push({ w: 0, s: 0, v: 300 + Math.random() * 60, kind: "lead" }); }
         for (var k = packets.length - 1; k >= 0; k--) {
@@ -1285,8 +1357,8 @@
         ctx.clearRect(0, 0, W, H);
         SB = {}; SO = []; FB = {}; FO = []; GL = [];
         drawGrid(t);
-        var a0 = reduce ? 1 : clamp((sceneT - 0.1) / 0.8, 0, 1);
-        drawTerminal(inP, false, t, a0); drawTerminal(outP, true, t, finished || reduce ? 1 : 0.55);
+        var a0 = holdMotion() ? 1 : clamp((sceneT - 0.1) / 0.8, 0, 1);
+        drawTerminal(inP, false, t, a0); drawTerminal(outP, true, t, finished || holdMotion() ? 1 : 0.55);
         for (var i = 0; i < wires.length; i++) drawWire(wires[i], t);
         for (var m = 0; m < mods.length; m++) drawModule(mods[m], m, t);
         drawPackets(t);
@@ -1302,17 +1374,18 @@
         }
       }
       function frame(now) {
-        raf = 0; if (!visible) return;
+        raf = 0;
+        if (!visible || holdMotion() || scrolling) return;
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
         frameAcc += dt; frameN++;
         if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 2 : (quality === 1 ? 1.25 : 1); size(); } }
         update(dt, t);
         if (quality === 0) { skip = !skip; if (!skip) render(t); } else render(t);
-        if (!reduce) raf = requestAnimationFrame(frame);
+        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible) { last = performance.now(); raf = requestAnimationFrame(frame); } }
-      function once() { if (reduce && W) { render((performance.now() - t0) / 1000); } }
+      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      function once() { if (holdMotion() && W) { render(0); } }
 
       /* ---- interaction ---- */
       function setHover(i) {
@@ -1418,12 +1491,17 @@
 
       var io = new IntersectionObserver(function (en) {
         visible = en.some(function (x) { return x.isIntersecting; });
-        if (visible) { if (!W) { size(); t0 = performance.now(); setState("booting"); } if (reduce) { runReduced(); } else start(); }
+        if (visible) { if (!W) { size(); t0 = performance.now(); setState("booting"); } if (holdMotion()) { runReduced(); } else start(); }
       }, { threshold: 0.02 });
       io.observe(stage);
+      canvasResumes.push(function () {
+        if (!visible) return;
+        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        start();
+      });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
       function runReduced() {
-        if (!running) { running = true; sceneT = 0.3; for (var i = 0; i < 7; i++) { bootModule(i); mods[i].boot = 1; mods[i].count = DEF[i].n; mods[i].lab.querySelector("[data-sm-stat]").textContent = DEF[i].text(DEF[i].n); } termOut.classList.add("on"); }
+        if (!running) { running = true; sceneT = 2; for (var i = 0; i < 7; i++) { bootModule(i); mods[i].boot = 1; mods[i].count = DEF[i].n; mods[i].lab.querySelector("[data-sm-stat]").textContent = DEF[i].text(DEF[i].n); } termOut.classList.add("on"); }
         render(0);
       }
       log("system online: 7 modules, 1 output", "sys-sys");
@@ -1675,19 +1753,19 @@
         var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0) return;
         var hot = hover === n || pinned === n, ph = hubPhases();
         // ticks, batched into two paths
-        var rot = reduce ? 0 : t * 0.12, lim = Math.floor(72 * ph[0]);
+        var rot = holdMotion() ? 0 : t * 0.12, lim = Math.floor(72 * ph[0]);
         for (var pass = 0; pass < 2; pass++) {
           ctx.beginPath();
           for (var i = 0; i < lim; i++) { var big = i % 6 === 0; if ((pass === 0) !== big) continue; var a = i / 72 * TWO + rot, r0 = R - (big ? 9 : 5) * k; ctx.moveTo(x + Math.cos(a) * r0, y + Math.sin(a) * r0); ctx.lineTo(x + Math.cos(a) * (R - 1), y + Math.sin(a) * (R - 1)); }
           ctx.strokeStyle = rgba(INK, pass === 0 ? 0.55 : 0.28); ctx.lineWidth = 1; ctx.stroke();
         }
-        var a0 = reduce ? 0.6 : -t * 0.5, a1 = reduce ? 3.5 : t * 0.35;
+        var a0 = holdMotion() ? 0.6 : -t * 0.5, a1 = holdMotion() ? 3.5 : t * 0.35;
         ring(x, y, R * 0.74, LIME3, 0.95 * ph[1], 2.2, a0, a0 + 1.1);
         ring(x, y, R * 0.74, LIME3, 0.95 * ph[1], 2.2, a0 + Math.PI, a0 + Math.PI + 1.1);
         ring(x, y, R * 0.5, hot ? LIME3 : SIG, 0.8 * ph[2], 1.6, a1, a1 + 0.7);
         ring(x, y, R * 0.5, hot ? LIME3 : SIG, 0.8 * ph[2], 1.6, a1 + 2.1, a1 + 2.8);
         ring(x, y, R * 0.5, hot ? LIME3 : SIG, 0.8 * ph[2], 1.6, a1 + 4.2, a1 + 4.9);
-        var oa = reduce ? 2.2 : t * 0.45, ox = x + Math.cos(oa) * R * 1.42, oy = y + Math.sin(oa) * R * 1.42;
+        var oa = holdMotion() ? 2.2 : t * 0.45, ox = x + Math.cos(oa) * R * 1.42, oy = y + Math.sin(oa) * R * 1.42;
         glow(ox, oy, 8 * k, 0.4 * ph[0]); dot(ox, oy, 2.4 * k, LIME3, 0.9 * ph[0]);
         var pu = 0.5 + 0.5 * Math.sin(t * 2.4);
         glow(x, y, R * 0.42, (0.16 + pu * 0.12 + n.hot * 0.35) * ph[2]);
@@ -1817,7 +1895,7 @@
         if (!plane) return;
         var c = focus ? clusterCenter(focus) : null;
         if (c && W && H) { plane.style.setProperty("--ox", (c[0] / W * 100).toFixed(1) + "%"); plane.style.setProperty("--oy", (c[1] / H * 100).toFixed(1) + "%"); }
-        zoom = (c && mode !== "m" && !over && !reduce) ? 1.06 : 1;
+        zoom = (c && mode !== "m" && !over && !holdMotion()) ? 1.06 : 1;
         plane.style.setProperty("--z", zoom.toFixed(2));
       }
       function goStep(i, auto) {
@@ -1854,7 +1932,10 @@
         });
         Object.keys(nodes).forEach(function (key) { var n = nodes[key]; if (clusterOn[n.cl] && n.boot < 1) { n.boot = Math.min(1, n.boot + dt / (n.isHub ? 1.6 : 0.7)); baseDirty = true; } if (n.hot > 0) n.hot = Math.max(0, n.hot - dt * 1.8); });
         if (hubEl && nodes.hub.boot > 0.5) hubEl.classList.add("on");
-        if (reduce) return;
+        if (holdMotion()) {
+          if (plane) { plane.style.setProperty("--tx", "0"); plane.style.setProperty("--ty", "0"); plane.style.setProperty("--z", "1"); }
+          return;
+        }
         // structural pulses
         for (var i = 0; i < edges.length; i++) {
           var e = edges[i]; if (e.a.boot < 1 || e.b.boot < 1 || e.a.hidden || e.b.hidden) continue;
@@ -1893,10 +1974,11 @@
         var cap = quality > 1 ? 60 : (quality === 1 ? 30 : 16);
         if (traces.length > cap) traces.splice(0, traces.length - cap);
         // tilt
-        if (plane) { var gx = idle ? 0 : tiltX, gy = idle ? 0 : tiltY; plane.style.setProperty("--tx", gx.toFixed(2)); plane.style.setProperty("--ty", gy.toFixed(2)); }
+        if (plane && !isSmall()) { var gx = idle ? 0 : tiltX, gy = idle ? 0 : tiltY; plane.style.setProperty("--tx", gx.toFixed(2)); plane.style.setProperty("--ty", gy.toFixed(2)); }
       }
       function frame(now) {
-        raf = 0; if (!visible) return;
+        raf = 0;
+        if (!visible || holdMotion() || scrolling) return;
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
         frameAcc += dt; frameN++;
@@ -1905,10 +1987,10 @@
         var slow = quality === 0 || (t - pointerT > 8 && tourStep >= TOUR.length - 1);
         if (slow) { skip = !skip; if (!skip) render(t); } else render(t);
         if (t - hudT > 0.15 && hud) { hudT = t; hud.textContent = hover ? ("focus: " + (hover.isHub ? "be leaded" : hover.isField ? "your market" : hover.lab.toLowerCase())) : (mx >= 0 && fine ? "cursor x " + Math.round(mx) + " y " + Math.round(my) : "cursor idle"); }
-        if (!reduce) raf = requestAnimationFrame(frame);
+        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible) { last = performance.now(); raf = requestAnimationFrame(frame); } }
-      function once() { if (reduce && W) render((performance.now() - t0) / 1000); }
+      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      function once() { if (holdMotion() && W) render(0); }
 
       /* ---- interaction ---- */
       function hit(x, y) {
@@ -1960,9 +2042,14 @@
 
       var io = new IntersectionObserver(function (en) {
         visible = en.some(function (x) { return x.isIntersecting; });
-        if (visible) { if (!W) { size(); t0 = performance.now(); } if (reduce) runReduced(); else start(); }
+        if (visible) { if (!W) { size(); t0 = performance.now(); } if (holdMotion()) runReduced(); else start(); }
       }, { threshold: 0.02 });
       io.observe(stage);
+      canvasResumes.push(function () {
+        if (!visible) return;
+        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        start();
+      });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
       function runReduced() {
         if (!running) {
@@ -2073,4 +2160,14 @@
   } else {
     initPage(document);
   }
+
+  function syncMotionMode() {
+    reduce = !!(reduceMq && reduceMq.matches);
+    root.classList.toggle("reduce", reduce);
+    root.classList.toggle("calm", isSmall());
+    if (!scrollDriven || reduce || isSmall()) root.classList.add("jsreveal");
+    resumeCanvases();
+  }
+  if (reduceMq && reduceMq.addEventListener) reduceMq.addEventListener("change", syncMotionMode);
+  if (smallMq && smallMq.addEventListener) smallMq.addEventListener("change", syncMotionMode);
 })();
