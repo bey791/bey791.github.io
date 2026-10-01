@@ -808,7 +808,9 @@ a.nl-img{display:block;text-decoration:none}
 .hl::before{transform:skewX(-6deg) scaleX(0);animation:hlIn .7s var(--ease) .55s forwards}
 .hl-2::before{animation-delay:.95s}
 @keyframes hlIn{to{transform:skewX(-6deg) scaleX(1)}}
-.hero-copy>*{animation:heroUp .8s var(--ease) both}
+/* Slide only. Opacity stays at 1 so the headline can paint as LCP instead of
+   waiting out a fade that starts at opacity 0. */
+.hero-copy>*{animation:heroIn .8s var(--ease) both}
 .hero-copy>*:nth-child(2){animation-delay:.08s}
 .hero-copy>*:nth-child(3){animation-delay:.18s}
 .hero-copy>*:nth-child(4){animation-delay:.26s}
@@ -817,6 +819,7 @@ a.nl-img{display:block;text-decoration:none}
 .hero-map .hero-sys-top .hero-copy>h1{animation-delay:.08s}
 .hero-map .hero-sys-top .hero-copy>.lead{animation-delay:.18s}
 .hero-map .hero-sys-top .hero-copy>.cta-row{animation-delay:.26s}
+@keyframes heroIn{from{transform:translateY(14px)}}
 @keyframes heroUp{from{opacity:0;transform:translateY(18px)}}
 .rotator{animation:heroUp .9s var(--ease) .2s both}
 .hero .lead{max-width:44ch}
@@ -1551,9 +1554,12 @@ html:not(.js) .mc-card::before{display:none}
 }
 
 /* Static SVG map: shown only where scripts don't run (preview panes, Quick Look) */
+/* Static diagram is the no-JS / no-canvas fallback. With a canvas it stays
+   out of the render tree so the first paint does not style ~900 SVG nodes.
+   The canvas drawing path is unchanged. */
 .map-svg{display:none;width:100%;height:auto;max-width:1240px;margin:0 auto}
 html:not(.js) .map-svg-d{display:block}
-.js .map-stage:not(.has-canvas) .map-svg-d{display:block}
+.js .map-stage.no-canvas .map-svg-d{display:block}
 .js .map-stage:not(.has-canvas) .map-plane{display:none}
 html:not(.js) .map-stage{display:flex;flex-direction:column;padding:8px 0 0}
 html:not(.js) .map-svg{order:1}
@@ -1701,6 +1707,9 @@ p,li,dd,.lead{text-wrap:pretty}
   .proof-strip div{border-right:0;border-bottom:1px solid var(--line)}
   .proof-strip div:nth-child(odd){border-right:1px solid var(--line)}
   .proof-strip div:nth-last-child(-n+2){border-bottom:0}
+  /* Same reserved wrap as narrow desktop. Phones were skipping it, so the
+     display-font swap grew the strip and failed CLS. */
+  .proof-strip dd{min-height:calc(1.35em * 3)}
 }
 
 /* Buyer scorecard */
@@ -1723,6 +1732,15 @@ p,li,dd,.lead{text-wrap:pretty}
   .scorecard.table td{border:0;padding:4px 0}
   .scorecard.table td::before{content:attr(data-label);display:block;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-3);margin-bottom:2px}
 }
+
+/* Below-fold sections skip style and layout until they near the viewport.
+   The hero and the section under it stay eager. Sticky blocks opt out,
+   because paint containment breaks position:sticky. */
+main > section:nth-child(n+3){
+  content-visibility:auto;
+  contain-intrinsic-size:auto 720px;
+}
+main > section:nth-child(n+3):has(.flow-sticky, .toc, .eng-meta){content-visibility:visible}
 
 /* ---------- Mobile polish 2026-10-01 ---------- */
 .nav-scrim{position:fixed;inset:0;z-index:90;background:rgba(17,18,5,.45);border:0;padding:0;margin:0;cursor:pointer;-webkit-appearance:none;appearance:none}
