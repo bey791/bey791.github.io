@@ -1609,13 +1609,22 @@ p,li,dd,.lead{text-wrap:pretty}
 .hero-sys.is-explore .hero-sys-top,.hero-sys.is-explore .sys-after .live-row,.hero-sys.is-explore .sys-log{opacity:.18;transition:opacity .5s ease}
 .hero-sys.is-explore .sys-log:hover{opacity:1}
 
-/* Money-page proof strip */
+/* Money-page proof strip. Narrow desktop rows reserve the taller fallback wrap so the webfont swap does not move the page. */
 .proof-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:26px 0 4px;border:1px solid var(--line);border-radius:var(--r);background:var(--card);overflow:hidden}
 .proof-strip div{padding:14px 16px;border-right:1px solid var(--line)}
 .proof-strip div:last-child{border-right:0}
 .proof-strip dt{font-family:var(--display);font-weight:650;font-size:clamp(1.45rem,1.1rem + 1vw,1.85rem);letter-spacing:-.03em;line-height:1}
 .proof-strip dd{margin:6px 0 0;font-size:13px;color:var(--ink-3);line-height:1.35}
 .risk-line{margin-top:14px;font-size:14.5px;color:var(--ink-3);max-width:48ch}
+@media (min-width:721px){
+  .proof-strip{container-type:inline-size}
+}
+@container (max-width:640px){
+  .proof-strip dd{min-height:calc(1.35em * 3)}
+}
+@container (min-width:860px) and (max-width:1040px){
+  .proof-strip dd{min-height:calc(1.35em * 2)}
+}
 @media (max-width:720px){
   .proof-strip{grid-template-columns:1fr 1fr}
   .proof-strip div{border-right:0;border-bottom:1px solid var(--line)}
