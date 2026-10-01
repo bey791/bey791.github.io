@@ -1660,17 +1660,10 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
   .cta-row .btn{width:100%;white-space:normal;text-align:center}
 }
 
-/* Phones and small tablets: one motion at a time. Header blur plus a live canvas flickers. */
+/* Phones and small tablets: solid header (blur flickers over a live canvas), flat map, pause CSS motion only while the finger is scrolling. */
 @media (max-width:768px){
   .site-header{background:var(--paper);-webkit-backdrop-filter:none;backdrop-filter:none}
   .map-plane{transform:none;transition:none;transform-style:flat}
-  .aura-a,.aura-b,.hero-mark,.marquee-track,.wave i,.mini-wave i,.call-dot,.live.open .live-dot::after,.hero-glow,.caret,.typing span,.bar-t i{animation:none!important}
-  .hero-copy>*,.rotator{animation:none;opacity:1}
-  .hl::before{animation:none;transform:skewX(-6deg) scaleX(1)}
-  .hero-glow{display:none}
-  .motion [data-reveal],.motion .split .w>span,.stack,.stack figure,.mail,.slide .reply,.slide .booked,.map-hub,.mc{transition:none}
-  .slide .reply,.slide .booked{translate:none}
-  .stack,.mail{transform:none}
   .btn,.mail,.hero-glow,.map-plane{will-change:auto}
-  html.is-scrolling .aura-a,html.is-scrolling .aura-b,html.is-scrolling .hero-mark,html.is-scrolling .marquee-track,html.is-scrolling .wave i,html.is-scrolling .call-dot{animation-play-state:paused}
+  html.is-scrolling .aura-a,html.is-scrolling .aura-b,html.is-scrolling .hero-mark,html.is-scrolling .marquee-track,html.is-scrolling .wave i,html.is-scrolling .mini-wave i,html.is-scrolling .call-dot,html.is-scrolling .live-dot::after,html.is-scrolling .hero-glow,html.is-scrolling .caret,html.is-scrolling .typing span,html.is-scrolling .bar-t i,html.is-scrolling .hero-copy>*,html.is-scrolling .rotator,html.is-scrolling .hl::before{animation-play-state:paused}
 }

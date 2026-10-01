@@ -6,15 +6,14 @@
   var reduce = !!(reduceMq && reduceMq.matches);
   var motion = "IntersectionObserver" in window;
   var scrollDriven = !!(window.CSS && CSS.supports && CSS.supports("animation-timeline: view()"));
-  /* Small screens and reduced-motion share a calm path: no competing canvas loops. */
+  /* Reduced motion holds canvas and marquee loops. Small screens keep those loops and only pause them while a finger is scrolling. */
   function isSmall() { return !!(smallMq && smallMq.matches); }
-  function holdMotion() { return reduce || isSmall(); }
+  function holdMotion() { return reduce; }
   var scrolling = false, scrollTimer = 0, canvasResumes = [];
   function resumeCanvases() { canvasResumes.forEach(function (fn) { fn(); }); }
   root.classList.add("js");
   if (motion) root.classList.add("motion");
   if (reduce) root.classList.add("reduce");
-  if (isSmall()) root.classList.add("calm");
   if (!scrollDriven || reduce || isSmall()) root.classList.add("jsreveal");
 
   /* ---------------- Header, progress, nav ---------------- */
@@ -165,7 +164,7 @@
       el.setAttribute("data-seen", "");
       var r = el.getBoundingClientRect();
       if (r.top < vh * 0.9 && r.bottom > 0) return; // already visible: leave it alone
-      if (calm) return; // small screens and reduced motion: no stacked entrance transforms
+      if (calm) return; // reduced motion: no stacked entrance transforms
       if (el.hasAttribute("data-split") && !reduce) { splitWords(el); el.classList.add("split"); }
       else if (el.hasAttribute("data-split")) { el.setAttribute("data-reveal", ""); }
       if (reduce) el.classList.add("fade");
@@ -2164,7 +2163,6 @@
   function syncMotionMode() {
     reduce = !!(reduceMq && reduceMq.matches);
     root.classList.toggle("reduce", reduce);
-    root.classList.toggle("calm", isSmall());
     if (!scrollDriven || reduce || isSmall()) root.classList.add("jsreveal");
     resumeCanvases();
   }
