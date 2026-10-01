@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-09-24.
+Source: https://www.beleaded.com/ . Updated 2026-10-01.
 
 
 ---
@@ -2586,6 +2586,10 @@ Everything here comes from programs we've built for clients: what we send, how w
 
 ## Cold email
 
+### Cold email follow-up sequence: the 7-touch cadence that books meetings
+
+A practical 7-touch cold email follow-up sequence with the timing gaps, what each touch says, when to stop, and how to pair email with LinkedIn so replies become meetings.
+
 ### 12 cold email templates that get replies in 2026
 
 Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
@@ -2662,6 +2666,160 @@ Thirty minutes with the founder. You'll leave with a clear picture of your marke
 
 Or email sales@beleaded.com
 
+
+---
+
+URL: https://www.beleaded.com/blog/cold-email-follow-up-sequence/
+
+- Home
+- Guides
+- Cold email follow-up sequence
+
+Cold email
+
+# Cold email follow-up sequence: the 7-touch cadence that books meetings
+
+By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026. 5 min read.
+
+The short answer: Seven touches over about four weeks, then stop. Instantly's 2026 report found 58% of replies come from the first step, and Hunter found three-email sequences reply at 6.8% against 3.3% for one email. Later touches earn the rest only when each one adds something new. Two of the seven sit on LinkedIn, and the last email is a breakup.
+
+- The 7-touch cadence
+- What each touch says
+- Why the gaps widen
+- When to stop
+- Email and LinkedIn together
+- What not to send
+- How a program runs this
+- FAQ
+- Sources
+
+## The 7-touch cadence
+
+How many follow-ups a cold email needs is a spacing question. Three days is long enough to have seen the first note. A week is long enough for the next one to feel new. This is the cold email follow-up cadence for a market that needs the full sequence.
+
+| Touch | Day | Channel | Job of the touch |
+| --- | --- | --- | --- |
+| 1 | 1 | Email | One observation, one question, under 80 words |
+| 2 | 4 | Email, same thread | One new fact, or a sharper question |
+| 3 | 7 | LinkedIn | Connection note, no pitch |
+| 4 | 11 | Email, same thread | Referral ask, or the right-person question |
+| 5 | 15 | LinkedIn | One question, only if they accepted |
+| 6 | 21 | Email | One proof point tied to their situation |
+| 7 | 28 | Email, same thread | Breakup. Then stop. |
+
+The cold email templates guide is the four-touch cut, for markets that reply early. Four to seven is the range we stay inside. Past seven, you are repeating an offer they already skipped.
+
+## What each touch says
+
+Touch 1, day 1. One detail that company would recognize, one question, no links, under 80 words. Instantly found the best first emails at that length. The patterns are in the templates guide.
+
+Touch 2, day 4, same thread. Reply to your own email so the subject stays. Add one fact or a narrower question. "Just bumping this" is not a follow-up.
+
+Touch 3, day 7, LinkedIn. About 150 characters, one true thing, no pitch. Notes that get accepted are in the LinkedIn outreach messages guide.
+
+Touch 4, day 11. Change the ask. If the first question missed, ask who owns the problem. If they name someone, thank them and stop.
+
+Touch 5, day 15, LinkedIn. Only if they accepted. One question, no calendar link. Skip it if they never connected.
+
+Touch 6, day 21. One number you can stand behind. Separate sending domains with SPF, DKIM and DMARC, holding a 99% delivery rate, is proof. "Companies like yours" is not.
+
+Touch 7, day 28. Say you will stop, restate the offer in one line, and mean it. "Not now, next quarter" is a lead. Park it.
+
+## Why the gaps widen
+
+Early gaps are three or four days. The last two are six and seven, so the sequence gets quieter. Send on weekday mornings in their time zone. Instantly found Wednesday the highest-engagement day. A weekend step moves to the next business morning. Do not send two touches in one day.
+
+An out-of-office with a return date pauses the sequence until they are back. Keep follow-ups in the original thread, unless touch 6 needs its own subject because the thread went quiet. The first line should still point back.
+
+## When to stop
+
+- They reply. A yes gets booked that day. That is appointment setting, not another template. A no ends it. "Not now" waits for a new sequence next quarter.
+- They opt out. Honor it on every channel, including LinkedIn.
+- The address bounces. Remove it.
+- They name someone else. Stop, and write that person a new first email.
+- Touch 7 has gone out. No eighth try from another domain.
+
+Cold email stays on separate domains so the company domain is free for real conversations.
+
+## Email and LinkedIn together
+
+Email carries the volume. LinkedIn carries the name. Never send both the same day. If they reply on either channel, stop the other and answer. Stay near LinkedIn's limit of roughly 100 invitations a week, from a real profile. The user agreement prohibits bots. LinkedIn lead generation sits in the gaps in the table, not on top of the emails. Day 1 email, day 4 email, day 7 LinkedIn, day 11 email, day 15 LinkedIn only if they connected.
+
+## What not to send
+
+- "Circling back" or "just bumping this," then the same pitch.
+- A link, an image, or a deck. Follow-ups stay plain text.
+- A new offer every touch. Change the angle. Keep the ask recognizable.
+- Three questions. One ask.
+- The next step after they already said no. Stop the tool by hand if it will not stop itself.
+
+## How a program runs this
+
+A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send more than 400,000 emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28.
+
+We run 30-plus client programs from New York and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start at $2,000 a month, scoped on the cold email and appointment setting page.
+
+## FAQ
+
+**How many follow-ups should a cold email sequence have?**
+
+Four to seven touches, counting LinkedIn, over about four weeks. Hunter saw three emails at 6.8% against 3.3% for one. After the seventh, stop.
+
+**What is a good cold email follow-up cadence?**
+
+Day 1, 4, 7, 11, 15, 21 and 28. Early gaps are three to four days. Later gaps are about a week. Send on weekday mornings in their time zone.
+
+**Should cold email follow-ups stay in the same thread?**
+
+Yes. Reply to your own first email so it stays one conversation. A proof email can take a new subject only if the thread has gone quiet.
+
+**When should you stop a cold email follow-up sequence?**
+
+The day they reply, opt out, or bounce, the day they name someone else, or the day the breakup goes out. "Not now" starts a new sequence next quarter.
+
+**How should LinkedIn fit a cold email follow-up sequence?**
+
+On the off days, as touch 3 and touch 5, with a short note and no pitch. If they answer there, stop the emails. Stay near 100 invitations a week, from a real profile.
+
+## Sources
+
+- Instantly, Cold Email Benchmark Report 2026
+- Hunter, The State of Email Outreach 2026
+- LinkedIn, User Agreement
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation from 50,000 to 400,000 emails a day at 99% deliverability and takes every first call with clients himself.
+
+Book a 30-minute call
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation from 50,000 to 400,000 emails a day at 99% deliverability and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### 12 cold email templates that get replies in 2026
+
+Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+
+### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+
+### LinkedIn outreach messages that get replies: 14 templates, limits and timing
+
+Connection request notes and follow-up messages that get accepted and answered on LinkedIn, the weekly invitation limits to respect, and how to time LinkedIn with a cold email sequence.
+
+All guides
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
 
 ---
 

@@ -48,6 +48,7 @@ Key facts:
 - [Pricing](https://www.beleaded.com/pricing/): how pricing works and how it compares with hiring an SDR
 
 ## Guides
+- [Cold email follow-up sequence: the 7-touch cadence that books meetings](https://www.beleaded.com/blog/cold-email-follow-up-sequence/): A practical 7-touch cold email follow-up sequence with the timing gaps, what each touch says, when to stop, and how to pair email with LinkedIn so replies become meetings.
 - [12 cold email templates that get replies in 2026](https://www.beleaded.com/blog/cold-email-templates/): Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
 - [45 cold email subject lines that get opened, and why](https://www.beleaded.com/blog/cold-email-subject-lines/): Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
 - [How to warm up an email domain: the 21-day schedule we use](https://www.beleaded.com/blog/email-warmup/): A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
