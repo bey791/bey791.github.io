@@ -131,6 +131,51 @@
   var scrollHandlers = [];
   function runScrollHandlers() { for (var i = 0; i < scrollHandlers.length; i++) scrollHandlers[i](); }
 
+  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. */
+  (function initBookBar() {
+    var bar = document.querySelector("a.book-bar");
+    if (!bar || !window.matchMedia) return;
+    var mq = window.matchMedia("(max-width: 767px)");
+    var hero = document.querySelector("[data-hero-cta]");
+    var armed = false, shown = false, lastEntry = null;
+    function scrolledEnough() {
+      var max = document.documentElement.scrollHeight - window.innerHeight;
+      if (max <= 0) return false;
+      return (window.scrollY || 0) / max >= 0.4;
+    }
+    function heroLeft() {
+      if (lastEntry) return !lastEntry.isIntersecting && lastEntry.boundingClientRect.bottom <= 0;
+      if (!hero) return false;
+      return hero.getBoundingClientRect().bottom <= 0;
+    }
+    function evaluate() {
+      if (!armed) return;
+      if (!mq.matches) {
+        shown = false;
+        bar.hidden = true;
+        document.body.classList.remove("has-book-bar");
+        return;
+      }
+      if (shown) return;
+      if (!(heroLeft() || scrolledEnough())) return;
+      shown = true;
+      bar.hidden = false;
+      document.body.classList.add("has-book-bar");
+    }
+    if (hero && "IntersectionObserver" in window) {
+      var io = new IntersectionObserver(function (entries) {
+        lastEntry = entries[entries.length - 1];
+        evaluate();
+      }, { threshold: 0 });
+      io.observe(hero);
+    }
+    scrollHandlers.push(evaluate);
+    if (mq.addEventListener) mq.addEventListener("change", evaluate);
+    function arm() { requestAnimationFrame(function () { requestAnimationFrame(function () { armed = true; evaluate(); }); }); }
+    if (document.readyState === "complete") arm();
+    else window.addEventListener("load", arm);
+  })();
+
   /* ---------------- Reveal (never hides anything already on screen) ---------------- */
   var revealIO = motion ? new IntersectionObserver(function (entries) {
     entries.forEach(function (en) {

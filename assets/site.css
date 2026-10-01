@@ -1755,3 +1755,37 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
   .sm,.mc{gap:8px}
   .mt-tab,.mc-s,.sm-stat,.map-hud-r,.sys-hud-r,.sm-tn,.only-touch{font-size:12px}
 }
+
+/* Primary book CTA: button, then the Jasper/Ava note. Not used on nav or the sticky bar. */
+.cta-primary{display:flex;flex-direction:column;align-items:flex-start;max-width:100%;min-width:0}
+.cta-note,.cta-card p.cta-note{margin:9px 0 0;font-size:13.5px;line-height:1.45;font-weight:400;letter-spacing:0;color:var(--ink-3);max-width:42ch}
+.cta-row:has(.cta-primary){align-items:flex-start}
+.cta-row:has(.cta-primary)>.btn,.cta-row:has(.cta-primary)>.link,.cta-row:has(.cta-primary)>.email-line{margin-top:16px}
+.cta-card .cta-primary{align-items:center}
+.cta-card p.cta-note{margin-inline:auto;text-align:center}
+.contact-card .cta-note,.site-footer .cta-note{color:var(--night-ink-2)}
+.foot-bottom .cta-primary{align-items:flex-end}
+.foot-bottom .cta-note{text-align:right}
+@media (max-width:1100px){
+  .hero-copy .cta-primary{align-items:center}
+  .hero-copy .cta-note{margin-inline:auto;text-align:center}
+}
+@media (max-width:640px){
+  .foot-bottom .cta-primary{align-items:flex-start}
+  .foot-bottom .cta-note{text-align:left}
+}
+@media (max-width:860px){
+  .contact-card{order:1}
+  .contact-aside{order:2}
+  .page-hero-book{padding-bottom:18px}
+  .page-hero-book .lead{margin-top:14px}
+  .contact-grid{margin-top:12px}
+}
+
+/* Deferred mobile book bar. Hidden until JS removes [hidden] after first paint. */
+.book-bar{display:none}
+@media (max-width:767px){
+  .book-bar:not([hidden]){position:fixed;left:0;right:0;bottom:0;z-index:80;display:flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:calc(48px + env(safe-area-inset-bottom,0px));padding:0 16px env(safe-area-inset-bottom,0px);background:var(--lime);color:var(--on-lime);font-family:var(--text);font-weight:600;font-size:16px;line-height:1;text-align:center;text-decoration:none;border:0;border-top:1px solid color-mix(in srgb,var(--on-lime) 10%,var(--lime));box-shadow:none}
+  body.has-book-bar{padding-bottom:calc(48px + env(safe-area-inset-bottom,0px))}
+  body.nav-open .book-bar{visibility:hidden;pointer-events:none}
+}
