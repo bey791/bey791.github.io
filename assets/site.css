@@ -1619,11 +1619,11 @@ p,li,dd,.lead{text-wrap:pretty}
 @media (min-width:721px){
   .proof-strip{container-type:inline-size}
 }
+@container (max-width:1040px){
+  .proof-strip dd{min-height:calc(1.35em * 2)}
+}
 @container (max-width:640px){
   .proof-strip dd{min-height:calc(1.35em * 3)}
-}
-@container (min-width:860px) and (max-width:1040px){
-  .proof-strip dd{min-height:calc(1.35em * 2)}
 }
 @media (max-width:720px){
   .proof-strip{grid-template-columns:1fr 1fr}
