@@ -566,7 +566,7 @@
                 var sp = document.createElement("span"); sp.className = "hw"; sp.textContent = p; frag.appendChild(sp);
               });
               c.parentNode.replaceChild(frag, c);
-            } else if (c.nodeType === 1) walk(c);
+            } else if (c.nodeType === 1 && !(c.classList && c.classList.contains("hero-kicker"))) walk(c);
           });
         })(el);
       });
