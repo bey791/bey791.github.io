@@ -1747,3 +1747,11 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
   .btn,.mail,.hero-glow,.map-plane{will-change:auto}
   html.is-scrolling .aura-a,html.is-scrolling .aura-b,html.is-scrolling .hero-mark,html.is-scrolling .marquee-track,html.is-scrolling .wave i,html.is-scrolling .mini-wave i,html.is-scrolling .call-dot,html.is-scrolling .live-dot::after,html.is-scrolling .hero-glow,html.is-scrolling .caret,html.is-scrolling .typing span,html.is-scrolling .bar-t i,html.is-scrolling .hero-copy>*,html.is-scrolling .rotator,html.is-scrolling .hl::before{animation-play-state:paused}
 }
+
+/* Tap targets on phones and coarse pointers. Desktop layout stays on the rules above. */
+@media (max-width:768px),(pointer:coarse){
+  .mt-tab,.sm-head,.mc-head{min-height:48px;box-sizing:border-box}
+  .mt-tabs{gap:8px}
+  .sm,.mc{gap:8px}
+  .mt-tab,.mc-s,.sm-stat,.map-hud-r,.sys-hud-r,.sm-tn,.only-touch{font-size:12px}
+}
