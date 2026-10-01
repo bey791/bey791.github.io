@@ -16,6 +16,13 @@
   if (reduce) root.classList.add("reduce");
   if (!scrollDriven || reduce || isSmall()) root.classList.add("jsreveal");
 
+  /* Yield canvas frames while a tap, touch, or key is in progress. classList.add above is idempotent with the head script. */
+  var inputHold = 0;
+  function noteInput() { inputHold = performance.now() + 160; }
+  window.addEventListener("pointerdown", noteInput, { capture: true, passive: true });
+  window.addEventListener("touchstart", noteInput, { capture: true, passive: true });
+  window.addEventListener("keydown", noteInput, { capture: true, passive: true });
+
   /* ---------------- Header, progress, nav ---------------- */
   var header = document.querySelector(".site-header");
   var bar = document.querySelector(".progress span");
@@ -573,8 +580,16 @@
       // Live capacity counter: 400,000 emails a day of capacity
       var cap = hero.querySelector("[data-cap-n]");
       if (cap) {
-        var c0 = performance.now(), perSec = 400000 / 86400;
-        setInterval(function () { cap.textContent = Math.floor((performance.now() - c0) / 1000 * perSec).toLocaleString("en-US"); }, holdMotion() ? 1000 : 140);
+        var c0 = performance.now(), perSec = 400000 / 86400, capOn = false;
+        if ("IntersectionObserver" in window) {
+          new IntersectionObserver(function (en) {
+            capOn = en.some(function (x) { return x.isIntersecting; });
+          }).observe(cap);
+        } else capOn = true;
+        setInterval(function () {
+          if (!capOn) return;
+          cap.textContent = Math.floor((performance.now() - c0) / 1000 * perSec).toLocaleString("en-US");
+        }, 1000);
       }
       if (!cv) return;
       var ctx = cv.getContext("2d"); if (!ctx) return;
@@ -590,6 +605,7 @@
       function frame(now) {
         raf = 0;
         if (!visible || holdMotion() || scrolling) return;
+        if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var t = (now - t0) / 1000;
         if (now - lastAmb > 5200) { lastAmb = now; ripples.push({ x: W * (0.15 + Math.random() * 0.7), y: H * (0.2 + Math.random() * 0.6), t: now }); }
         for (var q = ripples.length - 1; q >= 0; q--) if (now - ripples[q].t > 2200) ripples.splice(q, 1);
@@ -836,6 +852,7 @@
       function frame(now) {
         raf = 0;
         if (!visible || holdMotion() || scrolling) return;
+        if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         acc += dt * 26; while (acc > 1) { spawn(); acc -= 1; }
         ctx.clearRect(0, 0, W, H);
@@ -916,7 +933,7 @@
       var W = 0, H = 0, f = 900, cx = 0, cy = 0, D = 1500, mode = "";
       var yaw = 0, pitch = 0.32, tYaw = 0, tPitch = 0.32, basePitch = 0.32, dolly = 1, tDolly = 1, T = [0, 30, 40], baseT = [0, 30, 40], tT = [0, 30, 40];
       var mx = -1, my = -1, pointerT = -1e9, hover = -1, opened = -1, dragging = false, dragX = 0, dragY = 0, dragYaw = 0, dragPitch = 0, dragMoved = 0;
-      var explore = false, inside = -1, pinchD = 0, pointers = {}, quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = 2, frameAcc = 0, frameN = 0, qT = 0, skip = false;
+      var explore = false, inside = -1, pinchD = 0, pointers = {}, quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = quality === 1 ? 1 : 2, frameAcc = 0, frameN = 0, qT = 0, skip = false;
       var SB = {}, SO = [], FB = {}, FO = [], GL = [];
       var t0 = 0, last = 0, raf = 0, visible = false, sceneT = 0, running = false, finished = false, hudT = 0;
       var mods = [], wires = [], packets = [], pulses = [], emitAcc = 0, inP = null, outP = null, logQueue = [], typing = false;
@@ -1375,10 +1392,11 @@
       function frame(now) {
         raf = 0;
         if (!visible || holdMotion() || scrolling) return;
+        if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
         frameAcc += dt; frameN++;
-        if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 2 : (quality === 1 ? 1.25 : 1); size(); } }
+        if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 2 : 1; size(); } }
         update(dt, t);
         if (quality === 0) { skip = !skip; if (!skip) render(t); } else render(t);
         if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
@@ -1525,9 +1543,9 @@
       var W = 0, H = 0, mode = "", k = 1, hub = [0, 0], R = 96, t0 = 0, last = 0, raf = 0, visible = false, sceneT = 0, hudT = 0;
       var nodes = {}, order = [], edges = [], field = [], traces = [], pulses = [], sweeps = [], gridPat = null, gather = [];
       var main = ctx, baseCv = null, bctx = null, baseDirty = true, glowSprite = null, dpr = 1;
-      var quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = 1.75, frameAcc = 0, frameN = 0, qT = 0, skip = false;
+      var quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = quality === 1 ? 1 : 1.75, frameAcc = 0, frameN = 0, qT = 0, skip = false;
       function markDirty() { baseDirty = true; }
-      var mx = -1, my = -1, hover = null, pinned = null, pointerT = -1e9, outAcc = 0, replyQueue = [], lastSweep = 0, tiltX = 0, tiltY = 0;
+      var mx = -1, my = -1, hover = null, pinned = null, pointerT = -1e9, outAcc = 0, replyQueue = [], lastSweep = 0, tiltX = 0, tiltY = 0, lastTx = "", lastTy = "", lastHud = "";
       var tourEl = map.querySelector("[data-map-tour]"), tourTabs = tourEl ? Array.prototype.slice.call(tourEl.querySelectorAll("[data-tour]")) : [];
       var tourTitle = map.querySelector("[data-tour-title]"), tourText = map.querySelector("[data-tour-text]"), tourBar = map.querySelector("[data-tour-bar]"), tourPlay = map.querySelector("[data-tour-play]");
       var STEP = 2.8, tourStep = -1, tourAuto = true, tourT = 0, focus = null, clusterOn = {}, over = false, zoom = 1;
@@ -1973,19 +1991,28 @@
         var cap = quality > 1 ? 60 : (quality === 1 ? 30 : 16);
         if (traces.length > cap) traces.splice(0, traces.length - cap);
         // tilt
-        if (plane && !isSmall()) { var gx = idle ? 0 : tiltX, gy = idle ? 0 : tiltY; plane.style.setProperty("--tx", gx.toFixed(2)); plane.style.setProperty("--ty", gy.toFixed(2)); }
+        if (plane && !isSmall()) {
+          var gx = idle ? 0 : tiltX, gy = idle ? 0 : tiltY, tx = gx.toFixed(2), ty = gy.toFixed(2);
+          if (tx !== lastTx) { lastTx = tx; plane.style.setProperty("--tx", tx); }
+          if (ty !== lastTy) { lastTy = ty; plane.style.setProperty("--ty", ty); }
+        }
       }
       function frame(now) {
         raf = 0;
         if (!visible || holdMotion() || scrolling) return;
+        if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
         frameAcc += dt; frameN++;
-        if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 1.75 : (quality === 1 ? 1.25 : 1); size(); } }
+        if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 1.75 : 1; size(); } }
         update(dt, t);
         var slow = quality === 0 || (t - pointerT > 8 && tourStep >= TOUR.length - 1);
         if (slow) { skip = !skip; if (!skip) render(t); } else render(t);
-        if (t - hudT > 0.15 && hud) { hudT = t; hud.textContent = hover ? ("focus: " + (hover.isHub ? "be leaded" : hover.isField ? "your market" : hover.lab.toLowerCase())) : (mx >= 0 && fine ? "cursor x " + Math.round(mx) + " y " + Math.round(my) : "cursor idle"); }
+        if (t - hudT > 0.15 && hud) {
+          hudT = t;
+          var hudText = hover ? ("focus: " + (hover.isHub ? "be leaded" : hover.isField ? "your market" : hover.lab.toLowerCase())) : (mx >= 0 && fine ? "cursor x " + Math.round(mx) + " y " + Math.round(my) : "cursor idle");
+          if (hudText !== lastHud) { lastHud = hudText; hud.textContent = hudText; }
+        }
         if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
       }
       function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
@@ -2168,4 +2195,17 @@
   }
   if (reduceMq && reduceMq.addEventListener) reduceMq.addEventListener("change", syncMotionMode);
   if (smallMq && smallMq.addEventListener) smallMq.addEventListener("change", syncMotionMode);
+
+  /* Analytics after load, during idle, so gtag.js stays off the first interaction. The inline snippet still queues the pageview. */
+  window.addEventListener("load", function () {
+    function loadGtag() {
+      if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
+      var s = document.createElement("script");
+      s.async = true;
+      s.src = "https://www.googletagmanager.com/gtag/js?id=G-VC74PPHD7V";
+      document.head.appendChild(s);
+    }
+    if (window.requestIdleCallback) requestIdleCallback(loadGtag, { timeout: 3000 });
+    else setTimeout(loadGtag, 1);
+  });
 })();
