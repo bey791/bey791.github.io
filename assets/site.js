@@ -1575,8 +1575,9 @@
     scope.querySelectorAll("[data-map]:not([data-on])").forEach(function (map) {
       map.setAttribute("data-on", "");
       var stage = map.querySelector("[data-map-stage]"), plane = map.querySelector("[data-map-plane]"), cv = map.querySelector("canvas[data-map-canvas]");
-      if (!stage || !cv || !("IntersectionObserver" in window)) return;
-      var ctx = cv.getContext("2d"); if (!ctx) return;
+      function showStaticMap() { if (stage) stage.classList.add("no-canvas"); }
+      if (!stage || !cv || !("IntersectionObserver" in window)) { showStaticMap(); return; }
+      var ctx = cv.getContext("2d"); if (!ctx) { showStaticMap(); return; }
       map.querySelectorAll(".map-svg").forEach(function (el) { el.parentNode.removeChild(el); });
       stage.classList.add("has-canvas");
       var hero = map.closest(".hero") || map, top = hero.querySelector(".hero-sys-top");
@@ -2194,8 +2195,11 @@
     onScroll();
   }
 
-  setupCursor();
-  setupLights(document);
+  /* Let the headline paint before canvas setup, reveal measurements, and the cursor. */
+  function afterFirstPaint(fn) {
+    if (window.requestAnimationFrame) requestAnimationFrame(function () { requestAnimationFrame(fn); });
+    else setTimeout(fn, 16);
+  }
 
   /* ---------------- Preview router (single-file preview only) ---------------- */
   var pages = Array.prototype.slice.call(document.querySelectorAll("[data-route]"));
@@ -2226,10 +2230,18 @@
       } else { show("home"); }
     };
     window.addEventListener("hashchange", route);
-    setupCopy(document);
-    route();
+    afterFirstPaint(function () {
+      setupCursor();
+      setupLights(document);
+      setupCopy(document);
+      route();
+    });
   } else {
-    initPage(document);
+    afterFirstPaint(function () {
+      setupCursor();
+      setupLights(document);
+      initPage(document);
+    });
   }
 
   function syncMotionMode() {
@@ -2241,16 +2253,20 @@
   if (reduceMq && reduceMq.addEventListener) reduceMq.addEventListener("change", syncMotionMode);
   if (smallMq && smallMq.addEventListener) smallMq.addEventListener("change", syncMotionMode);
 
-  /* Analytics after load, during idle, so gtag.js stays off the first interaction. The inline snippet still queues the pageview. */
+  /* Analytics stays off the LCP window. The inline snippet still queues the pageview.
+     Load on the first tap or key, otherwise after the page has gone quiet. */
   window.addEventListener("load", function () {
+    var kicked = false;
     function loadGtag() {
-      if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
+      if (kicked || document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
+      kicked = true;
       var s = document.createElement("script");
       s.async = true;
       s.src = "https://www.googletagmanager.com/gtag/js?id=G-VC74PPHD7V";
       document.head.appendChild(s);
     }
-    if (window.requestIdleCallback) requestIdleCallback(loadGtag, { timeout: 3000 });
-    else setTimeout(loadGtag, 1);
+    window.addEventListener("pointerdown", loadGtag, { once: true, passive: true, capture: true });
+    window.addEventListener("keydown", loadGtag, { once: true, passive: true, capture: true });
+    setTimeout(loadGtag, 8000);
   });
 })();
