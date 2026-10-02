@@ -136,8 +136,13 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beleaded.com/blog/turn-cold-email-replies-into-meetings/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/cold-email-follow-up-sequence/</loc>
