@@ -4,7 +4,8 @@ name: IndexNow
 # The IndexNow key is a public file at the site root: <key>.txt
 # The file body is the key itself. After GitHub Pages deploys,
 # https://www.beleaded.com/<key>.txt must return that key.
-# This workflow finds that file by matching the filename to the body.
+# indexnow-key.txt hosts the same key for the conventional path.
+# This workflow finds the key by matching the filename to the body.
 # No GitHub secret is required. To rotate the key, replace the file
 # and push to main. Do not add a Bing msvalidate meta tag unless you
 # have a verification code from Bing Webmaster Tools.
