@@ -47,7 +47,6 @@ Key facts:
 
 ## Industries
 - [All industries](https://www.beleaded.com/industries/): the markets we run programs in most often
-- [Logistics and freight](https://www.beleaded.com/industries/logistics-freight/): shipper lists by lane and facility, outreach on triggers like new DCs and rebids
 - [B2B SaaS](https://www.beleaded.com/industries/b2b-saas/): lists by tech stack and headcount, demo booking with a written definition of a qualified demo
 - [Israeli tech companies](https://www.beleaded.com/industries/israeli-tech-companies/): US buyer meetings for Israeli B2B SaaS, cyber, and tech selling into the US; Sunday to Thursday Israel-time ops; programs from about $2,000 a month.
 - [IT services and MSPs](https://www.beleaded.com/industries/it-services-msp/): regional lists of 20-to-200-person companies, angles tied to compliance and insurance deadlines
