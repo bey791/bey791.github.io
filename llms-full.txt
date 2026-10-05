@@ -31,6 +31,7 @@ Programs run for
 
 - Logistics
 - B2B SaaS
+- Israeli tech companies
 - IT services
 - M&A advisory
 - Business brokerage
@@ -1152,6 +1153,10 @@ Shipper lists by lane and facility, outreach on triggers like new DCs and rebids
 
 Lists by tech stack and headcount, sequences around the problem, qualified demos.
 
+### Israeli tech companies
+
+US buyer meetings for Israeli B2B SaaS, cyber, and tech selling into the US.
+
 ### IT services and MSPs
 
 Regional lists of 20-to-200-person companies, angles tied to deadlines.
@@ -1338,6 +1343,99 @@ Often, yes. Outbound reaches the accounts that will never find you through self-
 ## Tell us who you want to meet.
 
 Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/industries/israeli-tech-companies/
+
+- Home
+- Industries
+- Israeli tech companies
+
+Israeli tech companies
+
+# US meetings for Israeli tech companies
+
+US buyers do not know your brand yet. Your late afternoon is their morning. A US SDR hire costs a median $80,000 a year on-target before benefits, tools, data, and management, and the average ramp is 3.0 months. You need qualified conversations with US decision makers without building that seat first.
+
+Book a 30-minute call
+
+Be Leaded is a New York B2B marketing agency founded by Ahmad Khan. We run cold email and appointment setting for teams that already have someone to take the meeting. Programs start at about $2,000 a month. Most go live in about three weeks.
+
+## Who this page is for
+
+Founders, CEOs, VPs of Sales, and heads of growth at Israeli B2B SaaS, cyber, and tech companies selling into the US. You have a clear buyer and an offer you can explain in two sentences. You do not yet want to own US domains, data tools, inbox warmup, and a full-time SDR.
+
+We already work with clients in the US and Israel. We do not publish client names unless a client agrees otherwise.
+
+## How Israeli teams work with us
+
+We work with Israeli teams Sunday to Thursday, Israel time. Campaign sends land in US buyers' working hours, typically 8 AM to 5 PM in their time zone. Replies are handled the same business day.
+
+## How it works
+
+Same path as our other outbound programs.
+
+Day 1: Strategy call. Thirty minutes. We learn your US buyer, your offer, and what counts as a qualified meeting: title, company size, industry, and the problem that person needs solved. Meetings that miss that definition do not get booked.
+
+Days 2 to 14: Build. Separate sending domains with SPF, DKIM, and DMARC. Two to three weeks of warmup. A verified list matched to your US ICP. Plain-text sequences you approve before anything sends. Your company domain never carries cold volume.
+
+Week 3: Launch. Campaigns go live on a steady ramp. Email from warmed inboxes. LinkedIn from your team's own profiles when it helps, timed with the sequence. Positive replies go to booking. Not-nows go into next quarter's follow-up.
+
+Every week after: Report and improve. Sends, replies, and meetings, plus what we are changing next. You take the meeting and close.
+
+## Proof from programs we already run
+
+Figures as of September 2026, published on beleaded.com. Client names stay private unless a client agrees otherwise.
+
+- Sending capacity of 400,000+ emails a day across our infrastructure, with a 99% delivery rate across the programs we run.
+- 30+ client programs across B2B, advisory, and consumer brands.
+- Newsletter programs average a 49% open rate.
+- Ahmad scaled an outbound operation from 50,000 to 400,000 emails a day while raising deliverability from about 88% to 99% or better. Response rates on that work ran at 2% to 3%.
+- On a software engagement aimed at US fabricators, we built a 2,000-contact decision-maker list and ran LinkedIn sequences across three audiences, plus a newsletter for each.
+- A typical B2B cold email campaign replies at 3% to 5% of emails sent and books five to eight meetings per 1,000 emails. Your range depends on market and offer. We give you a realistic range on the first call, not a guarantee.
+
+## Cost versus hiring a US SDR
+
+| | In-house US SDR | Be Leaded |
+| --- | --- | --- |
+| Cost | Median on-target earnings of $80,000 a year, before benefits, tools, data, and management | From $2,000 a month, with tools, data, and infrastructure included |
+| Time to first meetings | Average ramp of 3.0 months | Live in about three weeks |
+| Continuity | Average tenure of 1.9 years, with 40% median annual attrition | A team that stays on your program |
+| Infrastructure | You buy and maintain domains, inboxes, data, and tools | Built, warmed, and monitored for you |
+
+SDR figures from The Bridge Group's 2025 SDR report, as published on our pricing and outsourced SDR pages. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings.
+
+## Pricing
+
+Programs start at about $2,000 a month. Sending domains, inboxes, warmup, list building, verification, sequences, LinkedIn beside email when useful, reply handling, booking, and weekly reporting sit inside the fee. You do not buy tools, data, or inboxes on your side. An exact number comes after a 30-minute call.
+
+Appointment setting, Outsourced SDR team, B2B SaaS, Pricing, Work, About.
+
+## Questions
+
+**Do you work on Israel time?**
+
+Yes. We work with Israeli teams Sunday to Thursday, Israel time. Sends go out in US buyers' working hours. Replies are answered the same business day.
+
+**Will cold email hurt our company domain?**
+
+No. We send from separate domains that we set up, warm, and monitor. Your company domain never carries cold volume.
+
+**How soon will we see meetings?**
+
+Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. How many replies become meetings depends on your market and your offer. You get a realistic range on the first call.
+
+**What does it cost?**
+
+Programs start at about $2,000 a month. Infrastructure, lists, copy, and reply handling are included. You will get an exact number after a 30-minute call.
+
+## Book the call
+
+Thirty minutes with Ahmad. You leave with a clear picture of your US market, what a campaign would look like, and what it would cost.
 
 Or email sales@beleaded.com
 
