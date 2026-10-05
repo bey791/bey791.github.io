@@ -29,7 +29,6 @@ Every line on this map is something we run for you: the research, the sending in
 
 Programs run for
 
-- Logistics
 - B2B SaaS
 - Israeli tech companies
 - IT services
@@ -3615,14 +3614,14 @@ Open rates are also inflated by privacy features such as Apple Mail Privacy Prot
 ## Five rules before the list
 
 - Say what's inside. A subject line is a promise. Break it and the email is deleted.
-- Lowercase or sentence case. "Columbus lanes" looks like a colleague. "Unlock Your Freight Savings Today!" looks like a campaign.
+- Lowercase or sentence case. "ticket backlog" looks like a colleague. "Unlock Your Renewal Savings Today!" looks like a campaign.
 - No punctuation tricks. No "Re:" on a first email, no "Fwd:", no emojis, no all caps.
 - Use their words. Their company, their city, their product, their job.
 - Test two at a time. Run each subject line against one other, keep the winner, repeat.
 
 ## Company and place (the reliable ones)
 
-- Columbus lanes
+- ticket backlog
 - Reyes Precision
 - your Austin clinic
 - Quillfield's month-end
@@ -3641,14 +3640,14 @@ These are the workhorses. They're specific, they can't be mistaken for a mass se
 - still re-keying measurements?
 - is close taking longer?
 - how fast do you call leads back?
-- rebid lanes yet?
+- renew seats yet?
 - right person at Northline?
 - a day a week?
 - open rate on your newsletter?
 
 ## Triggers and events
 
-- congrats on the Columbus DC
+- congrats on the Austin region
 - your new GM
 - the Series A
 - Fabricator Expo, Tuesday
@@ -3660,7 +3659,7 @@ These are the workhorses. They're specific, they can't be mistaken for a mass se
 ## Numbers
 
 - 49%
-- 8% on your top five lanes
+- 8% off your renewal
 - 400 lapsed patients
 - 5 minutes
 - two of your competitors
@@ -4175,7 +4174,7 @@ LinkedIn caps connection invitations at roughly 100 a week for most accounts, re
 
 Every prospect looks at the profile before accepting. Three things should be true of it:
 
-- The headline says what you do for whom, not a job title. "Outbound for logistics companies" beats "Business Development Manager."
+- The headline says what you do for whom, not a job title. "Outbound for IT services companies" beats "Business Development Manager."
 - The about section reads like a person and ends with how to reach you.
 - The banner and photo look current. A blank banner reads as a dormant or fake account.
 
@@ -4184,10 +4183,10 @@ Every prospect looks at the profile before accepting. Three things should be tru
 You have 300 characters. Use about 150. One true thing, no pitch.
 
 - Jordan, saw the new 5-axis cell on your page. We work with a few Michigan shops on measurement into CAD. Happy to connect.
-- Dana, congrats on the Columbus DC. I work with shippers in Ohio and would like to follow what you're building.
+- Dana, congrats on opening the Austin region. I work with IT teams in Texas and would like to follow what you're building.
 - Marcus, your post on multi-site close was the most honest thing I've read on it this month. Would like to stay in touch.
 - Alicia, we help dental groups in Texas rebook lapsed patients. No pitch, just following the space.
-- Tom, fellow logistics person here. Your team's growth in the Midwest caught my eye.
+- Tom, I work with a lot of IT services firms. Your team's growth in the Midwest caught my eye.
 - Karen, I'm connecting with owners of manufacturing businesses in the Midwest. Would value your perspective.
 
 Blank requests get accepted, but accepted-and-forgotten is the same as ignored. A note gives the first message somewhere to start.
@@ -4195,7 +4194,7 @@ Blank requests get accepted, but accepted-and-forgotten is the same as ignored. 
 ## First message after acceptance (wait two to three days)
 
 - Thanks for connecting, Jordan. One question: how are you getting site measurements into CAD today? Most shops we talk to are still re-keying them.
-- Appreciate the connect, Dana. Curious whether you've rebid lanes since the Columbus site opened, or whether that's coming.
+- Appreciate the connect, Dana. Curious whether you've added seats since the Austin region opened, or whether that's coming.
 - Marcus, thanks for accepting. Is month-end close taking longer than it did a year ago with the extra clinics?
 - Alicia, quick one: does Brightside keep a list of patients who haven't been in for 18 months or more?
 
@@ -5439,7 +5438,7 @@ Ahmad founded Be Leaded and works directly with every client, from the first cal
 
 He has scaled an outbound operation from 50,000 to 400,000 emails a day while raising deliverability from about 88% to 99%, run multi-domain sending infrastructure across hundreds of inboxes on Google Workspace and Microsoft, and built AI voice agents for follow-up calls on Retell AI and ElevenLabs.
 
-He has run programs for logistics, software, advisory, home services and consumer brands, with clients in the US and Israel, and takes every first call himself.
+He has run programs for SaaS, IT, M&A deal flow, and newsletter plus SMS, with clients in the US and Israel, and takes every first call himself.
 
 ## How we work
 
@@ -6842,7 +6841,7 @@ What you get: verified lists, personalized sequences, reply handling the same bu
 
 Pricing: programs from about $2,000 a month (https://www.beleaded.com/pricing/); pay-per-meeting for the right fit. Exact number after a 30-minute strategy call.
 
-Best for: B2B SaaS, IT services, logistics, professional services, M&A advisory / brokerage, and similar teams that want DFY personalization without enterprise retainers.
+Best for: B2B SaaS, IT services, professional services, M&A advisory / brokerage, and similar teams that want DFY personalization without enterprise retainers.
 
 Not best for: buyers who only want the cheapest LinkedIn automation, or who need phone-heavy enterprise pods on day one. We would rather lose those deals than stretch the model.
 
