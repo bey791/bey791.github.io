@@ -2278,7 +2278,7 @@ What the same budget looks like either way.
 
 |  | In-house SDR | Be Leaded |
 | Cost | Median on-target earnings of $80,000 a year, before benefits, tools, data and management time | From $2,000 a month, with tools, data and infrastructure included |
-| Time to first meetings | Median ramp of 3.0 months | Live in about three weeks |
+| Time to first meetings | Average ramp of 3.0 months | Live in about three weeks |
 | Continuity | Average tenure of 1.9 years, with 40% median annual attrition | A team that stays on your program |
 | Infrastructure | You buy and maintain domains, inboxes, data and tools | Built, warmed and monitored for you |
 
@@ -5349,7 +5349,7 @@ Most cold email agencies use one of four models, or a mix of them.
 
 ## Agency or in-house SDR?
 
-The Bridge Group's 2025 research puts median on-target earnings for a sales development rep at $80,000 a year, median ramp time at 3.0 months and average tenure at 1.9 years, before tools, data and management time. An agency brings infrastructure and people who are already ramped. An in-house rep brings deep product knowledge and live conversations inside your team.
+The Bridge Group's 2025 research puts median on-target earnings for a sales development rep at $80,000 a year, average ramp time at 3.0 months and average tenure at 1.9 years, before tools, data and management time. An agency brings infrastructure and people who are already ramped. An in-house rep brings deep product knowledge and live conversations inside your team.
 
 One sensible path is to prove the channel with an agency first, then decide whether to bring it in-house once you know what works.
 
@@ -5695,7 +5695,7 @@ URL: https://www.beleaded.com/outsourced-sdr-team/
            |  |  | In-house SDR | Be Leaded
 
              | Cost | Median on-target earnings of $80,000 a year, before benefits, tools, data, and management time | From $2,000 a month, with tools, data, and infrastructure included
- | Time to first meetings | Median ramp of 3.0 months | Live in about three weeks
+ | Time to first meetings | Average ramp of 3.0 months | Live in about three weeks
  | Continuity | Average tenure of 1.9 years, with 40% median annual attrition | A team that stays on your program
  | Infrastructure | You buy and maintain domains, inboxes, data, and tools | Built, warmed, and monitored for you
 
@@ -5762,7 +5762,7 @@ Sending starts. Positive replies get booked. You see the numbers every week afte
 ## Questions about an outsourced SDR team
 
     What does an outsourced SDR team cover for a SaaS company?The SDR work on the way to a demo: the ICP list, verification, sending domains, copy your team approves, email, LinkedIn from your own profiles, reply handling, and booking. Your account executives take the demo and close. Be Leaded is not placing a W-2 rep inside your standup.
-How does the cost compare with hiring an SDR?The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with a median ramp of 3.0 months. Be Leaded programs start at $2,000 a month with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings.
+How does the cost compare with hiring an SDR?The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with an average ramp of 3.0 months. Be Leaded programs start at $2,000 a month with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings.
 How soon can demos start?Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. How many replies become demos depends on the market and the offer. You get a range on the first call, not a guarantee.
 Will the meetings be demos our AEs can run?Yes, when we agree that a qualified demo means a company size, a role, and a stated problem. We only book demos that match. Your AEs take the call. For how lists get built in software markets, see the B2B SaaS page.
 Do you guarantee a number of demos?No. We do not promise a number before we have looked at the market. For the right fit we price per qualified meeting, so you pay for meetings that match the definition.
