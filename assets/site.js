@@ -2253,8 +2253,21 @@
   if (reduceMq && reduceMq.addEventListener) reduceMq.addEventListener("change", syncMotionMode);
   if (smallMq && smallMq.addEventListener) smallMq.addEventListener("change", syncMotionMode);
 
+  /* One delegated listener. The inline stub defines gtag() before this file runs
+     and queues onto dataLayer, so a click before gtag.js loads still records.
+     If a page has no stub, skip the call instead of throwing. */
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest('a[href*="calendly.com/ahmad-beleaded"], a[href^="mailto:"]');
+    if (!a || typeof gtag !== "function") return;
+    var isCal = a.href.indexOf("calendly.com") > -1;
+    gtag("event", isCal ? "book_call_click" : "email_click", {
+      cta_location: a.getAttribute("data-cta") || "unlabeled",
+      link_text: (a.textContent || "").trim().slice(0, 60)
+    });
+  }, { capture: true });
+
   /* Analytics stays off the LCP window. The inline snippet still queues the pageview.
-     Load on the first tap or key, otherwise after the page has gone quiet. */
+     Load on the first tap, key, or scroll, otherwise 3 seconds after window load. */
   window.addEventListener("load", function () {
     var kicked = false;
     function loadGtag() {
@@ -2267,6 +2280,7 @@
     }
     window.addEventListener("pointerdown", loadGtag, { once: true, passive: true, capture: true });
     window.addEventListener("keydown", loadGtag, { once: true, passive: true, capture: true });
-    setTimeout(loadGtag, 8000);
+    window.addEventListener("scroll", loadGtag, { once: true, passive: true, capture: true });
+    setTimeout(loadGtag, 3000);
   });
 })();
