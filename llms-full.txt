@@ -3647,7 +3647,7 @@ These are the workhorses. They're specific, they can't be mistaken for a mass se
 
 ## Triggers and events
 
-- congrats on the new cluster
+- congrats on the Austin region
 - your new GM
 - the Series A
 - Fabricator Expo, Tuesday
@@ -3659,7 +3659,7 @@ These are the workhorses. They're specific, they can't be mistaken for a mass se
 ## Numbers
 
 - 49%
-- 8% on your top five seats
+- 8% off your renewal
 - 400 lapsed patients
 - 5 minutes
 - two of your competitors
@@ -4174,7 +4174,7 @@ LinkedIn caps connection invitations at roughly 100 a week for most accounts, re
 
 Every prospect looks at the profile before accepting. Three things should be true of it:
 
-- The headline says what you do for whom, not a job title. "Outbound for analytics companies" beats "Business Development Manager."
+- The headline says what you do for whom, not a job title. "Outbound for IT services companies" beats "Business Development Manager."
 - The about section reads like a person and ends with how to reach you.
 - The banner and photo look current. A blank banner reads as a dormant or fake account.
 
@@ -4183,10 +4183,10 @@ Every prospect looks at the profile before accepting. Three things should be tru
 You have 300 characters. Use about 150. One true thing, no pitch.
 
 - Jordan, saw the new 5-axis cell on your page. We work with a few Michigan shops on measurement into CAD. Happy to connect.
-- Dana, congrats on the new cluster. I work with IT teams in Ohio and would like to follow what you're building.
+- Dana, congrats on opening the Austin region. I work with IT teams in Texas and would like to follow what you're building.
 - Marcus, your post on multi-site close was the most honest thing I've read on it this month. Would like to stay in touch.
 - Alicia, we help dental groups in Texas rebook lapsed patients. No pitch, just following the space.
-- Tom, fellow analytics person here. Your team's growth in the Midwest caught my eye.
+- Tom, I work with a lot of IT services firms. Your team's growth in the Midwest caught my eye.
 - Karen, I'm connecting with owners of manufacturing businesses in the Midwest. Would value your perspective.
 
 Blank requests get accepted, but accepted-and-forgotten is the same as ignored. A note gives the first message somewhere to start.
