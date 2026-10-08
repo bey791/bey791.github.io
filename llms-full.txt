@@ -2655,6 +2655,10 @@ Connection request notes and follow-up messages that get accepted and answered o
 
 ## Lead generation
 
+### How to build a B2B lead list
+
+A practical checklist for a targeted, verified B2B lead list for cold email and LinkedIn: ICP, filters, decision-makers, verification, catch-alls, and list size.
+
 ### B2B lead generation strategies that work in 2026, ranked by cost per meeting
 
 Nine B2B lead generation strategies compared on time to first meeting, cost and what they need from your team: cold email, LinkedIn, paid search, paid social, newsletters, referrals, events, partnerships and content.
@@ -2686,6 +2690,267 @@ The lead response time studies (HBR, MIT/InsideSales), what most companies actua
 ### SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
 
 What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/
+
+- Home
+- Guides
+- How to build a B2B lead list
+
+Lead generation
+
+# How to build a B2B lead list
+
+By Ahmad Khan, founder of Be Leaded. Updated October 8, 2026. 9 min read.
+
+The short answer: Build a B2B lead list by writing the ICP and one trigger, finding one decision-maker per company, and verifying the email. Then remove duplicates and anyone you must not mail, and size what remains to one campaign. A database export is raw material. The rows that survive are the list.
+
+- The ICP
+- Firmographics and triggers
+- The decision-maker
+- Data sources
+- Verification and catch-alls
+- Bounce rate
+- De-duplication and suppression
+- List size
+- Refresh cadence
+- Personalization fields
+- In house or hire
+- Checklist
+- FAQ
+- Sources
+
+## Write the ICP before you open a database
+
+A useful ICP is narrow enough that you can reject a company in one sentence. Write four lines before you pay for a contact. "Companies that might buy" produces a directory, not a lead list.
+
+| Line | Write this | Stop and rewrite if |
+| --- | --- | --- |
+| Company | Industry, employee band, geography, and how they operate | The filter is "B2B" or "United States" |
+| Person | The title that owns the problem, plus at most one person who can bring them in | You will email five titles at one company this week |
+| Out | Customers, competitors, partners, companies under your size floor, and anyone who already said no | The only exclusion is "not a customer, I think" |
+| Reason | One change that makes this month different from last month | The reason to write is that the company exists |
+
+Company and person are the ICP. The reason line is the campaign. The same title at 100 people and at 2,000 people is two lists. Name who is out in the same breath: the distributor, the agency, the one-person shop.
+
+For software, those four lines and the qualified-demo definition are in how to book SaaS demos with cold email. In any market, a qualified meeting is a title, a company size, an industry, and a problem. That is what appointment setting books against.
+
+
+## Filter on firmographics, then on one trigger
+
+Firmographics decide who could buy. A trigger decides who might care during this campaign. Run both, or the file is either a phone book or a pile of headlines.
+
+- Industry, named tightly. "B2B workflow software, 50 to 200 employees, US" can be a list. "Software" usually cannot.
+- Headcount band. When a revenue guess conflicts with headcount, keep headcount.
+- Geography, including where the person sits. A buyer nine time zones from your team is a bad meeting.
+- Sites or tools already in place when the offer depends on them.
+
+A trigger has to be able to become a first line: a new executive, a relevant job post, funding or a new site, a real renewal date, or a tool you can see them add or drop. One campaign, one trigger. Split the file when the reasons differ.
+
+Cut the size floor, empty holding companies, competitors, and resellers in the same pass. On a public engagement for countertop-fabrication software, outreach used a 2,000-contact list cut from a much larger export, after distributors, tool suppliers, and cabinet-only shops were removed and only decision-makers remained. That engagement is on the work page.
+
+
+## Find the decision-maker, then at most one other person
+
+The decision-maker can say yes, or owns the budget. A director at 40 people and a director at 4,000 are different jobs. One name per company on the first pass, and a second only if they can bring the buyer in. Mailing the whole leadership team spends the account.
+
+Check the title twice: the company site, a job post, or a filing, and LinkedIn. If they disagree, replace the row or drop it.
+
+Email needs a verified address. LinkedIn needs a profile you can message from a real account. Channel fit is in cold email vs LinkedIn outreach. Notes and the weekly cap are in LinkedIn outreach messages. LinkedIn lead generation runs from your team's own profiles.
+
+
+## Where the data comes from, and what each source is bad at
+
+Coverage, freshness, and a real mailbox are three different facts. Check the weakness of the source you pick.
+
+| Source | Use it for | Do not use it as |
+| --- | --- | --- |
+| B2B contact database | A first cut of companies and titles | The file you send |
+| Multi-source enrichment | A field two sources agree on | A skip past email verification |
+| Site, job posts, filings | The trigger and the one detail you will write | The way you will cover a whole market in a week |
+| LinkedIn profile | Current title, and the LinkedIn outreach itself | A scraped email address |
+| Purchased or scraped file | Nothing on a domain you care about | A small test |
+| Your CRM | Suppression and history | A prospecting engine |
+
+We use Apollo for coverage. Titles lag, and many emails are pattern guesses, so a row is a candidate until it is checked. When the title or the stack is the campaign, we use Clay across sources and still verify the email. Sequencer choices are in cold email software.
+
+Take the trigger from the site, a job post, or a filing. LinkedIn confirms the current title. Its user agreement prohibits bots, and we do not scrape it for addresses. Purchased files are resold and stale. Export customers, open deals, partners, unsubscribes, and old bounces from the CRM before you build.
+
+
+## Verify every email, and keep catch-alls off the cold list
+
+Verify every address before the first send, with a dedicated checker. We use ZeroBounce or MillionVerifier even when the database already says valid. That second check is how bounces stay under 2%.
+
+| Result | What it means | Cold email |
+| --- | --- | --- |
+| Valid | A mailbox accepted this address | Eligible, after suppression |
+| Invalid | The mailbox rejected it | Remove. Do not guess a new pattern this week |
+| Unknown | The checker could not tell | Remove |
+| Catch-all | The domain accepts every address, so the person may not exist | Off the email list. LinkedIn only if the profile fits |
+| Role address | info@, sales@, hello@, and similar | Remove. These are not a person |
+
+A catch-all accepts mail for every address at the domain, so the checker cannot see a mailbox. Leave it off the cold list. Use LinkedIn, or wait for an address the person published. Free webmail on a B2B title stays only after a second look. Do not verify by sending. The services page shows why bounces stay under 2%: unconfirmed addresses come off. On that illustration, 1,000 researched accounts became 940 confirmed.
+
+
+## Keep the bounce rate low enough to protect the domain
+
+Above a 2% bounce rate, stop and re-verify. Instantly's 2026 benchmark sets 2% as the ceiling. Programs we run hold a 99% delivery rate. If delivery slips, fix the list, authentication, or volume per inbox before the copy. Reply rates are in the cold email benchmarks guide.
+
+- Hard bounce. Suppress it permanently.
+- Soft bounce. Retry a few times, then suppress. Repeats are hard bounces.
+- Spam complaint. Gmail wants senders under 0.1%, and never at 0.3%. The rules are in the cold email deliverability guide. Cut the segment that spikes.
+
+Do not send that file from a new domain on day one, or from the domain that sends invoices. Warm separate domains on the schedule in the email warmup guide. Our programs run 25 to 50 cold emails per inbox per day. Monthly inbox math is in how many cold emails to send per day.
+
+Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York.
+
+
+## De-duplicate, then apply the suppression list
+
+The same person mailed twice in one week, from two sequences, is a complaint waiting on a reply. Clean the file before it reaches the sequencer.
+
+- Email address, lowercased. Exact match catches most doubles.
+- LinkedIn profile URL, including rows that have no email yet.
+- First name, last name, and company domain, to catch one person pulled from two databases under two guessed emails.
+
+Same person at two companies: keep the current one. Two matching titles at one company: keep the person closer to the problem and park the other in a different file.
+
+Suppression is everyone who must not get this campaign, even if they match the ICP. Store it outside the sequencer so the next export cannot ignore it.
+
+- Customers, open opportunities, and active trials.
+- Partners, vendors, and investors you should not cold-pitch.
+- Unsubscribes, "not now," and anyone who asked to be removed. Honor those on every sending domain, not only the inbox that got the reply.
+- Hard bounces from every prior campaign.
+- Competitors, your own employees, and anyone sales has flagged.
+
+In the US, CAN-SPAM means you identify the sender, include a physical address, and honor opt-outs. Rules differ in the EU, UK, and Canada, which the cold email page covers before a program sends there. Add new customers to suppression the week they sign, or a January clean is dirty by March.
+
+
+## Size the list to one campaign
+
+One campaign is one ICP, one trigger, and one offer, small enough to finish while the trigger is still true. A few hundred clean rows beat ten thousand dirty ones.
+
+An 8,000-account market does not go into one sequence. Mail the slice whose trigger is still current. Inbox and domain counts for a larger reach are in the daily volume guide.
+
+LinkedIn caps invitations at roughly 100 a week, and a practical pace is 15 to 20 a day. One profile covers a few hundred new people a month. Do not give it an email-sized list. LinkedIn outreach scales by adding real senders. Channel tradeoffs are in B2B lead generation strategies.
+
+
+## Refresh on a cadence, not when someone complains
+
+Titles decay. A funding round from last spring is not a reason to write in October. Put the refresh on the calendar.
+
+- Before every campaign, re-verify and re-apply suppression.
+- Every 30 to 45 days on an active segment, re-check title and company. Replace anyone who has left.
+- Retire a trigger the buyer would no longer call recent. Store the date you saw it.
+- Do not reload a finished sequence until the angle or the trigger changes. Spacing is in the follow-up sequence.
+- Add new matches. A list that only shrinks was a one-time pull.
+
+
+## Capture only the fields you will actually use
+
+If a field will not appear in the first line, the LinkedIn note, or the include rule, do not pay for it.
+
+| Field | Row rule |
+| --- | --- |
+| First and last name | Required. Also a de-duplication key |
+| Title, as checked | Required. The first export does not count |
+| Company and domain | Required. Used for suppression and the email domain |
+| Verified email or LinkedIn URL | One of the two, plus a column that names the channel |
+| Trigger, as a sentence | Empty means the row does not send |
+| One true detail | The line the message will use. Empty means the row does not send |
+| Source and verified-on date | Required before upload |
+| Suppression flag | Defaults to do-not-send until you clear it |
+
+That detail is the job post, the new plant, the tool, or the hire. A work anniversary counts only when it is why you wrote. Turning it into a short email is covered in the cold email templates. The tool they already use and the headcount band are worth enriching only if the copy branches on them.
+
+
+## When to build the list in house, and when to hand it off
+
+Build it in house when someone owns the ICP, suppression, the weekly cut, and the replies. A few hundred careful contacts a month is enough. Hand it off when nobody will re-verify, when you only have the company domain, or when account executives are building the sheet instead of taking meetings.
+
+Cold email and appointment setting programs start from $2,000 a month, and LinkedIn outreach can run beside them from your team's profiles. You get a price after a 30-minute call. Scope is on the pricing page. The best cold email agency scorecard is how to compare deliverability, domains, qualified meetings, price, and fit. To write first, use the contact page.
+
+Plan on about three weeks: domains, authentication, warmup, a verified list, and approved copy. Be Leaded does this from New York, and Ahmad Khan takes the first call. We do not promise a meeting count before we have seen the market.
+
+
+## B2B lead list checklist
+
+- ICP in one paragraph: industry, headcount, geography, and who is out.
+- One trigger for this campaign, written so a first line could use it.
+- One decision-maker per company. A second name only if they can introduce you.
+- Title checked in two sources. Disagreements are dropped or replaced.
+- Source chosen for the job, and its weakness checked on purpose.
+- Every email verified. Invalid, unknown, and catch-all addresses are off the cold list.
+- Role addresses are off. Unconfirmed free-mail rows are off unless you have checked the person.
+- Duplicates removed on email, LinkedIn URL, and name plus company domain.
+- Suppression applied: customers, open deals, partners, opt-outs, hard bounces, competitors, and flagged accounts.
+- List size matches inbox capacity and the life of the trigger. The LinkedIn slice stays inside the weekly cap.
+- Verified-on date is inside the refresh window. Every sending row has a trigger sentence and one true detail.
+- Separate domains are warmed. If they are not, the list waits. Someone is named to add new customers and opt-outs each week.
+
+
+## FAQ
+
+**How do you build a B2B lead list?**
+
+Write the ICP and one trigger, filter accounts, find one decision-maker per company, verify the email, remove duplicates and anyone you must not mail, and size the file to the campaign. A database export is the input. The list is what remains.
+
+**What belongs on a B2B prospect list for cold email?**
+
+A verified email, a checked title, the company domain, one current trigger, and one true detail the email will use. Catch-all, invalid, and unknown addresses stay off. So do customers, open opportunities, and prior opt-outs.
+
+**Should you email catch-all addresses?**
+
+No. A catch-all domain accepts mail for any address, so verification cannot tell whether the mailbox exists. Keep catch-alls off the cold list. Reach that person on LinkedIn, or wait for an address you can verify.
+
+**How do you keep bounce rate low before cold outreach?**
+
+Verify every address with a dedicated checker, drop anything that is not valid, and suppress hard bounces permanently. Stop if the bounce rate goes above 2%. That ceiling is the one Instantly's 2026 benchmark uses, and it is how our programs stay at a 99% delivery rate.
+
+**How often should you refresh a B2B lead list?**
+
+Re-verify and re-apply suppression before every campaign. On an active segment, re-check title and company about every 30 to 45 days, and retire triggers that are no longer current. Keep a verified-on date on each row.
+
+**How large should one campaign's B2B lead list be?**
+
+Small enough to mail while the trigger is still true. A few hundred verified rows beat a huge unverified export. Match email volume to 25 to 50 sends per inbox per day, and keep LinkedIn inside the weekly invitation cap.
+
+
+## Sources
+
+- Instantly, Cold Email Benchmark Report 2026
+- Google, Email sender guidelines
+- LinkedIn, User Agreement
+- FTC, CAN-SPAM Act: A Compliance Guide for Business
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation from 50,000 to 400,000 emails a day at 99% deliverability and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### B2B lead generation strategies that work in 2026, ranked by cost per meeting
+
+Nine B2B lead generation strategies compared on time to first meeting, cost and what they need from your team: cold email, LinkedIn, paid search, paid social, newsletters, referrals, events, partnerships and content.
+
+### Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
+
+An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+
+### How many cold emails to send per day, per inbox and per domain
+
+The safe number of cold emails per inbox per day, how many inboxes per domain, and a worked example for reaching 3,000 or 30,000 prospects a month without losing the inbox.
 
 ## Tell us who you want to meet.
 
@@ -2935,7 +3200,7 @@ Write the qualified demo before launch: title, company size, industry, and a sta
 
 ## Build the list, then verify every address
 
-List building is filtering. Pull accounts that match the four lines, then the person who owns the problem. Apollo and Clay are tools we use for that research. The filter matters more than the vendor.
+List building is filtering. Pull accounts that match the four lines, then the person who owns the problem. Apollo and Clay are tools we use for that research. The filter matters more than the vendor. The full checklist is how to build a B2B lead list.
 
 - Verify every address before the first send. Catch-all and unverifiable addresses stay off the list. A bounce is a reputation problem. ZeroBounce or MillionVerifier is the usual check.
 - One record per person. If two sources disagree on the title, check the company site or LinkedIn before you mail them.
@@ -4519,7 +4784,7 @@ The short answer: In 2026 the B2B lead generation strategies with the best cost 
 
 ## 1. Cold email
 
-Still the most controllable way to reach a specific list of buyers. A well-run campaign replies at 3% to 5% of emails sent, according to Instantly's and Hunter's 2026 reports, and produces five to eight meetings per 1,000 emails. It needs separate sending domains, verified data, warmup, and copy written by a person. Time to first meeting is about three weeks, most of it setup. See our cold email and appointment setting program and the benchmarks guide.
+Still the most controllable way to reach a specific list of buyers. A well-run campaign replies at 3% to 5% of emails sent, according to Instantly's and Hunter's 2026 reports, and produces five to eight meetings per 1,000 emails. It needs separate sending domains, verified data, warmup, and copy written by a person. Time to first meeting is about three weeks, most of it setup. See our cold email and appointment setting program, the benchmarks guide, and how to build a B2B lead list.
 
 ## 2. LinkedIn outreach
 

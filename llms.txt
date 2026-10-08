@@ -68,6 +68,7 @@ Key facts:
 - [Pricing](https://www.beleaded.com/pricing/): programs start from $2,000 a month; what's included, what changes the price, and how it compares with hiring an SDR
 
 ## Guides
+- [How to build a B2B lead list](https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/): A practical checklist for a targeted, verified B2B lead list for cold email and LinkedIn: ICP, filters, decision-makers, verification, catch-alls, and list size.
 - [Cold email vs LinkedIn outreach](https://www.beleaded.com/blog/cold-email-vs-linkedin-outreach/): An honest comparison for B2B founders and sales leaders: where cold email and LinkedIn each win, the weekly connection limit, and why one sequence using both usually books more meetings.
 - [How to book more SaaS demos with cold email](https://www.beleaded.com/blog/book-saas-demos-with-cold-email/): A practical checklist for B2B SaaS founders and sales leaders: the ICP and buying trigger, a verified list, a short demo email, follow-up, same-day booking, and what to measure.
 - [How to turn cold email replies into meetings (without losing the lead)](https://www.beleaded.com/blog/turn-cold-email-replies-into-meetings/): How to sort interested, maybe, not-now, wrong-person, out-of-office, and unsubscribe replies, then book a meeting the same business day.
