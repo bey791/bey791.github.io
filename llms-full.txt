@@ -2803,7 +2803,7 @@ A catch-all accepts mail for every address at the domain, so the checker cannot 
 
 ## Keep the bounce rate low enough to protect the domain
 
-Above a 2% bounce rate, stop and re-verify. Instantly's 2026 benchmark sets 2% as the ceiling. Programs we run hold a 99% delivery rate. If delivery slips, fix the list, authentication, or volume per inbox before the copy. Reply rates are in the cold email benchmarks guide.
+Above a 2% bounce rate, stop and re-verify. Instantly's 2026 benchmark sets 2% as the ceiling. If delivery slips, fix the list, authentication, or volume per inbox before the copy. Reply rates are in the cold email benchmarks guide.
 
 - Hard bounce. Suppress it permanently.
 - Soft bounce. Retry a few times, then suppress. Repeats are hard bounces.
@@ -2811,7 +2811,7 @@ Above a 2% bounce rate, stop and re-verify. Instantly's 2026 benchmark sets 2% a
 
 Do not send that file from a new domain on day one, or from the domain that sends invoices. Warm separate domains on the schedule in the email warmup guide. Our programs run 25 to 50 cold emails per inbox per day. Monthly inbox math is in how many cold emails to send per day.
 
-Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York.
+Be Leaded's sending infrastructure runs from New York.
 
 
 ## De-duplicate, then apply the suppression list
@@ -2914,7 +2914,7 @@ No. A catch-all domain accepts mail for any address, so verification cannot tell
 
 **How do you keep bounce rate low before cold outreach?**
 
-Verify every address with a dedicated checker, drop anything that is not valid, and suppress hard bounces permanently. Stop if the bounce rate goes above 2%. That ceiling is the one Instantly's 2026 benchmark uses, and it is how our programs stay at a 99% delivery rate.
+Verify every address with a dedicated checker, drop anything that is not valid, and suppress hard bounces permanently. Stop if the bounce rate goes above 2%. That ceiling is the one Instantly's 2026 benchmark uses.
 
 **How often should you refresh a B2B lead list?**
 
@@ -2934,7 +2934,7 @@ Small enough to mail while the trigger is still true. A few hundred verified row
 
 Ahmad Khan, founder of Be Leaded
 
-Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation from 50,000 to 400,000 emails a day at 99% deliverability and takes every first call with clients himself.
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
 
 Book a 30-minute call
 
