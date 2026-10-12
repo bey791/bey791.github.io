@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-09.
+Source: https://www.beleaded.com/ . Updated 2026-10-12.
 
 ## Where to verify us
 
@@ -398,7 +398,7 @@ Accounts and contacts matched to your buyer, verified before a single email goes
 
 ### Sending infrastructure
 
-Separate domains and inboxes with SPF, DKIM and DMARC, warmed for two to three weeks and checked every morning.
+Separate domains and inboxes with SPF, DKIM and DMARC, warmed for two to three weeks and checked every morning. The record setup is in the SPF, DKIM and DMARC guide.
 
 ### Sequences written for your market
 
@@ -4461,6 +4461,243 @@ Or email sales@beleaded.com
 
 ---
 
+URL: https://www.beleaded.com/blog/spf-dkim-dmarc-for-cold-email/
+
+- Home
+- Guides
+- SPF, DKIM and DMARC setup for cold email
+
+Deliverability
+
+# SPF, DKIM and DMARC setup for cold email
+
+By Ahmad Khan, founder of Be Leaded. Updated October 12, 2026. 10 min read.
+
+The short answer: Publish one SPF record, a DKIM key of at least 1024 bits (2048 when the host allows it), and a DMARC record at p=none on every cold email domain. Align the From domain with SPF or DKIM, confirm spf=pass, dkim=pass, and dmarc=pass on a test message, and only then start warmup.
+
+- What the three records do
+- One SPF record
+- DKIM for the From domain
+- DMARC at p=none
+- Alignment
+- Google and Yahoo
+- BIMI
+- How to test
+- Common mistakes
+- Authentication and warmup
+- FAQ
+- Sources
+
+## What the three records do
+
+SPF, DKIM, and DMARC are three DNS records on the domain in the From address. A cold email domain needs all three before warmup. Records on the company domain do not cover a separately registered sending domain.
+
+SPF lists the servers allowed to send. DKIM signs selected headers and the body so the receiver can see who signed and whether those parts changed. DMARC checks that the passing SPF or DKIM domain aligns with the From domain, says what to do on failure, and names a mailbox for reports. It does not replace the other two.
+
+Google's email sender guidelines say authenticated messages are less likely to be rejected or marked as spam, and that unauthenticated messages might be marked as spam or rejected with a 5.7.26 error. A pass gets the message considered. Complaints, the list, and volume still decide the folder. Those are in the deliverability guide.
+
+## Publish one SPF record
+
+SPF is one TXT record at the sending domain. RFC 7208 says a domain must not publish multiple records that a check could choose between. Two v=spf1 TXT records produce a permerror. Several quoted strings inside a single TXT record still count as one record.
+
+A domain that sends only through Google Workspace:
+
+v=spf1 include:_spf.google.com ~all
+
+A domain that sends only through Microsoft 365:
+
+v=spf1 include:spf.protection.outlook.com ~all
+
+Use the include for the host that actually sends. Inbox SMTP needs the mailbox host's include. A sequencer that sends from its own servers, with your domain on the envelope, belongs in that same record. Do not add Google's include on a domain that never sends through Google.
+
+End with ~all (softfail) or -all (fail), not +all. With no match and no redirect, RFC 7208 returns neutral, the same as an implicit ?all. Use ~all until the include list is confirmed.
+
+Stay at or under 10 DNS lookups. RFC 7208 section 4.6.4 counts include, a, mx, ptr, exists, and redirect, and nested includes count toward the same 10. all, ip4, and ip6 do not. Over the limit, the result is permerror. One sending host per cold email domain stays under it. Stacking several vendors usually does not. Add a domain, or remove a retired host, before you add an include.
+
+## Turn on DKIM for the From domain
+
+DKIM is a signature plus a public key in DNS at selector._domainkey on the sending domain. Google Workspace often uses the selector google. A sequencer usually gives you a CNAME. Publish that record, then turn signing on. A key with signing off does nothing.
+
+Google requires a key of 1024 bits or longer for personal Gmail accounts, and recommends 2048 bits when the host supports it. Yahoo's sender best practices also set a 1024-bit minimum. Use 2048 when you can.
+
+Alignment reads d= in the signature. It has to be your From domain, or a parent of it under relaxed alignment. If d= is the sequencer, DKIM can pass and DMARC still fails. A company-domain selector does not sign a different outreach domain.
+
+Add a new selector before you remove the old one, so forwards of older mail still verify. Two selectors are normal. Two SPF records are not. Send the authentication test with tracking off. Link rewrites and open pixels change the body hash, and DKIM fails if they are applied after signing. Keep any tracking hostname on the same organizational domain as the From address.
+
+## Start DMARC at p=none
+
+DMARC is one TXT record at _dmarc on the sending domain. For bulk senders, Google and Yahoo accept a policy of at least p=none. The record has to exist, and the message still has to pass, which means alignment.
+
+v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com
+
+p=none monitors: receivers can still deliver failures and send reports. p=quarantine asks them to treat failures with suspicion. p=reject asks them to refuse failures.
+
+Leave adkim and aspf unset. RFC 7489 defaults both to relaxed (r), so a subdomain can align with the organizational domain. Strict (s) requires an exact host match. Use it only after reports show every legitimate path already matches.
+
+The rua mailbox has to exist, preferably on the same organizational domain. A report address on a different organizational domain needs an authorization record there, or many reporters drop the report. Read those reports in the first week. Do not start an outreach domain at p=quarantine or p=reject. Tighten only after legitimate mail from that domain is aligned.
+
+Publish the records on the From domain. A different company domain does not cover it.
+
+## Alignment is the check most setups miss
+
+SPF pass plus DKIM pass can still fail DMARC. DMARC passes only when at least one method passes and aligns with the From domain. SPF alignment uses the Return-Path domain. DKIM alignment uses d=. Google requires that alignment on direct mail from bulk senders. Yahoo requires it for bulk senders and accepts relaxed alignment.
+
+Sequencers often set the Return-Path to their own bounce domain. SPF then passes for the tool, not for the From domain, so SPF does not satisfy DMARC. DKIM with d= on your From domain is the path that passes. If d= is the tool, DMARC fails even when the dashboard shows SPF passed.
+
+    Aligned and unaligned cold email authentication
+    PieceAlignedNot aligned
+
+      Fromalex@outreach.examplealex@outreach.example
+      Return-Pathbounce@outreach.examplebounce@sequencer.example
+      DKIM d=outreach.examplesequencer.example
+      DMARCCan passFails
+
+Relaxed alignment still needs the same organizational domain. mail.outreach.example can align with outreach.example. It does not align with your company domain or the sequencer. In Gmail, Show original should look like this:
+
+spf=pass
+dkim=pass header.d=outreach.example
+dmarc=pass header.from=outreach.example
+
+If header.d and header.from differ at the organizational domain, the message is not aligned.
+
+## What Google and Yahoo require
+
+Google's rules have applied to personal Gmail accounts since February 1, 2024. Yahoo began enforcing its bulk requirements in February 2024 and does not publish a daily count for who is bulk. If the domain sends cold email, meet Yahoo's bulk column.
+
+    Google and Yahoo authentication requirements
+    RequirementGmail, all sendersGmail, more than 5,000 a dayYahoo, all sendersYahoo, bulk senders
+
+      SPF and DKIMSPF or DKIMSPF and DKIMSPF or DKIMSPF and DKIM
+      DMARCRecommendedRequired, at least p=none, From domain alignedUrged for every sending domainAt least p=none, and DMARC must pass
+      Spam rateBelow 0.3% in Postmaster ToolsBelow 0.30%, keep it below 0.10%Below 0.3%Below 0.3%
+      One-click unsubscribeNot the bulk ruleMarketing and subscribed messagesNot the bulk ruleMarketing and subscribed messages, honored within 2 days
+      DNS and transportForward and reverse DNS, plus TLSSameForward and reverse DNSForward and reverse DNS
+
+Google's spam-rate section tells senders to keep the Postmaster Tools rate below 0.10% and to avoid 0.30% or higher. That page also says Google does not track open rates. The 5,000-message line counts mail to Gmail accounts. Meet the bulk rules on every sending domain even when a single domain stays under it.
+
+One-click unsubscribe applies to marketing and subscribed messages. Google specifies List-Unsubscribe and List-Unsubscribe-Post: List-Unsubscribe=One-Click. Cold email still needs an opt-out and a postal address under CAN-SPAM, covered in the deliverability guide. Do not impersonate Gmail From headers. Google says it will use a DMARC quarantine policy, and that copying those headers can affect delivery.
+
+Publish a real A record on the sending domain. The sending IP needs a PTR that matches that hostname both ways. Google points administrators to Admin Toolbox Dig. Google and Microsoft publish PTR for their own IPs. If you run the server, the PTR should name your domain. TLS has been a Gmail requirement since the December 2023 update in the guidelines.
+
+For Outlook.com, Hotmail, and Live, dmarcian documents Microsoft's rule: domains sending 5,000 or more messages a day must pass SPF, DKIM, and DMARC alignment. dmarcian quotes the rejection as 550 5.7.515, with enforcement from May 5, 2025. The same three records are what that check looks for.
+
+## BIMI, briefly
+
+BIMI shows a logo beside authenticated mail in inboxes that support it. It does not make SPF, DKIM, or DMARC pass, and it does not warm a domain.
+
+The BIMI Group implementation guide requires DMARC at quarantine or reject, and it does not accept p=none or a pct under 100. The TXT record is at default._bimi:
+
+v=BIMI1; l=https://example.com/brand/logo.svg; a=https://example.com/brand/certificate.pem
+
+Google's BIMI setup also requires a Verified Mark Certificate or a Common Mark Certificate before Gmail shows the logo, plus DMARC at quarantine or reject with pct=100. Gmail shows a checkmark for a VMC.
+
+Skip BIMI on a new cold email domain. A logo and a reject policy, before reports are clean, do not fix alignment. Publish it on the corporate domain that already sends aligned mail at enforcement. Leave outreach domains at p=none until their own reports are clean.
+
+## Test before anyone is on the list
+
+- Confirm one v=spf1 TXT record, ending in ~all or -all, for the host you use. Confirm the DKIM selector resolves, and that _dmarc has the policy you intended and a rua mailbox that accepts mail.
+
+- Use Google Admin Toolbox Check MX for the mail host and SPF, and Dig, linked above, for PTR.
+
+- Run a second SPF check in MX Toolbox. Stop on a permerror from duplicate records or from more than 10 lookups. Check DMARC syntax in dmarcian's DMARC inspector.
+
+- Send one plain message, tracking off, to a Gmail account you control. In Show original, require spf=pass, dkim=pass with header.d on the From domain, and dmarc=pass with header.from on that domain.
+
+- After real Gmail traffic exists, watch authentication and spam rate in Postmaster Tools. With DKIM signing, enroll a complaint feedback loop in Yahoo Sender Hub.
+
+The Gmail Authentication-Results header is the check that matches that receiver. If it fails, fix the record and send again. Do not ramp on a fail.
+
+## Mistakes that fail an otherwise careful setup
+
+- Two SPF TXT records, from adding a host beside the old record instead of editing it.
+
+- More than 10 DNS lookups after nested includes are counted.
+
+- DKIM left off, or published on the company domain while the From domain is the outreach domain.
+
+- d= set to the sequencer, so DKIM passes for the tool and DMARC fails for you.
+
+- DMARC only on the company domain. A separate sending domain does not inherit it.
+
+- An rua address that bounces, or p=reject before any reports exist.
+
+- A key under the 1024-bit minimum Google and Yahoo describe, when 2048 is available.
+
+- Tracking rewrites after the signature, or warmup before a Gmail header shows all three passes.
+
+- A green check in the tool standing in for header.d and header.from.
+
+## Where this sits with warmup
+
+Warmup does not publish DNS, and DNS does not build a reputation. Publish the records first.
+
+Use a domain that is not the company's primary domain, publish SPF, DKIM, and DMARC, wait until a public lookup shows the TXT records, prove the Gmail header, then warm. The warmup guide waits 24 to 48 hours for caches, then runs a 21-day ramp per inbox. The daily volume guide is the ceiling after that. If authentication fails, pause and retest. More warmup days will not fix DNS.
+
+In the first week, read the aggregate reports. You want your own aligned mail and nothing else on that domain. A second inbox on the same host usually keeps the same SPF record. A new domain needs the full set. A new sequencer needs a new selector, a fresh test, and only then removal of the old key.
+
+When placement drops, sample a live header again. A DNS edit, a rotated selector, or a tracking change can break a record that passed last month. Passing these checks is part of how infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. A pass does not forgive a bad list. The domains, the tests, and the ramp are part of the cold email program if you want them handled. You still approve the market and the copy.
+
+## FAQ
+
+  What is an SPF, DKIM and DMARC setup for cold email?SPF names the servers allowed to send for a domain. DKIM signs each message with a public key in DNS. DMARC checks that the From domain aligns with a passing SPF or DKIM result. Publish all three on every cold email domain, confirm a real message passes, and only then start warmup.
+
+  What does DMARC alignment mean?Alignment means the domain in the From header matches the domain that passed SPF or DKIM. Relaxed alignment, the default, lets a subdomain match the organizational domain. A pass on a sending tool's domain does not count when that domain is not the From domain.
+
+  What do Google and Yahoo require from bulk senders?Google requires SPF and DKIM, DMARC at a policy of at least p=none, and From alignment for senders of more than 5,000 messages a day to personal Gmail accounts, starting February 1, 2024. Yahoo requires SPF and DKIM, a DMARC policy of at least p=none that passes, and From alignment for bulk senders. Both tell senders to keep spam complaint rates under 0.3%.
+
+  Should a new cold email domain use DMARC p=reject?No. Start at p=none so you can read aggregate reports without blocking mail. Move to quarantine only after reports show that legitimate mail from that domain is aligned. p=reject too early can block your own mail while a selector or an include is still wrong.
+
+  Does BIMI help cold email land in the inbox?No. BIMI can show a logo. It does not repair a failing SPF, DKIM, or DMARC check. Gmail shows the logo only when DMARC is at quarantine or reject with pct=100 and a mark certificate is published, which is the wrong first step for a new cold email domain.
+
+  Should I authenticate before email warmup?Yes. Warmup builds sending history. It does not publish DNS. Confirm SPF, DKIM, and DMARC pass on a test to a mailbox you control, then start the warmup schedule. If you change a record during warmup, test again before you raise volume.
+
+## Sources
+
+- Google, Email sender guidelines
+
+- Google, Set up BIMI
+
+- Yahoo Sender Hub, Sender best practices
+
+- RFC 7208, Sender Policy Framework (10 DNS lookup limit, section 4.6.4)
+
+- RFC 7489, DMARC
+
+- BIMI Group, Implementation guide
+
+- dmarcian, Microsoft enforces SPF, DKIM and DMARC for high-volume senders
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### How to warm up an email domain: the 21-day schedule we use
+
+A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
+
+### How many cold emails to send per day, per inbox and per domain
+
+The safe number of cold emails per inbox per day, how many inboxes per domain, and a worked example for reaching 3,000 or 30,000 prospects a month without losing the inbox.
+
+### Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
+
+What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+
+All guides
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
 URL: https://www.beleaded.com/blog/email-warmup/
 
 - Home
@@ -4496,7 +4733,7 @@ Warmup can't fix a bad list or a bad email. It buys you a fair hearing.
 Skip any of these and the warmup is wasted.
 
 - Use a separate domain. Never warm your company's main domain for cold email. Register a variant close to your brand and point it at your website. Our deliverability guide covers why.
-- Publish SPF, DKIM and DMARC. Gmail and Yahoo require them for bulk senders, and Outlook.com has rejected unauthenticated bulk mail since May 2025. DMARC at p=none is the minimum.
+- Publish SPF, DKIM and DMARC. Gmail and Yahoo require them for bulk senders, and Outlook.com has rejected unauthenticated bulk mail since May 2025. DMARC at p=none is the minimum. Record syntax, alignment, and the test are in the SPF, DKIM and DMARC setup guide.
 - Let DNS settle for 24 to 48 hours. Check records with a lookup tool before sending anything.
 - Fill in the profile. A real name, a photo, a signature with a title and the physical address CAN-SPAM requires.
 - Age the domain if you can. A domain registered two to four weeks before warmup starts behaves better than one bought yesterday.
