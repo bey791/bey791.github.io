@@ -5855,7 +5855,7 @@ DKIM signs every message with a key published in your DNS, so receivers can tell
 DMARC tells receivers what to do when SPF and DKIM fail, and where to send reports. p=none is the minimum Gmail, Yahoo and Microsoft accept. Move to quarantine once reports show all of your legitimate mail passing.
 
 ```
-v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com
+v=DMARC1; p=none; rua=mailto:dmarc@outreach.example
 ```
 
 Alignment is the part most setups miss: the domain in your From address has to match the domain that passes SPF or DKIM. A message can pass SPF on a sending tool's domain and still fail DMARC because it isn't aligned.

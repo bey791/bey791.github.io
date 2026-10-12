@@ -303,7 +303,7 @@
   var NET_ERR = "Couldn't check, try again";
   var NXDOMAIN = "This domain does not exist in DNS. Check the spelling.";
   var DMARC_NONE = "p=none meets Google and Yahoo's minimum and sends you reports. Move to quarantine once reports show all your real mail aligns.";
-  var DMARC_SUGGEST = "v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com";
+  var DMARC_SUGGEST = "v=DMARC1; p=none; rua=mailto:dmarc@outreach.example";
 
   function stripWww(host) {
     host = String(host || "").replace(/\.+$/, "").toLowerCase();
