@@ -59,6 +59,8 @@
 .is-pass .check-status{background:var(--lime);color:var(--on-lime)}
 .is-work .check-status{background:#F3E7B0;color:#3A3208}
 .is-miss .check-status{background:var(--night);color:var(--night-ink)}
+.is-fail{border-color:#8A2E16;background:#FDF6F3}
+.is-fail .check-status{background:#8A2E16;color:#fff}
 .checker-cta{margin-top:22px;padding:22px 24px;border-radius:var(--r-lg);background:var(--lime);color:var(--on-lime);display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px 18px}
 .checker-cta p{font-weight:600;font-size:1.05rem;max-width:40rem}
 @media (max-width:900px){.checker,.check-grid{grid-template-columns:1fr}}
@@ -168,7 +170,7 @@
     <nav aria-label="Breadcrumb"><ol class="crumbs"><li><a href="/">Home</a></li><li><span>Tools</span></li><li><span aria-current="page">Inbox setup checker</span></li></ol></nav>
     <p class="kicker">Free tool</p>
     <h1 id="h-inbox" style="margin-top:14px">Free inbox setup checker</h1>
-    <p class="lead">Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail: p=none only monitors, while quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.</p>
+    <p class="lead">Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none meets the minimum and sends reports, while quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.</p>
   </div>
 </section>
 
@@ -180,7 +182,7 @@
         <div class="fld">
           <label class="fld-l" for="inbox-domain">Domain</label>
           <input id="inbox-domain" type="text" inputmode="url" autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off" placeholder="example.com" required>
-          <small>Protocol and path are ignored. example.com and https://example.com/path both check example.com.</small>
+          <small>Protocol, path, and a leading www are ignored. https://www.example.com/path checks example.com.</small>
         </div>
         <div class="fld">
           <label class="fld-l" for="inbox-selector">DKIM selector <span class="checker-opt">(optional)</span></label>
@@ -299,6 +301,15 @@
 (function () {
   var NOT_CHECKED = "Not checked: add your selector (e.g. google, selector1)";
   var NET_ERR = "Couldn't check, try again";
+  var NXDOMAIN = "This domain does not exist in DNS. Check the spelling.";
+  var DMARC_NONE = "p=none meets Google and Yahoo's minimum and sends you reports. Move to quarantine once reports show all your real mail aligns.";
+  var DMARC_SUGGEST = "v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com";
+
+  function stripWww(host) {
+    host = String(host || "").replace(/\.+$/, "").toLowerCase();
+    if (host.slice(0, 4) === "www." && host.indexOf(".", 4) !== -1) host = host.slice(4);
+    return host;
+  }
 
   function normalizeDomain(raw) {
     var original = String(raw || "").trim();
@@ -308,7 +319,7 @@
     var candidate = hasProto ? original.trim() : "http://" + original.trim().replace(/^\/\//, "");
     try {
       var host = new URL(candidate).hostname;
-      if (host) return host.replace(/\.+$/, "").toLowerCase();
+      if (host) return stripWww(host);
     } catch (e) {}
     var s = lower.replace(/^[a-z][a-z0-9+.-]*:\/\//, "").replace(/^\/\//, "");
     var cut = s.search(/[/?#]/);
@@ -316,7 +327,7 @@
     var at = s.lastIndexOf("@");
     if (at !== -1) s = s.slice(at + 1);
     s = s.replace(/:\d+$/, "").replace(/\.+$/, "").trim();
-    return s;
+    return stripWww(s);
   }
 
   function validDomain(domain) {
@@ -406,7 +417,7 @@
   }
 
   function isDmarc(txt) {
-    return String(txt || "").toLowerCase().indexOf("v=dmarc1") !== -1;
+    return /^v=dmarc1(\s|;|$)/i.test(String(txt || "").trim());
   }
 
   function dmarcPolicy(txt) {
@@ -414,9 +425,35 @@
     return m ? m[1].toLowerCase() : "";
   }
 
-  function isDkim(txt) {
-    var s = String(txt || "").toLowerCase();
-    return s.indexOf("v=dkim1") !== -1 || s.indexOf("p=") !== -1;
+  function dkimPublicKey(txt) {
+    var m = String(txt || "").match(/(?:^|;)\s*p\s*=\s*([^;]*)/i);
+    if (!m) return null;
+    return m[1].replace(/\s+/g, "");
+  }
+
+  function spfLookupCount(record) {
+    var terms = String(record || "").trim().split(/\s+/);
+    var n = 0;
+    for (var i = 0; i < terms.length; i++) {
+      var term = terms[i];
+      if (!term) continue;
+      var q = term.charAt(0);
+      if (q === "+" || q === "-" || q === "~" || q === "?") term = term.slice(1);
+      term = term.toLowerCase();
+      if (!term || term === "v=spf1") continue;
+      if (term.indexOf("include:") === 0) n++;
+      else if (term === "a" || term.indexOf("a:") === 0 || term.indexOf("a/") === 0) n++;
+      else if (term === "mx" || term.indexOf("mx:") === 0 || term.indexOf("mx/") === 0) n++;
+      else if (term === "ptr" || term.indexOf("ptr:") === 0) n++;
+      else if (term.indexOf("exists:") === 0) n++;
+      else if (term.indexOf("redirect=") === 0) n++;
+    }
+    return n;
+  }
+
+  function lookupNote(n) {
+    var word = n === 1 ? "lookup" : "lookups";
+    return "This record uses " + n + " " + word + ", under the limit of 10.";
   }
 
   function mxCard(packet) {
@@ -452,15 +489,19 @@
     var plus = false;
     for (var j = 0; j < records.length; j++) if (endsPlusAll(records[j])) plus = true;
     if (records.length > 1 && plus) {
-      return card("spf", "SPF", "work", "Needs work", "More than one SPF record was found, and one ends with +all, so receivers may ignore them or trust any sender.", "Keep one SPF record and end it with ~all or -all.");
+      return card("spf", "SPF", "fail", "Fails", "More than one SPF record was found, and one ends with +all, so receivers may ignore them or trust any sender.", "Keep one SPF record and end it with ~all or -all.");
     }
     if (records.length > 1) {
-      return card("spf", "SPF", "work", "Needs work", "More than one SPF record was found, so receivers may ignore them.", "Keep a single TXT record that starts with v=spf1 and delete the others.");
+      return card("spf", "SPF", "fail", "Fails", "More than one SPF record was found, so receivers may ignore them.", "Keep a single TXT record that starts with v=spf1 and delete the others.");
+    }
+    var lookups = spfLookupCount(records[0]);
+    if (lookups > 10) {
+      return card("spf", "SPF", "work", "Needs work", "This SPF record uses at least " + lookups + " lookups, receivers return permerror over 10.", plus ? "Change +all to ~all or -all and remove include, a, mx, ptr, exists, or redirect terms until the record stays at 10 lookups or fewer." : "Remove include, a, mx, ptr, exists, or redirect terms until the record stays at 10 lookups or fewer.");
     }
     if (plus) {
-      return card("spf", "SPF", "work", "Needs work", "The SPF record ends with +all, which lets any server send mail as this domain.", "Change +all to ~all or -all so only your listed servers are allowed.");
+      return card("spf", "SPF", "work", "Needs work", "The SPF record ends with +all, which lets any server send mail as this domain.", "Change +all to ~all or -all so only your listed servers are allowed. " + lookupNote(lookups));
     }
-    return card("spf", "SPF", "pass", "Pass", "One SPF record lists the servers allowed to send mail for this domain.", "When you add a sending service, edit this record instead of adding a second one.");
+    return card("spf", "SPF", "pass", "Pass", "One SPF record lists the servers allowed to send mail for this domain.", "When you add a sending service, edit this record instead of adding a second one. " + lookupNote(lookups));
   }
 
   function dmarcCard(packet) {
@@ -469,14 +510,14 @@
     var all = packet.records || [];
     for (var i = 0; i < all.length; i++) if (isDmarc(all[i])) records.push(String(all[i]).trim());
     if (!records.length) {
-      return card("dmarc", "DMARC", "miss", "Missing", "No DMARC record was found, so receivers are not told what to do when a message fails checks.", "Add a TXT record at _dmarc that contains v=DMARC1 and sets p=quarantine or p=reject.");
+      return card("dmarc", "DMARC", "miss", "Missing", "No DMARC record was found, so receivers are not told what to do when a message fails checks.", "Add a TXT record at _dmarc that starts with " + DMARC_SUGGEST + ".");
     }
     if (records.length > 1) {
-      return card("dmarc", "DMARC", "work", "Needs work", "More than one DMARC record was found, so receivers may ignore them.", "Keep a single TXT record at _dmarc with v=DMARC1 and p=quarantine or p=reject.");
+      return card("dmarc", "DMARC", "work", "Needs work", "More than one DMARC record was found, so receivers may ignore them.", "Keep a single TXT record at _dmarc that starts with " + DMARC_SUGGEST + ".");
     }
     var policy = dmarcPolicy(records[0]);
     if (policy === "none") {
-      return card("dmarc", "DMARC", "work", "Needs work", "The DMARC policy is p=none, which is monitoring only and does not stop failing mail.", "Change p=none to p=quarantine or p=reject once your real mail is passing.");
+      return card("dmarc", "DMARC", "pass", "Pass", DMARC_NONE, "");
     }
     if (policy === "quarantine") {
       return card("dmarc", "DMARC", "pass", "Pass", "The DMARC policy is quarantine, so failing mail is treated as spam.", "Leave this DMARC record in place.");
@@ -484,7 +525,7 @@
     if (policy === "reject") {
       return card("dmarc", "DMARC", "pass", "Pass", "The DMARC policy is reject, so failing mail is blocked.", "Leave this DMARC record in place.");
     }
-    return card("dmarc", "DMARC", "work", "Needs work", "This DMARC record does not set a quarantine or reject policy.", "Set p=quarantine or p=reject on the TXT record at _dmarc.");
+    return card("dmarc", "DMARC", "work", "Needs work", "This DMARC record does not set a policy receivers can act on.", "Set the TXT record at _dmarc to start with " + DMARC_SUGGEST + ".");
   }
 
   function dkimCard(selector, packet) {
@@ -494,12 +535,20 @@
     }
     if (!packet || packet.error) return errCard("dkim", "DKIM");
     var found = false;
+    var revoked = false;
     var all = packet.records || [];
-    for (var i = 0; i < all.length; i++) if (isDkim(all[i])) found = true;
-    if (!found) {
-      return card("dkim", "DKIM", "miss", "Missing", "No DKIM record was found for this selector.", "Publish a TXT record at this selector under _domainkey with the key from your email provider.");
+    for (var i = 0; i < all.length; i++) {
+      var key = dkimPublicKey(all[i]);
+      if (key) found = true;
+      else if (key === "" || /^v=dkim1(\s|;|$)/i.test(String(all[i] || "").trim())) revoked = true;
     }
-    return card("dkim", "DKIM", "pass", "Pass", "A DKIM record was found for this selector, so receivers can verify mail signed with it.", "Turn signing on at your email provider if you have not already.");
+    if (found) {
+      return card("dkim", "DKIM", "pass", "Pass", "A DKIM record was found for this selector, so receivers can verify mail signed with it.", "Turn signing on at your email provider if you have not already.");
+    }
+    if (revoked) {
+      return card("dkim", "DKIM", "work", "Needs work", "This DKIM record has an empty p= value, so the key is revoked and cannot verify mail.", "Publish a TXT record with a non-empty p= value from your email provider.");
+    }
+    return card("dkim", "DKIM", "miss", "Missing", "No DKIM record was found for this selector.", "Publish a TXT record at this selector under _domainkey with the key from your email provider.");
   }
 
   function buildCards(selector, dns) {
@@ -521,8 +570,15 @@
     mxsFrom: mxsFrom,
     providerForHost: providerForHost,
     buildCards: buildCards,
+    spfLookupCount: spfLookupCount,
+    dkimPublicKey: dkimPublicKey,
+    rootDoesNotExist: function (mxPacket, txtPacket) {
+      return (!!mxPacket && mxPacket.status === 3) || (!!txtPacket && txtPacket.status === 3);
+    },
     NOT_CHECKED: NOT_CHECKED,
-    NET_ERR: NET_ERR
+    NET_ERR: NET_ERR,
+    NXDOMAIN: NXDOMAIN,
+    DMARC_NONE: DMARC_NONE
   };
   if (typeof window !== "undefined") window.InboxCheck = api;
 
@@ -542,10 +598,21 @@
 
   function settled(promise, map) {
     return promise.then(function (data) {
-      return { error: false, records: map(data) };
+      return { error: false, status: data.Status, records: map(data) };
     }, function () {
-      return { error: true, records: [] };
+      return { error: true, status: null, records: [] };
     });
+  }
+
+  function renderNxdomain() {
+    var root = document.getElementById("inbox-results");
+    root.replaceChildren();
+    var message = document.createElement("p");
+    message.className = "checker-summary";
+    message.setAttribute("data-check", "nxdomain");
+    message.textContent = NXDOMAIN;
+    root.appendChild(message);
+    root.hidden = false;
   }
 
   function render(domain, selector, cards) {
@@ -631,6 +698,10 @@
         : Promise.resolve({ error: false, records: [] });
       Promise.all([mxP, spfP, dmarcP, dkimP]).then(function (parts) {
         if (id !== runId) return;
+        if (api.rootDoesNotExist(parts[0], parts[1])) {
+          renderNxdomain();
+          return;
+        }
         render(domain, selector, buildCards(selector, {
           mx: parts[0],
           spf: parts[1],
