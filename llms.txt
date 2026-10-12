@@ -67,6 +67,7 @@ Key facts:
 
 ## Tools and reference
 - [Outbound calculator](https://www.beleaded.com/tools/outbound-calculator/): free tool that sizes inboxes, domains and expected meetings for a cold email program
+- [Inbox setup checker](https://www.beleaded.com/tools/inbox-setup-checker/): free browser check of SPF, DKIM, DMARC and MX for a domain. Nothing is stored.
 - [Glossary](https://www.beleaded.com/glossary/): 35 outbound and email marketing terms defined plainly
 - [FAQ](https://www.beleaded.com/faq/): answers to the questions we hear on first calls
 - [Contact](https://www.beleaded.com/contact/): book a 30-minute call or email sales@beleaded.com
