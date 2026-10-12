@@ -4528,7 +4528,7 @@ Add a new selector before you remove the old one, so forwards of older mail stil
 
 DMARC is one TXT record at _dmarc on the sending domain. For bulk senders, Google and Yahoo accept a policy of at least p=none. The record has to exist, and the message still has to pass, which means alignment.
 
-v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com
+v=DMARC1; p=none; rua=mailto:dmarc@outreach.example
 
 p=none monitors: receivers can still deliver failures and send reports. p=quarantine asks them to treat failures with suspicion. p=reject asks them to refuse failures.
 
@@ -4635,7 +4635,7 @@ Use a domain that is not the company's primary domain, publish SPF, DKIM, and DM
 
 In the first week, read the aggregate reports. You want your own aligned mail and nothing else on that domain. A second inbox on the same host usually keeps the same SPF record. A new domain needs the full set. A new sequencer needs a new selector, a fresh test, and only then removal of the old key.
 
-When placement drops, sample a live header again. A DNS edit, a rotated selector, or a tracking change can break a record that passed last month. Passing these checks is part of how infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. A pass does not forgive a bad list. The domains, the tests, and the ramp are part of the cold email program if you want them handled. You still approve the market and the copy.
+When placement drops, sample a live header again. A DNS edit, a rotated selector, or a tracking change can break a record that passed last month. Passing these checks is part of how our infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. A pass does not forgive a bad list. The domains, the tests, and the ramp are part of the cold email program if you want them handled. You still approve the market and the copy.
 
 ## FAQ
 
@@ -6092,7 +6092,7 @@ DKIM signs every message with a key published in your DNS, so receivers can tell
 DMARC tells receivers what to do when SPF and DKIM fail, and where to send reports. p=none is the minimum Gmail, Yahoo and Microsoft accept. Move to quarantine once reports show all of your legitimate mail passing.
 
 ```
-v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com
+v=DMARC1; p=none; rua=mailto:dmarc@outreach.example
 ```
 
 Alignment is the part most setups miss: the domain in your From address has to match the domain that passes SPF or DKIM. A message can pass SPF on a sending tool's domain and still fail DMARC because it isn't aligned.

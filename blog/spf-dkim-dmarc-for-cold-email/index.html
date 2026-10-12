@@ -184,7 +184,7 @@
 
 <h2 id="au-dmarc">Start DMARC at p=none</h2>
 <p>DMARC is one TXT record at <code>_dmarc</code> on the sending domain. For bulk senders, Google and Yahoo accept a policy of at least <code>p=none</code>. The record has to exist, and the message still has to pass, which means alignment.</p>
-<pre class="rec"><code>v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com</code></pre>
+<pre class="rec"><code>v=DMARC1; p=none; rua=mailto:dmarc@outreach.example</code></pre>
 <p><code>p=none</code> monitors: receivers can still deliver failures and send reports. <code>p=quarantine</code> asks them to treat failures with suspicion. <code>p=reject</code> asks them to refuse failures.</p>
 <p>Leave <code>adkim</code> and <code>aspf</code> unset. <a href="https://www.rfc-editor.org/rfc/rfc7489" target="_blank" rel="noopener">RFC 7489</a> defaults both to relaxed (<code>r</code>), so a subdomain can align with the organizational domain. Strict (<code>s</code>) requires an exact host match. Use it only after reports show every legitimate path already matches.</p>
 <p>The <code>rua</code> mailbox has to exist, preferably on the same organizational domain. A report address on a different organizational domain needs an authorization record there, or many reporters drop the report. Read those reports in the first week. Do not start an outreach domain at <code>p=quarantine</code> or <code>p=reject</code>. Tighten only after legitimate mail from that domain is aligned.</p>
@@ -265,7 +265,7 @@ dmarc=pass header.from=outreach.example</code></pre>
 <p>Warmup does not publish DNS, and DNS does not build a reputation. Publish the records first.</p>
 <p>Use a domain that is not the company's primary domain, publish SPF, DKIM, and DMARC, wait until a public lookup shows the TXT records, prove the Gmail header, then warm. The <a href="/blog/email-warmup/">warmup guide</a> waits 24 to 48 hours for caches, then runs a 21-day ramp per inbox. The <a href="/blog/how-many-cold-emails-per-day/">daily volume guide</a> is the ceiling after that. If authentication fails, pause and retest. More warmup days will not fix DNS.</p>
 <p>In the first week, read the aggregate reports. You want your own aligned mail and nothing else on that domain. A second inbox on the same host usually keeps the same SPF record. A new domain needs the full set. A new sequencer needs a new selector, a fresh test, and only then removal of the old key.</p>
-<p>When placement drops, sample a live header again. A DNS edit, a rotated selector, or a tracking change can break a record that passed last month. Passing these checks is part of how infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. A pass does not forgive a bad list. The domains, the tests, and the ramp are part of the <a href="/cold-email-agency/">cold email</a> program if you want them handled. You still approve the market and the copy.</p>
+<p>When placement drops, sample a live header again. A DNS edit, a rotated selector, or a tracking change can break a record that passed last month. Passing these checks is part of how our infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. A pass does not forgive a bad list. The domains, the tests, and the ramp are part of the <a href="/cold-email-agency/">cold email</a> program if you want them handled. You still approve the market and the copy.</p>
 
 <h2 id="au-faq">FAQ</h2>
 <div class="faq-list">
