@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-12.
+Source: https://www.beleaded.com/ . Updated 2026-10-13.
 
 ## Where to verify us
 
@@ -2609,6 +2609,10 @@ Everything here comes from programs we've built for clients: what we send, how w
 
 ## Cold email
 
+### Is cold email legal?
+
+A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, Australia's Spam Act, and Israel's anti-spam law, plus a compliance checklist.
+
 ### How to personalize cold emails at scale
 
 A practical guide to personalizing cold email at scale: ICP triggers, research tiers, variables, tools, and a QA check so the first line stays true.
@@ -2702,6 +2706,216 @@ The lead response time studies (HBR, MIT/InsideSales), what most companies actua
 ### SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
 
 What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/blog/is-cold-email-legal/
+
+- Home
+- Guides
+- Is cold email legal?
+
+Cold email
+
+# Is cold email legal?
+
+By Ahmad Khan, founder of Be Leaded. Updated October 13, 2026. 10 min read.
+
+The short answer: Cold email is legal in the United States if it follows CAN-SPAM: accurate headers, an honest subject, a clear ad disclosure, a postal address, and a working opt-out. The UK allows it to most companies without consent. Canada, Australia, and Israel start from consent. EU company inboxes depend on national law.
+
+- What the answer depends on
+- United States
+- European Union
+- United Kingdom
+- Canada
+- Australia
+- Israel
+- Compliance checklist
+- Role and personal addresses
+- Where the address came from
+- Legitimate interest
+- Deliverability
+- FAQ
+- Sources
+
+This is general information, not legal advice. The recipient's country decides which rule applies, and the rules change. Have counsel review a program before you send into a new country.
+
+## What the answer depends on
+
+Cold email is legal in some countries and consent-only in others. The test is the country of the person who receives the message, not the country on your invoice. A New York sender emailing Toronto, London, Sydney, or Tel Aviv has to meet that buyer's law as well as US law.
+
+The United States uses an opt-out statute. The United Kingdom allows marketing email to most companies without consent, and still regulates personal data in a named inbox. The European Union leaves company inboxes to each member state. Canada, Australia, and Israel start from consent, with narrow exceptions. A statute is not a spam filter. Mailbox-provider rules are in the deliverability guide. DNS records are in the SPF, DKIM and DMARC guide. Marketing texts are a different statute, in the SMS compliance guide.
+
+## United States: the CAN-SPAM Act
+
+The CAN-SPAM Act covers commercial email. The Federal Trade Commission defines that as any message whose primary purpose is advertising or promoting a commercial product or service, including email that promotes content on a commercial website. It is not limited to bulk mail, and the FTC is explicit that there is no exception for business-to-business email. A first email asking for a meeting is commercial. A password reset or a shipping notice is a narrow transactional category, which the FTC reads strictly.
+
+CAN-SPAM does not require prior consent. Headers must identify who initiated the message. The subject must reflect the content. You must disclose, clearly and conspicuously, that the message is an advertisement, and include a valid physical postal address: a current street address, a U.S. Postal Service post office box, or a private mailbox registered with a commercial mail receiving agency. The opt-out must let people stop all marketing email, at no fee, through a reply or a single page. It must work for at least 30 days, and you must honor it within 10 business days. You cannot then sell or transfer the address, except to a vendor hired to help you comply. The promoted company and the sending company may both be responsible.
+
+The FTC states that each separate email in violation is subject to penalties of up to $53,088. Its September 15, 2026 notice says 2025 civil penalty levels continue to apply, matching the compliance guide and 16 CFR 1.98. One suppression file, checked by every domain and every vendor before a send, is how the 10-business-day rule holds up in a sequencer.
+
+## European Union: GDPR and the ePrivacy Directive
+
+The GDPR regulates personal data, and a work address that names a person is personal data. Article 6(1)(f) allows processing necessary for legitimate interests unless the person's interests or rights override them. Recital 47 says direct marketing may be a legitimate interest, which is why B2B teams use the phrase. You still name the interest, show that email is necessary, and balance it. Article 21 gives a right to object to direct marketing, and an objection means you stop.
+
+The ePrivacy Directive regulates the message. Article 13 requires prior consent for marketing email to natural persons, with a soft opt-in for your own similar products when you collected the address during a sale, told the person, and offer a free objection at collection and in every later message. A bought list does not fit. Article 13(5) leaves company subscribers to national law. Legitimate interest does not switch that national rule off. Check the recipient's country before the first send.
+
+Article 83 sets the fine cap for infringements of the basic processing principles, including Article 6, at 20 million euros or 4% of total worldwide annual turnover of the preceding financial year, whichever is higher.
+
+## United Kingdom: PECR and legitimate interests
+
+Under the Privacy and Electronic Communications Regulations 2003, the Information Commissioner's Office says the electronic mail rule does not apply to corporate subscribers: companies, limited liability partnerships, Scottish partnerships, and certain government bodies. Sole traders and some partnerships are individual subscribers. They need consent, or the soft opt-in. The ICO's mail guidance limits that soft opt-in to people who bought from you, or negotiated a purchase, and who were offered an opt-out at collection and in every message. A bought list does not qualify. If you cannot tell which subscriber you have, treat the address as an individual.
+
+An employee address at a limited company is still a corporate subscriber, because the subscriber is the employer, and it is personal data when it names the person. Where PECR does not require consent, the ICO says legitimate interests will often be the UK GDPR basis, with no absolute rule. Do not disguise who you are, and include a valid opt-out address. The ICO says PECR does not in terms force you to honor a corporate opt-out, and that you should honor it anyway. Where the address is personal data, the right to object is mandatory.
+
+## Canada: CASL
+
+Canada's Anti-Spam Legislation prohibits a commercial electronic message without consent and without the prescribed identification and unsubscribe. Section 12 ties that rule to a computer system in Canada used to send or access the message. A recipient opening the mail in Canada is enough. The sender has to prove consent.
+
+Express consent does not expire until it is withdrawn, and the CRTC says you keep the record for as long as you contact the person. The record should show who agreed, when, your name, a mailing address, a way to reach you such as an email address or a web address, and that they can withdraw. Implied consent from an existing business relationship can run two years after a purchase or written contract, or six months after an inquiry. An abandoned cart is not a purchase.
+
+Conspicuous publication works only if the person published the address, it is not marked as closed to unsolicited messages, and the message matches their role. The CRTC uses a chief operating officer sent an assistant course as the failure, and a marketing officer sent a course about their own job as the case that can pass. A reseller's copy of a public address does not create consent. Contact details and the unsubscribe must stay valid for 60 days, and you honor the request within 10 business days. The maximum penalty per violation is $1 million for an individual and $10 million for a business.
+
+## Australia: the Spam Act 2003
+
+The Australian Communications and Media Authority requires consent before a commercial electronic message, including when a vendor sends it, and says a message sent only to ask for consent is itself marketing. Schedule 2 treats consent as express or inferred from the relationship, and says publication of an address is not consent by itself. A published work address can count only when it meets the Schedule's tests and the message is relevant to the work.
+
+Identify yourself, include contact details, and, if a vendor sends, still name the business that authorized the message. The unsubscribe must be clear, work for at least 30 days, add no fee, and skip extra personal data or a login. ACMA says you honor it within 5 working days, and you must be able to prove the consent.
+
+## Israel: Communications Law Amendment 40
+
+Amendment 40 added section 30A to the Communications Law (Telecommunications and Broadcasting), 1982. The Knesset text bars an advertisement by email, text, fax, or automated dialing without prior explicit written consent. Electronic writing counts.
+
+A one-time message to a business, asking only for consent to future advertising, is not a breach. Israeli commentary says that message has to be the request, not the pitch. The other path is an existing customer: details collected during a purchase or the negotiations, a warning that they would be used for advertisements, a chance to refuse, and later messages only about similar products, still with a simple refusal. English summaries describe both paths.
+
+Label the message as an advertisement, name the advertiser, and explain the refusal. The Knesset text allows damages without proof of loss, up to 1,000 new shekels per message. The English summary adds that recipients may sue, including by class action, and that officers, including marketing managers, can be personally liable. The business exception does not cover a private person's inbox.
+
+## A compliance checklist for B2B senders
+
+Use the strictest country on the list as the default, and relax a rule only where counsel says the recipient's law allows it.
+
+- Accurate headers and sender identity. From name and address identify the business. Reply-To is read by a person. The domain is one you control.
+
+- Honest subject lines. The subject matches the message. It does not fake a reply, an invoice, or an introduction.
+
+- A commercial disclosure. Say it is an advertisement, in a place a person will see. In Israel, use the statutory label.
+
+- A physical postal address. Use a street address that receives mail. A US post office box counts only in the form the FTC describes.
+
+- A working opt-out, honored promptly. One step, no fee, no extra data, working at least 30 days, processed within 10 business days. Canada: mechanism valid 60 days. Australia: 5 working days. A late stop becomes a complaint.
+
+- A suppression list. One file, checked before every send. Opt-outs are not sold. A refusal follows the person onto the next domain.
+
+- Role address or personal address. Decide which you have before you pick a lawful basis.
+
+- Data sourcing and documentation. Record the source, the date, and why this offer fits this role.
+
+- A legitimate interest assessment. If you rely on that basis, write the three parts before the send and keep them with the campaign.
+
+## Role addresses and personal addresses
+
+A role address such as sales@ or info@ does not name a person. In the UK, email to a limited company is email to a corporate subscriber either way, but a named employee address is still personal data and still needs a lawful basis. Sole traders and some partnerships are individual subscribers. If the record does not say which kind of business it is, treat it as an individual. In Canada, a public address fails if the offer does not match the role. In Israel, the one-time request is only for a business. Consumer webmail does not become B2B because a vendor added a job title.
+
+## Where the address came from
+
+Record the source before the address enters a sequence. A page on the company's site, a conversation the person started, and a vendor file with a stated collection method are different records. A purchased file is the weak case wherever consent is required. The CRTC says a third party that republishes addresses does not create conspicuous-publication consent. ACMA puts the burden of proof on the sender. A vendor privacy policy does not finish a GDPR balancing test. Keep the supplier, the date, any "do not email" statement, and the reason the offer fits. Screen suppression before the file is loaded. If you cannot explain the source in one sentence, do not send.
+
+## The legitimate interest assessment
+
+The ICO's three-part test is the working version for UK sends, and the same shape as Article 6(1)(f) where national law allows the email. Purpose: a real interest, such as offering something this role buys. Holding the address is not an interest, and Recital 47 still requires a campaign-specific reason. Necessity: a short list of matching roles, not every job title in a country, with a refusal in the first message. Balance: relevant offer, no sensitive data, a visible opt-out, suppression that works, and no further mail after an objection. If the person would not expect the email, do not send. Keep the paragraph with the brief. A spreadsheet label with nothing behind it does not answer a regulator.
+
+## How compliance shows up in the inbox
+
+A lawful message can still be filtered, and an unlawful one draws the complaints that make filtering worse. People who asked to stop, then got another email, use the spam button. Gmail and Yahoo publish complaint thresholds and expect one-click unsubscribe on bulk marketing mail. Those rules stay in the deliverability guide. A dead opt-out is how a legal miss becomes a placement miss.
+
+An honest subject meets CAN-SPAM and reduces the "this is not what I opened" complaint. SPF, DKIM, and DMARC prove the domain. They do not prove consent or replace the postal address. Publish them before warmup, using the authentication guide. A suppression list that every inbox checks is part of how our infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. List rules and the opt-out are part of the cold email program if you want them handled. You still approve the market and the message.
+
+## FAQ
+
+**Is cold email legal in the United States?**
+
+Yes. CAN-SPAM allows commercial email, including business-to-business email, without prior consent. You still need accurate headers, an honest subject, a clear ad disclosure, a physical postal address, and an opt-out honored within 10 business days. The FTC caps penalties at $53,088 per email in violation.
+
+**Does the GDPR ban cold email in the EU?**
+
+No. A named work address is personal data and needs a lawful basis. Legitimate interests can cover direct marketing after a balancing test, and people can object. National rules still decide whether marketing email in that country needs consent. Legitimate interest does not replace them.
+
+**Can I cold email UK companies without consent?**
+
+Yes for corporate subscribers: companies, limited liability partnerships, Scottish partnerships, and certain government bodies. Identify yourself, offer a valid opt-out, and keep a legitimate interests assessment when the address names a person. Sole traders and some partnerships need consent or the soft opt-in.
+
+**Is cold email legal in Canada?**
+
+Only with express or implied consent. CASL applies if a computer in Canada sends or accesses the message. A published address implies consent only when that person published it, it is not closed to unsolicited mail, and the message matches their role. The CRTC maximum is $10 million per violation for a business and $1 million for an individual.
+
+**What should a cold email compliance checklist include?**
+
+Accurate sender identity, an honest subject, a clear ad disclosure, a physical postal address, a working opt-out honored on time, one suppression list checked before every send, a record of the address source, and a written legitimate interest assessment when you use that basis.
+
+**Does following cold email law help deliverability?**
+
+It reduces the complaints that hurt placement. People who opted out and still get mail use the spam button. An honest subject and a visible opt-out cut those complaints. SPF, DKIM, and DMARC are covered in the authentication guide. Mailbox-provider unsubscribe rules are covered in the deliverability guide.
+
+## Sources
+
+- Federal Trade Commission, CAN-SPAM Act: A Compliance Guide for Business
+
+- Federal Trade Commission, Civil Penalty Inflation Adjustments (September 15, 2026)
+
+- eCFR, 16 CFR 1.98, adjustment of civil monetary penalty amounts
+
+- EUR-Lex, Regulation (EU) 2016/679 (GDPR), Articles 6, 21, and 83, Recital 47
+
+- EUR-Lex, Directive 2002/58/EC (ePrivacy Directive), Article 13
+
+- ICO, Business-to-business marketing
+
+- ICO, Electronic mail marketing
+
+- ICO, Sending direct marketing: choosing your lawful basis
+
+- CRTC, Frequently Asked Questions about Canada's Anti-Spam Legislation
+
+- Justice Laws, Canada's Anti-Spam Legislation
+
+- ACMA, Avoid sending spam
+
+- Spam Act 2003 (Cth), Schedule 2 (consent)
+
+- Knesset, Communications Law Amendment 40 (section 30A)
+
+- Law.co.il, Israeli anti-spam law, the one-time business request
+
+- Alon Saposhnik, Sending unsolicited commercial emails under Israeli law
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
+
+What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+
+### SPF, DKIM and DMARC setup for cold email
+
+How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
+
+### Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
+
+What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+
+All guides
 
 ## Tell us who you want to meet.
 
@@ -6063,7 +6277,7 @@ Two details catch people out. First, Gmail's bulk sender status never expires: o
 
 Yes. Mailbox providers judge how mail is sent and how recipients react to it, not whether the recipient asked for it. A cold email that isn't authenticated, or that draws complaints, is filtered like any other mail.
 
-In the US, cold email is also commercial email under the CAN-SPAM Act, and the Federal Trade Commission is explicit that the law makes no exception for business-to-business email. Every message needs accurate header information, a subject line that isn't deceptive, a valid physical postal address and a clear way to opt out, and opt-outs must be honored within 10 business days. Each email that breaks the rules can draw a penalty of up to $53,088. Rules are stricter in the EU, the UK and Canada, so check them before you send there.
+In the US, cold email is also commercial email under the CAN-SPAM Act, and the Federal Trade Commission is explicit that the law makes no exception for business-to-business email. Every message needs accurate header information, a subject line that isn't deceptive, a valid physical postal address and a clear way to opt out, and opt-outs must be honored within 10 business days. Each email that breaks the rules can draw a penalty of up to $53,088. Rules are stricter in the EU, the UK and Canada, so check them before you send there. Country-by-country rules and a sender checklist are in is cold email legal.
 
 ## Send from separate domains
 
