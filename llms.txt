@@ -77,6 +77,7 @@ Key facts:
 - [Pricing](https://www.beleaded.com/pricing/): programs start from $2,000 a month; what's included, what changes the price, and how it compares with hiring an SDR
 
 ## Guides
+- [Is cold email legal?](https://www.beleaded.com/blog/is-cold-email-legal/): A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, Australia's Spam Act, and Israel's anti-spam law, plus a compliance checklist.
 - [SPF, DKIM and DMARC setup for cold email](https://www.beleaded.com/blog/spf-dkim-dmarc-for-cold-email/): How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
 - [How to personalize cold emails at scale](https://www.beleaded.com/blog/personalize-cold-emails-at-scale/): A practical guide to personalizing cold email at scale: ICP triggers, research tiers, variables, tools, and a QA check so the first line stays true.
 - [How to build a B2B lead list](https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/): A practical checklist for a targeted, verified B2B lead list for cold email and LinkedIn: ICP, filters, decision-makers, verification, catch-alls, and list size.
