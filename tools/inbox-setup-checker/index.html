@@ -496,7 +496,7 @@
     }
     var lookups = spfLookupCount(records[0]);
     if (lookups > 10) {
-      return card("spf", "SPF", "work", "Needs work", "This SPF record uses at least " + lookups + " lookups, receivers return permerror over 10.", plus ? "Change +all to ~all or -all and remove include, a, mx, ptr, exists, or redirect terms until the record stays at 10 lookups or fewer." : "Remove include, a, mx, ptr, exists, or redirect terms until the record stays at 10 lookups or fewer.");
+      return card("spf", "SPF", "work", "Needs work", "This SPF record uses at least " + lookups + " lookups. Receivers return permerror over 10.", plus ? "Change +all to ~all or -all and remove include, a, mx, ptr, exists, or redirect terms until the record stays at 10 lookups or fewer." : "Remove include, a, mx, ptr, exists, or redirect terms until the record stays at 10 lookups or fewer.");
     }
     if (plus) {
       return card("spf", "SPF", "work", "Needs work", "The SPF record ends with +all, which lets any server send mail as this domain.", "Change +all to ~all or -all so only your listed servers are allowed. " + lookupNote(lookups));
