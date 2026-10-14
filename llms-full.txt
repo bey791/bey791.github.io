@@ -5177,7 +5177,7 @@ Deliverability
 
 # How to warm up an email domain: the 21-day schedule we use
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 4 min read.
 
 The short answer: Warming up an email domain means sending a small, rising volume of real-looking email from a new inbox for two to three weeks so mailbox providers learn it's legitimate before it carries cold volume. Set up SPF, DKIM and DMARC first, start at 5 to 10 emails a day, add a few each day, keep warmup running at a low level after launch, and never let a new inbox send more than about 30 to 50 cold emails a day. The full schedule is below.
 
@@ -6499,7 +6499,7 @@ URL: https://www.beleaded.com/cold-email-deliverability/
 
 # Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026.
 
 The short answer: authenticate every sending domain with SPF, DKIM and DMARC, keep your spam complaint rate under 0.1% and never let it reach 0.3%, give every recipient an easy way to opt out, send from separate domains warmed for two to three weeks, verify every address before it goes out, and keep daily volume per inbox low. Gmail and Yahoo have required this of bulk senders since February 2024. Microsoft began rejecting non-compliant mail to Outlook.com addresses on May 5, 2025, and Gmail began rejecting non-compliant traffic in November 2025.
 
