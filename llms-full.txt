@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-09.
+Source: https://www.beleaded.com/ . Updated 2026-10-14.
 
 ## Where to verify us
 
@@ -38,7 +38,6 @@ Every line on this map is something we run for you: the research, the sending in
 Programs run for
 
 - B2B SaaS
-- Israeli tech companies
 - IT services
 - M&A advisory
 - Business brokerage
@@ -398,7 +397,7 @@ Accounts and contacts matched to your buyer, verified before a single email goes
 
 ### Sending infrastructure
 
-Separate domains and inboxes with SPF, DKIM and DMARC, warmed for two to three weeks and checked every morning.
+Separate domains and inboxes with SPF, DKIM and DMARC, warmed for two to three weeks and checked every morning. The record setup is in the SPF, DKIM and DMARC guide.
 
 ### Sequences written for your market
 
@@ -1155,10 +1154,6 @@ The buyer, the angle and the channel change from one industry to the next. These
 
 Lists by tech stack and headcount, sequences around the problem, qualified demos.
 
-### Israeli tech companies
-
-US buyer meetings for Israeli B2B SaaS, cyber, and tech selling into the US.
-
 ### IT services and MSPs
 
 Regional lists of 20-to-200-person companies, angles tied to deadlines.
@@ -1271,99 +1266,6 @@ Often, yes. Outbound reaches the accounts that will never find you through self-
 ## Tell us who you want to meet.
 
 Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
-
-Or email sales@beleaded.com
-
-
----
-
-URL: https://www.beleaded.com/industries/israeli-tech-companies/
-
-- Home
-- Industries
-- Israeli tech companies
-
-Israeli tech companies
-
-# US meetings for Israeli tech companies
-
-US buyers do not know your brand yet. Your late afternoon is their morning. A US SDR hire costs a median $80,000 a year on-target before benefits, tools, data, and management, and the average ramp is 3.0 months. You need qualified conversations with US decision makers without building that seat first.
-
-Book a 30-minute call
-
-Be Leaded is a New York B2B marketing agency founded by Ahmad Khan. We run cold email and appointment setting for teams that already have someone to take the meeting. Programs start from $2,000 a month. Most go live in about three weeks.
-
-## Who this page is for
-
-Founders, CEOs, VPs of Sales, and heads of growth at Israeli B2B SaaS, cyber, and tech companies selling into the US. You have a clear buyer and an offer you can explain in two sentences. You do not yet want to own US domains, data tools, inbox warmup, and a full-time SDR.
-
-We already work with clients in the US and Israel. We do not publish client names unless a client agrees otherwise.
-
-## How Israeli teams work with us
-
-We work with Israeli teams Sunday to Thursday, Israel time. Campaign sends land in US buyers' working hours, typically 8 AM to 5 PM in their time zone. Replies are handled the same business day.
-
-## How it works
-
-Same path as our other outbound programs.
-
-Day 1: Strategy call. Thirty minutes. We learn your US buyer, your offer, and what counts as a qualified meeting: title, company size, industry, and the problem that person needs solved. Meetings that miss that definition do not get booked.
-
-Days 2 to 14: Build. Separate sending domains with SPF, DKIM, and DMARC. Two to three weeks of warmup. A verified list matched to your US ICP. Plain-text sequences you approve before anything sends. Your company domain never carries cold volume.
-
-Week 3: Launch. Campaigns go live on a steady ramp. Email from warmed inboxes. LinkedIn from your team's own profiles when it helps, timed with the sequence. Positive replies go to booking. Not-nows go into next quarter's follow-up.
-
-Every week after: Report and improve. Sends, replies, and meetings, plus what we are changing next. You take the meeting and close.
-
-## Proof from programs we already run
-
-Figures as of September 2026, published on beleaded.com. Client names stay private unless a client agrees otherwise.
-
-- Sending capacity of 400,000+ emails a day across our infrastructure, with a 99% delivery rate across the programs we run.
-- 30+ client programs across B2B, advisory, and consumer brands.
-- Newsletter programs average a 49% open rate.
-- Ahmad scaled an outbound operation from 50,000 to 400,000 emails a day while raising deliverability from about 88% to 99% or better. Response rates on that work ran at 2% to 3%.
-- On a software engagement aimed at US fabricators, we built a 2,000-contact decision-maker list and ran LinkedIn sequences across three audiences, plus a newsletter for each.
-- A typical B2B cold email campaign replies at 3% to 5% of emails sent and books five to eight meetings per 1,000 emails. Your range depends on market and offer. We give you a realistic range on the first call, not a guarantee.
-
-## Cost versus hiring a US SDR
-
-| | In-house US SDR | Be Leaded |
-| --- | --- | --- |
-| Cost | Median on-target earnings of $80,000 a year, before benefits, tools, data, and management | From $2,000 a month, with tools, data, and infrastructure included |
-| Time to first meetings | Average ramp of 3.0 months | Live in about three weeks |
-| Continuity | Average tenure of 1.9 years, with 40% median annual attrition | A team that stays on your program |
-| Infrastructure | You buy and maintain domains, inboxes, data, and tools | Built, warmed, and monitored for you |
-
-SDR figures from The Bridge Group's 2025 SDR report, as published on our pricing and outsourced SDR pages. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings.
-
-## Pricing
-
-Programs start from $2,000 a month. Sending domains, inboxes, warmup, list building, verification, sequences, LinkedIn beside email when useful, reply handling, booking, and weekly reporting sit inside the fee. You do not buy tools, data, or inboxes on your side. An exact number comes after a 30-minute call.
-
-Appointment setting, Outsourced SDR team, B2B SaaS, Pricing, Work, About.
-
-## Questions
-
-**Do you work on Israel time?**
-
-Yes. We work with Israeli teams Sunday to Thursday, Israel time. Sends go out in US buyers' working hours. Replies are answered the same business day.
-
-**Will cold email hurt our company domain?**
-
-No. We send from separate domains that we set up, warm, and monitor. Your company domain never carries cold volume.
-
-**How soon will we see meetings?**
-
-Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. How many replies become meetings depends on your market and your offer. You get a realistic range on the first call.
-
-**What does it cost?**
-
-Programs start from $2,000 a month. Infrastructure, lists, copy, and reply handling are included. You will get an exact number after a 30-minute call.
-
-## Book the call
-
-Thirty minutes with Ahmad. You leave with a clear picture of your US market, what a campaign would look like, and what it would cost.
 
 Or email sales@beleaded.com
 
@@ -2609,6 +2511,10 @@ Everything here comes from programs we've built for clients: what we send, how w
 
 ## Cold email
 
+### Is cold email legal?
+
+A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, and Australia's Spam Act, plus a compliance checklist.
+
 ### How to personalize cold emails at scale
 
 A practical guide to personalizing cold email at scale: ICP triggers, research tiers, variables, tools, and a QA check so the first line stays true.
@@ -2646,6 +2552,10 @@ What a good cold email reply rate is in 2026, why published benchmarks range fro
 An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
 
 ## Deliverability
+
+### Why are my cold emails going to spam
+
+Why are my cold emails going to spam? Causes and fixes: authentication, warmup, volume, lists, complaints, links, blocklists, and the order to fix them.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -2702,6 +2612,452 @@ The lead response time studies (HBR, MIT/InsideSales), what most companies actua
 ### SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
 
 What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/blog/cold-emails-going-to-spam/
+
+- Home
+- Guides
+- Cold emails going to spam
+
+Deliverability
+
+# Why are my cold emails going to spam
+
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 10 min read.
+
+The short answer: Pause the inbox that is landing in spam. On a message you received, confirm SPF, DKIM, and DMARC pass and align with the From domain, then check blocklists, warmup, volume per inbox, bounces, spam complaints, and links or tracking. Fix the first failure, retest on mailboxes you control, and only then send more.
+
+- Spam folder or a bounce
+- Authentication
+- New domains and warmup
+- Volume per inbox
+- Lists, bounces, and traps
+- Spam complaints
+- Links, tracking, images
+- Copy that gets reported
+- Shared or blocklisted domains
+- The company domain
+- One-click unsubscribe
+- Test inbox placement
+- Check blocklists
+- Fix order
+- FAQ
+- Sources
+
+## Spam folder or a bounce
+
+Cold email is in spam when the server accepted the message and filed it as unwanted. Gmail calls that folder Spam. Outlook.com calls it Junk. A bounce means the server refused it. Google's email sender guidelines say unauthenticated mail might be marked as spam or rejected with a 5.7.26 error. dmarcian documents Microsoft's May 5, 2025 rule: domains sending 5,000 or more messages a day to Outlook.com, Hotmail, and Live must pass SPF, DKIM, and DMARC alignment, or see rejection 550 5.7.515. Treat those codes as refusals and start with authentication. The table is for mail that arrived.
+
+- Authentication-Results shows a fail. SPF, DKIM, or DMARC alignment on the From domain
+
+- Authentication passes, and the domain or inbox is new. Warmup, then a fresh seed test
+
+- Placement dropped after you raised the daily count. Volume per inbox, and deferrals such as Gmail 4.7.28
+
+- Hard bounces rose on this list. Verification, suppression, and whether the list was purchased
+
+- Postmaster Tools spam rate is climbing. Complaints, who you mail, and the opt-out
+
+- A plain seed reaches the inbox and the tracked copy does not. Links, the tracking host, images, attachments
+
+- Spamhaus or another blocklist returns a hit. Stop. Remove the listing, or retire the domain or IP
+
+- Company mail is getting filtered too. Cold email going out from the company domain
+
+
+## Authentication and alignment
+
+A failed SPF, DKIM, or DMARC check can file good copy in spam. From February 1, 2024, senders to personal Gmail accounts need SPF or DKIM, a matching PTR record, TLS, and a Postmaster Tools spam rate below 0.3%. Above 5,000 messages a day, Gmail also requires both SPF and DKIM, DMARC (p=none is allowed), and From alignment. Yahoo's sender best practices require SPF and DKIM for bulk senders, DMARC at least at p=none with a pass, and the same alignment.
+
+The usual miss is alignment. SPF can pass on the tool's Return-Path while DMARC fails for your From domain. DKIM fails the same way when d= is the tool. Open the spam copy, choose Show original in Gmail, and read Authentication-Results. You want spf=pass, dkim=pass, and dmarc=pass on your From domain. Syntax and the full test are in the SPF, DKIM and DMARC setup guide. Fix a fail before you change volume or copy. Google also requires the sending IP to match the PTR hostname, and that hostname to point back to the same IP. Check it in Google Admin Toolbox Dig.
+
+
+## New domains and skipped warmup
+
+A new domain has no history, so a burst of cold email is easy to file as spam. Warmup builds history. It does not publish DNS, and it does not clear a blocklist. Pause cold volume if the inbox is new, if warmup never ran, or if you turned it off on launch day. Confirm authentication, then follow the warmup schedule. Add cold email only after warmup spam placement has fallen and a small live test reaches the inbox. Google says to raise volume slowly and to cut it when mail bounces or defers. More warmup days will not fix a bad list.
+
+
+## Too much mail from one inbox
+
+One inbox can outrun its reputation. Google tracks limits per domain and per IP, and on a shared IP every sender shares the quota. Past that quota, Gmail typically rejects with SMTP 4.7.28 and says to wait at least 10 minutes, then retry from one connection. Google also warns that doubling volume suddenly can cause rate limits or a reputation drop. Lower the daily count on the inbox in spam, and add inboxes when you need reach. The ceiling is in how many cold emails to send per day.
+
+
+## Bad lists, bounces, and spam traps
+
+Bounces tell the provider the list is stale, scraped, or purchased. Google says not to buy addresses, and that people who did not ask for the mail may report it as spam. Yahoo says to remove invalid recipients promptly. Suppress every hard bounce on every domain before the next send. If the list was bought or never verified, rebuild it. Who belongs on it, plus verification and catch-all domains, is in the B2B lead list guide. A catch-all accepts every address, so hold those rows for a smaller send.
+
+Spam traps are addresses that should never get mail. They catch harvested lists and dead addresses that were repurposed. The usual sign is a blocklist hit or a placement drop, without a normal bounce. Stop, suppress that source list, and verify the rest.
+
+
+## Spam complaints
+
+A complaint is a click on report spam. Google says frequent reports make later mail more likely to land in spam and can lower domain reputation. In Google Postmaster Tools, keep the rate below 0.10% and avoid ever reaching 0.30% or higher. Yahoo requires a rate below 0.3%. With DKIM on, Sender Hub can mail you each complaint. Yahoo's rate is based on mail that reached the inbox.
+
+Postmaster Tools stays empty until the domain is verified and Gmail volume is high enough. Use the seed test, and treat a run of report spam events as the same warning. Suppress complainers on every domain. The postal address and the opt-out are in the cold email law guide. Pause and change who you mail before you resume.
+
+
+## Links, tracking, images, and attachments
+
+The message itself can be the cause. Google requires RFC 5322 formatting. Send one plain text test from the same From domain, with no images, no attachments, and no link. If that copy reaches the inbox and the campaign copy does not, add one element back at a time.
+
+Open pixels and rewritten links change the body. If they run after DKIM signs, DKIM fails. The authentication guide covers that. A shared tracking hostname is a separate failure. Google says one sender on a shared IP affects the others, and a tracker used by many accounts works the same way. Put tracking on a domain you control, or turn it off until placement recovers. Skip public link shorteners, use your own URL, and leave attachments off until someone replies. The deliverability guide is the setup version of these rules.
+
+
+## Copy that gets reported
+
+Google says spoofing another sender can get mail marked as spam. Yahoo points at the CAN-SPAM ban on false headers and deceptive subjects. An honest subject, a real From name, and one true detail about the recipient draw fewer reports than a pitch that hides the ask.
+
+- A subject that promises a reply, a file, or a relationship that does not exist.
+
+- All capitals, stacked punctuation, or a first name repeated across thousands of sends with nothing else that is true of that person.
+
+- A newsletter layout on the first cold touch.
+
+- The same paragraph leaving many inboxes on one domain in the same hour.
+
+- No opt-out, so report spam is the only control the recipient trusts.
+
+Edit copy after authentication passes. If the plain seed reaches the inbox and the template does not, the template is what you change. Subject patterns are in the subject line guide.
+
+
+## Shared, aged, or blocklisted domains
+
+Google says every sender on a shared IP shares its reputation, and that mail from a blocklisted IP is more likely to be marked as spam. Look that IP up before you blame your copy. A domain you bought used can still carry spam, phishing, or a blocklist hit from the previous owner.
+
+Spamhaus splits this work. The Domain Blocklist (DBL) covers low reputation domains. IP lists include the Spamhaus Blocklist (SBL), Exploits Blocklist (XBL), Policy Blocklist (PBL), and Combined Spam Sources (CSS). Many filters query the combined IP list, ZEN. A hit can mean a reject or an accept that still lands in spam. Look the domain up before warmup. A current listing means you register a different domain. Warm a previously listed domain only after the lookup is clear.
+
+
+## Sending from the company domain
+
+Cold email on the domain you use for invoices and internal mail ties that reputation to the campaign. Yahoo says to separate bulk mail from user and transactional mail, because each IP and DKIM domain has its own reputation. Use a separate domain with its own SPF, DKIM, and DMARC. The deliverability guide explains the split. If the company domain is already in spam, stop cold sends on it and move the campaign to a new domain that passes a seed test first.
+
+
+## One-click unsubscribe for bulk senders
+
+Above 5,000 messages a day to Gmail, Google requires one-click unsubscribe on marketing and subscribed messages, plus a visible unsubscribe link. The headers are List-Unsubscribe and List-Unsubscribe-Post set to List-Unsubscribe=One-Click, per RFC 8058. Yahoo requires a list-unsubscribe header for bulk senders, recommends that POST method, and says to honor unsubscribes within 2 days. Below the Gmail bulk line, US commercial email still needs a working opt-out and a postal address. Use the law guide for that checklist. Without an opt-out, report spam is the button people use.
+
+
+## How to test inbox placement
+
+Change one variable, then measure it on the same mailboxes.
+
+- Use mailboxes you control at Gmail, Yahoo, and Outlook.com, plus a Workspace or Microsoft 365 mailbox if buyers read mail there.
+
+- Send the campaign message as the sequencer sends it, tracking included. Send a second copy in plain text with tracking off.
+
+- Record inbox, spam or junk, or missing. If a copy is missing, read the bounce log for 5.7.26, 550 5.7.515, and 4.7.28 before you assume it is in spam.
+
+- On Gmail, open Show original. Require spf=pass, dkim=pass, and dmarc=pass, and match the From domain to the domain that passed.
+
+- With real Gmail volume, read spam rate and domain and IP reputation in Postmaster Tools. Yahoo Sender Hub covers complaints once DKIM signs. Microsoft SNDS covers Outlook.com for IPs you may view.
+
+- Fix authentication, then blocklists, then volume and the list, then the message. Send again to the same mailboxes.
+
+Keep the seed test small, and hold prospect mail while the inbox fails it.
+
+
+## How to check blocklists
+
+Look up every name on the message, not only the From domain.
+
+- The From domain, at the Spamhaus reputation check.
+
+- The tracking hostname and every domain in a link. A listed tracker can pull a clean From domain into spam.
+
+- The sending IP, from Received headers or the sending tool.
+
+- The IP and domain again at the MX Toolbox blacklist check.
+
+Read which list hit. An IP can be listed while the domain is clean, or the reverse. Follow that list's removal steps, and stop sending on the listed domain or IP while you wait. A shared IP you do not control means you move hosts. The deliverability guide also names SURBL and URIBL for domains inside links. Check those when a plain seed inboxes and every linked copy does not.
+
+
+## The order to fix them
+
+- Pause the inbox and domain that are landing in spam.
+
+- Read Authentication-Results. If SPF, DKIM, or DMARC fails, or the From domain is not aligned, fix that and retest.
+
+- Look up the From domain, link domains, and sending IP. A current blocklist hit means you stop, remove it, or retire that domain or IP.
+
+- If warmup never finished, or warmup is off, return to the warmup schedule. Keep cold volume at zero until a seed reaches the inbox.
+
+- If daily volume is high, or you see 4.7.28, cut the send. Add inboxes later, using the volume guide as the ceiling.
+
+- Suppress hard bounces and anyone who reported spam. Replace an unverified or purchased list using the lead list guide.
+
+- If the spam rate is moving toward 0.30%, stay paused until the audience and the opt-out change.
+
+- If only the tracked or HTML version is in spam, remove links, images, attachments, and tracking, then add one back at a time.
+
+- If the From domain is the company domain, move the campaign to a separate domain before you scale.
+
+- Above 5,000 messages a day to Gmail, confirm one-click unsubscribe headers and a visible unsubscribe link.
+
+- Repeat the seed test. Resume low, and raise volume only while placement holds.
+
+Be Leaded runs this diagnosis on infrastructure with capacity for 400,000+ emails a day, 99% delivery rate, 30+ client programs. Domains, authentication, warmup, and list checks in the cold email program follow this order.
+
+## FAQ
+
+  Why are my cold emails going to spam?Cold emails land in spam when the server accepts the message and then does not trust the sender, the list, or the content. Check authentication, warmup, volume, bounces, complaints, links, blocklists, the company domain, and one-click unsubscribe if you are a bulk sender. Fix the first failed check, retest, and only then raise volume.
+
+  How do I test whether cold email is landing in spam?Send the message your campaign actually sends to mailboxes you control at Gmail, Yahoo, and Outlook.com. Record inbox, spam, or missing for each one. On Gmail, open Show original and confirm spf=pass, dkim=pass, and dmarc=pass with the From domain aligned. After you have real Gmail volume, check spam rate and domain reputation in Google Postmaster Tools.
+
+  Does the spam folder mean my domain is blocklisted?Spam placement can happen with a clean blocklist lookup, because authentication, volume, and complaints also decide the folder. Look up the From domain, link domains, and the sending IP on the Spamhaus check and on MX Toolbox. A current listing means you stop on that domain or IP until it is removed or replaced.
+
+  Should I keep sending while cold emails go to spam?Pause the inbox that is landing in spam. More mail adds complaints and bounces to a reputation that is already weak. Fix the failed check, prove inbox placement on seed mailboxes you control, and resume at a low daily volume.
+
+  Will removing links and images get cold email out of spam?A plain text copy with tracking, images, and attachments removed will reach the inbox when the message is the cause. If authentication fails, the domain is blocklisted, or the inbox was never warmed, a cleaner email leaves that failure in place. Change one thing at a time.
+
+  What is the difference between spam and a bounce?Spam, or junk, means the server accepted the message and filed it as unwanted. A bounce means the server refused the message. Google documents unauthenticated mail being rejected with a 5.7.26 error. A refusal points to authentication, policy, or a blocklist. Spam placement can also come from volume, complaints, or the content.
+
+## Sources
+
+- Google, Email sender guidelines
+
+- Yahoo Sender Hub, Sender best practices
+
+- dmarcian, Microsoft enforces SPF, DKIM and DMARC for high-volume senders
+
+- RFC 8058, Signaling One-Click Functionality for List Email Headers
+
+- RFC 5322, Internet Message Format
+
+- Spamhaus, Blocklists
+
+- Spamhaus, Reputation check
+
+- Google Postmaster Tools
+
+- MX Toolbox, Blacklist check
+
+- Microsoft, Smart Network Data Services (SNDS)
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### SPF, DKIM and DMARC setup for cold email
+
+How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
+
+### How to warm up an email domain: the 21-day schedule we use
+
+A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
+
+### Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
+
+What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+
+All guides
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/blog/is-cold-email-legal/
+
+- Home
+- Guides
+- Is cold email legal?
+
+Cold email
+
+# Is cold email legal?
+
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 10 min read.
+
+The short answer: Cold email is legal in the United States if it follows CAN-SPAM: accurate headers, an honest subject, a clear ad disclosure, a postal address, and a working opt-out. The UK allows it to most companies without consent. Canada and Australia start from consent. EU company inboxes depend on national law.
+
+- What the answer depends on
+- United States
+- European Union
+- United Kingdom
+- Canada
+- Australia
+- Compliance checklist
+- Role and personal addresses
+- Where the address came from
+- Legitimate interest
+- Deliverability
+- FAQ
+- Sources
+
+This is general information, not legal advice. The recipient's country decides which rule applies, and the rules change. Have counsel review a program before you send into a new country.
+
+## What the answer depends on
+
+Cold email is legal in some countries and consent-only in others. The test is the country of the person who receives the message, not the country on your invoice. A New York sender emailing Toronto, London, or Sydney has to meet that buyer's law as well as US law.
+
+The United States uses an opt-out statute. The United Kingdom allows marketing email to most companies without consent, and still regulates personal data in a named inbox. The European Union leaves company inboxes to each member state. Canada and Australia start from consent, with narrow exceptions. A statute is not a spam filter. Mailbox-provider rules are in the deliverability guide. DNS records are in the SPF, DKIM and DMARC guide. Marketing texts are a different statute, in the SMS compliance guide.
+
+## United States: the CAN-SPAM Act
+
+The CAN-SPAM Act covers commercial email. The Federal Trade Commission defines that as any message whose primary purpose is advertising or promoting a commercial product or service, including email that promotes content on a commercial website. It is not limited to bulk mail, and the FTC is explicit that there is no exception for business-to-business email. A first email asking for a meeting is commercial. A password reset or a shipping notice is a narrow transactional category, which the FTC reads strictly.
+
+CAN-SPAM does not require prior consent. Headers must identify who initiated the message. The subject must reflect the content. You must disclose, clearly and conspicuously, that the message is an advertisement, and include a valid physical postal address: a current street address, a U.S. Postal Service post office box, or a private mailbox registered with a commercial mail receiving agency. The opt-out must let people stop all marketing email, at no fee, through a reply or a single page. It must work for at least 30 days, and you must honor it within 10 business days. You cannot then sell or transfer the address, except to a vendor hired to help you comply. The promoted company and the sending company may both be responsible.
+
+The FTC states that each separate email in violation is subject to penalties of up to $53,088. Its September 15, 2026 notice says 2025 civil penalty levels continue to apply, matching the compliance guide and 16 CFR 1.98. One suppression file, checked by every domain and every vendor before a send, is how the 10-business-day rule holds up in a sequencer.
+
+## European Union: GDPR and the ePrivacy Directive
+
+The GDPR regulates personal data, and a work address that names a person is personal data. Article 6(1)(f) allows processing necessary for legitimate interests unless the person's interests or rights override them. Recital 47 says direct marketing may be a legitimate interest, which is why B2B teams use the phrase. You still name the interest, show that email is necessary, and balance it. Article 21 gives a right to object to direct marketing, and an objection means you stop.
+
+The ePrivacy Directive regulates the message. Article 13 requires prior consent for marketing email to natural persons, with a soft opt-in for your own similar products when you collected the address during a sale, told the person, and offer a free objection at collection and in every later message. A bought list does not fit. Article 13(5) leaves company subscribers to national law. Legitimate interest does not switch that national rule off. Check the recipient's country before the first send.
+
+Article 83 sets the fine cap for infringements of the basic processing principles, including Article 6, at 20 million euros or 4% of total worldwide annual turnover of the preceding financial year, whichever is higher.
+
+## United Kingdom: PECR and legitimate interests
+
+Under the Privacy and Electronic Communications Regulations 2003, the Information Commissioner's Office says the electronic mail rule does not apply to corporate subscribers: companies, limited liability partnerships, Scottish partnerships, and certain government bodies. Sole traders and some partnerships are individual subscribers. They need consent, or the soft opt-in. The ICO's mail guidance limits that soft opt-in to people who bought from you, or negotiated a purchase, and who were offered an opt-out at collection and in every message. A bought list does not qualify. If you cannot tell which subscriber you have, treat the address as an individual.
+
+An employee address at a limited company is still a corporate subscriber, because the subscriber is the employer, and it is personal data when it names the person. Where PECR does not require consent, the ICO says legitimate interests will often be the UK GDPR basis, with no absolute rule. Do not disguise who you are, and include a valid opt-out address. The ICO says PECR does not in terms force you to honor a corporate opt-out, and that you should honor it anyway. Where the address is personal data, the right to object is mandatory.
+
+## Canada: CASL
+
+Canada's Anti-Spam Legislation prohibits a commercial electronic message without consent and without the prescribed identification and unsubscribe. Section 12 ties that rule to a computer system in Canada used to send or access the message. A recipient opening the mail in Canada is enough. The sender has to prove consent.
+
+Express consent does not expire until it is withdrawn, and the CRTC says you keep the record for as long as you contact the person. The record should show who agreed, when, your name, a mailing address, a way to reach you such as an email address or a web address, and that they can withdraw. Implied consent from an existing business relationship can run two years after a purchase or written contract, or six months after an inquiry. An abandoned cart is not a purchase.
+
+Conspicuous publication works only if the person published the address, it is not marked as closed to unsolicited messages, and the message matches their role. The CRTC uses a chief operating officer sent an assistant course as the failure, and a marketing officer sent a course about their own job as the case that can pass. A reseller's copy of a public address does not create consent. Contact details and the unsubscribe must stay valid for 60 days, and you honor the request within 10 business days. The maximum penalty per violation is $1 million for an individual and $10 million for a business.
+
+## Australia: the Spam Act 2003
+
+The Australian Communications and Media Authority requires consent before a commercial electronic message, including when a vendor sends it, and says a message sent only to ask for consent is itself marketing. Schedule 2 treats consent as express or inferred from the relationship, and says publication of an address is not consent by itself. A published work address can count only when it meets the Schedule's tests and the message is relevant to the work.
+
+Identify yourself, include contact details, and, if a vendor sends, still name the business that authorized the message. The unsubscribe must be clear, work for at least 30 days, add no fee, and skip extra personal data or a login. ACMA says you honor it within 5 working days, and you must be able to prove the consent.
+
+## A compliance checklist for B2B senders
+
+Use the strictest country on the list as the default, and relax a rule only where counsel says the recipient's law allows it.
+
+- Accurate headers and sender identity. From name and address identify the business. Reply-To is read by a person. The domain is one you control.
+
+- Honest subject lines. The subject matches the message. It does not fake a reply, an invoice, or an introduction.
+
+- A commercial disclosure. Say it is an advertisement, in a place a person will see.
+
+- A physical postal address. Use a street address that receives mail. A US post office box counts only in the form the FTC describes.
+
+- A working opt-out, honored promptly. One step, no fee, no extra data, working at least 30 days, processed within 10 business days. Canada: mechanism valid 60 days. Australia: 5 working days. A late stop becomes a complaint.
+
+- A suppression list. One file, checked before every send. Opt-outs are not sold. A refusal follows the person onto the next domain.
+
+- Role address or personal address. Decide which you have before you pick a lawful basis.
+
+- Data sourcing and documentation. Record the source, the date, and why this offer fits this role.
+
+- A legitimate interest assessment. If you rely on that basis, write the three parts before the send and keep them with the campaign.
+
+## Role addresses and personal addresses
+
+A role address such as sales@ or info@ does not name a person. In the UK, email to a limited company is email to a corporate subscriber either way, but a named employee address is still personal data and still needs a lawful basis. Sole traders and some partnerships are individual subscribers. If the record does not say which kind of business it is, treat it as an individual. In Canada, a public address fails if the offer does not match the role. Consumer webmail does not become B2B because a vendor added a job title.
+
+## Where the address came from
+
+Record the source before the address enters a sequence. A page on the company's site, a conversation the person started, and a vendor file with a stated collection method are different records. A purchased file is the weak case wherever consent is required. The CRTC says a third party that republishes addresses does not create conspicuous-publication consent. ACMA puts the burden of proof on the sender. A vendor privacy policy does not finish a GDPR balancing test. Keep the supplier, the date, any "do not email" statement, and the reason the offer fits. Screen suppression before the file is loaded. If you cannot explain the source in one sentence, do not send.
+
+## The legitimate interest assessment
+
+The ICO's three-part test is the working version for UK sends, and the same shape as Article 6(1)(f) where national law allows the email. Purpose: a real interest, such as offering something this role buys. Holding the address is not an interest, and Recital 47 still requires a campaign-specific reason. Necessity: a short list of matching roles, not every job title in a country, with a refusal in the first message. Balance: relevant offer, no sensitive data, a visible opt-out, suppression that works, and no further mail after an objection. If the person would not expect the email, do not send. Keep the paragraph with the brief. A spreadsheet label with nothing behind it does not answer a regulator.
+
+## How compliance shows up in the inbox
+
+A lawful message can still be filtered, and an unlawful one draws the complaints that make filtering worse. People who asked to stop, then got another email, use the spam button. Gmail and Yahoo publish complaint thresholds and expect one-click unsubscribe on bulk marketing mail. Those rules stay in the deliverability guide. A dead opt-out is how a legal miss becomes a placement miss.
+
+An honest subject meets CAN-SPAM and reduces the "this is not what I opened" complaint. SPF, DKIM, and DMARC prove the domain. They do not prove consent or replace the postal address. Publish them before warmup, using the authentication guide. A suppression list that every inbox checks is part of how our infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. List rules and the opt-out are part of the cold email program if you want them handled. You still approve the market and the message.
+
+## FAQ
+
+**Is cold email legal in the United States?**
+
+Yes. CAN-SPAM allows commercial email, including business-to-business email, without prior consent. You still need accurate headers, an honest subject, a clear ad disclosure, a physical postal address, and an opt-out honored within 10 business days. The FTC caps penalties at $53,088 per email in violation.
+
+**Does the GDPR ban cold email in the EU?**
+
+No. A named work address is personal data and needs a lawful basis. Legitimate interests can cover direct marketing after a balancing test, and people can object. National rules still decide whether marketing email in that country needs consent. Legitimate interest does not replace them.
+
+**Can I cold email UK companies without consent?**
+
+Yes for corporate subscribers: companies, limited liability partnerships, Scottish partnerships, and certain government bodies. Identify yourself, offer a valid opt-out, and keep a legitimate interests assessment when the address names a person. Sole traders and some partnerships need consent or the soft opt-in.
+
+**Is cold email legal in Canada?**
+
+Only with express or implied consent. CASL applies if a computer in Canada sends or accesses the message. A published address implies consent only when that person published it, it is not closed to unsolicited mail, and the message matches their role. The CRTC maximum is $10 million per violation for a business and $1 million for an individual.
+
+**What should a cold email compliance checklist include?**
+
+Accurate sender identity, an honest subject, a clear ad disclosure, a physical postal address, a working opt-out honored on time, one suppression list checked before every send, a record of the address source, and a written legitimate interest assessment when you use that basis.
+
+**Does following cold email law help deliverability?**
+
+It reduces the complaints that hurt placement. People who opted out and still get mail use the spam button. An honest subject and a visible opt-out cut those complaints. SPF, DKIM, and DMARC are covered in the authentication guide. Mailbox-provider unsubscribe rules are covered in the deliverability guide.
+
+## Sources
+
+- Federal Trade Commission, CAN-SPAM Act: A Compliance Guide for Business
+
+- Federal Trade Commission, Civil Penalty Inflation Adjustments (September 15, 2026)
+
+- eCFR, 16 CFR 1.98, adjustment of civil monetary penalty amounts
+
+- EUR-Lex, Regulation (EU) 2016/679 (GDPR), Articles 6, 21, and 83, Recital 47
+
+- EUR-Lex, Directive 2002/58/EC (ePrivacy Directive), Article 13
+
+- ICO, Business-to-business marketing
+
+- ICO, Electronic mail marketing
+
+- ICO, Sending direct marketing: choosing your lawful basis
+
+- CRTC, Frequently Asked Questions about Canada's Anti-Spam Legislation
+
+- Justice Laws, Canada's Anti-Spam Legislation
+
+- ACMA, Avoid sending spam
+
+- Spam Act 2003 (Cth), Schedule 2 (consent)
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
+
+What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+
+### SPF, DKIM and DMARC setup for cold email
+
+How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
+
+### Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
+
+What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+
+All guides
 
 ## Tell us who you want to meet.
 
@@ -4461,6 +4817,243 @@ Or email sales@beleaded.com
 
 ---
 
+URL: https://www.beleaded.com/blog/spf-dkim-dmarc-for-cold-email/
+
+- Home
+- Guides
+- SPF, DKIM and DMARC setup for cold email
+
+Deliverability
+
+# SPF, DKIM and DMARC setup for cold email
+
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 10 min read.
+
+The short answer: Publish one SPF record, a DKIM key of at least 1024 bits (2048 when the host allows it), and a DMARC record at p=none on every cold email domain. Align the From domain with SPF or DKIM, confirm spf=pass, dkim=pass, and dmarc=pass on a test message, and only then start warmup.
+
+- What the three records do
+- One SPF record
+- DKIM for the From domain
+- DMARC at p=none
+- Alignment
+- Google and Yahoo
+- BIMI
+- How to test
+- Common mistakes
+- Authentication and warmup
+- FAQ
+- Sources
+
+## What the three records do
+
+SPF, DKIM, and DMARC are three DNS records on the domain in the From address. A cold email domain needs all three before warmup. Records on the company domain do not cover a separately registered sending domain.
+
+SPF lists the servers allowed to send. DKIM signs selected headers and the body so the receiver can see who signed and whether those parts changed. DMARC checks that the passing SPF or DKIM domain aligns with the From domain, says what to do on failure, and names a mailbox for reports. It does not replace the other two.
+
+Google's email sender guidelines say authenticated messages are less likely to be rejected or marked as spam, and that unauthenticated messages might be marked as spam or rejected with a 5.7.26 error. A pass gets the message considered. Complaints, the list, and volume still decide the folder. Those are in the deliverability guide.
+
+## Publish one SPF record
+
+SPF is one TXT record at the sending domain. RFC 7208 says a domain must not publish multiple records that a check could choose between. Two v=spf1 TXT records produce a permerror. Several quoted strings inside a single TXT record still count as one record.
+
+A domain that sends only through Google Workspace:
+
+v=spf1 include:_spf.google.com ~all
+
+A domain that sends only through Microsoft 365:
+
+v=spf1 include:spf.protection.outlook.com ~all
+
+Use the include for the host that actually sends. Inbox SMTP needs the mailbox host's include. A sequencer that sends from its own servers, with your domain on the envelope, belongs in that same record. Do not add Google's include on a domain that never sends through Google.
+
+End with ~all (softfail) or -all (fail), not +all. With no match and no redirect, RFC 7208 returns neutral, the same as an implicit ?all. Use ~all until the include list is confirmed.
+
+Stay at or under 10 DNS lookups. RFC 7208 section 4.6.4 counts include, a, mx, ptr, exists, and redirect, and nested includes count toward the same 10. all, ip4, and ip6 do not. Over the limit, the result is permerror. One sending host per cold email domain stays under it. Stacking several vendors usually does not. Add a domain, or remove a retired host, before you add an include.
+
+## Turn on DKIM for the From domain
+
+DKIM is a signature plus a public key in DNS at selector._domainkey on the sending domain. Google Workspace often uses the selector google. A sequencer usually gives you a CNAME. Publish that record, then turn signing on. A key with signing off does nothing.
+
+Google requires a key of 1024 bits or longer for personal Gmail accounts, and recommends 2048 bits when the host supports it. Yahoo's sender best practices also set a 1024-bit minimum. Use 2048 when you can.
+
+Alignment reads d= in the signature. It has to be your From domain, or a parent of it under relaxed alignment. If d= is the sequencer, DKIM can pass and DMARC still fails. A company-domain selector does not sign a different outreach domain.
+
+Add a new selector before you remove the old one, so forwards of older mail still verify. Two selectors are normal. Two SPF records are not. Send the authentication test with tracking off. Link rewrites and open pixels change the body hash, and DKIM fails if they are applied after signing. Keep any tracking hostname on the same organizational domain as the From address.
+
+## Start DMARC at p=none
+
+DMARC is one TXT record at _dmarc on the sending domain. For bulk senders, Google and Yahoo accept a policy of at least p=none. The record has to exist, and the message still has to pass, which means alignment.
+
+v=DMARC1; p=none; rua=mailto:dmarc@outreach.example
+
+p=none monitors: receivers can still deliver failures and send reports. p=quarantine asks them to treat failures with suspicion. p=reject asks them to refuse failures.
+
+Leave adkim and aspf unset. RFC 7489 defaults both to relaxed (r), so a subdomain can align with the organizational domain. Strict (s) requires an exact host match. Use it only after reports show every legitimate path already matches.
+
+The rua mailbox has to exist, preferably on the same organizational domain. A report address on a different organizational domain needs an authorization record there, or many reporters drop the report. Read those reports in the first week. Do not start an outreach domain at p=quarantine or p=reject. Tighten only after legitimate mail from that domain is aligned.
+
+Publish the records on the From domain. A different company domain does not cover it.
+
+## Alignment is the check most setups miss
+
+SPF pass plus DKIM pass can still fail DMARC. DMARC passes only when at least one method passes and aligns with the From domain. SPF alignment uses the Return-Path domain. DKIM alignment uses d=. Google requires that alignment on direct mail from bulk senders. Yahoo requires it for bulk senders and accepts relaxed alignment.
+
+Sequencers often set the Return-Path to their own bounce domain. SPF then passes for the tool, not for the From domain, so SPF does not satisfy DMARC. DKIM with d= on your From domain is the path that passes. If d= is the tool, DMARC fails even when the dashboard shows SPF passed.
+
+    Aligned and unaligned cold email authentication
+    PieceAlignedNot aligned
+
+      Fromalex@outreach.examplealex@outreach.example
+      Return-Pathbounce@outreach.examplebounce@sequencer.example
+      DKIM d=outreach.examplesequencer.example
+      DMARCCan passFails
+
+Relaxed alignment still needs the same organizational domain. mail.outreach.example can align with outreach.example. It does not align with your company domain or the sequencer. In Gmail, Show original should look like this:
+
+spf=pass
+dkim=pass header.d=outreach.example
+dmarc=pass header.from=outreach.example
+
+If header.d and header.from differ at the organizational domain, the message is not aligned.
+
+## What Google and Yahoo require
+
+Google's rules have applied to personal Gmail accounts since February 1, 2024. Yahoo began enforcing its bulk requirements in February 2024 and does not publish a daily count for who is bulk. If the domain sends cold email, meet Yahoo's bulk column.
+
+    Google and Yahoo authentication requirements
+    RequirementGmail, all sendersGmail, more than 5,000 a dayYahoo, all sendersYahoo, bulk senders
+
+      SPF and DKIMSPF or DKIMSPF and DKIMSPF or DKIMSPF and DKIM
+      DMARCRecommendedRequired, at least p=none, From domain alignedUrged for every sending domainAt least p=none, and DMARC must pass
+      Spam rateBelow 0.3% in Postmaster ToolsBelow 0.30%, keep it below 0.10%Below 0.3%Below 0.3%
+      One-click unsubscribeNot the bulk ruleMarketing and subscribed messagesNot the bulk ruleMarketing and subscribed messages, honored within 2 days
+      DNS and transportForward and reverse DNS, plus TLSSameForward and reverse DNSForward and reverse DNS
+
+Google's spam-rate section tells senders to keep the Postmaster Tools rate below 0.10% and to avoid 0.30% or higher. That page also says Google does not track open rates. The 5,000-message line counts mail to Gmail accounts. Meet the bulk rules on every sending domain even when a single domain stays under it.
+
+One-click unsubscribe applies to marketing and subscribed messages. Google specifies List-Unsubscribe and List-Unsubscribe-Post: List-Unsubscribe=One-Click. Cold email still needs an opt-out and a postal address under CAN-SPAM, covered in the deliverability guide. The rules by country are in our guide to whether cold email is legal. Do not impersonate Gmail From headers. Google says it will use a DMARC quarantine policy, and that copying those headers can affect delivery.
+
+Publish a real A record on the sending domain. The sending IP needs a PTR that matches that hostname both ways. Google points administrators to Admin Toolbox Dig. Google and Microsoft publish PTR for their own IPs. If you run the server, the PTR should name your domain. TLS has been a Gmail requirement since the December 2023 update in the guidelines.
+
+For Outlook.com, Hotmail, and Live, dmarcian documents Microsoft's rule: domains sending 5,000 or more messages a day must pass SPF, DKIM, and DMARC alignment. dmarcian quotes the rejection as 550 5.7.515, with enforcement from May 5, 2025. The same three records are what that check looks for.
+
+## BIMI, briefly
+
+BIMI shows a logo beside authenticated mail in inboxes that support it. It does not make SPF, DKIM, or DMARC pass, and it does not warm a domain.
+
+The BIMI Group implementation guide requires DMARC at quarantine or reject, and it does not accept p=none or a pct under 100. The TXT record is at default._bimi:
+
+v=BIMI1; l=https://example.com/brand/logo.svg; a=https://example.com/brand/certificate.pem
+
+Google's BIMI setup also requires a Verified Mark Certificate or a Common Mark Certificate before Gmail shows the logo, plus DMARC at quarantine or reject with pct=100. Gmail shows a checkmark for a VMC.
+
+Skip BIMI on a new cold email domain. A logo and a reject policy, before reports are clean, do not fix alignment. Publish it on the corporate domain that already sends aligned mail at enforcement. Leave outreach domains at p=none until their own reports are clean.
+
+## Test before anyone is on the list
+
+- Confirm one v=spf1 TXT record, ending in ~all or -all, for the host you use. Confirm the DKIM selector resolves, and that _dmarc has the policy you intended and a rua mailbox that accepts mail.
+
+- Use Google Admin Toolbox Check MX for the mail host and SPF, and Dig, linked above, for PTR.
+
+- Run a second SPF check in MX Toolbox. Stop on a permerror from duplicate records or from more than 10 lookups. Check DMARC syntax in dmarcian's DMARC inspector.
+
+- Send one plain message, tracking off, to a Gmail account you control. In Show original, require spf=pass, dkim=pass with header.d on the From domain, and dmarc=pass with header.from on that domain.
+
+- After real Gmail traffic exists, watch authentication and spam rate in Postmaster Tools. With DKIM signing, enroll a complaint feedback loop in Yahoo Sender Hub.
+
+The Gmail Authentication-Results header is the check that matches that receiver. If it fails, fix the record and send again. Do not ramp on a fail.
+
+## Mistakes that fail an otherwise careful setup
+
+- Two SPF TXT records, from adding a host beside the old record instead of editing it.
+
+- More than 10 DNS lookups after nested includes are counted.
+
+- DKIM left off, or published on the company domain while the From domain is the outreach domain.
+
+- d= set to the sequencer, so DKIM passes for the tool and DMARC fails for you.
+
+- DMARC only on the company domain. A separate sending domain does not inherit it.
+
+- An rua address that bounces, or p=reject before any reports exist.
+
+- A key under the 1024-bit minimum Google and Yahoo describe, when 2048 is available.
+
+- Tracking rewrites after the signature, or warmup before a Gmail header shows all three passes.
+
+- A green check in the tool standing in for header.d and header.from.
+
+## Where this sits with warmup
+
+Warmup does not publish DNS, and DNS does not build a reputation. Publish the records first.
+
+Use a domain that is not the company's primary domain, publish SPF, DKIM, and DMARC, wait until a public lookup shows the TXT records, prove the Gmail header, then warm. The warmup guide waits 24 to 48 hours for caches, then runs a 21-day ramp per inbox. The daily volume guide is the ceiling after that. If authentication fails, pause and retest. More warmup days will not fix DNS.
+
+In the first week, read the aggregate reports. You want your own aligned mail and nothing else on that domain. A second inbox on the same host usually keeps the same SPF record. A new domain needs the full set. A new sequencer needs a new selector, a fresh test, and only then removal of the old key.
+
+When placement drops, sample a live header again. A DNS edit, a rotated selector, or a tracking change can break a record that passed last month. Passing these checks is part of how our infrastructure sends 400,000 emails a day at a 99% delivery rate, across 30-plus client programs. A pass does not forgive a bad list. The domains, the tests, and the ramp are part of the cold email program if you want them handled. You still approve the market and the copy.
+
+## FAQ
+
+  What is an SPF, DKIM and DMARC setup for cold email?SPF names the servers allowed to send for a domain. DKIM signs each message with a public key in DNS. DMARC checks that the From domain aligns with a passing SPF or DKIM result. Publish all three on every cold email domain, confirm a real message passes, and only then start warmup.
+
+  What does DMARC alignment mean?Alignment means the domain in the From header matches the domain that passed SPF or DKIM. Relaxed alignment, the default, lets a subdomain match the organizational domain. A pass on a sending tool's domain does not count when that domain is not the From domain.
+
+  What do Google and Yahoo require from bulk senders?Google requires SPF and DKIM, DMARC at a policy of at least p=none, and From alignment for senders of more than 5,000 messages a day to personal Gmail accounts, starting February 1, 2024. Yahoo requires SPF and DKIM, a DMARC policy of at least p=none that passes, and From alignment for bulk senders. Both tell senders to keep spam complaint rates under 0.3%.
+
+  Should a new cold email domain use DMARC p=reject?No. Start at p=none so you can read aggregate reports without blocking mail. Move to quarantine only after reports show that legitimate mail from that domain is aligned. p=reject too early can block your own mail while a selector or an include is still wrong.
+
+  Does BIMI help cold email land in the inbox?No. BIMI can show a logo. It does not repair a failing SPF, DKIM, or DMARC check. Gmail shows the logo only when DMARC is at quarantine or reject with pct=100 and a mark certificate is published, which is the wrong first step for a new cold email domain.
+
+  Should I authenticate before email warmup?Yes. Warmup builds sending history. It does not publish DNS. Confirm SPF, DKIM, and DMARC pass on a test to a mailbox you control, then start the warmup schedule. If you change a record during warmup, test again before you raise volume.
+
+## Sources
+
+- Google, Email sender guidelines
+
+- Google, Set up BIMI
+
+- Yahoo Sender Hub, Sender best practices
+
+- RFC 7208, Sender Policy Framework (10 DNS lookup limit, section 4.6.4)
+
+- RFC 7489, DMARC
+
+- BIMI Group, Implementation guide
+
+- dmarcian, Microsoft enforces SPF, DKIM and DMARC for high-volume senders
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### How to warm up an email domain: the 21-day schedule we use
+
+A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
+
+### How many cold emails to send per day, per inbox and per domain
+
+The safe number of cold emails per inbox per day, how many inboxes per domain, and a worked example for reaching 3,000 or 30,000 prospects a month without losing the inbox.
+
+### Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
+
+What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+
+All guides
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
 URL: https://www.beleaded.com/blog/email-warmup/
 
 - Home
@@ -4471,7 +5064,7 @@ Deliverability
 
 # How to warm up an email domain: the 21-day schedule we use
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 4 min read.
 
 The short answer: Warming up an email domain means sending a small, rising volume of real-looking email from a new inbox for two to three weeks so mailbox providers learn it's legitimate before it carries cold volume. Set up SPF, DKIM and DMARC first, start at 5 to 10 emails a day, add a few each day, keep warmup running at a low level after launch, and never let a new inbox send more than about 30 to 50 cold emails a day. The full schedule is below.
 
@@ -4496,7 +5089,7 @@ Warmup can't fix a bad list or a bad email. It buys you a fair hearing.
 Skip any of these and the warmup is wasted.
 
 - Use a separate domain. Never warm your company's main domain for cold email. Register a variant close to your brand and point it at your website. Our deliverability guide covers why.
-- Publish SPF, DKIM and DMARC. Gmail and Yahoo require them for bulk senders, and Outlook.com has rejected unauthenticated bulk mail since May 2025. DMARC at p=none is the minimum.
+- Publish SPF, DKIM and DMARC. Gmail and Yahoo require them for bulk senders, and Outlook.com has rejected unauthenticated bulk mail since May 2025. DMARC at p=none is the minimum. Record syntax, alignment, and the test are in the SPF, DKIM and DMARC setup guide.
 - Let DNS settle for 24 to 48 hours. Check records with a lookup tool before sending anything.
 - Fill in the profile. A real name, a photo, a signature with a title and the physical address CAN-SPAM requires.
 - Age the domain if you can. A domain registered two to four weeks before warmup starts behaves better than one bought yesterday.
@@ -4518,7 +5111,7 @@ Every major cold email platform includes a warmup network: Saleshandy, Instantly
 
 ## What to watch during warmup
 
-- Spam placement in the warmup network. It should fall week over week. If it's still high at day 14, stop and find out why before adding cold volume.
+- Spam placement in the warmup network. It should fall week over week. If it's still high at day 14, stop and find out why before adding cold volume. For cold email already landing in spam, use the troubleshooting checklist (https://www.beleaded.com/blog/cold-emails-going-to-spam/).
 - Google Postmaster Tools. Add every sending domain. Domain reputation should move from "unknown" to "medium" or "high" as history builds.
 - Blocklists. Spamhaus, SURBL and URIBL, checked daily. A new domain rarely lands on one unless the content or links trigger it.
 - Bounces. Anything above 2% on real sends means the list, not the warmup, is the problem.
@@ -5661,7 +6254,7 @@ SMS
 
 # SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 4 min read.
 
 The short answer: To send marketing texts in the US you need the recipient's prior express written consent under the TCPA, a business phone number registered for A2P 10DLC through your provider, automatic handling of STOP and HELP, sends during reasonable hours, and a record of every consent. The FCC's stricter one-to-one consent rule was vacated by the Eleventh Circuit in January 2025 and repealed by the FCC in July 2025, so the earlier consent standard applies. Never text purchased lists.
 
@@ -5680,6 +6273,8 @@ We're not lawyers, and this isn't legal advice. It's the checklist we follow whe
 ## Consent: the part that matters most
 
 The Telephone Consumer Protection Act requires prior express written consent before sending marketing texts with an automated system. In practice that means the person typed their number into your form and agreed, in words they could read, to receive marketing texts from your business, with a note that consent isn't a condition of purchase and that message and data rates may apply. A checkbox that's pre-ticked doesn't count. A number scraped from a website doesn't count. A customer who bought something once doesn't count unless they agreed to texts.
+
+Cold email falls under different laws, covered in our guide to whether cold email is legal.
 
 Keep the record: what the form said, when the person submitted it, and from where. If a complaint arrives a year later, that record is your defense.
 
@@ -5791,7 +6386,7 @@ URL: https://www.beleaded.com/cold-email-deliverability/
 
 # Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026.
 
 The short answer: authenticate every sending domain with SPF, DKIM and DMARC, keep your spam complaint rate under 0.1% and never let it reach 0.3%, give every recipient an easy way to opt out, send from separate domains warmed for two to three weeks, verify every address before it goes out, and keep daily volume per inbox low. Gmail and Yahoo have required this of bulk senders since February 2024. Microsoft began rejecting non-compliant mail to Outlook.com addresses on May 5, 2025, and Gmail began rejecting non-compliant traffic in November 2025.
 
@@ -5826,7 +6421,7 @@ Two details catch people out. First, Gmail's bulk sender status never expires: o
 
 Yes. Mailbox providers judge how mail is sent and how recipients react to it, not whether the recipient asked for it. A cold email that isn't authenticated, or that draws complaints, is filtered like any other mail.
 
-In the US, cold email is also commercial email under the CAN-SPAM Act, and the Federal Trade Commission is explicit that the law makes no exception for business-to-business email. Every message needs accurate header information, a subject line that isn't deceptive, a valid physical postal address and a clear way to opt out, and opt-outs must be honored within 10 business days. Each email that breaks the rules can draw a penalty of up to $53,088. Rules are stricter in the EU, the UK and Canada, so check them before you send there.
+In the US, cold email is also commercial email under the CAN-SPAM Act, and the Federal Trade Commission is explicit that the law makes no exception for business-to-business email. Every message needs accurate header information, a subject line that isn't deceptive, a valid physical postal address and a clear way to opt out, and opt-outs must be honored within 10 business days. Each email that breaks the rules can draw a penalty of up to $53,088. Rules are stricter in the EU, the UK and Canada, so check them before you send there. Country-by-country rules and a sender checklist are in is cold email legal.
 
 ## Send from separate domains
 
@@ -5892,7 +6487,7 @@ Deliverability changes quietly. Every morning we check each sending domain for:
 - Domain reputation and spam rate in Google Postmaster Tools
 - DMARC aggregate reports for mail failing authentication
 
-At the first sign of trouble, pause the affected domain, find the cause, and resume slowly.
+At the first sign of trouble, pause the affected domain, find the cause, and resume slowly. When mail is already landing in spam, use the cold email spam checklist (https://www.beleaded.com/blog/cold-emails-going-to-spam/) before you resume.
 
 ## Checklist
 
@@ -6142,7 +6737,7 @@ Ahmad founded Be Leaded and works directly with every client, from the first cal
 
 He has scaled an outbound operation from 50,000 to 400,000 emails a day while raising deliverability from about 88% to 99%, run multi-domain sending infrastructure across hundreds of inboxes on Google Workspace and Microsoft, and built AI voice agents for follow-up calls on Retell AI and ElevenLabs.
 
-He has run programs for SaaS, IT, M&A deal flow, and newsletter plus SMS, with clients in the US and Israel, and takes every first call himself.
+He has run programs for SaaS, IT, M&A deal flow, and newsletter plus SMS, with clients in the US and takes every first call himself.
 
 ## How we work
 
