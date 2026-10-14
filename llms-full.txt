@@ -4685,7 +4685,7 @@ Deliverability
 
 # SPF, DKIM and DMARC setup for cold email
 
-By Ahmad Khan, founder of Be Leaded. Updated October 12, 2026. 10 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 10 min read.
 
 The short answer: Publish one SPF record, a DKIM key of at least 1024 bits (2048 when the host allows it), and a DMARC record at p=none on every cold email domain. Align the From domain with SPF or DKIM, confirm spf=pass, dkim=pass, and dmarc=pass on a test message, and only then start warmup.
 
@@ -4789,7 +4789,7 @@ Google's rules have applied to personal Gmail accounts since February 1, 2024. Y
 
 Google's spam-rate section tells senders to keep the Postmaster Tools rate below 0.10% and to avoid 0.30% or higher. That page also says Google does not track open rates. The 5,000-message line counts mail to Gmail accounts. Meet the bulk rules on every sending domain even when a single domain stays under it.
 
-One-click unsubscribe applies to marketing and subscribed messages. Google specifies List-Unsubscribe and List-Unsubscribe-Post: List-Unsubscribe=One-Click. Cold email still needs an opt-out and a postal address under CAN-SPAM, covered in the deliverability guide. Do not impersonate Gmail From headers. Google says it will use a DMARC quarantine policy, and that copying those headers can affect delivery.
+One-click unsubscribe applies to marketing and subscribed messages. Google specifies List-Unsubscribe and List-Unsubscribe-Post: List-Unsubscribe=One-Click. Cold email still needs an opt-out and a postal address under CAN-SPAM, covered in the deliverability guide. The country rules behind that requirement are in is cold email legal. Do not impersonate Gmail From headers. Google says it will use a DMARC quarantine policy, and that copying those headers can affect delivery.
 
 Publish a real A record on the sending domain. The sending IP needs a PTR that matches that hostname both ways. Google points administrators to Admin Toolbox Dig. Google and Microsoft publish PTR for their own IPs. If you run the server, the PTR should name your domain. TLS has been a Gmail requirement since the December 2023 update in the guidelines.
 
@@ -6112,7 +6112,7 @@ SMS
 
 # SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 4 min read.
 
 The short answer: To send marketing texts in the US you need the recipient's prior express written consent under the TCPA, a business phone number registered for A2P 10DLC through your provider, automatic handling of STOP and HELP, sends during reasonable hours, and a record of every consent. The FCC's stricter one-to-one consent rule was vacated by the Eleventh Circuit in January 2025 and repealed by the FCC in July 2025, so the earlier consent standard applies. Never text purchased lists.
 
@@ -6131,6 +6131,8 @@ We're not lawyers, and this isn't legal advice. It's the checklist we follow whe
 ## Consent: the part that matters most
 
 The Telephone Consumer Protection Act requires prior express written consent before sending marketing texts with an automated system. In practice that means the person typed their number into your form and agreed, in words they could read, to receive marketing texts from your business, with a note that consent isn't a condition of purchase and that message and data rates may apply. A checkbox that's pre-ticked doesn't count. A number scraped from a website doesn't count. A customer who bought something once doesn't count unless they agreed to texts.
+
+Cold email follows a different statute, covered in is cold email legal.
 
 Keep the record: what the form said, when the person submitted it, and from where. If a complaint arrives a year later, that record is your defense.
 
