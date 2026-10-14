@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.beleaded.com/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -47,17 +47,12 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/b2b-saas/</loc>
     <lastmod>2026-10-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.beleaded.com/industries/israeli-tech-companies/</loc>
-    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -146,7 +141,7 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/is-cold-email-legal/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -276,7 +271,7 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/about/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
