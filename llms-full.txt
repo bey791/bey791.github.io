@@ -2651,6 +2651,10 @@ An operator's comparison of the cold email tools we run client campaigns on: Sal
 
 ## Deliverability
 
+### Why are my cold emails going to spam
+
+Why are my cold emails going to spam? Causes and fixes: authentication, warmup, volume, lists, complaints, links, blocklists, and the order to fix them.
+
 ### How to warm up an email domain: the 21-day schedule we use
 
 A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
@@ -2706,6 +2710,257 @@ The lead response time studies (HBR, MIT/InsideSales), what most companies actua
 ### SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
 
 What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/blog/cold-emails-going-to-spam/
+
+- Home
+- Guides
+- Cold emails going to spam
+
+Deliverability
+
+# Why are my cold emails going to spam
+
+By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 10 min read.
+
+The short answer: Pause the inbox that is landing in spam. On a message you received, confirm SPF, DKIM, and DMARC pass and align with the From domain, then check blocklists, warmup, volume per inbox, bounces, spam complaints, and links or tracking. Fix the first failure, retest on mailboxes you control, and only then send more.
+
+- Spam folder or a bounce
+- Authentication
+- New domains and warmup
+- Volume per inbox
+- Lists, bounces, and traps
+- Spam complaints
+- Links, tracking, images
+- Copy that gets reported
+- Shared or blocklisted domains
+- The company domain
+- One-click unsubscribe
+- Test inbox placement
+- Check blocklists
+- Fix order
+- FAQ
+- Sources
+
+## Spam folder or a bounce
+
+Cold email is in spam when the server accepted the message and filed it as unwanted. Gmail calls that folder Spam. Outlook.com calls it Junk. A bounce means the server refused it. Google's email sender guidelines say unauthenticated mail might be marked as spam or rejected with a 5.7.26 error. dmarcian documents Microsoft's May 5, 2025 rule: domains sending 5,000 or more messages a day to Outlook.com, Hotmail, and Live must pass SPF, DKIM, and DMARC alignment, or see rejection 550 5.7.515. Treat those codes as refusals and start with authentication. The table is for mail that arrived.
+
+- Authentication-Results shows a fail. SPF, DKIM, or DMARC alignment on the From domain
+
+- Authentication passes, and the domain or inbox is new. Warmup, then a fresh seed test
+
+- Placement dropped after you raised the daily count. Volume per inbox, and deferrals such as Gmail 4.7.28
+
+- Hard bounces rose on this list. Verification, suppression, and whether the list was purchased
+
+- Postmaster Tools spam rate is climbing. Complaints, who you mail, and the opt-out
+
+- A plain seed reaches the inbox and the tracked copy does not. Links, the tracking host, images, attachments
+
+- Spamhaus or another blocklist returns a hit. Stop. Remove the listing, or retire the domain or IP
+
+- Company mail is getting filtered too. Cold email going out from the company domain
+
+
+## Authentication and alignment
+
+A failed SPF, DKIM, or DMARC check can file good copy in spam. From February 1, 2024, senders to personal Gmail accounts need SPF or DKIM, a matching PTR record, TLS, and a Postmaster Tools spam rate below 0.3%. Above 5,000 messages a day, Gmail also requires both SPF and DKIM, DMARC (p=none is allowed), and From alignment. Yahoo's sender best practices require SPF and DKIM for bulk senders, DMARC at least at p=none with a pass, and the same alignment.
+
+The usual miss is alignment. SPF can pass on the tool's Return-Path while DMARC fails for your From domain. DKIM fails the same way when d= is the tool. Open the spam copy, choose Show original in Gmail, and read Authentication-Results. You want spf=pass, dkim=pass, and dmarc=pass on your From domain. Syntax and the full test are in the SPF, DKIM and DMARC setup guide. Fix a fail before you change volume or copy. Google also requires the sending IP to match the PTR hostname, and that hostname to point back to the same IP. Check it in Google Admin Toolbox Dig.
+
+
+## New domains and skipped warmup
+
+A new domain has no history, so a burst of cold email is easy to file as spam. Warmup builds history. It does not publish DNS, and it does not clear a blocklist. Pause cold volume if the inbox is new, if warmup never ran, or if you turned it off on launch day. Confirm authentication, then follow the warmup schedule. Add cold email only after warmup spam placement has fallen and a small live test reaches the inbox. Google says to raise volume slowly and to cut it when mail bounces or defers. More warmup days will not fix a bad list.
+
+
+## Too much mail from one inbox
+
+One inbox can outrun its reputation. Google tracks limits per domain and per IP, and on a shared IP every sender shares the quota. Past that quota, Gmail typically rejects with SMTP 4.7.28 and says to wait at least 10 minutes, then retry from one connection. Google also warns that doubling volume suddenly can cause rate limits or a reputation drop. Lower the daily count on the inbox in spam, and add inboxes when you need reach. The ceiling is in how many cold emails to send per day.
+
+
+## Bad lists, bounces, and spam traps
+
+Bounces tell the provider the list is stale, scraped, or purchased. Google says not to buy addresses, and that people who did not ask for the mail may report it as spam. Yahoo says to remove invalid recipients promptly. Suppress every hard bounce on every domain before the next send. If the list was bought or never verified, rebuild it. Who belongs on it, plus verification and catch-all domains, is in the B2B lead list guide. A catch-all accepts every address, so hold those rows for a smaller send.
+
+Spam traps are addresses that should never get mail. They catch harvested lists and dead addresses that were repurposed. The usual sign is a blocklist hit or a placement drop, without a normal bounce. Stop, suppress that source list, and verify the rest.
+
+
+## Spam complaints
+
+A complaint is a click on report spam. Google says frequent reports make later mail more likely to land in spam and can lower domain reputation. In Google Postmaster Tools, keep the rate below 0.10% and avoid ever reaching 0.30% or higher. Yahoo requires a rate below 0.3%. With DKIM on, Sender Hub can mail you each complaint. Yahoo's rate is based on mail that reached the inbox.
+
+Postmaster Tools stays empty until the domain is verified and Gmail volume is high enough. Use the seed test, and treat a run of report spam events as the same warning. Suppress complainers on every domain. The postal address and the opt-out are in the cold email law guide. Pause and change who you mail before you resume.
+
+
+## Links, tracking, images, and attachments
+
+The message itself can be the cause. Google requires RFC 5322 formatting. Send one plain text test from the same From domain, with no images, no attachments, and no link. If that copy reaches the inbox and the campaign copy does not, add one element back at a time.
+
+Open pixels and rewritten links change the body. If they run after DKIM signs, DKIM fails. The authentication guide covers that. A shared tracking hostname is a separate failure. Google says one sender on a shared IP affects the others, and a tracker used by many accounts works the same way. Put tracking on a domain you control, or turn it off until placement recovers. Skip public link shorteners, use your own URL, and leave attachments off until someone replies. The deliverability guide is the setup version of these rules.
+
+
+## Copy that gets reported
+
+Google says spoofing another sender can get mail marked as spam. Yahoo points at the CAN-SPAM ban on false headers and deceptive subjects. An honest subject, a real From name, and one true detail about the recipient draw fewer reports than a pitch that hides the ask.
+
+- A subject that promises a reply, a file, or a relationship that does not exist.
+
+- All capitals, stacked punctuation, or a first name repeated across thousands of sends with nothing else that is true of that person.
+
+- A newsletter layout on the first cold touch.
+
+- The same paragraph leaving many inboxes on one domain in the same hour.
+
+- No opt-out, so report spam is the only control the recipient trusts.
+
+Edit copy after authentication passes. If the plain seed reaches the inbox and the template does not, the template is what you change. Subject patterns are in the subject line guide.
+
+
+## Shared, aged, or blocklisted domains
+
+Google says every sender on a shared IP shares its reputation, and that mail from a blocklisted IP is more likely to be marked as spam. Look that IP up before you blame your copy. A domain you bought used can still carry spam, phishing, or a blocklist hit from the previous owner.
+
+Spamhaus splits this work. The Domain Blocklist (DBL) covers low reputation domains. IP lists include the Spamhaus Blocklist (SBL), Exploits Blocklist (XBL), Policy Blocklist (PBL), and Combined Spam Sources (CSS). Many filters query the combined IP list, ZEN. A hit can mean a reject or an accept that still lands in spam. Look the domain up before warmup. A current listing means you register a different domain. Warm a previously listed domain only after the lookup is clear.
+
+
+## Sending from the company domain
+
+Cold email on the domain you use for invoices and internal mail ties that reputation to the campaign. Yahoo says to separate bulk mail from user and transactional mail, because each IP and DKIM domain has its own reputation. Use a separate domain with its own SPF, DKIM, and DMARC. The deliverability guide explains the split. If the company domain is already in spam, stop cold sends on it and move the campaign to a new domain that passes a seed test first.
+
+
+## One-click unsubscribe for bulk senders
+
+Above 5,000 messages a day to Gmail, Google requires one-click unsubscribe on marketing and subscribed messages, plus a visible unsubscribe link. The headers are List-Unsubscribe and List-Unsubscribe-Post set to List-Unsubscribe=One-Click, per RFC 8058. Yahoo requires a list-unsubscribe header for bulk senders, recommends that POST method, and says to honor unsubscribes within 2 days. Below the Gmail bulk line, US commercial email still needs a working opt-out and a postal address. Use the law guide for that checklist. Without an opt-out, report spam is the button people use.
+
+
+## How to test inbox placement
+
+Change one variable, then measure it on the same mailboxes.
+
+- Use mailboxes you control at Gmail, Yahoo, and Outlook.com, plus a Workspace or Microsoft 365 mailbox if buyers read mail there.
+
+- Send the campaign message as the sequencer sends it, tracking included. Send a second copy in plain text with tracking off.
+
+- Record inbox, spam or junk, or missing. If a copy is missing, read the bounce log for 5.7.26, 550 5.7.515, and 4.7.28 before you assume it is in spam.
+
+- On Gmail, open Show original. Require spf=pass, dkim=pass, and dmarc=pass, and match the From domain to the domain that passed.
+
+- With real Gmail volume, read spam rate and domain and IP reputation in Postmaster Tools. Yahoo Sender Hub covers complaints once DKIM signs. Microsoft SNDS covers Outlook.com for IPs you may view.
+
+- Fix authentication, then blocklists, then volume and the list, then the message. Send again to the same mailboxes.
+
+Keep the seed test small, and hold prospect mail while the inbox fails it.
+
+
+## How to check blocklists
+
+Look up every name on the message, not only the From domain.
+
+- The From domain, at the Spamhaus reputation check.
+
+- The tracking hostname and every domain in a link. A listed tracker can pull a clean From domain into spam.
+
+- The sending IP, from Received headers or the sending tool.
+
+- The IP and domain again at the MX Toolbox blacklist check.
+
+Read which list hit. An IP can be listed while the domain is clean, or the reverse. Follow that list's removal steps, and stop sending on the listed domain or IP while you wait. A shared IP you do not control means you move hosts. The deliverability guide also names SURBL and URIBL for domains inside links. Check those when a plain seed inboxes and every linked copy does not.
+
+
+## The order to fix them
+
+- Pause the inbox and domain that are landing in spam.
+
+- Read Authentication-Results. If SPF, DKIM, or DMARC fails, or the From domain is not aligned, fix that and retest.
+
+- Look up the From domain, link domains, and sending IP. A current blocklist hit means you stop, remove it, or retire that domain or IP.
+
+- If warmup never finished, or warmup is off, return to the warmup schedule. Keep cold volume at zero until a seed reaches the inbox.
+
+- If daily volume is high, or you see 4.7.28, cut the send. Add inboxes later, using the volume guide as the ceiling.
+
+- Suppress hard bounces and anyone who reported spam. Replace an unverified or purchased list using the lead list guide.
+
+- If the spam rate is moving toward 0.30%, stay paused until the audience and the opt-out change.
+
+- If only the tracked or HTML version is in spam, remove links, images, attachments, and tracking, then add one back at a time.
+
+- If the From domain is the company domain, move the campaign to a separate domain before you scale.
+
+- Above 5,000 messages a day to Gmail, confirm one-click unsubscribe headers and a visible unsubscribe link.
+
+- Repeat the seed test. Resume low, and raise volume only while placement holds.
+
+Be Leaded runs this diagnosis on infrastructure with capacity for 400,000+ emails a day, 99% delivery rate, 30+ client programs. Domains, authentication, warmup, and list checks in the cold email program follow this order.
+
+## FAQ
+
+  Why are my cold emails going to spam?Cold emails land in spam when the server accepts the message and then does not trust the sender, the list, or the content. Check authentication, warmup, volume, bounces, complaints, links, blocklists, the company domain, and one-click unsubscribe if you are a bulk sender. Fix the first failed check, retest, and only then raise volume.
+
+  How do I test whether cold email is landing in spam?Send the message your campaign actually sends to mailboxes you control at Gmail, Yahoo, and Outlook.com. Record inbox, spam, or missing for each one. On Gmail, open Show original and confirm spf=pass, dkim=pass, and dmarc=pass with the From domain aligned. After you have real Gmail volume, check spam rate and domain reputation in Google Postmaster Tools.
+
+  Does the spam folder mean my domain is blocklisted?Spam placement can happen with a clean blocklist lookup, because authentication, volume, and complaints also decide the folder. Look up the From domain, link domains, and the sending IP on the Spamhaus check and on MX Toolbox. A current listing means you stop on that domain or IP until it is removed or replaced.
+
+  Should I keep sending while cold emails go to spam?Pause the inbox that is landing in spam. More mail adds complaints and bounces to a reputation that is already weak. Fix the failed check, prove inbox placement on seed mailboxes you control, and resume at a low daily volume.
+
+  Will removing links and images get cold email out of spam?A plain text copy with tracking, images, and attachments removed will reach the inbox when the message is the cause. If authentication fails, the domain is blocklisted, or the inbox was never warmed, a cleaner email leaves that failure in place. Change one thing at a time.
+
+  What is the difference between spam and a bounce?Spam, or junk, means the server accepted the message and filed it as unwanted. A bounce means the server refused the message. Google documents unauthenticated mail being rejected with a 5.7.26 error. A refusal points to authentication, policy, or a blocklist. Spam placement can also come from volume, complaints, or the content.
+
+## Sources
+
+- Google, Email sender guidelines
+
+- Yahoo Sender Hub, Sender best practices
+
+- dmarcian, Microsoft enforces SPF, DKIM and DMARC for high-volume senders
+
+- RFC 8058, Signaling One-Click Functionality for List Email Headers
+
+- RFC 5322, Internet Message Format
+
+- Spamhaus, Blocklists
+
+- Spamhaus, Reputation check
+
+- Google Postmaster Tools
+
+- MX Toolbox, Blacklist check
+
+- Microsoft, Smart Network Data Services (SNDS)
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+### SPF, DKIM and DMARC setup for cold email
+
+How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
+
+### How to warm up an email domain: the 21-day schedule we use
+
+A step-by-step email warmup guide: what to set up before day one, a 21-day sending schedule per inbox, what to watch, and when a domain is ready for real cold email volume.
+
+### Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
+
+What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.
+
+All guides
 
 ## Tell us who you want to meet.
 
@@ -4969,7 +5224,7 @@ Every major cold email platform includes a warmup network: Saleshandy, Instantly
 
 ## What to watch during warmup
 
-- Spam placement in the warmup network. It should fall week over week. If it's still high at day 14, stop and find out why before adding cold volume.
+- Spam placement in the warmup network. It should fall week over week. If it's still high at day 14, stop and find out why before adding cold volume. For cold email already landing in spam, use the troubleshooting checklist (https://www.beleaded.com/blog/cold-emails-going-to-spam/).
 - Google Postmaster Tools. Add every sending domain. Domain reputation should move from "unknown" to "medium" or "high" as history builds.
 - Blocklists. Spamhaus, SURBL and URIBL, checked daily. A new domain rarely lands on one unless the content or links trigger it.
 - Bounces. Anything above 2% on real sends means the list, not the warmup, is the problem.
@@ -6345,7 +6600,7 @@ Deliverability changes quietly. Every morning we check each sending domain for:
 - Domain reputation and spam rate in Google Postmaster Tools
 - DMARC aggregate reports for mail failing authentication
 
-At the first sign of trouble, pause the affected domain, find the cause, and resume slowly.
+At the first sign of trouble, pause the affected domain, find the cause, and resume slowly. When mail is already landing in spam, use the cold email spam checklist (https://www.beleaded.com/blog/cold-emails-going-to-spam/) before you resume.
 
 ## Checklist
 
