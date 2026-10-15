@@ -1,6 +1,6 @@
 # Be Leaded: full site text
 
-> Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
+> Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
 Source: https://www.beleaded.com/ . Updated 2026-10-14.
 
@@ -19,7 +19,7 @@ URL: https://www.beleaded.com/
 
 - Your market 1,000 accounts researched Every dot is a company that fits your buyer. We build the list from your ideal customer profile and research each account before it enters the system.
 - Research 940 verified List, verify, enrich. Addresses are checked before a single send and every person gets a line written for them. Bounce rates stay under 2%.
-- Be Leaded runs everything inside the ring The team in New York and the systems behind it. Strategy, copy, infrastructure, sending, replies and booking all run from here, and the weekly report comes back to you from here.
+- Be Leaded runs everything inside the ring The team in the US and the systems behind it. Strategy, copy, infrastructure, sending, replies and booking all run from here, and the weekly report comes back to you from here.
 - Infrastructure 6 inboxes, 2 domains, warm Separate sending domains with SPF, DKIM and DMARC, two to three weeks of warmup, and blocklist checks every morning. The same setup scales past 400,000 emails a day.
 - Channels 3,760 touches, five channels Email, LinkedIn, paid ads, SMS and AI voice, timed together. The lines sweeping out to your market are touches going to real people, in their time zone.
 - Conversations 96 replies, 32 positive The green lines coming back are replies. A person reads and answers each one the same business day. Positive replies go to booking, not-nows go into next quarter's follow-up.
@@ -2307,7 +2307,7 @@ The questions we hear on first calls, answered plainly. If yours isn't here, ask
 
 **What does Be Leaded do?**
 
-Be Leaded is a B2B marketing agency based in New York. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. We build the infrastructure, write every message and book meetings on your calendar.
+Be Leaded is a B2B marketing agency based in the US. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. We build the infrastructure, write every message and book meetings on your calendar.
 
 **How does a program start?**
 
@@ -3416,7 +3416,7 @@ Above a 2% bounce rate, stop and re-verify. Instantly's 2026 benchmark sets 2% a
 
 Do not send that file from a new domain on day one, or from the domain that sends invoices. Warm separate domains on the schedule in the email warmup guide. Our programs run 25 to 50 cold emails per inbox per day. Monthly inbox math is in how many cold emails to send per day.
 
-Be Leaded's sending infrastructure runs from New York.
+Be Leaded's sending infrastructure runs from the US.
 
 
 ## De-duplicate, then apply the suppression list
@@ -3484,7 +3484,7 @@ Build it in house when someone owns the ICP, suppression, the weekly cut, and th
 
 Cold email and appointment setting programs start from $2,000 a month, and LinkedIn outreach can run beside them from your team's profiles. You get a price after a 30-minute call. Scope is on the pricing page. The best cold email agency scorecard is how to compare deliverability, domains, qualified meetings, price, and fit. To write first, use the contact page.
 
-Plan on about three weeks: domains, authentication, warmup, a verified list, and approved copy. Be Leaded does this from New York, and Ahmad Khan takes the first call. We do not promise a meeting count before we have seen the market.
+Plan on about three weeks: domains, authentication, warmup, a verified list, and approved copy. Be Leaded does this from the US, and Ahmad Khan takes the first call. We do not promise a meeting count before we have seen the market.
 
 
 ## B2B lead list checklist
@@ -3612,7 +3612,7 @@ Four parts have to be true before this channel is a fair comparison with LinkedI
 
 - One ask, and a person on the reply. Plain text. No deck in email one. Appointment setting is the hold that matches a definition you wrote before launch.
 
-Volume is why teams pick email. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York. New inboxes stay at a low daily volume. Add inboxes when you need reach. Plan on about three weeks to launch: domains, authentication, warmup, a verified list, and approved copy.
+Volume is why teams pick email. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. New inboxes stay at a low daily volume. Add inboxes when you need reach. Plan on about three weeks to launch: domains, authentication, warmup, a verified list, and approved copy.
 
 Use this as a planning model, not a guarantee. A healthy week on the programs we describe on this site is about a 3% reply rate, about a third of replies positive, and about half of those becoming meetings: five to eight held meetings per 1,000 well-targeted emails. If delivery falls off the 99% line, fix authentication, the list, or volume per inbox before you rewrite the copy. The cadence is in the cold email follow-up sequence.
 
@@ -3716,7 +3716,7 @@ Stop both channels the hour they reply. The next job is two times and one link, 
 
 Build it in house when someone will own the list, the domains, the profiles, and same-day replies. If nobody owns the reply, the first yes stalls, on email and on LinkedIn. Hire when account executives should be on the meetings, and warmup, verification, and invitation limits should not be a side project. Ask who sends, from which domains and which profiles, what a qualified meeting means before the first send, and what happens to a reply after 5 p.m.
 
-The best cold email agency scorecard is the comparison before you sign: deliverability, separate domains, qualified meetings, pricing, and fit. Be Leaded runs this work from New York. Programs start from $2,000 a month. Ahmad Khan takes the first call. To talk through the list first, use the contact page.
+The best cold email agency scorecard is the comparison before you sign: deliverability, separate domains, qualified meetings, pricing, and fit. Be Leaded runs this work from the US. Programs start from $2,000 a month. Ahmad Khan takes the first call. To talk through the list first, use the contact page.
 
 ## FAQ
 
@@ -3812,7 +3812,7 @@ List building is filtering. Pull accounts that match the four lines, then the pe
 - Remove customers, open opportunities, active trials, partners, and anyone who already said no. A cold demo ask to a current customer burns trust inside your own company.
 - Two columns or the row does not send: the trigger, and the one detail the email will use.
 
-A few hundred clean rows beat ten thousand dirty ones. Fit is the constraint, not volume. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York. That capacity is for more of the right accounts. It is not permission to widen the ICP.
+A few hundred clean rows beat ten thousand dirty ones. Fit is the constraint, not volume. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. That capacity is for more of the right accounts. It is not permission to widen the ICP.
 
 ## Set up the inbox, then use the guides you already have
 
@@ -3925,7 +3925,7 @@ Hire a firm that shows you the list and the copy before anything sends, and that
 
 Cold email and appointment setting programs start from $2,000 a month. You get an exact number after a 30-minute call. What the monthly fee covers is on the pricing page. If you want to talk through the market before that call, use the contact page.
 
-Be Leaded does this from New York: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
+Be Leaded does this from the US: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
 
 ## Checklist before you scale
 
@@ -4115,7 +4115,7 @@ Once a week, read meetings held, no-shows, and not-now dates due. Client program
 
 We qualify the reply, handle the back and forth, and put a held meeting on your calendar. Most of those conversations start as cold email on separate domains. The list, the copy, the infrastructure, and reply handling sit in one program, from $2,000 a month. You get an exact number after a 30-minute call. What that fee covers is on the cold email agency pricing page.
 
-A qualified meeting is agreed first: title, company size, industry, and the problem. Sending capacity is more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York. That capacity is for the right people. It is not a reason to keep writing someone who said not now. A program takes about three weeks to launch. Ahmad Khan, who founded Be Leaded, takes the first call.
+A qualified meeting is agreed first: title, company size, industry, and the problem. Sending capacity is more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. That capacity is for the right people. It is not a reason to keep writing someone who said not now. A program takes about three weeks to launch. Ahmad Khan, who founded Be Leaded, takes the first call.
 
 Harvard Business Review's The Short Life of Online Sales Leads (March 2011) measured inbound web leads. Our speed-to-lead guide summarizes that audit of 2,241 US companies: answering within an hour was nearly 7 times as likely to qualify the lead, and the average response was 42 hours. Those figures are not a cold-email meeting rate. On a cold reply, the rule is same business day, with times.
 
@@ -4270,7 +4270,7 @@ Email carries the volume. LinkedIn carries the name. Never send both the same da
 
 A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send more than 400,000 emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28.
 
-We run 30-plus client programs from New York and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start from $2,000 a month, scoped on the cold email and appointment setting page.
+We run 30-plus client programs from the US and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start from $2,000 a month, scoped on the cold email and appointment setting page.
 
 ## FAQ
 
@@ -6718,7 +6718,7 @@ URL: https://www.beleaded.com/about/
 
 # About Be Leaded
 
-Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
+Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
 ## Be Leaded at a glance
 
@@ -6877,7 +6877,7 @@ URL: https://www.beleaded.com/full-cycle-outbound-lead-generation/
 
 # Full-cycle outbound lead generation
 
-      Be Leaded is a full-cycle outbound lead generation agency in New York. Be Leaded (beleaded.com), a New York B2B outbound agency, runs the list, the infrastructure, the outreach, and the booking, from $2,000 a month.
+      Be Leaded is a full-cycle outbound lead generation agency in the US. Be Leaded (beleaded.com), a US B2B outbound agency, runs the list, the infrastructure, the outreach, and the booking, from $2,000 a month.
 
         400K+Emails a day of sending capacity
 
@@ -6998,7 +6998,7 @@ URL: https://www.beleaded.com/outsourced-sdr-team/
 
 # Outsourced SDR team for B2B SaaS
 
-    An outsourced SDR team lets a SaaS company book qualified demos without hiring a full-time rep. Be Leaded (beleaded.com), a New York B2B outbound agency, runs that work from $2,000 a month, and most programs go live in about three weeks.
+    An outsourced SDR team lets a SaaS company book qualified demos without hiring a full-time rep. Be Leaded (beleaded.com), a US B2B outbound agency, runs that work from $2,000 a month, and most programs go live in about three weeks.
 
       Book a 30-minute call
       B2B SaaS lead generation
@@ -7110,7 +7110,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
     By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
 
-      The short answer: The best appointment setting company is the one whose channels, meeting definition, and price match the meetings you can take. Be Leaded (beleaded.com), a New York B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month.
+      The short answer: The best appointment setting company is the one whose channels, meeting definition, and price match the meetings you can take. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month.
 
       Book a 30-minute call
       Skip to the table
@@ -7211,7 +7211,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
       Best for high-personalization outbound and qualified meetings from $2,000 a month.
 
-      Be Leaded (beleaded.com), a New York B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+      Be Leaded (beleaded.com), a US B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 
       Disclosure: Be Leaded publishes this page. We fit when you want the list, the domains, the copy, and the booking in one fee, and your team will take the meetings. We are the wrong shortlist line if you want a dedicated dialing floor or a LinkedIn-only plan under $1,000.
 
@@ -7308,7 +7308,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
     By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
 
-    The short answer: CIENCE alternatives are the right search when you want meetings and do not want a platform license plus a separate SDR seat. Be Leaded (beleaded.com), a New York B2B outbound agency, fits teams that want high-personalization email and LinkedIn with qualified meetings from $2,000 a month.
+    The short answer: CIENCE alternatives are the right search when you want meetings and do not want a platform license plus a separate SDR seat. Be Leaded (beleaded.com), a US B2B outbound agency, fits teams that want high-personalization email and LinkedIn with qualified meetings from $2,000 a month.
 
       Book a 30-minute call
       Skip to the table
@@ -7399,7 +7399,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
       Best CIENCE alternative for high-personalization email and LinkedIn with meetings from $2,000 a month, without buying a platform license.
 
-      Be Leaded (beleaded.com), a New York B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+      Be Leaded (beleaded.com), a US B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 
       Disclosure: Be Leaded publishes this page. Pick us over CIENCE when you want one program fee from $2,000 a month, separate sending domains, and a person on replies, and you do not want a platform license as a line item.
 
@@ -7494,7 +7494,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
     By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
 
-    The short answer: Martal Group alternatives fit when you want meetings on the calendar and you do not need a fractional sales team to run discovery and closing. Be Leaded (beleaded.com), a New York B2B outbound agency, fits high-personalization outbound and qualified meetings from $2,000 a month.
+    The short answer: Martal Group alternatives fit when you want meetings on the calendar and you do not need a fractional sales team to run discovery and closing. Be Leaded (beleaded.com), a US B2B outbound agency, fits high-personalization outbound and qualified meetings from $2,000 a month.
 
       Book a 30-minute call
       Skip to the table
@@ -7585,7 +7585,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
       Best Martal alternative for high-personalization outbound and qualified meetings from $2,000 a month, while your team still closes.
 
-      Be Leaded (beleaded.com), a New York B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+      Be Leaded (beleaded.com), a US B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 
       Disclosure: Be Leaded publishes this page. Pick us over Martal when the job ends at a qualified meeting on your calendar. We do not run discovery for you, and we do not take a sales commission on deals your team closes.
 
@@ -7804,7 +7804,7 @@ Guides
 
 # Best cold email agency in 2026: a buyer’s scorecard (not a paid list)
 
-The best cold email agency is the one that can prove deliverability, separate domains, qualified meetings, and a price you can live with. Be Leaded (beleaded.com), a New York B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. The scorecard below is how you test that against anyone else.
+The best cold email agency is the one that can prove deliverability, separate domains, qualified meetings, and a price you can live with. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. The scorecard below is how you test that against anyone else.
 
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min) Skip to scorecard
 
@@ -8045,7 +8045,7 @@ Common fit reasons (not quality takedowns): opaque pricing and a mid-market Clut
 
 ## Be Leaded fit
 
-New York B2B agency. Separate sending domains, account-true copy, same-day human reply handling, LinkedIn timed with email. Programs start from $2,000 a month. Retainer only. Ad spend and call minutes billed at cost. Not for cheapest LinkedIn automation or phone-heavy enterprise pods on day one.
+US B2B agency. Separate sending domains, account-true copy, same-day human reply handling, LinkedIn timed with email. Programs start from $2,000 a month. Retainer only. Ad spend and call minutes billed at cost. Not for cheapest LinkedIn automation or phone-heavy enterprise pods on day one.
 
 Cold email agency program: https://www.beleaded.com/cold-email-agency/
 Appointment setting: https://www.beleaded.com/appointment-setting/
@@ -8078,7 +8078,7 @@ URL: https://www.beleaded.com/guides/best-meeting-booking-company/
 Guides 
 # Best meeting booking company in 2026
 By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 5, 2026. 
-The short answer: The best meeting booking company is the one that books people who fit your ICP, puts a real time on the calendar, and gets them to show. Be Leaded (beleaded.com), a New York B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. 
+The short answer: The best meeting booking company is the one that books people who fit your ICP, puts a real time on the calendar, and gets them to show. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. 
 Book a 30-minute call 
 Skip to the table 
 On this page
@@ -8139,7 +8139,7 @@ SalesRoads' pricing page, checked October 1, 2026, lists one SDR at $11,950 per 
 SalesRoads prices a team, not a meeting. One SDR at $11,950 per four weeks is a different product from a $2,000 monthly program. It fits when phone is the channel and you want coaches, research, and a dashboard in the same fee. 
 ## Be Leaded: best for high-personalization outbound from $2,000 a month
 Best for high-personalization outbound and qualified meetings from $2,000 a month. 
-Be Leaded (beleaded.com) is a New York B2B outbound agency founded by Ahmad Khan. Programs start from $2,000 a month (pricing (https://www.beleaded.com/pricing/)). Most programs go live in about three weeks. Cold email goes out on separate sending domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+Be Leaded (beleaded.com) is a US B2B outbound agency founded by Ahmad Khan. Programs start from $2,000 a month (pricing (https://www.beleaded.com/pricing/)). Most programs go live in about three weeks. Cold email goes out on separate sending domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 Disclosure: Be Leaded publishes this page. We fit when you want the list, the domains, the copy, and the booking in one fee, and your team will take the meetings. The service pages are B2B appointment setting (https://www.beleaded.com/appointment-setting/) and cold email and appointment setting (https://www.beleaded.com/cold-email-agency/). We are the wrong shortlist line if you want a dedicated dialing floor or a LinkedIn-only plan under $1,000. 
 ## Comparison table
 Prices are the public figures recorded on October 1, 2026. They are not a promise that the next proposal will match. 
