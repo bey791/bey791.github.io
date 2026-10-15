@@ -76,6 +76,7 @@ Key facts:
 - [Pricing](https://www.beleaded.com/pricing/): programs start from $2,000 a month; what's included, what changes the price, and how it compares with hiring an SDR
 
 ## Guides
+- [How to increase cold email reply rate](https://www.beleaded.com/blog/increase-cold-email-reply-rate/): How to increase cold email reply rate: fix placement, the list, and the ask before you add volume. Change one variable at a time, with cited benchmarks behind each step.
 - [Why are my cold emails going to spam](https://www.beleaded.com/blog/cold-emails-going-to-spam/): Why are my cold emails going to spam? Causes and fixes: authentication, warmup, volume, lists, complaints, links, blocklists, and the order to fix them.
 - [Is cold email legal?](https://www.beleaded.com/blog/is-cold-email-legal/): A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, Australia's Spam Act, plus a compliance checklist.
 - [SPF, DKIM and DMARC setup for cold email](https://www.beleaded.com/blog/spf-dkim-dmarc-for-cold-email/): How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
