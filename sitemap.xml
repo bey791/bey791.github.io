@@ -131,8 +131,13 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beleaded.com/blog/ai-voice-calling-for-b2b-lead-generation/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/blog/increase-cold-email-reply-rate/</loc>
