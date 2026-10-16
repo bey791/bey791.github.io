@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-15.
+Source: https://www.beleaded.com/ . Updated 2026-10-16.
 
 ## Where to verify us
 
@@ -952,7 +952,7 @@ B2B demo requests
 
 ### Qualifying before the demo
 
-Asks the three questions your sales team asks anyway, then books the right rep.
+Asks the three questions your sales team asks anyway, then books the right rep. The operator guide is how AI voice calling works for B2B lead generation.
 
 ## Questions about AI voice agents
 
@@ -2533,6 +2533,12 @@ URL: https://www.beleaded.com/blog/
 # Guides from the campaigns we run
 
 Everything here comes from programs we've built for clients: what we send, how we set it up, and what the numbers look like. No fluff, sources at the bottom of every guide, and each one starts with the short answer.
+
+## AI voice
+
+### How AI voice calling works for B2B lead generation
+
+How AI voice calling works for B2B lead generation: speed to lead, short scripts, a human handoff, compliance, and what to measure before you scale.
 
 ## Cold email
 
@@ -6399,7 +6405,7 @@ A lead from a Meta instant form or a Google search ad is at peak intent for a fe
 | Day 1, day 3, day 7 | Text and email | Short follow-ups with one question each, then stop. |
 | Monthly | Newsletter | For everyone who said not now, so you're there when they're ready. |
 
-Text first because it's read within minutes and doesn't interrupt. Call second because a conversation books the job. Email third because it carries the details. The whole chain is automated with n8n, and the call can be an AI voice agent when nobody is free.
+Text first because it's read within minutes and doesn't interrupt. Call second because a conversation books the job. Email third because it carries the details. The whole chain is automated with n8n, and the call can be an AI voice agent when nobody is free. Scripts, the handoff to a person, and what to measure are in how AI voice calling works for B2B lead generation.
 
 ## The consent that makes it legal
 
