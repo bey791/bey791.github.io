@@ -2294,6 +2294,31 @@ Or email sales@beleaded.com
 
 ---
 
+URL: https://www.beleaded.com/tools/inbox-setup-checker/
+
+- Home
+- Tools
+- Inbox setup checker
+
+Free tool
+
+# Free inbox setup checker
+
+Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none only monitors and sends reports. Quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.
+
+## Check a domain
+
+Protocol, path, and a leading www are ignored. https://www.example.com/path checks example.com.
+
+One label, such as google or selector1. Leave this blank to skip DKIM.
+
+Each lookup goes to Google Public DNS and times out after 5 seconds. This page does not save the domain, and it does not send it to Be Leaded.
+
+Want us to set this up and run outreach for you? Book a call.
+
+
+---
+
 URL: https://www.beleaded.com/faq/
 
 - Home
@@ -6668,6 +6693,8 @@ v=DMARC1; p=none; rua=mailto:dmarc@outreach.example
 ```
 
 Alignment is the part most setups miss: the domain in your From address has to match the domain that passes SPF or DKIM. A message can pass SPF on a sending tool's domain and still fail DMARC because it isn't aligned.
+
+Check a domain in your browser with the free inbox setup checker (https://www.beleaded.com/tools/inbox-setup-checker/). It reads MX, SPF, DMARC and DKIM from public DNS. Nothing is stored.
 
 ## Warm up every new inbox
 
