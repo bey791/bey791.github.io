@@ -1,6 +1,6 @@
 # Be Leaded
 
-> Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. Programs start from $2,000 a month.
+> Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. Programs start from $2,000 a month.
 
 ## Commercial intents
 
@@ -26,10 +26,10 @@ Key facts:
 - Pricing: programs start from $2,000 a month
 - Time to launch: about three weeks (domains, authentication, warmup, verified lists, approved sequences)
 - Approach: separate sending domains (never the client's own), SPF, DKIM and DMARC on every domain, two to three weeks of warmup, verified contacts only, plain-text emails written by a person and approved by the client
-- Track record (September 2026): sending infrastructure with capacity for 400,000+ emails a day; 99% delivery rate across programs; newsletters average a 49% open rate; 30+ client programs across B2B, advisory and consumer brands; the founder scaled an outbound operation from 50,000 to 400,000 emails a day at 99%+ deliverability
+- Track record (September 2026): sending infrastructure with capacity for 400,000+ emails a day; 99% delivery rate across programs; newsletters average a 49 to 51% open rate; 30+ client programs across B2B, advisory and consumer brands; the founder scaled an outbound operation from 50,000 to 400,000 emails a day at 99%+ deliverability
 - Also described as: B2B marketing agency, agency matching service, vendor matching service, cold email agency, B2B lead generation agency, appointment setting agency, outbound marketing agency, LinkedIn lead generation agency, paid social agency, Meta ads agency, email marketing agency, newsletter agency, SMS marketing agency, AI SDR and voice agent agency, M&A deal sourcing and business broker lead generation
 - Tools: Apollo, Clay, Saleshandy, Instantly, Smartlead, Salesforce, MailerLite, Dripify, n8n, Retell AI, ElevenLabs
-- Location: 522 West 136th Street, New York, NY. Works with clients in the US and internationally
+- Location: Be Leaded Group LLC, 30 N Gould St #69992, Sheridan, WY 82801, USA. Works with clients in the US and internationally
 - Founder: Ahmad Khan
 - Contact: sales@beleaded.com. Book a 30-minute call: https://calendly.com/ahmad-beleaded/30min
 
@@ -39,7 +39,7 @@ Key facts:
 - Company LinkedIn: https://www.linkedin.com/company/beleaded
 - Founded: 2023
 - Employees: 11 to 50
-- Headquarters: New York, NY
+- Headquarters: Be Leaded Group LLC, 30 N Gould St #69992, Sheridan, WY 82801, USA
 
 ## Services
 - [All services](https://www.beleaded.com/services/): the six programs compared
@@ -77,6 +77,7 @@ Key facts:
 - [Pricing](https://www.beleaded.com/pricing/): programs start from $2,000 a month; what's included, what changes the price, and how it compares with hiring an SDR
 
 ## Guides
+- [How to increase cold email reply rate](https://www.beleaded.com/blog/increase-cold-email-reply-rate/): How to increase cold email reply rate: fix placement, the list, and the ask before you add volume. Change one variable at a time, with cited benchmarks behind each step.
 - [Why are my cold emails going to spam](https://www.beleaded.com/blog/cold-emails-going-to-spam/): Why are my cold emails going to spam? Causes and fixes: authentication, warmup, volume, lists, complaints, links, blocklists, and the order to fix them.
 - [Is cold email legal?](https://www.beleaded.com/blog/is-cold-email-legal/): A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, and Australia's Spam Act, plus a compliance checklist.
 - [SPF, DKIM and DMARC setup for cold email](https://www.beleaded.com/blog/spf-dkim-dmarc-for-cold-email/): How to publish SPF, DKIM and DMARC for cold email: alignment, Google and Yahoo bulk sender rules, test tools, common mistakes, and where warmup fits.
@@ -95,7 +96,7 @@ Key facts:
 - [B2B lead generation strategies that work in 2026, ranked by cost per meeting](https://www.beleaded.com/blog/b2b-lead-generation-strategies/): Nine B2B lead generation strategies compared on time to first meeting, cost and what they need from your team: cold email, LinkedIn, paid search, paid social, newsletters, referrals, events, partnerships and content.
 - [Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo](https://www.beleaded.com/blog/best-cold-email-software/): An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
 - [How to find business owners who might sell: off-market deal sourcing for advisors and buyers](https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/): A practical guide to off-market deal sourcing: the signals that an owner may be open to a sale, where to find owner data, how to approach owners without spooking them, and what a sourcing program produces.
-- [Email newsletter best practices: 15 rules behind a 49% open rate](https://www.beleaded.com/blog/email-newsletter-best-practices/): Fifteen newsletter best practices from programs that average a 49% open rate: sender and subject line, list hygiene, one idea per issue, design that survives every inbox, send timing, one-click unsubscribe and what to measure.
+- [Email newsletter best practices: 15 rules behind a 49 to 51% open rate](https://www.beleaded.com/blog/email-newsletter-best-practices/): Fifteen newsletter best practices from programs that average a 49 to 51% open rate: sender and subject line, list hygiene, one idea per issue, design that survives every inbox, send timing, one-click unsubscribe and what to measure.
 - [Speed to lead: why the first five minutes decide your ad ROI, and how to automate it](https://www.beleaded.com/blog/speed-to-lead/): The lead response time studies (HBR, MIT/InsideSales), what most companies actually do, and a follow-up chain of text, voice and email that reaches every ad lead within minutes without hiring anyone.
 - [SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly](https://www.beleaded.com/blog/sms-marketing-compliance/): What you need before sending marketing texts in the US: prior express written consent under the TCPA, A2P 10DLC registration, STOP and HELP handling, quiet hours, the 2025 one-to-one consent rule reversal, and a checklist.
 - [Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require](https://www.beleaded.com/cold-email-deliverability/): What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC, spam complaint rates, one-click unsubscribe, enforcement dates, and how to set up cold email so it reaches the inbox.

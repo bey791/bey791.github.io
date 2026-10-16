@@ -1,8 +1,8 @@
 # Be Leaded: full site text
 
-> Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
+> Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-14.
+Source: https://www.beleaded.com/ . Updated 2026-10-15.
 
 ## Where to verify us
 
@@ -10,7 +10,7 @@ Source: https://www.beleaded.com/ . Updated 2026-10-14.
 - Company LinkedIn: https://www.linkedin.com/company/beleaded
 - Founded: 2023
 - Employees: 11 to 50
-- Headquarters: New York, NY
+- Headquarters: Be Leaded Group LLC, 30 N Gould St #69992, Sheridan, WY 82801, USA
 
 
 ---
@@ -19,7 +19,7 @@ URL: https://www.beleaded.com/
 
 - Your market 1,000 accounts researched Every dot is a company that fits your buyer. We build the list from your ideal customer profile and research each account before it enters the system.
 - Research 940 verified List, verify, enrich. Addresses are checked before a single send and every person gets a line written for them. Bounce rates stay under 2%.
-- Be Leaded runs everything inside the ring The team in New York and the systems behind it. Strategy, copy, infrastructure, sending, replies and booking all run from here, and the weekly report comes back to you from here.
+- Be Leaded runs everything inside the ring The team in the US and the systems behind it. Strategy, copy, infrastructure, sending, replies and booking all run from here, and the weekly report comes back to you from here.
 - Infrastructure 6 inboxes, 2 domains, warm Separate sending domains with SPF, DKIM and DMARC, two to three weeks of warmup, and blocklist checks every morning. The same setup scales past 400,000 emails a day.
 - Channels 3,760 touches, five channels Email, LinkedIn, paid ads, SMS and AI voice, timed together. The lines sweeping out to your market are touches going to real people, in their time zone.
 - Conversations 96 replies, 32 positive The green lines coming back are replies. A person reads and answers each one the same business day. Positive replies go to booking, not-nows go into next quarter's follow-up.
@@ -61,7 +61,7 @@ Emails a day of sending capacity across our infrastructure.
 
 Delivery rate across the programs we run.
 
-49%
+49 to 51%
 
 Average open rate on the newsletters we run.
 
@@ -215,7 +215,7 @@ Newsletters
 
 ## Newsletters people open.
 
-We design, write and send newsletters that read like a note from someone who knows the subject. The programs we run average a 49% open rate. Hover to browse, click to read.
+We design, write and send newsletters that read like a note from someone who knows the subject. The programs we run average a 49 to 51% open rate. Hover to browse, click to read.
 
 See the newsletters
 
@@ -726,11 +726,11 @@ URL: https://www.beleaded.com/newsletter-agency/
 
 # Newsletters people open, written and sent for you
 
-Be Leaded is a newsletter and email marketing agency. We design, write and send newsletters, run campaign and lifecycle email, and handle SMS for subscribers who opted in. The newsletters we run average a 49% open rate and a 99% delivery rate.
+Be Leaded is a newsletter and email marketing agency. We design, write and send newsletters, run campaign and lifecycle email, and handle SMS for subscribers who opted in. The newsletters we run average a 49 to 51% open rate and a 99% delivery rate.
 
 ## Recent results
 
-49%
+49 to 51%
 
 Average open rate across the newsletters we run.
 
@@ -847,7 +847,7 @@ A newsletter agency designs, writes and sends your newsletter and looks after th
 
 **What is a good newsletter open rate?**
 
-MailerLite's 2025 benchmark put the median open rate at 43.46% across 3.6 million campaigns. The newsletters we run average 49%. Privacy features such as Apple Mail Privacy Protection inflate open rates across the industry, so we also watch clicks, replies and unsubscribes.
+MailerLite's 2025 benchmark put the median open rate at 43.46% across 3.6 million campaigns. The newsletters we run average 49 to 51%. Privacy features such as Apple Mail Privacy Protection inflate open rates across the industry, so we also watch clicks, replies and unsubscribes.
 
 **How often should we send?**
 
@@ -1835,7 +1835,7 @@ Emails a day of sending capacity across our infrastructure.
 
 Delivery rate across the programs we run.
 
-49%
+49 to 51%
 
 Average open rate on the newsletters we run.
 
@@ -1889,7 +1889,7 @@ Multi-domain sending infrastructure across Google Workspace and Microsoft inboxe
 
 #### Where it landed
 
-Deliverability rose from about 88% to 99% or better as volume grew. Open rates held around 49%, response rates ran at 2% to 3%, and replies were worked through to booked demos.
+Deliverability rose from about 88% to 99% or better as volume grew. Open rates held around 49 to 51%, response rates ran at 2% to 3%, and replies were worked through to booked demos.
 
 - Emails a day: 400K
 - Deliverability: 99%+
@@ -2294,6 +2294,31 @@ Or email sales@beleaded.com
 
 ---
 
+URL: https://www.beleaded.com/tools/inbox-setup-checker/
+
+- Home
+- Tools
+- Inbox setup checker
+
+Free tool
+
+# Free inbox setup checker
+
+Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none meets the minimum and sends reports, while quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.
+
+## Check a domain
+
+Protocol, path, and a leading www are ignored. https://www.example.com/path checks example.com.
+
+One label, such as google or selector1. Leave this blank to skip DKIM.
+
+Each lookup goes to Google Public DNS and times out after 5 seconds. This page does not save the domain, and it does not send it to Be Leaded.
+
+Want us to set this up and run outreach for you? Book a call.
+
+
+---
+
 URL: https://www.beleaded.com/faq/
 
 - Home
@@ -2307,7 +2332,7 @@ The questions we hear on first calls, answered plainly. If yours isn't here, ask
 
 **What does Be Leaded do?**
 
-Be Leaded is a B2B marketing agency based in New York. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. We build the infrastructure, write every message and book meetings on your calendar.
+Be Leaded is a B2B marketing agency based in the US. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. We build the infrastructure, write every message and book meetings on your calendar.
 
 **How does a program start?**
 
@@ -2367,7 +2392,7 @@ Yes. Fast pages built for one offer, with a form that captures consent so we can
 
 **What open rate do your newsletters get?**
 
-The programs we run average 49%, against a 2025 industry median of 43.46% in MailerLite's benchmark. We judge newsletters on clicks, replies and unsubscribes as well, because privacy features inflate opens.
+The programs we run average 49 to 51%, against a 2025 industry median of 43.46% in MailerLite's benchmark. We judge newsletters on clicks, replies and unsubscribes as well, because privacy features inflate opens.
 
 **Can you text our customers?**
 
@@ -2421,7 +2446,7 @@ Calls run on Eastern time, Monday to Friday. If nothing fits, email and we'll fi
 
 Or email sales@beleaded.com
 
-We reply within one business day. Be Leaded is at 522 West 136th Street, New York, NY, and works with clients in the US and internationally.
+We reply within one business day. Be Leaded Group LLC is at 30 N Gould St #69992, Sheridan, WY 82801, USA. A US agency working with clients across the country and internationally.
 
 ## What to bring to the call
 
@@ -2473,7 +2498,7 @@ URL: https://www.beleaded.com/glossary/
 - Lead: A person or company that has shown interest or fits your buyer profile. An inbound lead asked for something. An outbound lead is one you chose to contact. Read more
 - Lifecycle email: Automated emails triggered by what a person does: a welcome series, an onboarding sequence, a re-engagement flow. Runs between newsletter issues. Read more
 - List-unsubscribe: An email header that lets mailbox providers show an unsubscribe button. Gmail and Yahoo require the one-click version (RFC 8058) for bulk senders, with requests honored within two days. Read more
-- Newsletter: A recurring email to people who subscribed, with one useful idea per issue. The programs Be Leaded runs average a 49% open rate. Read more
+- Newsletter: A recurring email to people who subscribed, with one useful idea per issue. The programs Be Leaded runs average a 49 to 51% open rate. Read more
 - Off-market deal: A company that isn't listed for sale, reached by approaching the owner directly. Most privately held businesses change hands this way. Read more
 - Open rate: The share of delivered emails recorded as opened. Inflated by privacy features such as Apple Mail Privacy Protection, so it's a trend line rather than a truth. Judge campaigns on replies and meetings. Read more
 - Outbound: Marketing and sales activity where you reach out first: cold email, LinkedIn outreach, calls. The opposite of inbound, where the prospect finds you. Read more
@@ -2510,6 +2535,10 @@ URL: https://www.beleaded.com/blog/
 Everything here comes from programs we've built for clients: what we send, how we set it up, and what the numbers look like. No fluff, sources at the bottom of every guide, and each one starts with the short answer.
 
 ## Cold email
+
+### How to increase cold email reply rate
+
+How to increase cold email reply rate: fix placement, the list, and the ask before you add volume. Change one variable at a time, with cited benchmarks behind each step.
 
 ### Is cold email legal?
 
@@ -2597,9 +2626,9 @@ A practical guide to off-market deal sourcing: the signals that an owner may be 
 
 ## Email marketing
 
-### Email newsletter best practices: 15 rules behind a 49% open rate
+### Email newsletter best practices: 15 rules behind a 49 to 51% open rate
 
-Fifteen newsletter best practices from programs that average a 49% open rate: sender and subject line, list hygiene, one idea per issue, design that survives every inbox, send timing, one-click unsubscribe and what to measure.
+Fifteen newsletter best practices from programs that average a 49 to 51% open rate: sender and subject line, list hygiene, one idea per issue, design that survives every inbox, send timing, one-click unsubscribe and what to measure.
 
 ## Paid social
 
@@ -2619,6 +2648,208 @@ Thirty minutes with the founder. You'll leave with a clear picture of your marke
 
 Or email sales@beleaded.com
 
+
+---
+
+URL: https://www.beleaded.com/blog/increase-cold-email-reply-rate/
+
+- Home
+- Guides
+- How to increase cold email reply rate
+
+Cold email
+
+# How to increase cold email reply rate
+
+By Ahmad Khan, founder of Be Leaded. Updated October 15, 2026. 10 min read.
+
+The short answer: Increase a cold email reply rate by fixing inbox placement first, then the list, then the ask. If the message is in spam, a new subject line will not show up in the number. Change one thing at a time, on one segment, and leave volume alone until that segment is worth repeating.
+
+- Count it the same way
+- Placement first
+- A tighter list
+- An ask they can answer
+- Follow-ups that add a reason
+- One LinkedIn touch
+- One change per week
+- When the rate stays low
+- FAQ
+- Sources
+
+## Count the rate the same way every week
+
+Reply rate is replies divided by the sends you chose. Some tools count every email, including follow-ups. Some count people. Some drop bounces. Write one definition on the report, such as replies divided by people who received email one, with bounces removed, and leave it.
+
+Published averages are context, not a target to paste onto the dashboard. Instantly's Cold Email Benchmark Report 2026, updated January 12, 2026, puts the average at 3.43%, the top quartile at 5.5% or higher, and the top 10% at 10.7% or higher. Hunter's State of Email Outreach 2026, from 31 million emails sent in 2025, reports 4.5% overall and 3% for sales outreach. Belkins, on 7.5 million emails in 2025, reports 0.45%, because that study counts every reply against every email in a multi-touch sequence. The spread is the method. How the studies differ is in the cold email benchmarks guide.
+
+Split the replies before you treat a higher percentage as progress. "Not interested," a wrong person, an unsubscribe, and an out-of-office can all count. They are not someone who wants a conversation. Track total replies and interested replies side by side. If the total rises and interest does not, the list or the ask is off, and more volume makes that worse. Sorting each reply the same business day is in how to turn cold email replies into meetings. Judge a segment against itself the next week, after it has had a real chance to answer.
+
+## Fix placement before you touch the copy
+
+If the mail is in spam, the reply rate is measuring the folder. Pause that inbox. Confirm SPF, DKIM, and DMARC pass and align with the From domain, then check warmup, volume per inbox, bounces, complaints, and links. The order of those checks is in why cold emails go to spam. The records are in the SPF, DKIM and DMARC guide. Do not rewrite the first line while those checks are failing.
+
+Google's email sender guidelines expect a spam rate below 0.3% for mail to personal Gmail accounts. In Postmaster Tools, stay under 0.10%, and treat 0.30% as the line you do not cross. Our infrastructure holds a 99% delivery rate. Below that line, fix authentication, the list, or volume before the copy. Hunter's May 2026 report found custom domains replied 108% higher than free mailboxes, and mail without open tracking replied at 7.4%, against 4.4% with tracking. Use your own sending domain. Turn the pixel off.
+
+Email one can be plain text: no image, no attachment, and no calendar URL. A link can wait until they have answered. Tracking domains are a common reason a plain seed reaches the inbox and the tracked copy does not. A working opt-out, and a real postal address, belong on the message so someone who wants out does not have to click report spam. Country rules for that line are in is cold email legal.
+
+## Mail fewer people, more precisely
+
+The fastest legitimate way to raise the rate is to stop emailing people who were never going to answer. Hunter found sequences aimed at 21 to 50 people replied at 6.2%, against 2.4% for sequences with more than 500 people. That is not a cap of 50 sends a week. It is evidence that a tight segment, with copy written for that segment, beats one blast to a mixed file.
+
+Write the segment in one sentence before you export: the title, the company size, and the problem they have this quarter. A VP of Sales at a 40-person software company and the owner of a 40-person IT firm can both be buyers. They are not one email. A founder who might sell a firm is a third campaign, with a different ask, covered in the off-market sourcing guide. For a software demo, the buyer and what counts as a qualified demo are in how to book SaaS demos with cold email. If the segment sentence needs the word "or," split the file.
+
+One contact per company replied at 5.1% in that Hunter study, against 3.5% when three or more people at the company were emailed. Start with the person who owns the problem. A second name needs its own fact. Belkins found founders and owners the highest-reply title in its 2025 data: often the owner in a small firm, often a functional lead in a larger one. Confirm the title on a second source. A stale title looks like a copy failure.
+
+A bounce is a hit to next week's domain, not a missed reply. Catch-alls, unknowns, customers, open opportunities, partners, and opt-outs stay off the file. The lead list guide covers those columns. Hunter's strongest band was 20 to 49 emails per inbox per day, at 5.7%, which the report describes as 27% above its average. Add inboxes when the market is larger than that. Limits are in the volume guide, and a domain still in warmup is not a test. The schedule is in the warmup guide.
+
+## Ask for a sentence, not a meeting
+
+A reply is a small favor. "Do you have 15 minutes next Tuesday for a demo and a look at pricing?" is a meeting request. Ask one question they can answer in a sentence, without opening a calendar.
+
+Questions that fit email one:
+
+- Is this still on your plate, or did it move?
+
+- Are you the person who owns onboarding after the contract is signed?
+
+- Worth a look this quarter, or should I close the file?
+
+Instantly found the best first emails stay under 80 words, and that 58% of replies come from the first step. Shapes are in the cold email templates. Hunter found five-to-six-word subjects had the best reply rates in that set, and that "Quick question" replied at 2.5%, under the 4.5% average. Lines worth keeping are in the subject line guide.
+
+Hunter measured two custom attributes in the body at 5.6%, against 3.6% with none. In the survey with that report, 67% of decision makers said public-information personalization makes a reply more likely, and 69% of US-based decision makers said it bothers them if AI wrote the email. A name with no fact will not produce the 5.6%. How to store one dated fact per row is in how to personalize cold emails at scale.
+
+Names and companies in the examples on this page are made up. They show the shape of an email. They are not client results.
+
+Hard to answer
+
+Jordan, I hope you are well. We help companies like yours book more pipeline. Do you have time Thursday for a quick demo?
+
+One question, one fact
+
+Jordan, Northwind posted a customer onboarding lead on October 2, so the handoff after signature is probably still thin. Are you the person who owns that, or should I ask someone else?
+
+If you cannot reopen the job post, skip the row or send a question that does not pretend you looked. Hunter found manually edited emails replied at 5.2%, against 4.4% for fully automated ones. Reject any line that could fit the next company. An empty cell waits. The offer has to fit in one sentence the buyer could repeat. "We help teams save time" is not an offer. "We book qualified demos for B2B software teams that sell to operations leaders" is.
+
+## Let the next emails add a reason
+
+One email leaves replies on the table. Hunter found three-email sequences replied at 6.8%, against 3.3% for a single email. That is the case for a second and a third note. It is not a case for "just checking in" or "bumping this to the top of your inbox."
+
+Instantly's finding that 58% of replies come from the first step means email one still does most of the work. Later notes earn the rest when each one adds a fact, a narrower question, or a clean way to say no. Keep them in the same thread. Space the early ones a few days apart, then widen the gap. The cadence, including when to stop, is in the cold email follow-up sequence.
+
+A breakup note is part of the reply rate. People answer when they can see you will stop. "Not now, try next quarter" is a reply you park. An out-of-office is not a no, and it is not interest. If it names a return date, pause that person, then send the next real touch. Strip auto-replies out of the interested column or the weekly rate will drift.
+
+## Add one LinkedIn touch on a different day
+
+An email from a stranger is easy to skip. An email from a name they saw on LinkedIn is easier to place. One short connection note, on a different day from the email, can carry the same true detail. No calendar link, and no pitch. Where each channel wins is in cold email vs LinkedIn outreach. Note length and the weekly invitation cap are in the LinkedIn outreach messages guide.
+
+Running both channels in one sequence is a lift we see on programs we run, not a percentage for a forecast. A reply on either channel stops the other that day. LinkedIn lead generation can sit in those gaps.
+
+## Change one variable, then read the week
+
+Write down what you changed. If you rewrite the first line, swap the list, and add inboxes in the same week, you will not know which one moved the rate. Hold everything below the current step still.
+| Step | What you change | What you hold still | Move on when |
+| 1. Placement | Authentication, warmup, complaints, tracking off | The copy and the list | Seeds you control land in the inbox, and complaints are flat |
+| 2. List | One segment, verified addresses, one person per company | The email | Titles check out on a second source, and bounces are quiet |
+| 3. Ask | One question, under 80 words, no link in email one | The segment | You can answer the question yourself in one sentence |
+| 4. Proof | One fact you can reopen, or an honest question with no fake research | The ask | A stranger can tell which company the line is about |
+| 5. Follow-up | Two more touches that add a fact, then a stop | Email one | The later notes are not bumps |
+| 6. Volume | More inboxes, not a higher daily count on a tired inbox | Everything above | The segment's reply rate is one you would run again |
+
+Step 1 is still open if delivery is off the 99% line our infrastructure holds. Hunter's 20 to 49 emails per inbox per day is a ceiling, not a quota. If the rate does not move, go back up the table.
+
+Read interested replies beside the total. Sort a yes the same day. The sheet needs the segment sentence, the definition, people who got email one, total replies, interested replies, complaints, and the one change allowed next week. Do not buy a bigger list, switch tools, or email five people at one account to escape a flat week.
+
+One segment, five weeks, no results claimed: split a mixed file, keep the email, then remove the calendar link, then add two follow-ups that each carry a new fact, and only then add inboxes. If it is not worth repeating, change the offer or the title. Do not scale a second segment in that same week.
+
+Across 30-plus client programs, the order is placement, list, ask, then volume. The copy is approved before it sends. Skipping to volume produces a low rate and a tired domain in the same month.
+
+## When the rate stays low after that order
+
+If placement is clean and the ask is one question, a low rate is usually the offer or the market. Read the noes. If they do not recognize the problem, change the segment or the offer and hold it still. A low rate on a new domain is not a verdict on the copy: finish warmup, then judge the words.
+
+If the team will not keep the definition, the suppression list, and the weekly read, a cold email and appointment setting program can run the file, the inboxes, and the replies. You still approve who counts as a fit, and you still approve the lines. Scope starts on a call. We do not name a reply rate before the market is clear, because the honest number depends on the offer and the buyers. Appointment setting is the same motion when the outcome you want is a qualified meeting on the calendar.
+
+## FAQ
+
+**How do you increase cold email reply rate?**
+
+Fix inbox placement first, then tighten the list, then change the ask. Leave volume alone until replies on the current segment are worth repeating. Change one variable at a time so you can see what moved.
+
+**What is a good cold email reply rate?**
+
+Instantly's Cold Email Benchmark Report 2026 puts the average at 3.43%, the top quartile at 5.5% or higher, and the top 10% at 10.7% or higher. Hunter's State of Email Outreach 2026 puts sales outreach at 3% and overall outreach at 4.5%. Compare your program to itself, with one definition. A different counting method will not match those figures.
+
+**Why is my cold email reply rate low?**
+
+The usual causes are spam placement, a list that mixes several buyers, or an ask that wants a meeting before the reader has agreed the problem is real. Check placement and bounces before you rewrite the subject line.
+
+**Does personalization raise cold email reply rate?**
+
+Hunter's State of Email Outreach 2026 found two custom attributes in the body replied at 5.6%, against 3.6% with none. A first name alone is a weak attribute. The line has to name a fact you can reopen.
+
+**How many follow-ups increase cold email reply rate?**
+
+Hunter's State of Email Outreach 2026 found three-email sequences replied at 6.8%, against 3.3% for a single email. Instantly's 2026 report found 58% of replies come from the first step. Later emails help when each one adds a new fact or a narrower question.
+
+**Should open tracking stay off if you want more replies?**
+
+Yes. Hunter's State of Email Outreach 2026 found emails sent without open tracking replied at 7.4%, against 4.4% with tracking. Score the program on replies, and on how many of those replies want a conversation.
+
+## Sources
+
+- Hunter, The State of Email Outreach 2026 (May 2026; 31 million emails sent in 2025)
+
+- Instantly, Cold Email Benchmark Report 2026 (updated January 12, 2026; data from January 1 through December 18, 2025)
+
+- Belkins, What are B2B cold email response rates? (7.5 million emails, 2025)
+
+- Google, Email sender guidelines
+
+- Google Postmaster Tools
+
+Ahmad Khan, founder of Be Leaded
+
+Ahmad runs outbound and email programs for B2B companies, advisors and brands. He has scaled an outbound operation and takes every first call with clients himself.
+
+Book a 30-minute call
+
+## Keep reading
+
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+
+A practical guide to personalizing cold email at scale: ICP triggers, research tiers, variables, tools, and a QA check so the first line stays true.
+
+A practical 7-touch cold email follow-up sequence with the timing gaps, what each touch says, when to stop, and how to pair email with LinkedIn so replies become meetings.
+
+All guides
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com Copy
+
+## Keep reading
+
+### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+
+### How to personalize cold emails at scale
+
+A practical guide to personalizing cold email at scale: ICP triggers, research tiers, variables, tools, and a QA check so the first line stays true.
+
+### Cold email follow-up sequence: the 7-touch cadence that books meetings
+
+A practical 7-touch cold email follow-up sequence with the timing gaps, what each touch says, when to stop, and how to pair email with LinkedIn so replies become meetings.
+
+All guides
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
 
 ---
 
@@ -3228,7 +3459,7 @@ If they reply on either channel, stop the other channel that day. Later email to
 
 Reply rate by research tier, on the same offer and the same ICP, tells you whether the minutes were worth it. Also split rows that used a real trigger from rows that only merged a name.
 
-Score replies. Hunter found campaigns without open tracking replied at 7.4%, against 4.4% with tracking (May 2026). Public ranges for a healthy reply rate are in the cold email benchmarks guide. This page is for whether your tier 2 beat your tier 1.
+Score replies. Hunter found campaigns without open tracking replied at 7.4%, against 4.4% with tracking (May 2026). Public ranges for a healthy reply rate are in the cold email benchmarks guide. This page is for whether your tier 2 beat your tier 1. If every tier is low, placement or the list is the constraint. The order of fixes is in how to increase cold email reply rate.
 
 Hold the offer still for a couple of weeks inside one segment. If tier 2 is not clearly ahead of tier 1, drop back to one minute. If tier 0 matches tier 1, the trigger is still too vague. Change the line or the list before you add sending capacity.
 
@@ -3416,7 +3647,7 @@ Above a 2% bounce rate, stop and re-verify. Instantly's 2026 benchmark sets 2% a
 
 Do not send that file from a new domain on day one, or from the domain that sends invoices. Warm separate domains on the schedule in the email warmup guide. Our programs run 25 to 50 cold emails per inbox per day. Monthly inbox math is in how many cold emails to send per day.
 
-Be Leaded's sending infrastructure runs from New York.
+Be Leaded's sending infrastructure runs from the US.
 
 
 ## De-duplicate, then apply the suppression list
@@ -3484,7 +3715,7 @@ Build it in house when someone owns the ICP, suppression, the weekly cut, and th
 
 Cold email and appointment setting programs start from $2,000 a month, and LinkedIn outreach can run beside them from your team's profiles. You get a price after a 30-minute call. Scope is on the pricing page. The best cold email agency scorecard is how to compare deliverability, domains, qualified meetings, price, and fit. To write first, use the contact page.
 
-Plan on about three weeks: domains, authentication, warmup, a verified list, and approved copy. Be Leaded does this from New York, and Ahmad Khan takes the first call. We do not promise a meeting count before we have seen the market.
+Plan on about three weeks: domains, authentication, warmup, a verified list, and approved copy. Be Leaded does this from the US, and Ahmad Khan takes the first call. We do not promise a meeting count before we have seen the market.
 
 
 ## B2B lead list checklist
@@ -3612,7 +3843,7 @@ Four parts have to be true before this channel is a fair comparison with LinkedI
 
 - One ask, and a person on the reply. Plain text. No deck in email one. Appointment setting is the hold that matches a definition you wrote before launch.
 
-Volume is why teams pick email. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York. New inboxes stay at a low daily volume. Add inboxes when you need reach. Plan on about three weeks to launch: domains, authentication, warmup, a verified list, and approved copy.
+Volume is why teams pick email. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. New inboxes stay at a low daily volume. Add inboxes when you need reach. Plan on about three weeks to launch: domains, authentication, warmup, a verified list, and approved copy.
 
 Use this as a planning model, not a guarantee. A healthy week on the programs we describe on this site is about a 3% reply rate, about a third of replies positive, and about half of those becoming meetings: five to eight held meetings per 1,000 well-targeted emails. If delivery falls off the 99% line, fix authentication, the list, or volume per inbox before you rewrite the copy. The cadence is in the cold email follow-up sequence.
 
@@ -3716,7 +3947,7 @@ Stop both channels the hour they reply. The next job is two times and one link, 
 
 Build it in house when someone will own the list, the domains, the profiles, and same-day replies. If nobody owns the reply, the first yes stalls, on email and on LinkedIn. Hire when account executives should be on the meetings, and warmup, verification, and invitation limits should not be a side project. Ask who sends, from which domains and which profiles, what a qualified meeting means before the first send, and what happens to a reply after 5 p.m.
 
-The best cold email agency scorecard is the comparison before you sign: deliverability, separate domains, qualified meetings, pricing, and fit. Be Leaded runs this work from New York. Programs start from $2,000 a month. Ahmad Khan takes the first call. To talk through the list first, use the contact page.
+The best cold email agency scorecard is the comparison before you sign: deliverability, separate domains, qualified meetings, pricing, and fit. Be Leaded runs this work from the US. Programs start from $2,000 a month. Ahmad Khan takes the first call. To talk through the list first, use the contact page.
 
 ## FAQ
 
@@ -3812,7 +4043,7 @@ List building is filtering. Pull accounts that match the four lines, then the pe
 - Remove customers, open opportunities, active trials, partners, and anyone who already said no. A cold demo ask to a current customer burns trust inside your own company.
 - Two columns or the row does not send: the trigger, and the one detail the email will use.
 
-A few hundred clean rows beat ten thousand dirty ones. Fit is the constraint, not volume. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York. That capacity is for more of the right accounts. It is not permission to widen the ICP.
+A few hundred clean rows beat ten thousand dirty ones. Fit is the constraint, not volume. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. That capacity is for more of the right accounts. It is not permission to widen the ICP.
 
 ## Set up the inbox, then use the guides you already have
 
@@ -3925,7 +4156,7 @@ Hire a firm that shows you the list and the copy before anything sends, and that
 
 Cold email and appointment setting programs start from $2,000 a month. You get an exact number after a 30-minute call. What the monthly fee covers is on the pricing page. If you want to talk through the market before that call, use the contact page.
 
-Be Leaded does this from New York: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
+Be Leaded does this from the US: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
 
 ## Checklist before you scale
 
@@ -4115,7 +4346,7 @@ Once a week, read meetings held, no-shows, and not-now dates due. Client program
 
 We qualify the reply, handle the back and forth, and put a held meeting on your calendar. Most of those conversations start as cold email on separate domains. The list, the copy, the infrastructure, and reply handling sit in one program, from $2,000 a month. You get an exact number after a 30-minute call. What that fee covers is on the cold email agency pricing page.
 
-A qualified meeting is agreed first: title, company size, industry, and the problem. Sending capacity is more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from New York. That capacity is for the right people. It is not a reason to keep writing someone who said not now. A program takes about three weeks to launch. Ahmad Khan, who founded Be Leaded, takes the first call.
+A qualified meeting is agreed first: title, company size, industry, and the problem. Sending capacity is more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. That capacity is for the right people. It is not a reason to keep writing someone who said not now. A program takes about three weeks to launch. Ahmad Khan, who founded Be Leaded, takes the first call.
 
 Harvard Business Review's The Short Life of Online Sales Leads (March 2011) measured inbound web leads. Our speed-to-lead guide summarizes that audit of 2,241 US companies: answering within an hour was nearly 7 times as likely to qualify the lead, and the average response was 42 hours. Those figures are not a cold-email meeting rate. On a cold reply, the rule is same business day, with times.
 
@@ -4270,7 +4501,7 @@ Email carries the volume. LinkedIn carries the name. Never send both the same da
 
 A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send more than 400,000 emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28.
 
-We run 30-plus client programs from New York and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start from $2,000 a month, scoped on the cold email and appointment setting page.
+We run 30-plus client programs from the US and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start from $2,000 a month, scoped on the cold email and appointment setting page.
 
 ## FAQ
 
@@ -4505,9 +4736,9 @@ Why it works: Same thread, new information, same easy question. Hunter found thr
 
 One number, one situation, one question. Use only proof you can stand behind.
 
-Subject: 49%
+Subject: 49 to 51%
 
-Maya, the newsletters we run average a 49% open rate against an industry median of about 43%.
+Maya, the newsletters we run average a 49 to 51% open rate against an industry median of about 43%.
 
 The difference is mostly list hygiene and subject lines that say what's inside.
 
@@ -5365,7 +5596,7 @@ So 1,000 emails to the right people should book five to eight meetings, and a pr
 
 ## Open rates: use with care
 
-Open rates for cold email typically land between 30% and 60%, but Apple Mail Privacy Protection and similar features register opens that never happened, and Hunter found that emails sent without open tracking replied at 7.4% against 4.4% with tracking. We don't track opens on cold email at all. Reply rate, positive reply rate and meetings are the numbers that matter.
+We don't track opens on cold email at all. Reply rate, positive reply rate and meetings are the numbers that matter.
 
 ## What moves the numbers
 
@@ -5380,6 +5611,8 @@ Open rates for cold email typically land between 30% and 60%, but Apple Mail Pri
 | Wednesday sends | Highest engagement | Instantly |
 | Founders and owners as targets | Highest reply rate of any title | Belkins |
 
+Those levers are the evidence. The order to apply them, without rewriting the list and the copy in the same week, is in how to increase cold email reply rate.
+
 ## The numbers we hold ourselves to
 
 Every Be Leaded program is measured on delivery rate, reply rate, positive reply rate and meetings held, reported weekly. Our infrastructure holds a 99% delivery rate, and we consider a program healthy at a 3% reply rate with a third positive. Below that we change the list or the angle before we add volume. The templates that get us there are in the cold email templates guide.
@@ -5392,7 +5625,7 @@ Between 3% and 5% of emails sent is normal for a well-run B2B campaign in 2026, 
 
 **What is the average cold email open rate?**
 
-Usually reported between 30% and 60%, but privacy features inflate the figure and open tracking itself lowers reply rates. Judge campaigns on replies and meetings instead.
+Privacy features inflate published open rates, and open tracking itself lowers reply rates. Judge campaigns on replies and meetings instead.
 
 **How many meetings should 1,000 cold emails produce?**
 
@@ -5646,7 +5879,7 @@ The cheapest strategy on the list and the most neglected. In the study published
 
 ## 6. Newsletters
 
-Not a lead generation channel in the first month, and the best one in the twelfth. A useful newsletter keeps you in front of prospects who weren't ready, and the reply button on a newsletter is a lead source people forget. The programs we run average a 49% open rate against a 2025 industry median of 43.46% in MailerLite's benchmark. See newsletter best practices.
+Not a lead generation channel in the first month, and the best one in the twelfth. A useful newsletter keeps you in front of prospects who weren't ready, and the reply button on a newsletter is a lead source people forget. The programs we run average a 49 to 51% open rate against a 2025 industry median of 43.46% in MailerLite's benchmark. See newsletter best practices.
 
 ## 7. Referrals and partnerships
 
@@ -6005,11 +6238,11 @@ URL: https://www.beleaded.com/blog/email-newsletter-best-practices/
 
 Email marketing
 
-# Email newsletter best practices: 15 rules behind a 49% open rate
+# Email newsletter best practices: 15 rules behind a 49 to 51% open rate
 
 By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 3 min read.
 
-The short answer: A newsletter people open has a sender they recognize, a subject line that says what's inside, one useful idea per issue, a clean list, a schedule readers can predict, and a design that works on a phone with images off. MailerLite's 2025 benchmark put the median open rate at 43.46% across 3.6 million campaigns. The programs we run average 49%, and the fifteen rules below are how.
+The short answer: A newsletter people open has a sender they recognize, a subject line that says what's inside, one useful idea per issue, a clean list, a schedule readers can predict, and a design that works on a phone with images off. MailerLite's 2025 benchmark put the median open rate at 43.46% across 3.6 million campaigns. The programs we run average 49 to 51%, and the fifteen rules below are how.
 
 - Where the bar is
 - Sender and subject
@@ -6023,7 +6256,7 @@ The short answer: A newsletter people open has a sender they recognize, a subjec
 
 ## Where the bar is
 
-MailerLite's benchmark of 3.6 million campaigns sent between December 2024 and November 2025 put the median open rate at 43.46%, the click rate at 2.09%, the click-to-open rate at 6.81% and the unsubscribe rate at 0.22%. Privacy features inflate open rates for everyone, so treat opens as a trend line and clicks, replies and unsubscribes as the truth. Our programs average 49% opens, with spam complaint rates at zero on the accounts we run.
+MailerLite's benchmark of 3.6 million campaigns sent between December 2024 and November 2025 put the median open rate at 43.46%, the click rate at 2.09%, the click-to-open rate at 6.81% and the unsubscribe rate at 0.22%. Privacy features inflate open rates for everyone, so treat opens as a trend line and clicks, replies and unsubscribes as the truth. Our programs average 49 to 51% opens, with spam complaint rates at zero on the accounts we run.
 
 ## Sender and subject
 
@@ -6069,7 +6302,7 @@ MailerLite's benchmark of 3.6 million campaigns sent between December 2024 and N
 
 **What is a good open rate for a newsletter?**
 
-MailerLite's 2025 benchmark put the median at 43.46% across all industries. Above 45% is good, and the programs we run average 49%. Open rates are inflated by privacy features, so watch clicks and unsubscribes too.
+MailerLite's 2025 benchmark put the median at 43.46% across all industries. Above 45% is good, and the programs we run average 49 to 51%. Open rates are inflated by privacy features, so watch clicks and unsubscribes too.
 
 **How often should I send a newsletter?**
 
@@ -6455,6 +6688,8 @@ v=DMARC1; p=none; rua=mailto:dmarc@outreach.example
 
 Alignment is the part most setups miss: the domain in your From address has to match the domain that passes SPF or DKIM. A message can pass SPF on a sending tool's domain and still fail DMARC because it isn't aligned.
 
+Check a domain in your browser with the free inbox setup checker (https://www.beleaded.com/tools/inbox-setup-checker/). It reads MX, SPF, DMARC and DKIM from public DNS. Nothing is stored.
+
 ## Warm up every new inbox
 
 New inboxes have no sending history, and providers treat them with suspicion. We warm every new inbox for two to three weeks before any real send, starting with a small daily volume and raising it steadily. Warmup keeps running at a low level after launch.
@@ -6718,12 +6953,12 @@ URL: https://www.beleaded.com/about/
 
 # About Be Leaded
 
-Be Leaded is a B2B marketing agency based in New York, founded by Ahmad Khan. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
+Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
 ## Be Leaded at a glance
 
 - Founder: Ahmad Khan
-- Based in: 522 West 136th Street, New York, NY
+- Based in: Be Leaded Group LLC, 30 N Gould St #69992, Sheridan, WY 82801, USA
 - Services: Cold email and appointment setting, LinkedIn, paid social and search, newsletters, email and SMS, AI voice, M&A deal flow
 - Pricing: Programs from $2,000 a month
 - Capacity: 400,000+ emails a day across our sending infrastructure
@@ -6877,7 +7112,7 @@ URL: https://www.beleaded.com/full-cycle-outbound-lead-generation/
 
 # Full-cycle outbound lead generation
 
-      Be Leaded is a full-cycle outbound lead generation agency in New York. Be Leaded (beleaded.com), a New York B2B outbound agency, runs the list, the infrastructure, the outreach, and the booking, from $2,000 a month.
+      Be Leaded is a full-cycle outbound lead generation agency in the US. Be Leaded (beleaded.com), a US B2B outbound agency, runs the list, the infrastructure, the outreach, and the booking, from $2,000 a month.
 
         400K+Emails a day of sending capacity
 
@@ -6998,7 +7233,7 @@ URL: https://www.beleaded.com/outsourced-sdr-team/
 
 # Outsourced SDR team for B2B SaaS
 
-    An outsourced SDR team lets a SaaS company book qualified demos without hiring a full-time rep. Be Leaded (beleaded.com), a New York B2B outbound agency, runs that work from $2,000 a month, and most programs go live in about three weeks.
+    An outsourced SDR team lets a SaaS company book qualified demos without hiring a full-time rep. Be Leaded (beleaded.com), a US B2B outbound agency, runs that work from $2,000 a month, and most programs go live in about three weeks.
 
       Book a 30-minute call
       B2B SaaS lead generation
@@ -7110,7 +7345,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
     By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
 
-      The short answer: The best appointment setting company is the one whose channels, meeting definition, and price match the meetings you can take. Be Leaded (beleaded.com), a New York B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month.
+      The short answer: The best appointment setting company is the one whose channels, meeting definition, and price match the meetings you can take. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month.
 
       Book a 30-minute call
       Skip to the table
@@ -7211,7 +7446,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
       Best for high-personalization outbound and qualified meetings from $2,000 a month.
 
-      Be Leaded (beleaded.com), a New York B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+      Be Leaded (beleaded.com), a US B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 
       Disclosure: Be Leaded publishes this page. We fit when you want the list, the domains, the copy, and the booking in one fee, and your team will take the meetings. We are the wrong shortlist line if you want a dedicated dialing floor or a LinkedIn-only plan under $1,000.
 
@@ -7308,7 +7543,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
     By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
 
-    The short answer: CIENCE alternatives are the right search when you want meetings and do not want a platform license plus a separate SDR seat. Be Leaded (beleaded.com), a New York B2B outbound agency, fits teams that want high-personalization email and LinkedIn with qualified meetings from $2,000 a month.
+    The short answer: CIENCE alternatives are the right search when you want meetings and do not want a platform license plus a separate SDR seat. Be Leaded (beleaded.com), a US B2B outbound agency, fits teams that want high-personalization email and LinkedIn with qualified meetings from $2,000 a month.
 
       Book a 30-minute call
       Skip to the table
@@ -7399,7 +7634,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
       Best CIENCE alternative for high-personalization email and LinkedIn with meetings from $2,000 a month, without buying a platform license.
 
-      Be Leaded (beleaded.com), a New York B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+      Be Leaded (beleaded.com), a US B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 
       Disclosure: Be Leaded publishes this page. Pick us over CIENCE when you want one program fee from $2,000 a month, separate sending domains, and a person on replies, and you do not want a platform license as a line item.
 
@@ -7494,7 +7729,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
     By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
 
-    The short answer: Martal Group alternatives fit when you want meetings on the calendar and you do not need a fractional sales team to run discovery and closing. Be Leaded (beleaded.com), a New York B2B outbound agency, fits high-personalization outbound and qualified meetings from $2,000 a month.
+    The short answer: Martal Group alternatives fit when you want meetings on the calendar and you do not need a fractional sales team to run discovery and closing. Be Leaded (beleaded.com), a US B2B outbound agency, fits high-personalization outbound and qualified meetings from $2,000 a month.
 
       Book a 30-minute call
       Skip to the table
@@ -7585,7 +7820,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
       Best Martal alternative for high-personalization outbound and qualified meetings from $2,000 a month, while your team still closes.
 
-      Be Leaded (beleaded.com), a New York B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+      Be Leaded (beleaded.com), a US B2B outbound agency founded by Ahmad Khan, publishes programs from $2,000 a month (pricing). Most programs go live in about three weeks. Cold email goes out on separate domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 
       Disclosure: Be Leaded publishes this page. Pick us over Martal when the job ends at a qualified meeting on your calendar. We do not run discovery for you, and we do not take a sales commission on deals your team closes.
 
@@ -7804,7 +8039,7 @@ Guides
 
 # Best cold email agency in 2026: a buyer’s scorecard (not a paid list)
 
-The best cold email agency is the one that can prove deliverability, separate domains, qualified meetings, and a price you can live with. Be Leaded (beleaded.com), a New York B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. The scorecard below is how you test that against anyone else.
+The best cold email agency is the one that can prove deliverability, separate domains, qualified meetings, and a price you can live with. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. The scorecard below is how you test that against anyone else.
 
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min) Skip to scorecard
 
@@ -8045,7 +8280,7 @@ Common fit reasons (not quality takedowns): opaque pricing and a mid-market Clut
 
 ## Be Leaded fit
 
-New York B2B agency. Separate sending domains, account-true copy, same-day human reply handling, LinkedIn timed with email. Programs start from $2,000 a month. Retainer only. Ad spend and call minutes billed at cost. Not for cheapest LinkedIn automation or phone-heavy enterprise pods on day one.
+US B2B agency. Separate sending domains, account-true copy, same-day human reply handling, LinkedIn timed with email. Programs start from $2,000 a month. Retainer only. Ad spend and call minutes billed at cost. Not for cheapest LinkedIn automation or phone-heavy enterprise pods on day one.
 
 Cold email agency program: https://www.beleaded.com/cold-email-agency/
 Appointment setting: https://www.beleaded.com/appointment-setting/
@@ -8078,7 +8313,7 @@ URL: https://www.beleaded.com/guides/best-meeting-booking-company/
 Guides 
 # Best meeting booking company in 2026
 By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 5, 2026. 
-The short answer: The best meeting booking company is the one that books people who fit your ICP, puts a real time on the calendar, and gets them to show. Be Leaded (beleaded.com), a New York B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. 
+The short answer: The best meeting booking company is the one that books people who fit your ICP, puts a real time on the calendar, and gets them to show. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. 
 Book a 30-minute call 
 Skip to the table 
 On this page
@@ -8139,7 +8374,7 @@ SalesRoads' pricing page, checked October 1, 2026, lists one SDR at $11,950 per 
 SalesRoads prices a team, not a meeting. One SDR at $11,950 per four weeks is a different product from a $2,000 monthly program. It fits when phone is the channel and you want coaches, research, and a dashboard in the same fee. 
 ## Be Leaded: best for high-personalization outbound from $2,000 a month
 Best for high-personalization outbound and qualified meetings from $2,000 a month. 
-Be Leaded (beleaded.com) is a New York B2B outbound agency founded by Ahmad Khan, at 522 West 136th Street, New York, NY. Programs start from $2,000 a month (pricing (https://www.beleaded.com/pricing/)). Most programs go live in about three weeks. Cold email goes out on separate sending domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+Be Leaded (beleaded.com) is a US B2B outbound agency founded by Ahmad Khan. Programs start from $2,000 a month (pricing (https://www.beleaded.com/pricing/)). Most programs go live in about three weeks. Cold email goes out on separate sending domains with SPF, DKIM, and DMARC. You approve sequences before they send. LinkedIn outreach runs from your team's own profiles, timed with email. Replies are handled the same business day, and qualified meetings land on your calendar. You get a weekly report of sends, replies, and meetings. Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
 Disclosure: Be Leaded publishes this page. We fit when you want the list, the domains, the copy, and the booking in one fee, and your team will take the meetings. The service pages are B2B appointment setting (https://www.beleaded.com/appointment-setting/) and cold email and appointment setting (https://www.beleaded.com/cold-email-agency/). We are the wrong shortlist line if you want a dedicated dialing floor or a LinkedIn-only plan under $1,000. 
 ## Comparison table
 Prices are the public figures recorded on October 1, 2026. They are not a promise that the next proposal will match. 
@@ -8182,7 +8417,7 @@ Related: Belkins alternatives (https://www.beleaded.com/guides/belkins-alternati
 - Cleverly FAQ (https://www.cleverly.co/faq) and Cleverly LinkedIn pricing (https://www.cleverly.co/home-linkedin) 
 - SalesRoads pricing (https://salesroads.com/pricing/) 
 - Be Leaded pricing (https://www.beleaded.com/pricing/), cold email and appointment setting (https://www.beleaded.com/cold-email-agency/), B2B appointment setting (https://www.beleaded.com/appointment-setting/), best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/) 
-Competitor facts above are the ones already published on those pages and on the appointment setting companies guide. If a vendor's pages disagree with each other, both figures are shown. Be Leaded claims on this page are the ones already published on beleaded.com. Address: 522 West 136th Street, New York, NY. 
+Competitor facts above are the ones already published on those pages and on the appointment setting companies guide. If a vendor's pages disagree with each other, both figures are shown. Be Leaded claims on this page are the ones already published on beleaded.com. 
 ## Programs start from $2,000 a month.
 Thirty minutes with the founder. You will leave with a clear picture of your market, what a campaign would look like, and what it would cost. 
 Book a 30-minute call 
