@@ -169,7 +169,7 @@
     <nav aria-label="Breadcrumb"><ol class="crumbs"><li><a href="/">Home</a></li><li><span>Tools</span></li><li><span aria-current="page">Inbox setup checker</span></li></ol></nav>
     <p class="kicker">Free tool</p>
     <h1 id="h-inbox" style="margin-top:14px">Free inbox setup checker</h1>
-    <p class="lead">Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none meets the minimum and sends reports, while quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.</p>
+    <p class="lead">Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none only monitors and sends reports. Quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.</p>
   </div>
 </section>
 
@@ -300,7 +300,6 @@
   var NOT_CHECKED = "Not checked: add your selector (e.g. google, selector1)";
   var NET_ERR = "Couldn't check, try again";
   var NXDOMAIN = "This domain does not exist in DNS. Check the spelling.";
-  var DMARC_NONE = "p=none meets Google and Yahoo's minimum and sends you reports. Move to quarantine once reports show all your real mail aligns.";
   var DMARC_SUGGEST = "v=DMARC1; p=none; rua=mailto:dmarc@outreach.example";
 
   function stripWww(host) {
@@ -515,7 +514,7 @@
     }
     var policy = dmarcPolicy(records[0]);
     if (policy === "none") {
-      return card("dmarc", "DMARC", "pass", "Pass", DMARC_NONE, "");
+      return card("dmarc", "DMARC", "work", "Monitoring only", "p=none only monitors: receivers still deliver mail that fails DMARC. It meets Google and Yahoo's minimum and sends you reports.", "Move to p=quarantine once reports show all your real mail aligns, then to p=reject.");
     }
     if (policy === "quarantine") {
       return card("dmarc", "DMARC", "pass", "Pass", "The DMARC policy is quarantine, so failing mail is treated as spam.", "Leave this DMARC record in place.");
@@ -575,8 +574,7 @@
     },
     NOT_CHECKED: NOT_CHECKED,
     NET_ERR: NET_ERR,
-    NXDOMAIN: NXDOMAIN,
-    DMARC_NONE: DMARC_NONE
+    NXDOMAIN: NXDOMAIN
   };
   if (typeof window !== "undefined") window.InboxCheck = api;
 

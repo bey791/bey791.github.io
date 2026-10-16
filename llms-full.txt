@@ -2304,7 +2304,7 @@ Free tool
 
 # Free inbox setup checker
 
-Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none meets the minimum and sends reports, while quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.
+Enter a domain to check SPF, DKIM, DMARC and MX. MX points to the servers that receive mail. SPF names who may send it. DKIM publishes the key that signs each message. DMARC tells receivers what to do when those checks fail. p=none only monitors and sends reports. Quarantine and reject take action. The lookup runs in your browser. Nothing is stored or sent to Be Leaded.
 
 ## Check a domain
 
@@ -2548,7 +2548,7 @@ How to increase cold email reply rate: fix placement, the list, and the ask befo
 
 ### Is cold email legal?
 
-A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, and Australia's Spam Act, plus a compliance checklist.
+A practical guide for B2B senders: CAN-SPAM, UK and EU rules, CASL, Australia's Spam Act, plus a compliance checklist.
 
 ### How to personalize cold emails at scale
 
@@ -6978,7 +6978,7 @@ Ahmad founded Be Leaded and works directly with every client, from the first cal
 
 He has scaled an outbound operation from 50,000 to 400,000 emails a day while raising deliverability from about 88% to 99%, run multi-domain sending infrastructure across hundreds of inboxes on Google Workspace and Microsoft, and built AI voice agents for follow-up calls on Retell AI and ElevenLabs.
 
-He has run programs for SaaS, IT, M&A deal flow, and newsletter plus SMS, with clients in the US and takes every first call himself.
+He has run programs for SaaS, IT, M&A deal flow, and newsletter plus SMS, with clients in the US, and takes every first call himself.
 
 ## How we work
 

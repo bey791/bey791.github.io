@@ -208,7 +208,7 @@
       <p>DKIM signs every message with a key published in your DNS, so receivers can tell the message wasn't altered. Use 2048-bit keys where your provider supports them, and turn signing on in your email admin console after the record is published.</p>
       <h3>DMARC</h3>
       <p>DMARC tells receivers what to do when SPF and DKIM fail, and where to send reports. <code>p=none</code> is the minimum Gmail, Yahoo and Microsoft accept. Move to <code>quarantine</code> once reports show all of your legitimate mail passing.</p>
-      <pre class="rec"><code>v=DMARC1; p=none; rua=mailto:dmarc@outreach.example</code></pre>
+      <pre class="rec"><code>v=DMARC1; p=none; rua=mailto:dmarc@yourdomain.com</code></pre>
       <p>Alignment is the part most setups miss: the domain in your From address has to match the domain that passes SPF or DKIM. A message can pass SPF on a sending tool's domain and still fail DMARC because it isn't aligned.</p>
       <p>Check a domain in your browser with the <a href="/tools/inbox-setup-checker/">free inbox setup checker</a>. It reads MX, SPF, DMARC and DKIM from public DNS. Nothing is stored.</p>
 
