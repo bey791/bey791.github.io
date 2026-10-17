@@ -1153,7 +1153,7 @@ The buyer, the angle and the channel change from one industry to the next. These
 
 ### B2B SaaS
 
-Lists by tech stack and headcount, sequences around the problem, qualified demos.
+We generate the leads, qualify them against your criteria, then book the demo.
 
 ### HR and payroll software
 
@@ -1219,23 +1219,31 @@ URL: https://www.beleaded.com/industries/b2b-saas/
 
 B2B SaaS
 
-# Lead generation and demo booking for B2B SaaS
+# SaaS lead generation and qualified demo booking
 
-Software buyers ignore feature lists and answer questions about their own operation. We build lists by headcount, tech stack and growth signals, write sequences around the problem your product solves, and book qualified demos on your account executives' calendars.
+We generate the leads, qualify each one against your criteria, then book the demo. Your AEs spend their time on demos that fit, not on prospecting. Target up to 25,000 new contacts a month.
+
+Programs start from $2,000 a month.
+
+Example. Names and companies are illustrative.
+
+Subject: seats nobody opened
+
+Jordan, Pinemark gave the sales team free seats last month and most of them stayed dark.
+
+Sablepath writes the sales manager about the forecast the team still builds in a spreadsheet.
+
+Would the sales manager be the right person to see it?
+
+Elena
+
+## Why the calendar fills and the pipeline does not
+
+We generate the leads, qualify them against the vendor's criteria, then book the demo. AEs only get qualified demos.
 
 ## Who we reach
 
-### The person who owns the problem
-
-CFOs for finance software, heads of operations for workflow tools, VPs of sales for revenue tools.
-
-### Companies at the right stage
-
-Filtered by headcount, funding, locations and the tools they already run.
-
-### Champions below the buyer
-
-Managers who feel the pain daily and can bring you into the room.
+The person who owns the problem. Companies at the right stage. Champions below the buyer. Lists filtered by headcount, tech stack, funding, hiring and growth signals.
 
 ## Software categories
 
@@ -1246,30 +1254,69 @@ Some software categories have their own buyer, their own timing, and their own d
 
 ## What works in B2B SaaS
 
-The specifics that make the difference between a campaign that books meetings and one that gets ignored.
+Sequences built on a problem statement, lists filtered by tech stack, a written definition of a qualified demo, paid social for the high-intent audiences, with the same follow-up, and newsletters for trial users and lost deals.
 
-- Sequences built on a problem statement, not a feature list
-- Lists filtered by tech stack, so you only email companies that can use the product
-- Demo booking with a written definition of a qualified demo
-- Paid search for the high-intent terms, with the same follow-up
-- Newsletters to keep trial users and lost deals warm
+## Generate the list, qualify the reply, book the demo
 
-## Programs we run for B2B SaaS
+Lead generation, qualification in the reply thread, then a booked demo with a handoff note (use case, current tool, timeline, other attendees).
 
-### Cold email and appointment setting
-Qualified meetings on your calendar.
+## Your demo criteria, in writing
 
-### LinkedIn lead generation
-Outreach from your team's own profiles.
+Company size, role, tech stack, stated problem, timeline, required attendees. You approve the sheet before launch. AE feedback updates it every week.
 
-### Paid social and search
-Ads with the follow-up built in.
+## Booked, held and accepted
+
+We report booked, held and accepted demos separately. Reminders and attendee confirmation go out before every demo. A demo that does not happen is rebooked. We do not guarantee attendance, and we do not promise a replacement demo.
+
+## What your AE gets with each demo
+
+A handoff note and a CRM sync to Salesforce or HubSpot through native integrations or n8n.
+
+## Outsourced SDR for SaaS, or an in-house SDR
+
+Third party figures, checked Oct 17, 2026: ramp about 3 months, 40% median annual attrition, 1.9 year tenure (Bridge Group, cited by A-Sales). Fully loaded in-house cost $900 to $1,400 per booked meeting (Managed Outbound). Programs start from $2,000 a month.
+
+## Target up to 25,000 new contacts a month
+
+Compare quotes on held, qualified demos. Zenbee's example: a $200 headline price against booked meetings, with a 55% show rate and a 50% acceptance rate, is $727 per accepted meeting. Programs start from $2,000 a month.
+
+## Proof you can check
+
+49 to 51% open rate on newsletters, 99% delivery, 400,000 emails a day, 30-plus client programs. Illustrative examples are on the work page.
+
+## Software categories we book demos for
+
+Project management software. HR and payroll software.
+
+## Outbound for product-led SaaS
+
+Some accounts will never start a trial on their own. Outbound is how those companies hear from you, and the same outreach can invite a free user onto a paid plan. A free user is still checked against the sheet. The role, the problem they named, and the timeline have to match before a demo is booked.
 
 ## Questions
 
+**What does SaaS demo booking include?**
+
+Lead generation, qualification against your criteria and a booked demo on your AE's calendar with a handoff note.
+
 **Can you book demos, not just meetings?**
 
-Yes. We agree on what a qualified demo means, such as company size, role and a stated problem, and only book demos that match. Your AEs take the call.
+Yes. We agree what a qualified demo means and only book demos that match it.
+
+**How do you stop unqualified demos?**
+
+You approve written criteria before launch, we qualify in the reply thread, and AE feedback updates the criteria every week.
+
+**What happens with no-shows?**
+
+We confirm attendees, send reminders and rebook demos that do not happen. We report booked, held and accepted demos separately.
+
+**Outsourced SDR or in-house?**
+
+Outsourcing starts in weeks and includes data, domains and tools. In-house makes sense once outbound is proven and you can manage it.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month. Compare any quote on cost per held, qualified demo.
 
 **Do you integrate with our CRM?**
 
@@ -4832,6 +4879,8 @@ Hire a firm that shows you the list and the copy before anything sends, and that
 Cold email and appointment setting programs start from $2,000 a month. You get an exact number after a 30-minute call. What the monthly fee covers is on the pricing page. If you want to talk through the market before that call, use the contact page.
 
 Be Leaded does this from the US: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
+
+When the company is B2B SaaS, the service page is SaaS lead generation and qualified demo booking (https://www.beleaded.com/industries/b2b-saas/).
 
 ## Checklist before you scale
 
