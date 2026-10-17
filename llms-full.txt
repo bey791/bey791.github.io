@@ -1258,7 +1258,7 @@ Yes. Meetings, replies and contact data flow into Salesforce, HubSpot or your CR
 
 **How many demos should we expect?**
 
-It depends on your market. A typical B2B cold email campaign replies at 3% to 5% of emails sent and books five to eight meetings per 1,000 emails. We give you a realistic range on the first call.
+We do not promise a number of demos. Results depend on your offer and your market. What we commit to is targeting up to 25,000 new contacts a month, with a weekly report on replies and booked calls.
 
 **Is outbound right for product-led SaaS?**
 
@@ -1554,7 +1554,7 @@ Yes. We never name a client or a buyer without your approval, never publish owne
 
 **How many owner conversations should we expect?**
 
-A handful a month per mandate from a well-researched list, growing as the not-now pile matures. Owner outreach replies at lower rates than B2B email, but each reply is worth far more.
+We do not promise a number of conversations. Results depend on your mandate and your market. What we commit to is targeting up to 25,000 new owner contacts a month, with a weekly report on replies and booked calls. Owner outreach replies at lower rates than B2B email, but each reply is worth far more.
 
 **Do you advise on the deal?**
 
