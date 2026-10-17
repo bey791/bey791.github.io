@@ -131,13 +131,17 @@
   var scrollHandlers = [];
   function runScrollHandlers() { for (var i = 0; i < scrollHandlers.length; i++) scrollHandlers[i](); }
 
-  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. */
+  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. While any end CTA is on screen the bar hides; it returns to that same rule once the end CTA leaves. Nav-open hiding stays in CSS. */
   (function initBookBar() {
     var bar = document.querySelector("a.book-bar");
     if (!bar || !window.matchMedia) return;
     var mq = window.matchMedia("(max-width: 767px)");
     var hero = document.querySelector("[data-hero-cta]");
-    var armed = false, shown = false, lastEntry = null;
+    var ends = Array.prototype.slice.call(document.querySelectorAll("[data-end-cta]"));
+    var endOn = [];
+    var armed = false, shown = false, lastEntry = null, endReported = false;
+    var i;
+    for (i = 0; i < ends.length; i++) endOn.push(false);
     function scrolledEnough() {
       var max = document.documentElement.scrollHeight - window.innerHeight;
       if (max <= 0) return false;
@@ -148,7 +152,24 @@
       if (!hero) return false;
       return hero.getBoundingClientRect().bottom <= 0;
     }
+    function endCovering() {
+      var n, r, vh;
+      if (!ends.length || !("IntersectionObserver" in window)) return false;
+      /* Menu lock fixes the body and shifts boxes. Ignore that pass; CSS hides the bar while nav-open. */
+      if (document.body.classList.contains("nav-open")) return false;
+      if (!endReported) {
+        vh = window.innerHeight || document.documentElement.clientHeight || 0;
+        for (n = 0; n < ends.length; n++) {
+          r = ends[n].getBoundingClientRect();
+          if (r.bottom > 0 && r.top < vh) return true;
+        }
+        return false;
+      }
+      for (n = 0; n < endOn.length; n++) if (endOn[n]) return true;
+      return false;
+    }
     function evaluate() {
+      var show;
       if (!armed) return;
       if (!mq.matches) {
         shown = false;
@@ -156,11 +177,12 @@
         document.body.classList.remove("has-book-bar");
         return;
       }
-      if (shown) return;
-      if (!(heroLeft() || scrolledEnough())) return;
-      shown = true;
-      bar.hidden = false;
-      document.body.classList.add("has-book-bar");
+      if (!shown && (heroLeft() || scrolledEnough())) shown = true;
+      show = shown && !endCovering();
+      if (bar.hidden === !show && document.body.classList.contains("has-book-bar") === show) return;
+      bar.hidden = !show;
+      if (show) document.body.classList.add("has-book-bar");
+      else document.body.classList.remove("has-book-bar");
     }
     if (hero && "IntersectionObserver" in window) {
       var io = new IntersectionObserver(function (entries) {
@@ -168,6 +190,21 @@
         evaluate();
       }, { threshold: 0 });
       io.observe(hero);
+    }
+    if (ends.length && "IntersectionObserver" in window) {
+      var endIO = new IntersectionObserver(function (entries) {
+        var n, idx;
+        /* Nav lock moves the document. Drop those callbacks so a false intersection does not stick after the menu closes. */
+        if (document.body.classList.contains("nav-open")) return;
+        for (n = 0; n < entries.length; n++) {
+          idx = ends.indexOf(entries[n].target);
+          if (idx < 0) continue;
+          endOn[idx] = !!entries[n].isIntersecting;
+        }
+        endReported = true;
+        evaluate();
+      }, { threshold: 0 });
+      for (i = 0; i < ends.length; i++) endIO.observe(ends[i]);
     }
     scrollHandlers.push(evaluate);
     if (mq.addEventListener) mq.addEventListener("change", evaluate);
