@@ -8587,7 +8587,7 @@ URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
 
 ## Pick one specialty and one practice size first
 
-      Tebra's billing company research, updated April 12, 2026, says half of US billing services are highly specialized. Mental health, physical therapy, and family practice are among the niches that show up most. A specialty is how a small firm sounds different from a general offer.
+      Tebra's billing company research (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients), updated April 12, 2026, says half of US billing services are highly specialized. Mental health, physical therapy, and family practice are among the niches that show up most. A specialty is how a small firm sounds different from a general offer.
 
       A biller on Reddit (https://www.reddit.com/r/CodingandBilling/comments/1akidew/clients/) went after solo practices and small offices because those were the ones the big billing services did not want, and took booths at association conferences. Solo and small practices still get less attention from large revenue cycle firms. That is a real opening if your team already knows the codes, the payers, and the denial patterns in that slice.
 
@@ -8607,7 +8607,7 @@ URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
 
 - Groups: a revenue cycle director or a practice administrator owns the vendor choice. A CFO or an owner signs. If you cannot see a revenue cycle title, start with the practice administrator and ask who else has to agree.
 
-      Tebra's guide on getting billing clients says the same thing: talk to the office manager or practice administrator, not the physician. One practice, one first name. A second name is useful only when that person can introduce you to the one who manages billing. Mailing the physician, the office manager, and the in house biller in the same week spends the account.
+      Tebra's guide (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients) on getting billing clients says the same thing: talk to the office manager or practice administrator, not the physician. One practice, one first name. A second name is useful only when that person can introduce you to the one who manages billing. Mailing the physician, the office manager, and the in house biller in the same week spends the account.
 
 
 
@@ -8654,7 +8654,7 @@ URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
 
 
 
-      Tebra's April 12, 2026 research says 72% of billing companies name referrals as their top new business driver. Referrals win on trust. They lose on timing, because you cannot decide that a given month is when orthopedic managers will hear your name.
+      Tebra's billing company research (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients), updated April 12, 2026, says 72% of billing companies name referrals as their top new business driver. Referrals win on trust. They lose on timing, because you cannot decide that a given month is when orthopedic managers will hear your name.
 
       Direct outreach is the channel you can start this month. A biller on that same Reddit thread said they had been reaching practices by email and it had not really worked, and asked how larger firms get clients. Email fails when the list is mixed and the offer is generic. It works better when one specialty, one problem, and a small ask are in the first note. B2B email to a practice is allowed in the US when it is truthful and includes an opt out. The rules are on is cold email legal (https://www.beleaded.com/blog/is-cold-email-legal/). Never put patient information in a prospecting email. How a done for you team runs that outreach is on B2B appointment setting (https://www.beleaded.com/appointment-setting/).
 
@@ -8678,18 +8678,17 @@ URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
 
       The shape of a short first note is in cold email templates (https://www.beleaded.com/blog/cold-email-templates/). The three notes below are written to the office manager. Each one asks for a denial review and nothing else.
 
-      Names and companies are illustrative. Names and practices are illustrative.
+      Names and practices are illustrative.
 
 
 
 ### Orthopedics
 
 
-        To the office manager. Subject: Denial codes from last month
+        To: Jordan Hale, office manager, Northline Orthopedics
+        Subject: Denial codes from last month
 
         Hi Jordan, I work with orthopedic practices and I am writing the office manager. If last month's surgical claims are still open, I can look at the denial codes only and send a short note on which five to appeal first. I do not need patient names or charts. If a review of last month's denials is useful, reply with the month to use.
-
-        Jordan Hale, office manager, Northline Orthopedics
 
 
 
@@ -8697,11 +8696,10 @@ URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
 ### Behavioral health
 
 
-        To the office manager. Subject: Authorization and coding holds
+        To: Priya Shah, office manager, Harbor Behavioral Health
+        Subject: Authorization and coding holds
 
         Hi Priya, therapy visits often stall on an authorization or a coding edit. I can review last month's denial list for your behavioral health group and mark the three worth appealing this week. Codes only, no charts. If you want that review, reply with the month.
-
-        Priya Shah, office manager, Harbor Behavioral Health
 
 
 
@@ -8709,11 +8707,10 @@ URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
 ### Physical therapy
 
 
-        To the office manager. Subject: Units and authorizations from last month
+        To: Sam Ortega, office manager, Cedar Path Physical Therapy
+        Subject: Units and authorizations from last month
 
         Hi Sam, physical therapy claims often stall on units, modifiers, or an authorization. If that matches last month, I can mark the denials to appeal first and leave the rest. I only need the codes. Reply if a review of last month's denials would help, and I will send two times this week.
-
-        Sam Ortega, office manager, Cedar Path Physical Therapy
 
 
 
