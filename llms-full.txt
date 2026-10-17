@@ -1456,7 +1456,7 @@ Project management software
 
 # Lead generation for project management software
 
-We generate the leads, qualify every one against your criteria, then book the demo. Your AEs only meet teams that fit. Target up to 25,000 new contacts a month.
+We find the PMO, operations, and agency accounts, check the workflow problem and the seat need, and hand your AE a demo that already cleared the sheet. Your AEs only meet teams that fit. Target up to 25,000 new contacts a month.
 
 Programs start from $2,000 a month.
 
@@ -1516,7 +1516,7 @@ Three steps, in this order. Your AEs only meet teams that pass the sheet. Writin
 
 ### 1. Lead generation
 
-Lists by team size, industry, current tool, and growth signals. Outreach is cold email and LinkedIn. You approve the copy before it sends. Sending runs on separate domains, with warmup, so your company domain never carries cold volume.
+Lists by team size, industry, current tool, and growth signals. Outreach is cold email and LinkedIn. You approve the copy before it sends. Cold volume for this program stays on warmed domains we provision, so the company domain that your buyers already know is never the one sending.
 
 ### 2. Qualification against your criteria
 
@@ -1583,9 +1583,9 @@ Sources checked October 17, 2026. Ramp and attrition: A-Sales, citing Bridge Gro
 
 - Ramp: in-house about 3 months. This program has no hiring cycle. Data, domains, and tools are included.
 - Attrition: in-house 40% median annual attrition, from the same Bridge Group figures. The program continues when one person changes roles.
-- Cost: Zenbee publishes a mid-market in-house range of $600 to $1,000 in a cost per meeting comparison. Programs start from $2,000 a month, with lists, domains, and tools included.
+- Cost: Zenbee publishes a mid-market in-house range of $600 to $1,000 in a cost per meeting comparison. Programs start from $2,000 a month, covering the buyer list, the warmed domains, and the tools for a project management program.
 
-An in-house rep can do live discovery inside your team. This comparison is about time to start and what the monthly program includes.
+A person on your payroll can join the PMO and operations calls and hear which objections block a seat purchase. This comparison is about time to start and what the monthly program includes.
 
 ## What to compare when you ask what a demo costs
 
@@ -1597,7 +1597,7 @@ Programs start from $2,000 a month. The wider market picture for pricing a held 
 
 ## Target up to 25,000 new contacts a month
 
-Programs start from $2,000 a month. The exact monthly number comes after the call, once we have seen the segments. See pricing (https://www.beleaded.com/pricing/) for what is in the program, and the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/) to size inboxes and domains. The calculator is not a forecast of demos.
+Programs start from $2,000 a month. The exact monthly number comes after the call, once we have seen the segments. Pricing (https://www.beleaded.com/pricing/) lists the project management scope, and the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/) turns a contact target into a mailbox and domain count. The calculator is not a forecast of demos.
 
 - Lists built to your segments, team size, current tool, and growth signals
 - Sending domains and warmup, separate from your company domain
@@ -1618,11 +1618,11 @@ We build lists of PMO, operations, and agency buyers, screen team size, current 
 
 Usually an operations director, PMO lead or COO, with team leads as champions. We map the roles per segment.
 
-**How do you stop unqualified demos?**
+**How do you keep a demo from going to someone who cannot buy seats?**
 
 You approve a written sheet before launch: team size, current tool, a workflow problem, and who must attend. A reply that misses the sheet never becomes a demo.
 
-**What about no-shows?**
+**What if the PMO lead misses the demo?**
 
 We check that the PMO or operations lead is still the person on the hold, write them the day before, and open a new time if they miss it.
 
