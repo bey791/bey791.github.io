@@ -60,6 +60,7 @@ Key facts:
 ## Industries
 - [All industries](https://www.beleaded.com/industries/): the markets we run programs in most often
 - [B2B SaaS](https://www.beleaded.com/industries/b2b-saas/): lists by tech stack and headcount, demo booking with a written definition of a qualified demo
+- [HR and payroll software](https://www.beleaded.com/industries/hr-payroll-software/): lead generation for HRIS, payroll, benefits and PEO software. We qualify buyers against your criteria and book demos for your AEs. Programs start from $2,000 a month. Target up to 25,000 new contacts a month
 - [IT services and MSPs](https://www.beleaded.com/industries/it-services-msp/): MSP lead generation that books calls with business owners at 20 to 200 person companies in your region. Programs start from $2,000 a month. Target up to 25,000 new contacts a month
 - [Home services](https://www.beleaded.com/industries/home-services/): seasonal ads, consent-based forms, a text and a call within minutes, seasonal newsletters
 - [Dental and med spa](https://www.beleaded.com/industries/dental-med-spa/): reactivation by text and email, new patient ads, newsletters by interest
