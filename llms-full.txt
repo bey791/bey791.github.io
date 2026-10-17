@@ -1741,6 +1741,8 @@ Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
 
 A physician owner on Reddit says he gets 20 to 30 billing pitches a month and that the offerings "sound alike and blend together." Practices say they want:
 
+What practices say they want
+
 - Claims submitted within 7 days.
 - Coding accuracy.
 - Fast denial appeals.
@@ -1773,7 +1775,7 @@ Pitching the physician first is the most common reason billing outreach gets ign
 
 ## Email, LinkedIn and follow up working together
 
-Cold email on dedicated warmed domains. Our newsletters average a 49 to 51% open rate. LinkedIn to administrators and owners. AI voice follow up for warm replies. Same business day reply handling.
+Cold email on dedicated warmed domains. Our newsletters average a 49 to 51% open rate. The setup is cold email deliverability. Replies handled the same business day (speed to lead). LinkedIn to administrators and owners. AI voice follow up for warm replies.
 
 Proof: 400K+ emails a day of sending capacity. 99% delivery rate across programs. 49 to 51% average open rate on newsletters. 30+ client programs.
 
