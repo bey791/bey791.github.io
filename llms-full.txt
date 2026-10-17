@@ -1157,7 +1157,7 @@ Lists by tech stack and headcount, sequences around the problem, qualified demos
 
 ### IT services and MSPs
 
-Regional lists of 20-to-200-person companies, angles tied to deadlines.
+MSP lead generation for owners of 20 to 200 person companies in your region.
 
 ### Home services
 
@@ -1281,9 +1281,29 @@ URL: https://www.beleaded.com/industries/it-services-msp/
 
 IT services and MSPs
 
-# Lead generation for IT services and MSPs
+# MSP lead generation for IT services firms
 
-Every business your size has an IT provider, and most aren't thrilled with it. We find companies in your region and size range, write outreach around the moments they reconsider (a compliance deadline, a cyber insurance renewal, a move to Microsoft 365, a bad outage), and book meetings with owners and operations leaders.
+Most businesses your size already have an IT provider and many are not happy with it. We find them in your region, reach the owner at the moment they reconsider, and book the call. Target up to 25,000 new contacts a month.
+
+Programs start from $2,000 a month.
+
+Example email. Names and companies are illustrative.
+
+Subject: cyber insurance renewal
+
+Tom, most manufacturers your size in Ohio are getting longer cyber insurance questionnaires this year.
+
+We help companies with 50 to 200 staff answer them without a scramble: MFA, backups, endpoint protection, documented.
+
+Is your renewal coming up before the end of the year?
+
+Alex
+
+## Why referrals stop filling the calendar
+
+Most MSPs still get the next client from someone they already know. That holds until the introductions slow down. The companies you want already pay an IT provider, and they do not leave because a stranger asked.
+
+They leave when a date makes the current setup feel risky. Appointment setting (https://www.beleaded.com/appointment-setting/) for an MSP is built for that window: a list by region, industry and headcount, a note to the person who signs, and a call on your calendar.
 
 ## Who we reach
 
@@ -1299,9 +1319,19 @@ The people who feel the cost of downtime and the renewal price.
 
 At clinics, law firms and accounting firms who manage the vendor day to day.
 
+### How the list is built
+
+Every contact is checked against the size and the territory you set, before a single email goes out.
+
+- Companies inside the territory you already service
+- Headcount in your range, usually 20 to 200 staff
+- An industry you can support, from plants and clinics to professional firms
+- A current provider, or no provider at all
+- One timing trigger you can name in the first line
+
 ## What works in IT services
 
-The specifics that make the difference between a campaign that books meetings and one that gets ignored.
+The first email has to read like a local provider who looked at the company, not a script about managed services.
 
 - Regional lists by industry and headcount, verified before sending
 - Angles tied to deadlines: cyber insurance questionnaires, compliance audits, license renewals
@@ -1309,16 +1339,77 @@ The specifics that make the difference between a campaign that books meetings an
 - LinkedIn to the owner alongside email to the operations lead
 - A newsletter for prospects who said 'we're under contract until March'
 
-## Programs we run for IT services
+## How the outreach runs
 
-### Cold email and appointment setting
-Qualified meetings on your calendar.
+Email carries the deadline. LinkedIn reaches the owner. Replies become calls. A newsletter waits out a contract.
 
-### LinkedIn lead generation
-Outreach from your team's own profiles.
+### Cold email
+A short note about a real deadline, sent from separate domains, with copy you approve first. https://www.beleaded.com/cold-email-agency/
 
-### Newsletters, email and SMS
-Newsletters people open.
+### LinkedIn
+The owner hears from a person on the same days the email reaches operations. https://www.beleaded.com/linkedin-lead-generation-agency/
+
+### Appointment setting
+Replies are checked against the definition you approved, then booked with your team. https://www.beleaded.com/appointment-setting/
+
+### Newsletter
+When they are under contract until March, a newsletter keeps you present until that date. https://www.beleaded.com/newsletter-agency/
+
+## Why outbound works when they already have IT
+
+A cold email does not make someone leave a vendor they have kept for years. A renewal, an audit, an outage, or a move does.
+
+Outbound works for MSPs when the first line is that moment, and the reader is the person who signs. These are the triggers we write to.
+
+Moments when a company reconsiders its IT provider:
+
+- Cyber insurance renewal: The questionnaire got longer, and the owner is the one who has to sign it.
+- Compliance audit: HIPAA, CMMC, or SOC 2 work for their own clients is on the calendar, and the current setup is undocumented.
+- Microsoft 365 or cloud move: Mail, files, or a line of business app is changing, and nobody wants the cutover to fail.
+- Recent outage: Downtime just had a cost, and the owner will hear a second opinion.
+- New office: A new site needs network, access, and support before the team sits down.
+- New ops leader: A new operations lead inherits the vendor and is allowed to question it.
+
+Tell us your region and size range. We will show you the list on the call.
+
+Sending capacity: 400K+ emails a day of sending capacity. 99% delivery rate across programs. 49 to 51% average open rate on newsletters. 30+ client programs.
+
+## What counts as a qualified MSP lead
+
+The definition is written down before launch. A reply counts only when it matches, and you approve the wording first.
+
+- An owner, or the operations decision maker
+- A company with 20 to 200 staff, or the range you set
+- Inside your region
+- Has a provider, or has none
+- Has asked for a call
+
+## Your data stays yours
+
+An MSP owner on r/msp (https://www.reddit.com/r/msp/comments/13wji6c/has_anyone_here_worked_with_any_of_the_larger/) described the end of a campaign this way: "They did not turn over the bulk data when we were done with the campaign." On this program, lists and replies are yours at the end.
+
+## Inbound and outbound for MSPs
+
+Search and ads reach companies that are already looking, and they take time to compound.
+
+They miss the owner who is unhappy with IT and is not searching today.
+
+Outbound fills that gap while SEO builds. Ads, when you want them, sit in paid social and search (https://www.beleaded.com/paid-social-agency/).
+
+## Target up to 25,000 new contacts a month
+
+Programs start from $2,000 a month.
+
+See pricing (https://www.beleaded.com/pricing/). Size the program with the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/).
+
+- Regional lists by industry and headcount
+- Separate sending domains and warmup
+- Copy you approve before it sends
+- Same business day replies
+- Calls booked with owners and operations leaders
+- Weekly reporting you can read
+
+Selling security services? See cybersecurity lead generation.
 
 ## Questions
 
@@ -1326,17 +1417,29 @@ Newsletters people open.
 
 Most MSPs do best between 20 and 200 employees: large enough to need managed IT, small enough to have no internal team. We build the list to your sweet spot and region.
 
-**What angles work for IT services outreach?**
+**What angles work for MSP outreach?**
 
 Deadlines and moments of reconsideration: cyber insurance renewals, compliance audits, Microsoft 365 migrations, a recent outage or a new office.
+
+**Does cold email work for MSPs?**
+
+Yes, when it is tied to a moment the owner is already reconsidering IT, like a cyber insurance renewal or an audit, and sent to the person who signs.
+
+**What counts as a qualified lead?**
+
+A decision maker at a company in your size range and region who has asked for a call. You approve the definition before launch.
 
 **Do you handle the replies?**
 
 Yes. We answer replies the same business day, qualify, and book meetings with your team. You read every thread.
 
-**How is this different from buying a lead list?**
+**Who owns the data when we stop?**
 
-A list is names. We verify every contact, write the outreach, send it from separate domains, handle replies and book the meeting.
+You do. Lists and replies are yours.
+
+**How much does MSP lead generation cost?**
+
+Programs start from $2,000 a month.
 
 ## Tell us who you want to meet.
 
@@ -1594,6 +1697,8 @@ For legal and compliance services, reached on LinkedIn where they actually respo
 ### Referral partners
 
 Bankers, brokers and other advisors who send work your way, kept warm by the newsletter.
+
+Clinics, law firms and accounting firms buy IT. That buyer is covered under MSP lead generation for IT services firms (https://www.beleaded.com/industries/it-services-msp/).
 
 ## What works in professional services
 
@@ -4672,6 +4777,8 @@ Worth a comparison before you sign anything?
 Sam
 
 Why it works: 44 words. The trigger is specific, the problem is timed to it, and the question is answerable in one word.
+
+The note above is an MSP example: a new office is the moment the owner reconsiders IT. See MSP lead generation for IT services firms (https://www.beleaded.com/industries/it-services-msp/).
 
 ## 2. The question email
 

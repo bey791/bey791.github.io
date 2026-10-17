@@ -131,13 +131,14 @@
   var scrollHandlers = [];
   function runScrollHandlers() { for (var i = 0; i < scrollHandlers.length; i++) scrollHandlers[i](); }
 
-  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. */
+  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. Hides while [data-end-cta] is on screen. */
   (function initBookBar() {
     var bar = document.querySelector("a.book-bar");
     if (!bar || !window.matchMedia) return;
     var mq = window.matchMedia("(max-width: 767px)");
     var hero = document.querySelector("[data-hero-cta]");
-    var armed = false, shown = false, lastEntry = null;
+    var endCta = document.querySelector("[data-end-cta]");
+    var armed = false, shown = false, lastEntry = null, endInView = false;
     function scrolledEnough() {
       var max = document.documentElement.scrollHeight - window.innerHeight;
       if (max <= 0) return false;
@@ -148,19 +149,32 @@
       if (!hero) return false;
       return hero.getBoundingClientRect().bottom <= 0;
     }
+    function hideBar() {
+      bar.hidden = true;
+      document.body.classList.remove("has-book-bar");
+    }
+    function showBar() {
+      shown = true;
+      bar.hidden = false;
+      document.body.classList.add("has-book-bar");
+    }
     function evaluate() {
       if (!armed) return;
       if (!mq.matches) {
         shown = false;
-        bar.hidden = true;
-        document.body.classList.remove("has-book-bar");
+        hideBar();
         return;
       }
-      if (shown) return;
+      if (endInView) {
+        hideBar();
+        return;
+      }
+      if (shown) {
+        showBar();
+        return;
+      }
       if (!(heroLeft() || scrolledEnough())) return;
-      shown = true;
-      bar.hidden = false;
-      document.body.classList.add("has-book-bar");
+      showBar();
     }
     if (hero && "IntersectionObserver" in window) {
       var io = new IntersectionObserver(function (entries) {
@@ -168,6 +182,13 @@
         evaluate();
       }, { threshold: 0 });
       io.observe(hero);
+    }
+    if (endCta && "IntersectionObserver" in window) {
+      var endIo = new IntersectionObserver(function (entries) {
+        endInView = entries[entries.length - 1].isIntersecting;
+        evaluate();
+      }, { threshold: 0 });
+      endIo.observe(endCta);
     }
     scrollHandlers.push(evaluate);
     if (mq.addEventListener) mq.addEventListener("change", evaluate);
