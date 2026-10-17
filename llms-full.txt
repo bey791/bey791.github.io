@@ -1215,6 +1215,16 @@ Programs start from $2,000 a month.
 
 Example. Names and companies are illustrative.
 
+Subject: seats nobody opened
+
+Jordan, Pinemark gave the sales team free seats last month and most of them stayed dark.
+
+Sablepath writes the sales manager about the forecast the team still builds in a spreadsheet.
+
+Would the sales manager be the right person to see it?
+
+Elena
+
 ## Why the calendar fills and the pipeline does not
 
 We generate the leads, qualify them against the vendor's criteria, then book the demo. AEs only get qualified demos.
@@ -1225,7 +1235,7 @@ The person who owns the problem. Companies at the right stage. Champions below t
 
 ## What works in B2B SaaS
 
-Sequences built on a problem statement, lists filtered by tech stack, a written definition of a qualified demo, paid search for high-intent terms, and newsletters for trial users and lost deals.
+Sequences built on a problem statement, lists filtered by tech stack, a written definition of a qualified demo, paid social for the high-intent audiences, with the same follow-up, and newsletters for trial users and lost deals.
 
 ## Generate the list, qualify the reply, book the demo
 
@@ -1253,7 +1263,7 @@ Compare quotes on held, qualified demos. Zenbee's example: a $200 headline price
 
 ## Proof you can check
 
-49 to 51% open rate, 99% delivery, 400,000 emails a day, 30-plus client programs. Illustrative examples are on the work page.
+49 to 51% open rate on newsletters, 99% delivery, 400,000 emails a day, 30-plus client programs. Illustrative examples are on the work page.
 
 ## Software categories we book demos for
 
@@ -1261,7 +1271,7 @@ Project management software. HR and payroll software.
 
 ## Outbound for product-led SaaS
 
-Often, yes. Outbound reaches the accounts that will never find you through self-serve, and the same sequences work for upselling free users to paid plans.
+Some accounts will never start a trial on their own. Outbound is how those companies hear from you, and the same outreach can invite a free user onto a paid plan. A free user is still checked against the sheet. The role, the problem they named, and the timeline have to match before a demo is booked.
 
 ## Questions
 
