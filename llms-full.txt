@@ -8252,7 +8252,7 @@ The best cold email agency is the one that can prove separate sending domains, c
 - LinkedIn first on a small budget: Cleverly.
 - Phone first calling floor: SalesRoads.
 - Month to month with SDRs: SalesHive.
-- Hand written small lists: SalesBread. Researchers write the lines, and the homepage does not publish a dollar price.
+- Researched lines, month to month: SalesBread.
 - Done for you personalization with email plus LinkedIn and same day human replies: Be Leaded. Programs start from $2,000 a month.
 
 Disclosure: prices, domain notes, and reply notes come from each company's own site, checked October 17, 2026. A missing dollar is pricing on request. Rows are grouped by the job, not ranked. Be Leaded is the fifth row.
@@ -8283,13 +8283,13 @@ SalesBread | Researched lines, month to month | Month to month. No dollar figure
 
 ## Belkins
 
-The appointment setting page prints an average starter price from $5,000. That card also names three outreach channels and a monthly lead volume of 1,500. Structured data on the same page sets a minimum price of $8,000. The pricing page sells retainers by yearly appointment tiers and shows no dollar amounts. Channels include cold email, LinkedIn, cold calling, messenger, account based marketing, and paid advertising. Dedicated warmed domains and mailboxes, SPF, DKIM and DMARC, domain health monitored. SDRs review and respond within 24 hours.
+The appointment setting page prints an average starter price from $5,000. That card also names three outreach channels and a monthly lead volume of 1,500. Structured data on the same page sets a minimum price of $8,000. On the pricing page, retainers are sold as yearly appointment tiers, and that page prints no dollar amount. That pricing page also lists paid advertising, account based marketing, messenger, cold calling, LinkedIn, and cold email. Dedicated warmed domains and mailboxes, SPF, DKIM and DMARC, domain health monitored. SDRs review and respond within 24 hours.
 
 Sources, checked October 17, 2026: https://belkins.io/appointment-setting , https://belkins.io/pricing , https://belkins.io/cold-email-services
 
 ## CIENCE
 
-Campaign team $2,000 a month. graph8 $499 a month. SDRs month to month: offshore $1,750, Europe $2,500, US $3,500 per SDR a month. Example with the campaign team, graph8, and five offshore SDRs is $11,249 a month, plus a bonus when an SDR hits target. The one time setup fee has no dollar, so that fee is pricing on request. Month to month, no long contract. Domains are protected. The SDR reviews the opener, calls, and handles the reply.
+Best for: buyers who start with CIENCE's go to market system, plus the platform, and can add SDR capacity later. Campaign team $2,000 a month. graph8 $499 a month. SDRs month to month: offshore $1,750, Europe $2,500, US $3,500 per SDR a month. Example with the campaign team, graph8, and five offshore SDRs is $11,249 a month, plus a bonus when an SDR hits target. The one time setup fee has no dollar, so that fee is pricing on request. Month to month, no long contract. Domains are protected. The SDR reviews the opener, calls, and handles the reply.
 
 Sources, checked October 17, 2026: https://www.cience.com/pricing/ , https://www.cience.com/
 
@@ -8301,7 +8301,7 @@ Sources, checked October 17, 2026: https://oneaway.io/ , https://oneaway.io/chan
 
 ## Martal Group
 
-Customize your pricing. No dollar figure, so the price is a custom quote. Tier 1 outbound is a flat fee per month, with a 3 month pilot. Tiers 2 and 3 are a flat fee plus sales commission, with a 4 month pilot. Email, LinkedIn, and calls. The pricing page does not describe separate sending domains or a reply clock.
+Best for: a fractional team working onshore, which stays after the meeting for discovery and, on the higher tiers, for the sale. Customize your pricing. No dollar figure, so the price is a custom quote. The first tier, called Tier 1 outbound, bills one monthly flat fee. It starts with a pilot of 3 months, and after that the billing is a subscription each month. Tier 2 and Tier 3 add a sales commission on top of that monthly flat fee, and their pilot lasts 4 months. Email, LinkedIn, and calls. The pricing page does not describe separate sending domains or a reply clock.
 
 Source, checked October 17, 2026: https://martal.ca/pricing/
 
