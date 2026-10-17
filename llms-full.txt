@@ -1002,7 +1002,7 @@ Be Leaded finds owners of privately held companies who may be open to a sale, a 
 
 ## The best deals are rarely listed.
 
-Many owners of solid businesses never put them on the market. When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you.
+Many owners of solid businesses never put them on the market. When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you. The broker and advisor page for the same program is lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 ### The list
 
@@ -1169,7 +1169,7 @@ Reactivation by text and email, new patient ads, newsletters by interest.
 
 ### M&A advisors and brokers
 
-Owner research, confidential outreach, conversations screened for intent.
+Confidential owner outreach to your mandate, plus the partners who hear about an exit first.
 
 ### Professional services
 
@@ -1509,27 +1509,55 @@ URL: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 M&A advisors and business brokers
 
-# Lead generation for M&A advisors and business brokers
+# Lead generation for business brokers and M&A advisors
 
-Owners of good businesses don't list them. They talk to the advisor who reached them first and treated the conversation with care. We research owners to your mandate, write short, respectful outreach in your firm's name, screen replies for intent, and book owner conversations with your advisors.
+Most good businesses never get listed. We find owners who fit your mandate and show timing signals, reach them confidentially in your firm's name, and book valuation conversations with your advisors. Target up to 25,000 new contacts a month.
+
+Programs start from $2,000 a month.
+
+Example. Names and companies are illustrative.
+
+## How do business brokers get listings?
+
+Listing sites show businesses an owner has already decided to market. The company you want, with a founder still running it, usually is not there.
+
+An inbound form introduces you after the owner has often talked to another firm. The earlier conversation is the one that frames value and what the owner will consider. Waiting for that form means you meet people who have already started a process.
+
+Direct mail is still where a lot of new brokers start. A broker on Reddit said the return on drop cards and letters is typically 1 to 2 percent, and that maybe a third of those return calls are sellable. That is a lot of driving for a short list of real sellers. The same thread points at bankers, attorneys, and CPAs, who hear about an exit before anyone lists. Those introductions are strong, and they are uneven when nobody is in touch with the partners on purpose.
+
+A cold note fails when it asks "are you selling" or invents a buyer. It earns a reply when it is short, about that owner's business, and easy to decline. That is the motion in our off-market deal flow program: a list built to your mandate, a note in your firm's name, and a person reading the reply before an advisor sees it.
 
 ## Who we reach
 
+Main Street brokers, M&A advisors, and exit planners. The person on the other side is the owner, or the professional who will introduce the owner. The filters change with your mandate.
+
 ### Founder-owned companies in your size range
 
-Filtered by industry, geography, revenue band and years in business.
+Industry, geography, revenue band, and years in business, written down before anyone is researched. A commercial HVAC owner in one state is a different list from a dental lab or a distributor somewhere else.
 
 ### Owners showing timing signals
 
-Long tenure, no named successor, a first general manager, a second site.
+Long tenure, no named successor, a first general manager, a second site. A signal is a reason to look closer and confirm the owner still runs the company.
 
 ### Buy-side clients
 
-Independent sponsors, search funds and platform companies sourcing add-ons.
+Independent sponsors, search funds, and platform companies sourcing add-ons in a niche they already know. The note is still about the owner's business, with the same confidentiality rules.
 
-## What works in M&A and brokers
+### Seller timing signals we check first
 
-The specifics that make the difference between a campaign that books meetings and one that gets ignored.
+Each signal is confirmed from a filing, the company website, or press. We do not guess an owner's age from a photograph.
+
+- Long tenure, from the filing date or the company history, checked against a scraped "years in business" field
+- Owner age only where a public bio, interview, or filing states it
+- No named successor on the team page, in press, or on the owner's public profile
+- A first general manager or president, often the point where the owner steps off the floor
+- A second site or another expansion that forces a question about capital and energy
+- A stale website, a review profile the owner no longer answers, or a social page that has gone quiet. That prompts a check of tenure and succession. It is not proof of a sale
+- A sector where buyers are consolidating, so the owner is already hearing from people who want the company and may want an independent view of value
+
+## What to say to an owner who has not listed
+
+The reader did not ask for a pitch. The first line is about the business. The ask is whether a private look at value would be useful.
 
 - Owner research from filings, websites and press, verified before outreach
 - A note about the business, an offer of a confidential valuation, never a fictional buyer
@@ -1537,34 +1565,116 @@ The specifics that make the difference between a campaign that books meetings an
 - Replies screened so only serious owners reach an advisor
 - A quarterly owner newsletter for everyone who said not now
 
-## Programs we run for m&a and brokers
+Do not open with "are you selling." Name something true, offer a confidential view, and make the no easy. The note at the top of this page is the shape we write from. Names and companies are illustrative.
+
+## Programs we run for M&A advisors and brokers
+
+The first touch is a note, not a call center. Email, LinkedIn, and a newsletter for people who said not now. Use one, or run them as a set.
 
 ### Off-market deal flow
-Owner conversations for advisors and brokers.
+
+Owner research to your mandate, confidential notes in your firm's name, and replies screened before they reach an advisor.
 
 ### LinkedIn lead generation
-Outreach from your team's own profiles.
+
+Outreach from your advisors' own profiles, for owners and for the partners who refer them.
 
 ### Newsletters, email and SMS
-Newsletters people open.
+
+A quarterly note for owners and referral partners who said not now, so the relationship is not one email.
+
+## What the sending platform can carry
+
+These four figures describe capacity and delivery across programs. Your mandate gets its own read on the call.
+
+- 400K+ Emails a day of sending capacity
+- 99% Delivery rate across programs
+- 49 to 51% Average open rate on newsletters
+- 30+ Client programs
+
+## How we keep it confidential
+
+Owners reply when they believe the note will not turn into a listing, a teaser, or a story another firm repeats. Confidential is a set of operating rules.
+
+- We never name a client or a buyer unless you approve that sentence. A line about a group buying companies like this one ships only when it is true and you have signed off.
+- No listing language. The note does not say the business is for sale, does not attach a teaser, and does not point at a data room.
+- The offer is a confidential view of value or of options, with a clear way to decline.
+- Owner data stays inside your engagement. Names, email addresses, and reply threads are not copied into another firm's mandate.
+- A person reads every reply before an advisor sees it. Opt-outs are suppressed the same day. Curious and not now stay off the calendar. The owner who asked for a conversation is the one who gets a time.
+- Sending domains are tied to your firm and stay off the primary domain your clients already trust. Authentication and warmup for that setup are covered in cold email deliverability.
+
+Tell us your mandate: industry, region, size. We will show you the list on the call.
+
+## Clean data before the first email
+
+A broker on Reddit named the failure mode in one line: "A big problem is clean data when doing massive outreach." An export filtered by an industry code is not a list of owners. It mixes managers, registered agents, franchisees, and people who sold years ago.
+
+A company is contacted only after every check below has passed.
+
+- It fits the written mandate: industry, geography, size, and ownership.
+- The owner is confirmed from a state filing, the company website, or press, and still appears to run the business. A registered agent is not the seller.
+- The email is checked before the first send. Bounced addresses come off. Anyone who opted out stays off.
+- Timing signals are reviewed by a person. A quiet review profile, or a social page with no recent post, is a reason to check tenure and succession. On its own, it is not a reason to write.
+- A record that fails any check never receives a note. Contacts are the records that passed.
+
+## Referral partners who hear about exits first
+
+The warmest seller conversations often start with someone who is not the seller. A CPA, an estate attorney, a commercial banker, or a wealth advisor hears that an owner is thinking about what comes next, months before a listing exists. Most firms collect those relationships one conversation at a time, then let them go quiet.
+
+We run that group as its own campaign, beside owner outreach, with a separate list and a separate report.
+
+- The list is partner firms in your territory who already advise owners inside your size band.
+- The note explains how you help an owner think about value. It does not ask anyone to hand over clients.
+- You approve every line. We do not name a seller, a buyer, or a live mandate.
+- Partners who are not ready to meet stay on a short newsletter, so your firm is the one they remember when a client raises succession. That uses the newsletter, email and SMS program, written for a professional reader.
+- A partner who wants to meet for context is not logged as a seller. The weekly report keeps the two tracks apart.
+
+## Target up to 25,000 new contacts a month
+
+Owner outreach and the referral partner campaign share that ceiling. A narrow mandate uses fewer contacts, and every contact still has to fit the mandate you wrote down.
+
+- Lists built to your mandate
+- Domains tied to your firm
+- Copy you approve
+- Reply screening before an advisor sees a thread
+- Calls on your advisors' calendars
+- Weekly reporting
+
+Programs start from $2,000 a month
 
 ## Questions
 
-**How do you find business owners who might sell?**
+**How do business brokers get more listings?**
 
-We build lists to your mandate and prioritize owners with timing signals: long tenure, no named successor, a recent general manager hire, a second location. Then we approach each one personally.
+By reaching owners before they list. Target owners with timing signals and build referral partners who hear about exits first.
 
-**Is the outreach confidential?**
+**How do brokers find seller leads before a listing?**
 
-Yes. We never name a client or a buyer without your approval, never publish owner names, and keep owner data private to your engagement.
+Brokers find seller leads by writing to owners who still run the company and have not marketed it yet. The list follows the industry, territory, and size your firm set, and each owner is confirmed from a filing, the company website, or press before anyone is contacted. A long hold, no one named to succeed the owner, or a first manager hire is what puts a company at the front of that list.
 
-**How many owner conversations should we expect?**
+**Will owners know they were found through a broker?**
 
-We do not promise a number of conversations. Results depend on your mandate and your market. What we commit to is targeting up to 25,000 new owner contacts a month, with a weekly report on replies and booked calls. Owner outreach replies at lower rates than B2B email, but each reply is worth far more.
+Owners see a note that comes from your brokerage and talks about their company. It never says the business is for sale, and it never includes a teaser or a link to a data room. A buyer or another client is named only when you have approved that sentence. The owner's name, email, and reply stay inside your engagement and are not pasted into another firm's work.
+
+**Is cold email effective for business brokers?**
+
+When it is short, about the owner's business, sent from separate warmed domains and answered fast by a person. Blasting a generic list does not work.
+
+**Are my leads shared with other brokers?**
+
+No. Lists are built for your firm and mandate.
 
 **Do you advise on the deal?**
 
 No. We start the conversations. Your team runs the deal.
+
+**How many owner conversations should we expect?**
+
+We do not promise a number of owner conversations. What we commit to is targeting up to 25,000 new owner contacts a month.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month.
 
 ## Tell us who you want to meet.
 
@@ -6410,7 +6520,7 @@ All guides
 
 ## Tell us who you want to meet.
 
-Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost. If you run a brokerage or an advisory firm, start with lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 Or email sales@beleaded.com
 
@@ -6992,7 +7102,7 @@ The short answer: choose the agency that can show you how it protects your domai
 - FAQ
 - Sources
 
-We run a cold email agency, so read this with that in mind. These are the questions we'd ask if we were hiring one, and what a good answer sounds like.
+We run a cold email agency, so read this with that in mind. These are the questions we'd ask if we were hiring one, and what a good answer sounds like. Compare 10 agencies against these questions in our best cold email agency guide (https://www.beleaded.com/guides/best-cold-email-agency/).
 
 ## The 12 questions
 
@@ -8128,11 +8238,11 @@ Read the questions (https://www.beleaded.com/guides/choosing-a-cold-email-agency
 
 How to choose
 
-### Best cold email agencies compared (2026)
+### Best cold email agency in 2026: 10 compared
 
-Our pick is Be Leaded for done for you personalization, email plus LinkedIn and same day human replies. Belkins for packaged mid-market volume, plus CIENCE, Martal Group, Leadium, Cleverly, and SalesRoads.
+10 agencies grouped by the job, with prices, domains, and reply handling from each company's own site. Be Leaded is one of the 10. Programs start from $2,000 a month.
 
-Updated October 5, 2026
+Updated October 17, 2026
 
 Read the comparison (https://www.beleaded.com/guides/best-cold-email-agency/)
 
@@ -8212,7 +8322,7 @@ Comparison
 
 ### Best B2B lead generation agencies (2026)
 
-Our pick is Be Leaded for done for you personalization, email plus LinkedIn, and same day human replies. Belkins for packaged mid-market volume, plus CIENCE, Martal Group, SalesRoads, Callbox, Leadium, and Cleverly.
+Eight agencies by the job they do: Belkins for packaged mid market volume, plus CIENCE, Martal Group, SalesRoads, Callbox, Leadium, Cleverly, and Be Leaded for done for you personalization, email plus LinkedIn, and same day human replies.
 
 Updated October 9, 2026
 
@@ -8234,85 +8344,116 @@ URL: https://www.beleaded.com/guides/best-cold-email-agency/
 
 - Home (https://www.beleaded.com/)
 - Buyer guides (https://www.beleaded.com/guides/)
-- Best cold email agencies compared
+- Best cold email agency
 
 Guides
 
-# Best cold email agencies compared (2026)
+# Best cold email agency in 2026: 10 agencies compared, not a paid list
 
-By Ahmad Khan, founder of Be Leaded. Updated October 16, 2026.
+By Ahmad Khan, founder of Be Leaded. Updated October 17, 2026.
 
-Be Leaded is our pick for B2B teams that want done for you personalization, email plus LinkedIn, and same day human replies. Programs start from $2,000 a month. Belkins is best for packaged mid-market appointment volume. The other five agencies below are each built for a different job.
+The best cold email agency is the one that can prove separate sending domains, copy you approve, fast human replies, a written meeting definition and a price you can see. Below are 10 agencies grouped by the job each one does best, with prices taken from their own sites and checked October 17, 2026. Be Leaded publishes this page and is one of the 10. Nobody paid for a place.
 
-Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_content=guides-best-cold-email-agency)
+- Packaged mid market volume: Belkins.
+- GTM system plus SDR seats: CIENCE.
+- Published pricing for SaaS: OneAway.
+- Fractional sales team: Martal Group.
+- Month to month multichannel: Leadium.
+- LinkedIn first on a small budget: Cleverly.
+- Phone first calling floor: SalesRoads.
+- Month to month with SDRs: SalesHive.
+- Researched lines, month to month: SalesBread.
+- Done for you personalization with email plus LinkedIn and same day human replies: Be Leaded. Programs start from $2,000 a month.
 
-Disclosure: Be Leaded publishes this page. No one paid for a place on it. Every competitor price in the table comes from that company's own site, checked on October 16, 2026. If a vendor does not publish a starting price, the cell says Custom quote. The setup fee on CIENCE's pricing page has no dollar amount, so that fee is pricing on request.
+Disclosure: prices, domain notes, and reply notes come from each company's own site, checked October 17, 2026. A missing dollar is pricing on request. Rows are grouped by the job, not ranked. Be Leaded is the fifth row.
 
 ## Comparison table
 
 Agency | Best for | Pricing model | Starting price | Channels
 
-Be Leaded | Done for you personalization, email plus LinkedIn, same day human replies | Monthly program | Programs start from $2,000 a month | Email, LinkedIn. Ads, SMS, and voice as add on programs
+Belkins | Packaged mid market volume | Yearly appointment tiers. The pricing page shows no dollar amount | From $5,000 | Email, LinkedIn, calling, messenger, account based marketing, paid ads
 
-Belkins | Packaged mid-market appointment volume | Yearly appointment tiers | From $5,000 | Email, LinkedIn, calling, messenger, account based marketing, paid ads
+CIENCE | GTM system plus SDR seats | Month to month. Campaign team and graph8, plus SDRs by region. The one time setup fee is not published | Campaign team $2,000 a month plus graph8 $499 a month. SDRs from $1,750 | Email, calls, LinkedIn, and workflows in graph8
 
-CIENCE | GTM system plus SDR seats | Month to month. Campaign team and graph8, plus SDRs by region. The one time setup fee is not published | Campaign team $2,000 a month plus graph8 $499 a month. SDRs from $1,750 | Email, calls, and workflows in graph8, plus SDRs
+OneAway | Published pricing for SaaS | Intro or Managed, plus a one time setup. 3 month commitment | Intro $3,250 a month. Managed $6,200 a month | Cold email. LinkedIn on Managed
 
 Martal Group | Fractional sales team that runs discovery | Customize your pricing. Flat fee per month. Higher tiers add commission | Custom quote | Email, LinkedIn, calls
 
-Leadium | Month to month multichannel retainer | Month to month retainer. No appointment outcome guarantee | From $3,500 a month | Phone, email, LinkedIn
+Be Leaded | Done for you personalization, email plus LinkedIn, same day human replies | Monthly program | Programs start from $2,000 a month | Email, LinkedIn. Ads, SMS, and voice as add on programs
 
-Cleverly | LinkedIn first on a small budget | Lead generation plans. Cold email is pay per meeting-ready lead | From $397 a month | LinkedIn, cold email
+Leadium | Month to month multichannel retainer | Month to month retainer. No appointment outcome guarantee | From $3,500 a month | Calling, email, LinkedIn
 
-SalesRoads | Dedicated calling floor | Per four weeks. Published prices for 1 to 6 SDRs. Cancel any time | $11,950 per four weeks | Calling, email
+Cleverly | LinkedIn first on a small budget | LinkedIn plans are published. Cold email is a flat retainer or pay per lead, with no dollar on the page | From $397 a month | LinkedIn, cold email
 
-## How we compared
+SalesRoads | Phone first calling floor | Per four weeks. Published prices for 1 to 6 SDRs. Cancel any time | $11,950 per four weeks | Calling, email
 
-Cold email agencies fail in a few predictable ways: a burned domain, generic copy, replies that sit for days, and a meeting nobody agreed to call qualified. Check a domain in the browser with the inbox setup checker (https://www.beleaded.com/tools/inbox-setup-checker/) on the tools hub (https://www.beleaded.com/tools/).
+SalesHive | Month to month with SDRs | Flat monthly fee, custom quoted. No setup fee | Pricing on request | Calling, email
 
-## Be Leaded
-
-Best for done for you personalization. Programs start from $2,000 a month. Pricing: https://www.beleaded.com/pricing/
+SalesBread | Researched lines, month to month | Month to month. No dollar figure on the homepage | Pricing on request | LinkedIn, email
 
 ## Belkins
 
-Belkins' appointment setting page lists an average starter price from $5,000. Structured data on that same page lists a minimum price of $8,000. The Belkins pricing page sells retainers by yearly appointments (30+, 100+ and 200+, plus an Enterprise tier) and shows no dollar amounts.
+The appointment setting page prints an average starter price from $5,000. That card also names three outreach channels and a monthly lead volume of 1,500. Structured data on the same page sets a minimum price of $8,000. On the pricing page, retainers are sold as yearly appointment tiers, and that page prints no dollar amount. That pricing page also lists paid advertising, account based marketing, messenger, cold calling, LinkedIn, and cold email. Dedicated warmed domains and mailboxes, SPF, DKIM and DMARC, domain health monitored. SDRs review and respond within 24 hours.
 
-Sources: https://belkins.io/appointment-setting and https://belkins.io/pricing
+Sources, checked October 17, 2026: https://belkins.io/appointment-setting , https://belkins.io/pricing , https://belkins.io/cold-email-services
 
 ## CIENCE
 
-CIENCE's pricing page lists a campaign team at $2,000 a month and the graph8 platform at $499 a month. SDRs are extra and month to month: offshore starting at $1,750 per SDR a month, Europe starting at $2,500 per SDR a month, and the US starting at $3,500 per SDR a month. A published example with the campaign team, graph8, and five offshore SDRs is $11,249 a month, plus a bonus when an SDR hits target. Setup is a one time fee, and the page does not publish that dollar amount, so the setup fee is pricing on request. The page says month to month, with no long contract. The CIENCE homepage does not publish a single managed program price.
+Best for: buyers who start with CIENCE's go to market system, plus the platform, and can add SDR capacity later. Campaign team $2,000 a month. graph8 $499 a month. SDRs month to month: offshore $1,750, Europe $2,500, US $3,500 per SDR a month. Example with the campaign team, graph8, and five offshore SDRs is $11,249 a month, plus a bonus when an SDR hits target. The one time setup fee has no dollar, so that fee is pricing on request. Month to month, no long contract. Domains are protected. The SDR reviews the opener, calls, and handles the reply.
 
-Source: https://www.cience.com/pricing/
+Sources, checked October 17, 2026: https://www.cience.com/pricing/ , https://www.cience.com/
+
+## OneAway
+
+B2B SaaS cold email and LinkedIn. Intro $3,250 a month plus a $299 setup, up to 10,000 leads a month, cold email, 3 month commitment. Managed $6,200 a month plus a $499 setup, up to 20,000 leads a month, cold email plus LinkedIn on 5 accounts, 3 month commitment. Appointment setter add on: a person calls every interested lead up to 6 times, at 2% of ACV per held meeting, minimum $150. Dedicated domains and warmed inboxes. Every interested reply is handled, with up to 4 follow ups.
+
+Sources, checked October 17, 2026: https://oneaway.io/ , https://oneaway.io/channels/cold-email
 
 ## Martal Group
 
-Martal Group's pricing page shows Customize your pricing instead of a dollar retainer. Tier 1 is a flat fee per month with a 3 month pilot. Tiers 2 and 3 are a flat fee per month plus sales commission, with a 4 month pilot.
+Best for: a fractional team working onshore, which stays after the meeting for discovery and, on the higher tiers, for the sale. Customize your pricing. No dollar figure, so the price is a custom quote. The first tier, called Tier 1 outbound, bills one monthly flat fee. It starts with a pilot of 3 months, and after that the billing is a subscription each month. Tier 2 and Tier 3 add a sales commission on top of that monthly flat fee, and their pilot lasts 4 months. Email, LinkedIn, and calls. The pricing page does not describe separate sending domains or a reply clock.
 
-Source: https://martal.ca/pricing/
+Source, checked October 17, 2026: https://martal.ca/pricing/
+
+## Be Leaded: where we fit, and where we do not
+
+Fifth, because the sort is the job. Programs start from $2,000 a month. The retainer covers lists, sending, copy, reply handling, and booking, including sending domains, inboxes, and warmup. Sequences are plain text, you approve each one before it sends, LinkedIn runs alongside the email, and replies are answered the same business day. Sending uses separate domains. A qualified meeting is defined in writing: title, company, and the problem, agreed before the first send. Teams that want a guaranteed volume package or a calling floor should not hire us. We do not promise a meeting count.
+
+Sources: https://www.beleaded.com/pricing/ , https://www.beleaded.com/cold-email-agency/ , https://www.beleaded.com/appointment-setting/
 
 ## Leadium
 
-Leadium's pricing page says all contracts are month to month, appointment setting typically launches in 7 to 10 days, and Leadium does not provide performance guarantees on appointment outcomes. Its outbound pricing guide lists $3,500 a month for cold calling only and $4,000 to $5,000 a month for multichannel outbound.
+Month to month. The pricing page does not print the monthly dollar. The outbound guide prints cold calling only at $3,500 a month and multichannel at $4,000 to $5,000 a month. Leadium does not guarantee appointment outcomes. Neither page states separate sending domains or who answers a reply how fast.
 
-Sources: https://www.leadium.com/pricing and https://www.leadium.com/blog/outbound-lead-generation-services
+Sources, checked October 17, 2026: https://www.leadium.com/pricing , https://www.leadium.com/blog/outbound-lead-generation-services
 
 ## Cleverly
 
-Cleverly's FAQ says its lead generation plans range from $397 a month to $997 a month. Cold email campaigns run on a pay per meeting-ready lead model, month to month, and the FAQ does not list that price.
+LinkedIn plans $397, $697, and $997 a month. Cold email is pay per meeting ready lead, month to month, and the FAQ does not list that price, so the cold email price is pricing on request. Growth is a flat monthly retainer and Scale is pay per lead. Both list email inbox and domain setup. Response handlers manage the LinkedIn inbox.
 
-Source: https://www.cleverly.co/faq
+Sources, checked October 17, 2026: https://www.cleverly.co/faq , https://www.cleverly.co/home-linkedin , https://www.cleverly.co/cold-email-outreach-agency
 
 ## SalesRoads
 
-SalesRoads' pricing page lists published prices for 1 to 6 SDRs. One SDR is $11,950 per four weeks and two SDRs are $16,750 per four weeks. A program launches in 15 business days. There is no long term commitment and you can cancel any time.
+1 SDR is $11,950 per four weeks, two are $16,750, and three are $23,500. Prices are published for 1 to 6 SDRs. Launch in 15 business days. Cancel any time. Warm domains, rotate sending domains, dedicated IP per client. Responses are analyzed to refine messaging. No human reply clock is published.
 
-Source: https://salesroads.com/pricing/
+Sources, checked October 17, 2026: https://salesroads.com/pricing/ , https://salesroads.com/outbound-email-services/
 
-## Our pick
+## SalesHive
 
-Our pick for the best cold email agency: Be Leaded. Programs start from $2,000 a month.
+One flat monthly fee for the SDR team, a strategist, the platform, and data. Starter, Growth, and Crush are custom quoted, so the price is pricing on request. No setup fee. Month to month cancellation needs written notice. The homepage says meetings are not guaranteed. The pricing page does not describe separate sending domains.
+
+Sources, checked October 17, 2026: https://saleshive.com/pricing , https://saleshive.com/
+
+## SalesBread
+
+Month to month. Researchers write the lines and the company does not use AI. The homepage does not say hand written and does not print a dollar, so the price is pricing on request. Outreach uses the client's LinkedIn account. SalesBread monitors the inbox and emails the client when a lead is ready. Those pages do not describe separate sending domains.
+
+Sources, checked October 17, 2026: https://salesbread.com/ , https://salesbread.com/the-best-done-for-you-lead-generation-service/
+
+## Which cold email agency fits which buyer
+
+Match the job, then open the source. Teams that want a guaranteed volume package or a calling floor should not hire Be Leaded.
 
 ## Reply handling and what counts as a meeting
 
@@ -8324,27 +8465,30 @@ Be Leaded's published line on this site is: a person answers replies the same bu
 
 ## FAQ
 
-What is the best cold email agency in 2026?
+What is the best cold email agency?
 
-For B2B teams that want done for you personalization, Be Leaded writes plain text email to each account, runs LinkedIn alongside it, uses separate sending domains, and has a person on replies the same business day. Programs start from $2,000 a month. Belkins is best for packaged mid-market appointment volume. CIENCE fits a GTM system plus SDR seats, Martal Group fits a fractional sales team, Leadium fits a month to month retainer, Cleverly fits LinkedIn first budgets, and SalesRoads fits a dedicated calling floor.
+The best cold email agency is the one that can prove separate sending domains, copy you approve, fast human replies, a written meeting definition and a price you can see. The 10 agencies on this page are grouped by the job each one does best, with prices taken from their own sites and checked October 17, 2026.
 
 How much does a cold email agency cost?
 
-Prices on each company's own site on October 16, 2026: Programs start from $2,000 a month. Cleverly lists lead generation plans from $397 a month. Leadium lists $3,500 a month for calling and $4,000 to $5,000 a month for multichannel. Belkins lists an average starter from $5,000. CIENCE lists a campaign team at $2,000 a month and graph8 at $499 a month, with SDRs starting at $1,750, $2,500, or $3,500 a month by region. SalesRoads lists $11,950 per four weeks for one SDR, with published prices for 1 to 6 SDRs. Martal Group shows Customize your pricing and does not publish a dollar figure. Confirm every quote in writing.
+Figures below were on each company's own site on October 17, 2026. Programs start from $2,000 a month. SalesHive and SalesBread print no dollar, so both are pricing on request, and Cleverly's cold email price is pricing on request too. OneAway prints Intro at $3,250 a month plus a $299 setup, and Managed at $6,200 a month plus a $499 setup. CIENCE prints a campaign team at $2,000 a month and graph8 at $499 a month, with SDRs from $1,750, $2,500, or $3,500 a month by region. Belkins prints an average starter price from $5,000, and structured data on the appointment setting page sets a minimum of $8,000. Cleverly's LinkedIn plans start at $397 a month. Leadium's guide prints $3,500 a month for calling only and $4,000 to $5,000 a month when email and LinkedIn are added. SalesRoads prints $11,950 per four weeks for one SDR and publishes a price for each team size from 1 to 6 SDRs. Martal Group says Customize your pricing and does not publish a dollar figure. Confirm every quote in writing.
 
 Is Be Leaded or Belkins better for cold email?
 
-They're different products. Pick Be Leaded if you want copy that's true to each account, email and LinkedIn in one program, and same day human replies. Programs start from $2,000 a month. Pick Belkins if you want packaged mid-market appointment volume on a yearly tier and the budget fits. Ask both how a qualified meeting is defined in writing.
+They are different products. Be Leaded fits done for you personalization with email plus LinkedIn and same day human replies. Programs start from $2,000 a month. Belkins fits packaged mid market volume on a yearly tier, and the appointment setting page lists an average starter from $5,000. Ask both how a qualified meeting is defined in writing.
 
-## Sources checked October 16, 2026
+## Sources checked October 17, 2026
 
 Belkins: https://belkins.io/appointment-setting , https://belkins.io/pricing , https://belkins.io/cold-email-services
 CIENCE: https://www.cience.com/pricing/ , https://www.cience.com/
+OneAway: https://oneaway.io/ , https://oneaway.io/channels/cold-email
 Martal Group: https://martal.ca/pricing/
 Leadium: https://www.leadium.com/pricing , https://www.leadium.com/blog/outbound-lead-generation-services
-Cleverly: https://www.cleverly.co/faq
-SalesRoads: https://salesroads.com/pricing/
-Be Leaded: https://www.beleaded.com/pricing/
+Cleverly: https://www.cleverly.co/faq , https://www.cleverly.co/home-linkedin , https://www.cleverly.co/cold-email-outreach-agency
+SalesRoads: https://salesroads.com/pricing/ , https://salesroads.com/outbound-email-services/
+SalesHive: https://saleshive.com/pricing , https://saleshive.com/
+SalesBread: https://salesbread.com/ , https://salesbread.com/the-best-done-for-you-lead-generation-service/
+Be Leaded: https://www.beleaded.com/pricing/ , https://www.beleaded.com/cold-email-agency/ , https://www.beleaded.com/appointment-setting/
 
 ## Programs start from $2,000 a month.
 
