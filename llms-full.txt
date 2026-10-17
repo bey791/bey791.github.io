@@ -1301,9 +1301,9 @@ Programs start from $2,000 a month.
 
 A booked calendar invite is a weak bar. The work is to qualify the buyer before your AE spends the hour.
 
-Leadriver's HR tech appointment setting page says a CHRO gets 20 to 30 vendor pitches a week, and that buyers have already heard the "streamlining HR processes" line hundreds of times this year. Checked October 17, 2026.
+Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases/appointment-setting-hr-tech) says a CHRO gets 20 to 30 vendor pitches a week, and that buyers have already heard the "streamlining HR processes" line hundreds of times this year. Checked October 17, 2026.
 
-A SaaS buyer on Reddit described the matching failure on the seller side: teams should expect a 50 to 70% no-show or disqualify rate when the bar to book is agreeing to a calendar invite. The demo looks full. Sales then throws most of it out.
+One founder on Reddit reported a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). That is one person's account, not a benchmark. The demo can look full while sales throws most of it out.
 
 This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call.
 
@@ -1382,11 +1382,11 @@ You approve written criteria before launch. We qualify in the reply thread befor
 
 ## Your main domain stays out of cold email
 
-We send from separate warmed domains. Your main domain stays out of the cold program. See cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
+One founder on Reddit reported that pay per meeting rewards spray, and that domain reputation can suffer inside 60 days if the mail goes out on the vendor's own subdomains (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). That is one person's account, not a benchmark. We send from separate warmed domains. Your main domain stays out of the cold program. See cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
 
 ## What a qualified demo costs, in-house or outsourced
 
-Compare the cost of a held demo that matched your written criteria. A-Sales, citing the Bridge Group, describes a three-month ramp and 40% median annual attrition (https://www.a-sales.co/blog/outsourced-sdr-cost, checked October 17, 2026). Zenbee lists pay per meeting at $150 to $600, priced on a booked meeting, and an outsourced retainer at $400 to $900 (https://zenbee.io/blog/cost-per-meeting/, checked October 17, 2026). Those are their published figures, not Be Leaded results.
+Compare the cost of a held demo that matched your written criteria. The Bridge Group 2025 SDR report puts average ramp at 3.0 months and median annual attrition at 40% (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group). A-Sales describes that three-month ramp and attributes the attrition figure to the Bridge Group (https://www.a-sales.co/blog/outsourced-sdr-cost, checked October 17, 2026). Zenbee lists pay per meeting at $150 to $600, priced on a booked meeting, and an outsourced retainer at $400 to $900 (https://zenbee.io/blog/cost-per-meeting/, checked October 17, 2026). Those are their published figures, not Be Leaded results.
 
 Programs start from $2,000 a month.
 
