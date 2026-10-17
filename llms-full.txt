@@ -1002,7 +1002,7 @@ Be Leaded finds owners of privately held companies who may be open to a sale, a 
 
 ## The best deals are rarely listed.
 
-Many owners of solid businesses never put them on the market. When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you.
+Many owners of solid businesses never put them on the market. When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you. The broker and advisor page for the same program is lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 ### The list
 
@@ -1169,7 +1169,7 @@ Reactivation by text and email, new patient ads, newsletters by interest.
 
 ### M&A advisors and brokers
 
-Owner research, confidential outreach, conversations screened for intent.
+Confidential owner outreach to your mandate, plus the partners who hear about an exit first.
 
 ### Professional services
 
@@ -1503,27 +1503,55 @@ URL: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 M&A advisors and business brokers
 
-# Lead generation for M&A advisors and business brokers
+# Lead generation for business brokers and M&A advisors
 
-Owners of good businesses don't list them. They talk to the advisor who reached them first and treated the conversation with care. We research owners to your mandate, write short, respectful outreach in your firm's name, screen replies for intent, and book owner conversations with your advisors.
+Most good businesses never get listed. We find owners who fit your mandate and show timing signals, reach them confidentially in your firm's name, and book valuation conversations with your advisors. Target up to 25,000 new contacts a month.
+
+Programs start from $2,000 a month.
+
+Example. Names and companies are illustrative.
+
+## How do business brokers get listings?
+
+Listing sites show businesses an owner has already decided to market. The company you want, with a founder still running it, usually is not there.
+
+An inbound form introduces you after the owner has often talked to another firm. The earlier conversation is the one that frames value and what the owner will consider. Waiting for that form means you meet people who have already started a process.
+
+Direct mail is still where a lot of new brokers start. A broker on Reddit said the return on drop cards and letters is typically 1 to 2 percent, and that maybe a third of those return calls are sellable. That is a lot of driving for a short list of real sellers. The same thread points at bankers, attorneys, and CPAs, who hear about an exit before anyone lists. Those introductions are strong, and they are uneven when nobody is in touch with the partners on purpose.
+
+A cold note fails when it asks "are you selling" or invents a buyer. It earns a reply when it is short, about that owner's business, and easy to decline. That is the motion in our off-market deal flow program: a list built to your mandate, a note in your firm's name, and a person reading the reply before an advisor sees it.
 
 ## Who we reach
 
+Main Street brokers, M&A advisors, and exit planners. The person on the other side is the owner, or the professional who will introduce the owner. The filters change with your mandate.
+
 ### Founder-owned companies in your size range
 
-Filtered by industry, geography, revenue band and years in business.
+Industry, geography, revenue band, and years in business, written down before anyone is researched. A commercial HVAC owner in one state is a different list from a dental lab or a distributor somewhere else.
 
 ### Owners showing timing signals
 
-Long tenure, no named successor, a first general manager, a second site.
+Long tenure, no named successor, a first general manager, a second site. A signal is a reason to look closer and confirm the owner still runs the company.
 
 ### Buy-side clients
 
-Independent sponsors, search funds and platform companies sourcing add-ons.
+Independent sponsors, search funds, and platform companies sourcing add-ons in a niche they already know. The note is still about the owner's business, with the same confidentiality rules.
 
-## What works in M&A and brokers
+### Seller timing signals we check first
 
-The specifics that make the difference between a campaign that books meetings and one that gets ignored.
+Each signal is confirmed from a filing, the company website, or press. We do not guess an owner's age from a photograph.
+
+- Long tenure, from the filing date or the company history, checked against a scraped "years in business" field
+- Owner age only where a public bio, interview, or filing states it
+- No named successor on the team page, in press, or on the owner's public profile
+- A first general manager or president, often the point where the owner steps off the floor
+- A second site or another expansion that forces a question about capital and energy
+- A stale website, a review profile the owner no longer answers, or a social page that has gone quiet. That prompts a check of tenure and succession. It is not proof of a sale
+- A sector where buyers are consolidating, so the owner is already hearing from people who want the company and may want an independent view of value
+
+## What to say to an owner who has not listed
+
+The reader did not ask for a pitch. The first line is about the business. The ask is whether a private look at value would be useful.
 
 - Owner research from filings, websites and press, verified before outreach
 - A note about the business, an offer of a confidential valuation, never a fictional buyer
@@ -1531,34 +1559,112 @@ The specifics that make the difference between a campaign that books meetings an
 - Replies screened so only serious owners reach an advisor
 - A quarterly owner newsletter for everyone who said not now
 
-## Programs we run for m&a and brokers
+Do not open with "are you selling." Name something true, offer a confidential view, and make the no easy. The note at the top of this page is the shape we write from. Names and companies are illustrative.
+
+## Programs we run for M&A advisors and brokers
+
+The first touch is a note, not a call center. Email, LinkedIn, and a newsletter for people who said not now. Use one, or run them as a set.
 
 ### Off-market deal flow
-Owner conversations for advisors and brokers.
+
+Owner research to your mandate, confidential notes in your firm's name, and replies screened before they reach an advisor.
 
 ### LinkedIn lead generation
-Outreach from your team's own profiles.
+
+Outreach from your advisors' own profiles, for owners and for the partners who refer them.
 
 ### Newsletters, email and SMS
-Newsletters people open.
+
+A quarterly note for owners and referral partners who said not now, so the relationship is not one email.
+
+## What the sending platform can carry
+
+These four figures describe capacity and delivery across programs. Your mandate gets its own read on the call.
+
+- 400K+ Emails a day of sending capacity
+- 99% Delivery rate across programs
+- 49 to 51% Average open rate on newsletters
+- 30+ Client programs
+
+## How we keep it confidential
+
+Owners reply when they believe the note will not turn into a listing, a teaser, or a story another firm repeats. Confidential is a set of operating rules.
+
+- We never name a client or a buyer unless you approve that sentence. A line about a group buying companies like this one ships only when it is true and you have signed off.
+- No listing language. The note does not say the business is for sale, does not attach a teaser, and does not point at a data room.
+- The offer is a confidential view of value or of options, with a clear way to decline.
+- Owner data stays inside your engagement. Names, email addresses, and reply threads are not copied into another firm's mandate.
+- A person reads every reply before an advisor sees it. Opt-outs are suppressed the same day. Curious and not now stay off the calendar. The owner who asked for a conversation is the one who gets a time.
+- Sending domains are tied to your firm and stay off the primary domain your clients already trust. Authentication and warmup for that setup are covered in cold email deliverability.
+
+Tell us your mandate: industry, region, size. We will show you the list on the call.
+
+## Clean data before the first email
+
+A broker on Reddit named the failure mode in one line: "A big problem is clean data when doing massive outreach." An export filtered by an industry code is not a list of owners. It mixes managers, registered agents, franchisees, and people who sold years ago.
+
+A company is contacted only after every check below has passed.
+
+- It fits the written mandate: industry, geography, size, and ownership.
+- The owner is confirmed from a state filing, the company website, or press, and still appears to run the business. A registered agent is not the seller.
+- The email is checked before the first send. Bounced addresses come off. Anyone who opted out stays off.
+- Timing signals are reviewed by a person. A quiet review profile, or a social page with no recent post, is a reason to check tenure and succession. On its own, it is not a reason to write.
+- A record that fails any check never receives a note. Contacts are the records that passed.
+
+## Referral partners who hear about exits first
+
+The warmest seller conversations often start with someone who is not the seller. A CPA, an estate attorney, a commercial banker, or a wealth advisor hears that an owner is thinking about what comes next, months before a listing exists. Most firms collect those relationships one conversation at a time, then let them go quiet.
+
+We run that group as its own campaign, beside owner outreach, with a separate list and a separate report.
+
+- The list is partner firms in your territory who already advise owners inside your size band.
+- The note explains how you help an owner think about value. It does not ask anyone to hand over clients.
+- You approve every line. We do not name a seller, a buyer, or a live mandate.
+- Partners who are not ready to meet stay on a short newsletter, so your firm is the one they remember when a client raises succession. That uses the newsletter, email and SMS program, written for a professional reader.
+- A partner who wants to meet for context is not logged as a seller. The weekly report keeps the two tracks apart.
+
+## Target up to 25,000 new contacts a month
+
+Owner outreach and the referral partner campaign share that ceiling. A narrow mandate uses fewer contacts, and every contact still has to fit the mandate you wrote down.
+
+- Lists built to your mandate
+- Domains tied to your firm
+- Copy you approve
+- Reply screening before an advisor sees a thread
+- Calls on your advisors' calendars
+- Weekly reporting
+
+Programs start from $2,000 a month
 
 ## Questions
 
-**How do you find business owners who might sell?**
+**How do business brokers get more listings?**
 
-We build lists to your mandate and prioritize owners with timing signals: long tenure, no named successor, a recent general manager hire, a second location. Then we approach each one personally.
+By reaching owners before they list. Target owners with timing signals and build referral partners who hear about exits first.
+
+**How do you find owners who might sell?**
+
+We build lists to your mandate and prioritize timing signals like long tenure, no named successor, a first GM hire or a second location.
 
 **Is the outreach confidential?**
 
-Yes. We never name a client or a buyer without your approval, never publish owner names, and keep owner data private to your engagement.
+Yes. We never name a client or buyer without your approval and owner data stays private to your engagement.
 
-**How many owner conversations should we expect?**
+**Is cold email effective for business brokers?**
 
-A handful a month per mandate from a well-researched list, growing as the not-now pile matures. Owner outreach replies at lower rates than B2B email, but each reply is worth far more.
+When it is short, about the owner's business, sent from separate warmed domains and answered fast by a person. Blasting a generic list does not work.
+
+**Are my leads shared with other brokers?**
+
+No. Lists are built for your firm and mandate.
 
 **Do you advise on the deal?**
 
 No. We start the conversations. Your team runs the deal.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month.
 
 ## Tell us who you want to meet.
 
@@ -6270,7 +6376,7 @@ All guides
 
 ## Tell us who you want to meet.
 
-Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost. If you run a brokerage or an advisory firm, start with lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 Or email sales@beleaded.com
 
