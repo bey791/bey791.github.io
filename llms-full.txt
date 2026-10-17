@@ -1305,9 +1305,9 @@ Programs start from $2,000 a month.
 
 A booked calendar invite is a weak bar. The work is to qualify the buyer before your AE spends the hour.
 
-Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases/appointment-setting-hr-tech) says a CHRO gets 20 to 30 vendor pitches a week, and that buyers have already heard the "streamlining HR processes" line hundreds of times this year. Checked October 17, 2026.
+Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases/appointment-setting-hr-tech) says HR leaders get 20 to 30 vendor pitches a week, and that buyers have already heard the "streamlining HR processes" line hundreds of times this year. Checked October 17, 2026.
 
-One founder on Reddit reported a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). That is one person's account, not a benchmark. The demo can look full while sales throws most of it out.
+A founder on Reddit says a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
 
 This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call.
 
@@ -1386,7 +1386,7 @@ You approve written criteria before launch. We qualify in the reply thread befor
 
 ## Your main domain stays out of cold email
 
-One founder on Reddit reported that pay per meeting rewards spray, and that domain reputation can suffer inside 60 days if the mail goes out on the vendor's own subdomains (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). That is one person's account, not a benchmark. We send from separate warmed domains. Your main domain stays out of the cold program. See cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
+A founder on Reddit says pay per meeting rewards spray, and that domain reputation can suffer inside 60 days if the mail goes out on the vendor's own subdomains (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). We send from separate warmed domains. Your main domain stays out of the cold program. See cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
 
 ## What a qualified demo costs, in-house or outsourced
 
