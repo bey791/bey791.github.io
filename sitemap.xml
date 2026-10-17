@@ -47,12 +47,17 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.beleaded.com/industries/b2b-saas/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beleaded.com/industries/hr-payroll-software/</loc>
+    <lastmod>2026-10-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
