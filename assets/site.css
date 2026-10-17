@@ -1804,7 +1804,7 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
 /* Deferred mobile book bar. Hidden until JS removes [hidden] after first paint. */
 .book-bar{display:none}
 @media (max-width:767px){
-  .btn{min-height:44px}
+  .btn{display:inline-flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box;min-height:44px}
   .book-bar:not([hidden]){position:fixed;left:0;right:0;bottom:0;z-index:80;display:flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:calc(48px + env(safe-area-inset-bottom,0px));padding:0 16px env(safe-area-inset-bottom,0px);background:var(--lime);color:var(--on-lime);font-family:var(--text);font-weight:600;font-size:16px;line-height:1;text-align:center;text-decoration:none;border:0;border-top:1px solid color-mix(in srgb,var(--on-lime) 10%,var(--lime));box-shadow:none}
   body.has-book-bar{padding-bottom:calc(48px + env(safe-area-inset-bottom,0px))}
   body.nav-open .book-bar{visibility:hidden;pointer-events:none}

@@ -131,14 +131,17 @@
   var scrollHandlers = [];
   function runScrollHandlers() { for (var i = 0; i < scrollHandlers.length; i++) scrollHandlers[i](); }
 
-  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. Hides while [data-end-cta] is on screen. */
+  /* Sticky mobile book bar. Stays hidden through first paint, then appears after the hero primary leaves the viewport or the page is about 40% scrolled. While any end CTA is on screen the bar hides; it returns to that same rule once the end CTA leaves. Nav-open hiding stays in CSS. */
   (function initBookBar() {
     var bar = document.querySelector("a.book-bar");
     if (!bar || !window.matchMedia) return;
     var mq = window.matchMedia("(max-width: 767px)");
     var hero = document.querySelector("[data-hero-cta]");
-    var endCta = document.querySelector("[data-end-cta]");
-    var armed = false, shown = false, lastEntry = null, endInView = false;
+    var ends = Array.prototype.slice.call(document.querySelectorAll("[data-end-cta]"));
+    var endOn = [];
+    var armed = false, shown = false, lastEntry = null, endReported = false;
+    var i;
+    for (i = 0; i < ends.length; i++) endOn.push(false);
     function scrolledEnough() {
       var max = document.documentElement.scrollHeight - window.innerHeight;
       if (max <= 0) return false;
@@ -149,32 +152,37 @@
       if (!hero) return false;
       return hero.getBoundingClientRect().bottom <= 0;
     }
-    function hideBar() {
-      bar.hidden = true;
-      document.body.classList.remove("has-book-bar");
-    }
-    function showBar() {
-      shown = true;
-      bar.hidden = false;
-      document.body.classList.add("has-book-bar");
+    function endCovering() {
+      var n, r, vh;
+      if (!ends.length || !("IntersectionObserver" in window)) return false;
+      /* Menu lock fixes the body and shifts boxes. Ignore that pass; CSS hides the bar while nav-open. */
+      if (document.body.classList.contains("nav-open")) return false;
+      if (!endReported) {
+        vh = window.innerHeight || document.documentElement.clientHeight || 0;
+        for (n = 0; n < ends.length; n++) {
+          r = ends[n].getBoundingClientRect();
+          if (r.bottom > 0 && r.top < vh) return true;
+        }
+        return false;
+      }
+      for (n = 0; n < endOn.length; n++) if (endOn[n]) return true;
+      return false;
     }
     function evaluate() {
+      var show;
       if (!armed) return;
       if (!mq.matches) {
         shown = false;
-        hideBar();
+        bar.hidden = true;
+        document.body.classList.remove("has-book-bar");
         return;
       }
-      if (endInView) {
-        hideBar();
-        return;
-      }
-      if (shown) {
-        showBar();
-        return;
-      }
-      if (!(heroLeft() || scrolledEnough())) return;
-      showBar();
+      if (!shown && (heroLeft() || scrolledEnough())) shown = true;
+      show = shown && !endCovering();
+      if (bar.hidden === !show && document.body.classList.contains("has-book-bar") === show) return;
+      bar.hidden = !show;
+      if (show) document.body.classList.add("has-book-bar");
+      else document.body.classList.remove("has-book-bar");
     }
     if (hero && "IntersectionObserver" in window) {
       var io = new IntersectionObserver(function (entries) {
@@ -183,12 +191,20 @@
       }, { threshold: 0 });
       io.observe(hero);
     }
-    if (endCta && "IntersectionObserver" in window) {
-      var endIo = new IntersectionObserver(function (entries) {
-        endInView = entries[entries.length - 1].isIntersecting;
+    if (ends.length && "IntersectionObserver" in window) {
+      var endIO = new IntersectionObserver(function (entries) {
+        var n, idx;
+        /* Nav lock moves the document. Drop those callbacks so a false intersection does not stick after the menu closes. */
+        if (document.body.classList.contains("nav-open")) return;
+        for (n = 0; n < entries.length; n++) {
+          idx = ends.indexOf(entries[n].target);
+          if (idx < 0) continue;
+          endOn[idx] = !!entries[n].isIntersecting;
+        }
+        endReported = true;
         evaluate();
       }, { threshold: 0 });
-      endIo.observe(endCta);
+      for (i = 0; i < ends.length; i++) endIO.observe(ends[i]);
     }
     scrollHandlers.push(evaluate);
     if (mq.addEventListener) mq.addEventListener("change", evaluate);
@@ -1010,7 +1026,7 @@
         { n: 6, text: function (n) { return n + " inboxes, 2 domains"; }, log: "03 infrastructure: 2 domains, 6 inboxes, warm" },
         { n: 3760, text: function (n) { return fmt(n) + " touches"; }, log: "04 sequencer: 3,760 touches over 21 days" },
         { n: 96, text: function (n) { return fmt(n) + " replies, 32 positive"; }, log: "05 replies: 96 in, 32 positive" },
-        { n: 16, text: function (n) { return n + " meetings"; }, log: "06 calendar: 16 meetings booked" },
+        { n: 0, text: function () { return ""; }, log: "06 calendar: meetings on your calendar" },
         { n: 0, text: function () { return "Yours to close"; }, log: "07 handoff: your calendar" }
       ];
       var SURVIVE = [1, 0.94, 1, 0.34, 0.5, 0.5, 1];
@@ -1623,7 +1639,7 @@
         { key: "infra", title: "Infrastructure", text: "Separate sending domains with SPF, DKIM and DMARC, warmed for two to three weeks and checked against blocklists every morning." },
         { key: "channels", title: "Five channels", text: "Email, LinkedIn, paid ads, SMS and AI voice, timed together. 3,760 touches in a month, sent 8 AM to 5 PM in their time zone." },
         { key: "conv", title: "Conversations", text: "96 replies, each read and answered by a person the same business day. 32 positive. Not-nows go into next quarter's follow-up." },
-        { key: "outcomes", title: "Meetings on your calendar", text: "16 qualified meetings, booked with context: who they are, what they said, what they want. You take the meeting and close." },
+        { key: "outcomes", title: "Meetings on your calendar", text: "Qualified meetings, booked with context: who they are, what they said, what they want. You take the meeting and close." },
         { key: null, title: "The whole loop, live", text: "It runs every day, and the numbers come back to the center every week. Look around the map, or step inside the machine below." }
       ];
       function clamp(v, a, b) { return v < a ? a : (v > b ? b : v); }
@@ -1658,7 +1674,7 @@
         infra: { n: 6, text: function (n) { return n + " inboxes, 2 domains, warm"; }, at: 1.9 },
         channels: { n: 3760, text: function (n) { return fmt(n) + " touches, five channels"; }, at: 2.6 },
         conv: { n: 96, text: function (n) { return fmt(n) + " replies, 32 positive"; }, at: 4.4 },
-        outcomes: { n: 16, text: function (n) { return n + " meetings on your calendar"; }, at: 5.4 }
+        outcomes: { n: 0, text: function () { return "Meetings on your calendar"; }, at: 5.4 }
       };
       var EDGE_DEFS = [
         ["List", "Verify", "flow"], ["Verify", "Enrich", "flow"], ["Enrich", "hub", "flow"],
