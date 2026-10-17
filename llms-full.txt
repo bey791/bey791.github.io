@@ -1307,7 +1307,7 @@ A booked calendar invite is a weak bar. The work is to qualify the buyer before 
 
 Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases/appointment-setting-hr-tech) says HR leaders get 20 to 30 vendor pitches a week, and that buyers have already heard the "streamlining HR processes" line hundreds of times this year. Checked October 17, 2026.
 
-A founder on Reddit says a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
+A founder on Reddit says they saw a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
 
 This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call.
 
