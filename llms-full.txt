@@ -1155,6 +1155,10 @@ The buyer, the angle and the channel change from one industry to the next. These
 
 Lists by tech stack and headcount, sequences around the problem, qualified demos.
 
+### HR and payroll software
+
+Qualified demos for HRIS, payroll, benefits and PEO vendors, with a test for the user and a test for the CFO.
+
 ### Project management software
 
 Qualified demos for operations, PMO, agency, and construction buyers, screened before they reach an AE.
@@ -1233,6 +1237,13 @@ Filtered by headcount, funding, locations and the tools they already run.
 
 Managers who feel the pain daily and can bring you into the room.
 
+## Software categories
+
+Some software categories have their own buyer, their own timing, and their own demo rules.
+
+- HR and payroll software (https://www.beleaded.com/industries/hr-payroll-software/): HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS and PEO. The demo has a user and a person who signs.
+- Project management software (https://www.beleaded.com/industries/project-management-software/): operations, PMO, agency, and construction buyers, with a written sheet before the demo is booked.
+
 ## What works in B2B SaaS
 
 The specifics that make the difference between a campaign that books meetings and one that gets ignored.
@@ -1254,15 +1265,6 @@ Outreach from your team's own profiles.
 ### Paid social and search
 Ads with the follow-up built in.
 
-## Software categories we book demos for
-
-This page is the general B2B software program. When the product is project management software, the buyer, the criteria sheet, and the demo handoff are specific enough to live on their own page.
-
-### Project management software
-Qualified demos for operations, PMO, agency delivery, and construction project leads.
-
-https://www.beleaded.com/industries/project-management-software/
-
 ## Questions
 
 **Can you book demos, not just meetings?**
@@ -1280,6 +1282,160 @@ We do not promise a number of demos. Results depend on your offer and your marke
 **Is outbound right for product-led SaaS?**
 
 Often, yes. Outbound reaches the accounts that will never find you through self-serve, and the same sequences work for upselling free users to paid plans.
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/industries/hr-payroll-software/
+
+- Home
+- Industries
+- HR and payroll software
+
+HR and payroll software
+
+# Lead generation and qualified demos for HR and payroll software
+
+HR leaders get pitched by software vendors every week. We generate the leads, qualify each one against your criteria, then book the demo, so your AEs only meet buyers who fit. Target up to 25,000 new contacts a month.
+
+Programs start from $2,000 a month.
+
+## HR leaders already hear this pitch every week
+
+A booked calendar invite is a weak bar. The work is to qualify the buyer before your AE spends the hour.
+
+Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases/appointment-setting-hr-tech) says HR leaders get 20 to 30 vendor pitches a week, and that buyers have already heard the "streamlining HR processes" line hundreds of times this year. Checked October 17, 2026.
+
+A founder on Reddit says they saw a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
+
+This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call.
+
+## Who buys HR and payroll software
+
+The first demo is usually with the person who feels the problem. The person who can sign is often a different seat. Both belong on the list.
+
+### The HR leader
+
+CHRO, VP or Head of People, HR director, and HR operations. This is the usual first conversation for HRIS and HCM.
+
+### The payroll leader
+
+Payroll manager and the people who run the calendar, the filings, and a multi-state or multi-country run. This is the usual first conversation for payroll software.
+
+### The person who signs
+
+CFO and controller. For a PEO, owners and CFOs at companies of about 10 to 200 people. Benefits platforms use the same employer list.
+
+ATS, LMS, and time and attendance products use the same three steps. The title on the list changes with the product. The rule stays: one role, one use case, a company that can actually buy.
+
+Software outside this set starts on lead generation for B2B SaaS (https://www.beleaded.com/industries/b2b-saas/). Staffing firms that sell recruiters to employers are a different buyer.
+
+## When companies switch payroll or an HRIS
+
+A note lands better when the buyer already has a reason to look. These are the windows we build lists around.
+
+- An HRIS or payroll renewal is on the horizon
+- Q4 budget planning, when next year's stack gets a line
+- Headcount grew past the band where the current tool stays cheap or manual
+- A new HR leader started in the last 90 days and inherited the stack
+- The company expanded payroll into another state or country
+
+The list itself is built from what is public: headcount, the states or countries where payroll runs, the current system when a job post or a tech profile names it, and hiring signals such as open payroll or people operations roles. A renewal date is included in the handoff only when the buyer shares it. We do not invent one.
+
+## How a qualified demo gets booked
+
+Three steps, in this order. Nothing is booked until step two passes.
+
+### 1. Generate the list
+
+Headcount band, where the company runs payroll, the current system where it is public, and the growth and hiring signals above. You approve the filters before sending starts.
+
+### 2. Qualify in the reply
+
+You approve the criteria before launch. We check the reply against those criteria before a calendar invite goes out. Security review and data processing questions, common on HRIS and payroll deals, are part of that rule: required before the demo, or handled after, your choice.
+
+### 3. Book, then hand off
+
+The invite carries the current system, the renewal date if the buyer shared it, and who else is joining. Your AE walks in with that note. You can read every thread.
+
+Channels: cold email (https://www.beleaded.com/cold-email-agency/) and demo booking (https://www.beleaded.com/appointment-setting/).
+
+## Sending infrastructure behind the program
+
+- 400K+ emails a day of sending capacity
+- 99% delivery rate across programs
+- 49 to 51% average open rate on newsletters
+- 30+ client programs
+
+Examples on the work page are illustrative.
+
+## Two buyers, one demo
+
+Write two tests before the first email. One for the person who uses the product. One for the person who pays for it. Then decide when both have to be in the room.
+
+User criteria cover the HR or payroll leader, company size, payroll footprint, and the current system when you only want displacement deals. Money criteria cover the CFO or controller, a real renewal or budget window, and a company in the band where your price fits. For a PEO, owners and CFOs at roughly 10 to 200 people. Agree in writing when both must attend. Names and companies in any example are illustrative.
+
+## One use case, one role, one short ask
+
+Write to one role about one job. A payroll manager gets a note about the payroll run. A new HR leader gets a note about the system they inherited. A CFO gets a note about the renewal or the headcount band. You approve the copy before it sends.
+
+## Unqualified demos and no-shows
+
+You approve written criteria before launch. We qualify in the reply thread before anything is booked. When a demo does not happen, we confirm attendees, send reminders, and rebook it. You see every thread.
+
+## Your main domain stays out of cold email
+
+A founder on Reddit says pay per meeting rewards spray, and that domain reputation can suffer inside 60 days if the mail goes out on the vendor's own subdomains (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). We send from separate warmed domains. Your main domain stays out of the cold program. See cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
+
+## What a qualified demo costs, in-house or outsourced
+
+Compare the cost of a held demo that matched your written criteria. The Bridge Group 2025 SDR report puts average ramp at 3.0 months and median annual attrition at 40% (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group). A-Sales describes that three-month ramp and attributes the attrition figure to the Bridge Group (https://www.a-sales.co/blog/outsourced-sdr-cost, checked October 17, 2026). Zenbee lists pay per meeting at $150 to $600, priced on a booked meeting, and an outsourced retainer at $400 to $900 (https://zenbee.io/blog/cost-per-meeting/, checked October 17, 2026). Those are their published figures, not Be Leaded results.
+
+Programs start from $2,000 a month.
+
+See outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) and appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/).
+
+## Target up to 25,000 new contacts a month
+
+Included: lists, separate warmed domains, copy you approve, reply handling, qualification before booking, demos with handoff notes, weekly reporting, and CRM sync.
+
+Programs start from $2,000 a month. Pricing (https://www.beleaded.com/pricing/). Outbound calculator (https://www.beleaded.com/tools/outbound-calculator/).
+
+## Questions
+
+**What do you do for HR and payroll software companies?**
+
+We generate the leads, qualify them against your criteria and book demos with the ones that fit.
+
+**Who should the first demo be with?**
+
+Usually the HR or payroll leader who feels the problem. We agree in advance when the CFO or controller must join.
+
+**How do you avoid unqualified demos?**
+
+You approve the criteria before launch and we qualify in the reply thread before anything is booked.
+
+**What about no-shows?**
+
+We confirm attendees, send reminders and rebook demos that do not happen.
+
+**Will cold email hurt our domain?**
+
+No. We send from separate warmed domains, never your main one.
+
+**Do you work with PEOs and benefits platforms?**
+
+Yes, the same three steps with lists of small and mid-sized employers.
+
+**What does it cost?**
+
+Programs start from $2,000 a month.
 
 ## Tell us who you want to meet.
 
@@ -1356,7 +1512,7 @@ The list is not anyone who has a project. It is team size, industry, the tool th
 
 ## How a qualified demo gets on the calendar
 
-Three steps, in this order. Your AEs only meet teams that pass the sheet. If you would rather run the email yourself, the do it yourself checklist is how to book SaaS demos with cold email (https://www.beleaded.com/blog/book-saas-demos-with-cold-email/). This page is the done for you program for project management software.
+Three steps, in this order. Your AEs only meet teams that pass the sheet. Writing the email yourself is covered in how to book SaaS demos with cold email (https://www.beleaded.com/blog/book-saas-demos-with-cold-email/). On this page we build the list, handle the replies, and place the demo for project management software.
 
 ### 1. Lead generation
 
@@ -1493,13 +1649,12 @@ Yes. Demos and reply context go into HubSpot, Salesforce or your CRM.
 
 ## Tell us who you want to meet.
 
-Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+Thirty minutes with the founder. You'll leave knowing which project management buyers to target, what belongs on the criteria sheet, and what the program would cost.
 
 Or email sales@beleaded.com
 
 
 ---
-
 URL: https://www.beleaded.com/industries/it-services-msp/
 
 - Home
@@ -1792,7 +1947,7 @@ Do not open with "are you selling." Name something true, offer a confidential vi
 
 ## Programs we run for M&A advisors and brokers
 
-The first touch is a note, not a call center. Email, LinkedIn, and a newsletter for people who said not now. Use one, or run them as a set.
+The first touch is a note, not a call center. Email, LinkedIn, and a newsletter for people who said not now. Use one, or run them as a set under our B2B lead generation.
 
 ### Off-market deal flow
 
