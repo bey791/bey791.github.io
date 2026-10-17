@@ -137,8 +137,7 @@
     if (!bar || !window.matchMedia) return;
     var mq = window.matchMedia("(max-width: 767px)");
     var hero = document.querySelector("[data-hero-cta]");
-    var endCta = document.querySelector("[data-end-cta]");
-    var armed = false, shown = false, lastEntry = null, endInView = false;
+    var armed = false, shown = false, lastEntry = null;
     function scrolledEnough() {
       var max = document.documentElement.scrollHeight - window.innerHeight;
       if (max <= 0) return false;
@@ -151,13 +150,14 @@
     }
     function evaluate() {
       if (!armed) return;
-      if (!mq.matches || endInView) {
-        if (!mq.matches) shown = false;
+      if (!mq.matches) {
+        shown = false;
         bar.hidden = true;
         document.body.classList.remove("has-book-bar");
         return;
       }
-      if (!shown && !(heroLeft() || scrolledEnough())) return;
+      if (shown) return;
+      if (!(heroLeft() || scrolledEnough())) return;
       shown = true;
       bar.hidden = false;
       document.body.classList.add("has-book-bar");
@@ -168,13 +168,6 @@
         evaluate();
       }, { threshold: 0 });
       io.observe(hero);
-    }
-    if (endCta && "IntersectionObserver" in window) {
-      var endIo = new IntersectionObserver(function (entries) {
-        endInView = entries[entries.length - 1].isIntersecting;
-        evaluate();
-      }, { threshold: 0 });
-      endIo.observe(endCta);
     }
     scrollHandlers.push(evaluate);
     if (mq.addEventListener) mq.addEventListener("change", evaluate);
