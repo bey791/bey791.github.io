@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-16.
+Source: https://www.beleaded.com/ . Updated 2026-10-17.
 
 ## Where to verify us
 
@@ -227,11 +227,11 @@ Templates, benchmarks and setup guides from the campaigns we run. Sources at the
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -1179,6 +1179,10 @@ Partners' own profiles, one useful observation per email, a newsletter that keep
 
 Outbound and newsletters under your brand, one weekly report per client.
 
+### Medical billing and RCM
+
+Specialty and state lists for practice managers, owners and revenue cycle leads. (https://www.beleaded.com/industries/medical-billing-rcm/)
+
 Not on the list?
 
 ## We've run programs in a dozen more.
@@ -1432,6 +1436,8 @@ Dental and med spa
 # Marketing for dental practices and med spas
 
 The cheapest new patient is the one who already came once. We reactivate lapsed patients by text and email, fill gaps with Meta ads and a booking page, and keep a newsletter going so the practice stays top of mind. Marketing lists hold names and contact details only, never treatment information.
+
+Selling to practices instead? See medical billing and RCM (https://www.beleaded.com/industries/medical-billing-rcm/).
 
 ## Who we reach
 
@@ -1707,6 +1713,140 @@ Yes. We produce weekly issues and multi-edition series for several agency client
 **How is white-label priced?**
 
 Programs start from $2,000 a month per client program, with room for your margin. We'll price a bundle for agencies running several clients.
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/industries/medical-billing-rcm/
+
+- Home
+- Industries
+- Medical billing and RCM
+
+Medical billing and RCM
+
+# Lead generation for medical billing and RCM companies
+
+Practices get pitched by billing companies every week and most pitches sound the same. We reach practice managers and owners with one specialty, one problem and one small ask, then book the call on your calendar.
+
+Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
+
+## Why most billing outreach gets ignored
+
+A physician owner on Reddit says he gets 20 to 30 billing pitches a month and that the offerings "sound alike and blend together." Practices say they want:
+
+What practices say they want
+
+- Claims submitted within 7 days.
+- Coding accuracy.
+- Fast denial appeals.
+- Regular reviews.
+
+Our appointment setting copy leads with those specifics in your specialty.
+
+## Who this is for
+
+Billing and revenue cycle companies that sell to US practices, including teams based offshore. For the steps you can run yourself, see how to get medical billing clients.
+
+- US billing and RCM companies. Companies that bill US practices and want specialty and state lists.
+- Offshore and nearshore teams. Billing teams outside the US that serve US practices.
+- Coding and denial firms. Coding, credentialing, A/R recovery and denial management firms.
+- RCM software vendors. Software vendors selling into the same practices.
+
+### Who decides on a billing company
+
+Pitching the physician first is the most common reason billing outreach gets ignored.
+
+- The practice administrator or office manager first, then the physician owner.
+- The revenue cycle director or CFO at larger groups.
+- ASC, lab, DME and home health administrators.
+
+### How we target
+
+- Specialty first, then state, provider count, and payer mix.
+- EHR or PM system where it is public.
+- Signals: a new location, new providers, a billing job post, an EHR change, year end and Q1 review windows.
+
+## Email, LinkedIn and follow up working together
+
+Cold email on dedicated warmed domains. Our newsletters average a 49 to 51% open rate. The setup is cold email deliverability. Replies handled the same business day (speed to lead). LinkedIn to administrators and owners. AI voice follow up for warm replies.
+
+Proof: 400K+ emails a day of sending capacity. 99% delivery rate across programs. 49 to 51% average open rate on newsletters. 30+ client programs.
+
+## Pay per lead vs a program you own
+
+Pay per lead marketplaces sell shared or exclusive inquiries, priced per lead. Billing Direct lists exclusive leads at $90 to $390 (checked October 17, 2026). Practices often talk to several billers.
+
+A Be Leaded program is outreach in your name, on your list. Programs start from $2,000 a month. Every reply is yours. Your domains, your copy, and your list.
+
+Tell us your specialties and states. We will show you the list size and what a program would look like.
+
+## Target up to 25,000 new contacts a month
+
+Programs start from $2,000 a month.
+
+- Specialty and state lists.
+- Copy per specialty.
+- Domains and inboxes.
+- Reply handling, calls booked on your calendar, and weekly reporting.
+
+## Will volume burn my market?
+
+Target up to 25,000 new contacts a month is the ceiling we work to across every specialty, state and role you can serve. We build each list fresh, spread sends across segments, never repeat a cold sequence to a contact who said no, and keep every cold email off the domain your current clients know.
+
+## What the outreach says
+
+- One specialty problem: denial rate, days in A/R, clean claim rate, slow submissions, or credentialing delays.
+- One small ask: a review of last month's denials, not a generic free audit.
+- Percent of collections pricing means the first email does not ask a practice to find budget.
+
+## Business outreach with no patient data
+
+Business contacts only. No patient data or PHI, ever. CAN-SPAM compliant B2B sending with a working opt out.
+
+## How we start
+
+Week 1: specialties, states and lists, domains set up. Weeks 2 to 3: warmup and copy you approve. Then live sending and weekly review.
+
+## Questions
+
+**Should a billing company use a lead generation agency?**
+
+Yes, when you want the list, the copy and the replies handled for you. We run appointment setting for medical billing and RCM companies. Target up to 25,000 new contacts a month. Programs start from $2,000 a month. If you would rather do the work yourself, read how to get medical billing clients.
+
+**Who do you reach for a billing company?**
+
+We reach the practice administrator or office manager first, then the physician owner. In larger groups, the revenue cycle director or CFO.
+
+**Is cold email effective for medical billing companies?**
+
+Generic email is not. Short emails about one specialty problem, sent to the person who manages billing, with a small ask, get answered. We pair email with LinkedIn and fast reply handling.
+
+**Does Be Leaded build US lists for offshore billing teams?**
+
+Yes. We build US practice lists by specialty and state and write copy for US practice managers.
+
+**Won't high volume burn through my specialty?**
+
+We spread outreach across every specialty, state and role you can serve, build each list fresh and never repeat a cold sequence to someone who declined. Target up to 25,000 new contacts a month is the ceiling we plan to.
+
+**How does Be Leaded keep outreach to practices compliant?**
+
+Our sends follow CAN-SPAM on separate warmed domains: a real sender and a working opt out in every email. The people on the list are practice staff. Patient files stay out of it.
+
+**Why does Be Leaded build verified lists instead of selling leads?**
+
+Pay per lead sellers sell inquiries, often to more than one biller. We run outreach in your name, to your list, and every reply is yours.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month.
 
 ## Tell us who you want to meet.
 
@@ -2613,19 +2753,19 @@ A practical 7-touch cold email follow-up sequence with the timing gaps, what eac
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 ### Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
 
-An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+Best cold email software in 2026, compared for warmup, volume, data and CRM, so you can match the tool to the job instead of the feature list.
 
 ## Deliverability
 
@@ -2659,7 +2799,7 @@ A practical checklist for a targeted, verified B2B lead list for cold email and 
 
 ### B2B lead generation strategies that work in 2026, ranked by cost per meeting
 
-Nine B2B lead generation strategies compared on time to first meeting, cost and what they need from your team: cold email, LinkedIn, paid search, paid social, newsletters, referrals, events, partnerships and content.
+Nine B2B lead generation strategies compared on time to first meeting, cost and team effort: cold email, LinkedIn, paid ads, referrals, events and content.
 
 ### How to choose a cold email agency: 12 questions to ask before you sign
 
@@ -2862,7 +3002,7 @@ Book a 30-minute call
 
 ## Keep reading
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 A practical guide to personalizing cold email at scale: ICP triggers, research tiers, variables, tools, and a QA check so the first line stays true.
 
@@ -2878,9 +3018,9 @@ Or email sales@beleaded.com Copy
 
 ## Keep reading
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 ### How to personalize cold emails at scale
 
@@ -3565,7 +3705,7 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### How to build a B2B lead list
 
@@ -3573,7 +3713,7 @@ A practical checklist for a targeted, verified B2B lead list for cold email and 
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ## Tell us who you want to meet.
 
@@ -3825,11 +3965,11 @@ Book a 30-minute call
 
 ### B2B lead generation strategies that work in 2026, ranked by cost per meeting
 
-Nine B2B lead generation strategies compared on time to first meeting, cost and what they need from your team: cold email, LinkedIn, paid search, paid social, newsletters, referrals, events, partnerships and content.
+Nine B2B lead generation strategies compared on time to first meeting, cost and team effort: cold email, LinkedIn, paid ads, referrals, events and content.
 
 ### Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
 
-An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+Best cold email software in 2026, compared for warmup, volume, data and CRM, so you can match the tool to the job instead of the feature list.
 
 ### How many cold emails to send per day, per inbox and per domain
 
@@ -4268,7 +4408,7 @@ How to sort interested, maybe, not-now, wrong-person, out-of-office, and unsubsc
 
 A practical 7-touch cold email follow-up sequence with the timing gaps, what each touch says, when to stop, and how to pair email with LinkedIn so replies become meetings.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
 What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
@@ -4444,9 +4584,9 @@ A practical checklist for B2B SaaS founders and sales leaders: the ICP and buyin
 
 A practical 7-touch cold email follow-up sequence with the timing gaps, what each touch says, when to stop, and how to pair email with LinkedIn so replies become meetings.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 All guides
 
@@ -4598,11 +4738,11 @@ A practical checklist for B2B SaaS founders and sales leaders: the ICP and buyin
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 All guides
 
@@ -4891,15 +5031,15 @@ Book a 30-minute call
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 ### Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
 
-An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+Best cold email software in 2026, compared for warmup, volume, data and CRM, so you can match the tool to the job instead of the feature list.
 
 All guides
 
@@ -5074,15 +5214,15 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 ### Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
 
-An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+Best cold email software in 2026, compared for warmup, volume, data and CRM, so you can match the tool to the job instead of the feature list.
 
 All guides
 
@@ -5457,7 +5597,7 @@ What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC,
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 All guides
 
@@ -5575,7 +5715,7 @@ What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC,
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 All guides
 
@@ -5596,7 +5736,7 @@ URL: https://www.beleaded.com/blog/cold-email-benchmarks/
 
 Cold email
 
-# Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+# Cold email reply rate benchmarks 2026
 
 By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
 
@@ -5674,7 +5814,7 @@ Between 3% and 5% of emails sent is normal for a well-run B2B campaign in 2026, 
 
 Privacy features inflate published open rates, and open tracking itself lowers reply rates. Judge campaigns on replies and meetings instead.
 
-**How many meetings should 1,000 cold emails produce?**
+**What results should I expect from 1,000 cold emails?**
 
 We do not promise a number of meetings. A typical campaign replies at 3.43% of emails sent, according to Instantly's 2026 report, and at 4.5% overall in Hunter's. Tighter markets do better, broad ones worse.
 
@@ -5698,15 +5838,15 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ### Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
 
-An operator's comparison of the cold email tools we run client campaigns on: Saleshandy, Instantly, Smartlead and Apollo, plus Clay, Salesforce and the verification tools. Which to pick for warmup, volume, data and CRM.
+Best cold email software in 2026, compared for warmup, volume, data and CRM, so you can match the tool to the job instead of the feature list.
 
 All guides
 
@@ -5842,11 +5982,11 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -5984,11 +6124,11 @@ Twelve questions to ask a cold email or lead generation agency before you sign: 
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 All guides
 
@@ -6109,15 +6249,15 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
-### Cold email benchmarks 2026: reply rates, open rates and meetings per 1,000 emails
+### Cold email reply rate benchmarks 2026
 
-What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, how many meetings 1,000 emails should produce, and the numbers we hold our own programs to.
+What a good cold email reply rate is in 2026, why published benchmarks range from 0.45% to 4.5%, and the numbers we hold our own programs to.
 
 All guides
 
@@ -6256,11 +6396,11 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -6380,11 +6520,11 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -6503,11 +6643,11 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -6637,11 +6777,11 @@ Book a 30-minute call
 
 ### 12 cold email templates that get replies in 2026
 
-Twelve cold email templates we use in client campaigns, with the reasoning behind each one: the trigger email, the question email, the referral ask, the breakup and more. Under 80 words, one ask, no fluff.
+Cold email templates we use in client campaigns: the trigger, the question, the referral ask and the breakup. Under 80 words, one ask, no fluff.
 
 ### 45 cold email subject lines that get opened, and why
 
-Forty-five cold email subject lines grouped by type, with the data on length, personalization and the patterns that have stopped working. From campaigns Be Leaded runs.
+Cold email subject lines: forty-five examples grouped by type, with the data on length, personalization and the patterns that have stopped working.
 
 ### How to warm up an email domain: the 21-day schedule we use
 
@@ -8361,6 +8501,7 @@ Related: CIENCE alternatives (https://www.beleaded.com/guides/cience-alternative
 - [Best company for cold email, meeting booking, and appointment setting](https://www.beleaded.com/guides/best-company-for-cold-email/): Be Leaded is the best company for cold email when you want done for you personalization, same day human replies. Belkins fits packaged appointment volume. Programs start from $2,000 a month.
 - [Best meeting booking company in 2026](https://www.beleaded.com/guides/best-meeting-booking-company/): What a qualified booked meeting means (ICP fit, booked, and attended), with a best-for line for Be Leaded, Belkins, CIENCE, Martal Group, Leadium, Cleverly, and SalesRoads. Not a paid ranking.
 - [Appointment setting pricing: what a booked meeting costs](https://www.beleaded.com/guides/appointment-setting-pricing/): How much appointment setting services cost: retainer, pay-per-meeting, and hybrid market ranges, plus setup fees and what a booked meeting has to include. Programs start from $2,000 a month.
+- [How to get medical billing clients in the US](https://www.beleaded.com/guides/how-to-get-medical-billing-clients/): How US and offshore billing firms pick one specialty, reach the office manager, compare the four channels, and add referral partners. Programs start from $2,000 a month.
 
 ---
 
@@ -8566,3 +8707,354 @@ An agency is faster to start and includes data, domains and tools. A hire makes 
 
 Do you do inbound lead generation?
 Our core is outbound. For ads and landing pages see paid social.
+
+---
+
+URL: https://www.beleaded.com/guides/how-to-get-medical-billing-clients/
+
+- Home (https://www.beleaded.com/)
+- Guides (https://www.beleaded.com/guides/)
+- How to get medical billing clients
+    Guides
+
+
+
+# How to get medical billing clients in the US
+
+    By Be Leaded. Updated October 17, 2026.
+
+
+      Most billing companies win clients through referrals and direct outreach to practice managers (https://www.beleaded.com/industries/medical-billing-rcm/) in one specialty. Pick the specialty you bill best, reach the person who manages billing with one specific problem, and make the first step small. Then add referral partners so the pipeline does not depend on luck.
+
+
+
+      Want this run for you? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-how-to-get-medical-billing-clients)
+
+      Programs start from $2,000 a month
+
+      See pricing (https://www.beleaded.com/pricing/)
+
+
+
+
+
+      On this page
+
+
+- Pick one specialty and one practice size (#h-mbc-specialty)
+
+- Who to contact at a practice (#h-mbc-who)
+
+- What the four channels cost (#h-mbc-channels)
+
+- Build a practice list (#h-mbc-list)
+
+- What to say in the first email (#h-mbc-email)
+
+- When practices switch (#h-mbc-switch)
+
+- Offshore and nearshore trust (#h-mbc-offshore)
+
+- Referral partners (#h-mbc-partners)
+
+- Follow up the same day (#h-mbc-follow)
+
+- Do it yourself or have it run (#h-mbc-run)
+
+- Questions (#h-mbc-faq)
+
+- Related (#h-mbc-related)
+
+
+
+
+
+## Pick one specialty and one practice size first
+
+      Tebra's billing company research (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients), updated April 12, 2026, says half of US billing services are highly specialized. Mental health, physical therapy, and family practice are among the niches that show up most. A specialty is how a small firm sounds different from a general offer.
+
+      A biller on Reddit (https://www.reddit.com/r/CodingandBilling/comments/1akidew/clients/) went after solo practices and small offices because those were the ones the big billing services did not want, and took booths at association conferences. Solo and small practices still get less attention from large revenue cycle firms. That is a real opening if your team already knows the codes, the payers, and the denial patterns in that slice.
+
+      Pick one specialty you can bill without looking up the basics, and one size: a solo practice, a small group, or a group with several sites. Write the choice in one sentence you can use to reject a row. "Any practice that needs billing" produces a directory. "Orthopedic groups with one to five providers in Texas and Florida" produces a list you can finish.
+
+      Stay on that slice until the first conversations repeat the same problems. A second specialty is a second list, a second email, and a second set of partners. Add it when the first one is producing replies, not when the first quiet week makes you nervous.
+
+
+
+## Who to contact at a medical practice
+
+      The person who feels the billing problem is rarely the person who signs the agreement, and they are not the same title in every practice. Start with the person who manages the work.
+
+
+
+- Solo and small practices: the office manager or practice administrator first. The physician owner usually approves the switch and signs. Physicians rarely compare vendors day to day.
+
+- Groups: a revenue cycle director or a practice administrator owns the vendor choice. A CFO or an owner signs. If you cannot see a revenue cycle title, start with the practice administrator and ask who else has to agree.
+
+      Tebra's guide (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients) on getting billing clients says the same thing: talk to the office manager or practice administrator, not the physician. One practice, one first name. A second name is useful only when that person can introduce you to the one who manages billing. Mailing the physician, the office manager, and the in house biller in the same week spends the account.
+
+
+
+## What the four channels cost you
+
+      You have four ways to reach practices: referrals, direct outreach by email, LinkedIn, and phone, association events, and paid or bought leads. Time, money, speed, and control do not move together. The dollar figures below are directional estimates from Medical Billing Opportunity (https://www.medicalbillingopportunity.com/resources/guides/medical-billing-leads/), checked October 17, 2026. They are not Be Leaded measurements, and this page does not add numbers that page does not publish.
+
+
+
+          Time, money, and control for four ways billing firms find clients. Dollar ranges are Medical Billing Opportunity's directional estimates, checked October 17, 2026.
+
+
+              Channel
+              Time cost
+              Money cost
+              Speed and control
+
+
+
+
+              Referrals
+              Ongoing time with partners and past clients
+              $0, listed as reciprocal
+              Slow to start. You do not pick the day a partner introduces you. Their table lists a 10% to 25% conversion range, the highest of the channels they score.
+
+
+              Direct outreach
+              You write, send, and follow up
+              Email and phone $0 to $50 a lead. LinkedIn $0 to $30 a lead.
+              The fastest path they describe for a new firm. You choose the specialty, the state, and the week you send. Their conversion ranges are 3% to 8% for email and phone, and 2% to 6% for LinkedIn.
+
+
+              Association events
+              Travel plus the days of the meeting
+              Not in their table. Budget the booth, the travel, and the days you are not billing.
+              Tied to the association calendar. The association sets the date, so control is low until you are in the room.
+
+
+              Paid or bought leads
+              Low if someone else finds the practice
+              Purchased lists $25 to $150 a lead. Google Ads $50 to $200 a lead.
+              Fast if you already have budget. Their conversion ranges are 1% to 4% for purchased lists and 5% to 12% for Google Ads. A bought list is often shared. Ads you run stay yours.
+
+
+
+
+      Tebra's billing company research (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients), updated April 12, 2026, says 72% of billing companies name referrals as their top new business driver. Referrals win on trust. They lose on timing, because you cannot decide that a given month is when orthopedic managers will hear your name.
+
+      Direct outreach is the channel you can start this month. A biller on that same Reddit thread said they had been reaching practices by email and it had not really worked, and asked how larger firms get clients. Email fails when the list is mixed and the offer is generic. It works better when one specialty, one problem, and a small ask are in the first note. B2B email to a practice is allowed in the US when it is truthful and includes an opt out. The rules are on is cold email legal (https://www.beleaded.com/blog/is-cold-email-legal/). Never put patient information in a prospecting email. How a done for you team runs that outreach is on B2B appointment setting (https://www.beleaded.com/appointment-setting/).
+
+      Paid and bought leads spend money instead of hours. Use them when you already know how you qualify a practice and what you say on the first reply. Do not use a shared list as a substitute for a file you understand. Content and search, which are not one of the four channels above, sit at $0 to $100 of time on that same table, with a 1% to 3% inbound range. They are a slow second engine, not the way you get the first clients.
+
+
+
+## Build a practice list by specialty and state
+
+      Start with the specialty and the states you can serve well. A national export of every practice is not a list. Pull clinics and groups from a provider directory, a state board list, or a B2B database, then keep only the size you chose.
+
+      For each row, keep the practice name, the specialty, the state, the provider count if you can see it, the office manager or practice administrator, and one detail you can mention without patient information. A new provider, an EHR change, a job post for a biller, or a denial pattern that is common in that specialty is enough. If the detail is missing, the row is not ready to send.
+
+      The build, the verification, and what to leave off a cold file are in how to build a B2B lead list (https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/). Use the same tests on practices: one decision maker, a verified address, and a suppression list of current clients and anyone who opted out. Work one state until you know the payers, the associations, and the partners there. Then add the next state.
+
+
+
+## What to say in the first email
+
+      A physician owner on Reddit (https://www.reddit.com/r/CodingandBilling/comments/1ktb4zu/billing_service_marketing_tips/) said he gets 20 to 30 cold messages a month and that the offerings sound alike. He chose a biller on three things: claims submitted within 7 days, coding accuracy, and speed to appeal denials. Lead with one of those, tied to the specialty, and ask for something small. A review of last month's denial codes is small. A full proposal is not.
+
+      The shape of a short first note is in cold email templates (https://www.beleaded.com/blog/cold-email-templates/). The three notes below are written to the office manager. Each one asks for a denial review and nothing else.
+
+      Names and practices are illustrative.
+
+
+
+### Orthopedics
+
+
+        To: Jordan Hale, office manager, Northline Orthopedics
+        Subject: Denial codes from last month
+
+        Hi Jordan, I work with orthopedic practices and I am writing the office manager. If last month's surgical claims are still open, I can look at the denial codes only and send a short note on which five to appeal first. I do not need patient names or charts. If a review of last month's denials is useful, reply with the month to use.
+
+
+
+
+### Behavioral health
+
+
+        To: Priya Shah, office manager, Harbor Behavioral Health
+        Subject: Authorization and coding holds
+
+        Hi Priya, therapy visits often stall on an authorization or a coding edit. I can review last month's denial list for your behavioral health group and mark the three worth appealing this week. Codes only, no charts. If you want that review, reply with the month.
+
+
+
+
+### Physical therapy
+
+
+        To: Sam Ortega, office manager, Cedar Path Physical Therapy
+        Subject: Units and authorizations from last month
+
+        Hi Sam, physical therapy claims often stall on units, modifiers, or an authorization. If that matches last month, I can mark the denials to appeal first and leave the rest. I only need the codes. Reply if a review of last month's denials would help, and I will send two times this week.
+
+
+
+
+
+## When practices switch billing companies
+
+      Practices do not review billing every week. Tebra (https://www.tebra.com/theintake/tebra-news/get-billing-clients-scale-faster-with-tebra), updated August 1, 2025, says the most useful time to reach them is year end or the first quarter, when practices reevaluate billing. Build the list and the first emails before that window. Do not start the file during the week the practices are already in it.
+
+      Other moments are not seasonal, and they are easier to see on a list:
+
+
+
+- A new provider joins, and credentialing plus claim volume both change.
+
+- The practice changes EHR or practice management software, and the old billing setup breaks.
+
+- A biller or an office manager leaves, and the claims queue ages.
+
+- Denials or days in accounts receivable become a standing topic in the practice meeting.
+
+      An RCM owner on Reddit (https://www.reddit.com/r/smallbusiness/comments/1sy4c36/healthcare_rcm_owner_struggling_to_land_clients/) says warm introductions beat everything else, and the useful question is who you know that is frustrated with accounts receivable right now. A specific introduction at one of these moments beats a January note to every practice in the state.
+
+
+
+## How an offshore or nearshore team shows US trust
+
+      A US practice runs a short trust check before it will talk to a team that bills from outside the country. Put the answers in the first email and on the page you link. Do not save them for a follow up after the practice has gone quiet.
+
+
+
+- A US business entity and a US address the practice can read.
+
+- A business associate agreement ready to sign before any claim file moves.
+
+- A named contact who works US business hours and answers the same day.
+
+- References from US practices in the specialty you are selling.
+
+- A written data security policy: who can see claim files, where they are stored, and how access is removed.
+
+      Send from a US facing domain that matches the entity name. Cold email still goes on separate sending domains, not the domain that holds your corporate mail. How those domains are authenticated is on cold email deliverability (https://www.beleaded.com/cold-email-deliverability/). Do not lead with a percentage of collections. Lead with the entity, the agreement, the named contact, and one specialty problem.
+
+
+        We run this for US and offshore billing teams. Tell us your specialties and states.
+
+
+          Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-how-to-get-medical-billing-clients)
+
+
+
+
+
+## Referral partners who already sit with practices
+
+      A biller on the Reddit thread about clients (https://www.reddit.com/r/CodingandBilling/comments/1akidew/clients/) said they only accept referrals from current and past clients. That is a stable book if you already have clients. It is an empty pipeline if you are starting. Add a few partners who already talk to the office manager:
+
+
+
+- EHR resellers and the consultants who implement the software.
+
+- Practice management consultants.
+
+- Healthcare CPAs and bookkeepers who already see collections.
+
+- Credentialing firms, who are in the room when a new provider starts.
+
+      Give them one sentence they can forward. If a practice in this specialty is unhappy with denials, you will review last month's codes. The same RCM owner suggests a concrete review with a low commitment, not a standing contract. Specific asks get specific introductions.
+
+      Some billers pay for that introduction. CureMed's public referral program (https://www.curemed.co/refer), checked October 17, 2026, pays 5% of its billing fee each month on a practice a partner introduces, inside a commission window that starts at two years. That is one published example of a recurring referral fee, not a rate you have to copy. If you pay a partner, write down the percentage, how long it lasts, and what counts as a signed practice. Do not promise a partner an outcome you do not control.
+
+
+
+## Follow up the same business day
+
+      The physician who was tired of similar pitches still had to choose someone. Speed is part of that choice. When a practice replies, answer the same business day with two times in their time zone, or with a direct answer to the question they asked. A reply next week reads like the delay they are already getting from their current biller.
+
+      Why the first response window matters is on speed to lead (https://www.beleaded.com/blog/speed-to-lead/). A simple sequence after no reply is on cold email follow up sequence (https://www.beleaded.com/blog/cold-email-follow-up-sequence/). Add a new detail in each note: a denial pattern in the specialty, the year end window, or the trust items if you bill from outside the US. "Just checking in" is the email they already delete.
+
+      Stop when they say no. Take them off email and LinkedIn the same day. One opt out is the whole instruction.
+
+
+
+## Do it yourself or have the outreach run for you
+
+      Do it yourself when someone on your team will keep the specialty narrow, refresh the list, write the notes, and answer replies the same day. The money cost can stay near the low end of the ranges above. The time cost is the real price, and every reply belongs to you.
+
+      Have it run for you when the billers are already in claims and nobody owns the list. You still take the conversation with the practice. Someone else builds the file, sends on separate domains, and handles the first reply. That is the split. Neither path removes the specialty, the trust checklist, or the small first ask.
+
+      Medical billing and RCM appointment setting (https://www.beleaded.com/industries/medical-billing-rcm/) is the done for you version of this playbook for US and offshore billing firms. What a program includes is on Be Leaded pricing (https://www.beleaded.com/pricing/). To size inboxes before you send, use the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/).
+
+
+        400K+Emails a day of sending capacity
+        99%Delivery rate across programs
+        49 to 51%Average open rate on newsletters
+        30+Client programs
+
+
+
+
+### Target up to 25,000 new contacts a month
+
+        Programs start from $2,000 a month
+
+
+          Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-how-to-get-medical-billing-clients)
+
+
+
+
+
+## Questions about getting medical billing clients
+
+
+        How do medical billing companies get clients?Mostly referrals and direct outreach to practice managers in one specialty, plus association events. Outbound gives you control over timing.
+
+        Who should I contact at a medical practice?The office manager or practice administrator first. Physicians rarely handle billing vendor choices day to day.
+
+        How can an offshore billing company get US clients?Show US trust signals up front (US entity, BAA, a named contact in US hours, references) and reach practice managers in one specialty with a specific offer.
+
+        Is cold email to practices legal?B2B email is allowed in the US under CAN-SPAM when it is truthful and has an opt out. Never use patient data.
+
+        When do practices change billing companies?Often at year end or in Q1, and after a new provider, an EHR change or a billing staff departure.
+
+        Should I buy medical billing leads?Bought leads are fast but often shared with other billers. Your own outreach costs more time but every reply is yours.
+
+        What does it cost to have outreach run for me?Programs start from $2,000 a month.
+
+
+
+
+
+## Related
+
+
+
+- Medical billing and RCM appointment setting (https://www.beleaded.com/industries/medical-billing-rcm/). The service page for billing firms that want this outreach run for them.
+
+- B2B appointment setting (https://www.beleaded.com/appointment-setting/). How a reply becomes a time on the calendar after the first email.
+
+- How to build a B2B lead list (https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/). The list method behind a practice file by specialty and state.
+
+- Cold email templates (https://www.beleaded.com/blog/cold-email-templates/). The short note shape used in the three specialty examples above.
+
+- Is cold email legal (https://www.beleaded.com/blog/is-cold-email-legal/). The US rules for a truthful B2B email with an opt out.
+
+- Guides (https://www.beleaded.com/guides/). The rest of the buyer guides on choosing and pricing outbound.
+
+
+
+
+
+
+
+
+
+## Tell us who you want to meet.
+
+      Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost. For billing firms, start with medical billing and RCM appointment setting (https://www.beleaded.com/industries/medical-billing-rcm/).
+
+
+        Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=guides-how-to-get-medical-billing-clients)
+        Or email sales@beleaded.com (mailto:sales@beleaded.com) Copy
