@@ -1312,7 +1312,7 @@ A project management software company does not need more people who agreed to a 
 
 Scheduling products put a qualifier in front of a calendar. Ad programs can buy clicks for a software category and call project management one of the labels. Neither finds the account, checks it against your rules, and books the demo. The parent motion, for any B2B team, is B2B appointment setting (https://www.beleaded.com/appointment-setting/). Here the list, the criteria sheet, and the handoff are built only for project management, work management, and professional services automation software. If the product is some other kind of software, use lead generation for B2B SaaS (https://www.beleaded.com/industries/b2b-saas/) instead.
 
-A SaaS founder on Reddit wrote that agencies optimize for meetings booked, not pipeline created, and that the bar to book is "agreed to a calendar invite." A marketer on Reddit described sitting through demos with people who have no budget, no authority, and no real problem the product can solve. A SaaS operator on Reddit said to define the sales qualified lead tightly or the agency tosses over garbage, and that they only pay per held meeting so a no-show is not a win. Be Leaded does not sell pay per meeting. The standard used here is that a demo was qualified first, then held.
+A founder on Reddit says agencies optimize for meetings booked, not pipeline created, and that the bar to book was an agreed calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/). That is one poster's report, not a rate we publish. A marketer on Reddit described sitting through demos with people who have no budget, no authority, and no real problem the product can solve (https://www.reddit.com/r/b2bmarketing/comments/1ss4wfs/i_just_quit_my_job_at_a_7figure_b2b_leadgen/). A SaaS operator on Reddit said to define the sales qualified lead tightly or the agency tosses over garbage, and that they only pay per held meeting so a no-show is not a win (https://www.reddit.com/r/SaaS/comments/z9fgzr/anyone_used_an_outsourced_sdr_agency/). Be Leaded does not sell pay per meeting. The standard used here is that a demo was qualified first, then held.
 
 Buying moments:
 
@@ -1364,7 +1364,7 @@ Lists by team size, industry, current tool, and growth signals. Outreach is cold
 
 ### 2. Qualification against your criteria
 
-We confirm fit in the reply thread before anything is booked. Team size, current tool, the workflow problem, timeline, and who else must attend are checked against the sheet you approved. A friendly reply that fails the sheet is not a demo.
+Team size, current tool, the workflow problem, timeline, and who else must attend are checked against the sheet you approved before a hold exists. A friendly reply that fails the sheet is not a demo.
 
 ### 3. Booked demo
 
@@ -1409,7 +1409,7 @@ Bring your demo criteria. We will build the list against it on the call.
 
 ## Unqualified demos and no-shows
 
-We qualify in the reply thread, so a demo that fails the sheet is never booked. Before the hold, we confirm the attendee. We send reminders. If the demo does not happen, we rebook it. Every reply thread is visible to you, including the ones we decline.
+A reply that misses your sheet stays off the calendar. After a hold is set, we check the named PMO or operations lead is still coming, write them the day before, and open a new time if they miss the first one. You can read every exchange, including the ones we turn down.
 
 We do not promise that a booked person will attend, and we do not promise a replacement demo. What you can see is the thread, the criteria result, and whether the demo was rebooked.
 
@@ -1437,7 +1437,7 @@ The number worth comparing is the cost of a held, qualified demo: the person mat
 
 Zenbee, in a cost per meeting article used for this page on October 17, 2026, publishes third party ranges of $150 to $600 for outsourced pay per meeting, $400 to $900 per held meeting on a retainer, and $600 to $1,000 for an in-house SDR in the mid-market. Those are market ranges, not a quote from us, and not a count of demos we will book.
 
-Programs start from $2,000 a month. How appointment setting is priced across retainer, pay per meeting, and hybrid models is on the appointment setting pricing guide (https://www.beleaded.com/guides/appointment-setting-pricing/).
+Programs start from $2,000 a month. The wider market picture for pricing a held demo is on the appointment setting pricing guide (https://www.beleaded.com/guides/appointment-setting-pricing/).
 
 ## Target up to 25,000 new contacts a month
 
@@ -1456,7 +1456,7 @@ Programs start from $2,000 a month. The exact monthly number comes after the cal
 
 **What do you do for project management software companies?**
 
-We generate the leads, qualify them against your criteria and book demos with the ones that fit.
+We build lists of PMO, operations, and agency buyers, screen team size, current tool, and seat need, and book the demo only when your sheet passes.
 
 **Who decides on project management software?**
 
@@ -1464,15 +1464,15 @@ Usually an operations director, PMO lead or COO, with team leads as champions. W
 
 **How do you stop unqualified demos?**
 
-You approve a written criteria sheet before launch. We qualify in the reply thread and only book demos that pass.
+You approve a written sheet before launch: team size, current tool, a workflow problem, and who must attend. A reply that misses the sheet never becomes a demo.
 
 **What about no-shows?**
 
-We confirm the attendee, send reminders and rebook demos that do not happen.
+We check that the PMO or operations lead is still the person on the hold, write them the day before, and open a new time if they miss it.
 
 **Is outsourcing better than hiring an SDR?**
 
-It starts faster and includes data, domains and tools. Hiring makes sense once outbound is proven.
+For project management software, the early motion is team leads and PMO buyers at trial to paid and seat expansion. An outside team can run that list while you learn which segment books. A full time SDR fits after those motions already work.
 
 **What does it cost?**
 
@@ -1487,7 +1487,7 @@ Yes. Demos and reply context go into HubSpot, Salesforce or your CRM.
 - B2B appointment setting (https://www.beleaded.com/appointment-setting/): the booking motion under this page.
 - B2B SaaS (https://www.beleaded.com/industries/b2b-saas/): generic software demo booking, for products that are not project management software.
 - Outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/): what an outsourced program includes when you compare it with hiring an SDR.
-- Appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/): retainer, pay per meeting, and hybrid ranges.
+- Appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/): how a held demo with a PMO or operations buyer sits next to other ways firms price appointment setting.
 - Book SaaS demos with cold email (https://www.beleaded.com/blog/book-saas-demos-with-cold-email/): the do it yourself checklist.
 - LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/): outreach from your team profiles, paired with email.
 
