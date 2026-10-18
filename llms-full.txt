@@ -1893,9 +1893,11 @@ Staffing and recruiting
 
 # Lead generation for staffing and recruiting companies
 
-One hiring manager on Reddit says he gets 15 to 20 staffing pitches a week (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) and most sound the same. We find companies with roles they are struggling to fill, write to the manager who owns the role, and book the call with your recruiters. Target up to 25,000 new contacts a month.
+One hiring manager on Reddit says he gets 15 to 20 staffing pitches a week (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) and most sound the same. We find companies with roles they are struggling to fill, write to the manager who owns the role, and book the call with your recruiters.
 
 Programs start from $2,000 a month.
+
+Target up to 25,000 new contacts a month.
 
 Names and companies are illustrative.
 
@@ -1911,11 +1913,13 @@ Camille
 
 ## Why most staffing outreach gets ignored
 
-One hiring manager on Reddit (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) wrote that he gets maybe 15 to 20 emails a week from staffing firms and that almost all of them sound identical. He said the notes he actually opens lead with something specific about his open roles. That count is his report in the thread, not a figure this site publishes.
+One hiring manager on Reddit (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) wrote that he gets maybe 15 to 20 emails a week from staffing firms and that almost all of them sound identical. He said the notes he actually opens lead with something specific about his open roles.
 
-A recruiter on Reddit pointed at ads that had been reposted 30 plus days after they first went up, and read the repost as a sign the internal team had not filled the seat. The same note said to offer two candidate profiles for review instead of pitching the agency (https://www.reddit.com/r/RecruitmentAgencies/comments/1vts5rv/how_i_stopped_wasting_hours_on_cold_bd_and/). That is one person's account, including the 30 plus days.
+A recruiter on Reddit pointed at ads that had been reposted 30 plus days after they first went up, and read the repost as a sign the internal team had not filled the seat. The same note said to offer two candidate profiles for review instead of pitching the agency (https://www.reddit.com/r/RecruitmentAgencies/comments/1vts5rv/how_i_stopped_wasting_hours_on_cold_bd_and/).
 
 The program under this page is appointment setting (https://www.beleaded.com/appointment-setting/) for staffing and recruiting firms. We build the signal list, write to the manager who owns the role, and place the call on your recruiter's calendar.
+
+What gets a note ignored
 
 - A note that could go to any company with a careers page
 - A services paragraph before the open role is named
@@ -1991,7 +1995,7 @@ Dana
 
 ## Email plus LinkedIn for staffing firms
 
-Hiring managers who buy from recruiters already spend time on LinkedIn. Email carries the role and the signal. The profile note reaches the same person from a recruiter they can recognize. Replies are worked the same business day, which is the point of speed to lead (https://www.beleaded.com/blog/speed-to-lead/).
+Hiring managers who buy from recruiters already spend time on LinkedIn. Email carries the role and the signal. The profile note reaches the same person from a recruiter they can recognize.
 
 ### Cold email
 
@@ -2001,9 +2005,13 @@ Separate domains, one req in the opening lines, and the reply stays in that thre
 
 A short note from your recruiter's profile to the manager who owns the open role. https://www.beleaded.com/linkedin-lead-generation-agency/
 
+### Same business day replies
+
+Replies are worked inside the thread and the call goes on your recruiter's calendar. https://www.beleaded.com/appointment-setting/
+
 ## Capacity and newsletter opens
 
-The strip shows sending capacity, delivery rate, the newsletter open rate, and a count of client programs. They do not predict how a staffing desk will do. Past programs sit on the work page (https://www.beleaded.com/work/) as illustrative examples, and no staffing client is named.
+The strip shows sending capacity, delivery rate, the newsletter open rate, and a count of client programs.
 
 - 400K+ Emails a day of sending capacity
 - 99% Delivery rate across programs
