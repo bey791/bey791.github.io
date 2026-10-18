@@ -483,6 +483,51 @@ Or email sales@beleaded.com
 
 ---
 
+URL: https://www.beleaded.com/appointment-setting/
+
+# B2B appointment setting agency for your sales calendar
+
+## How it works
+
+A straight path from a written buyer to a meeting on your calendar. Most programs go live in about three weeks.
+
+- Define the meeting. Who you want to meet, and what counts as qualified before anyone is booked.
+- Build the infrastructure. Separate domains, SPF, DKIM and DMARC, warmup, and a verified list matched to that buyer.
+- Write and send. Plain-text sequences you approve. LinkedIn can run beside email when it helps.
+- Book the meeting. We answer replies the same business day and put the qualified ones on your calendar.
+
+## Questions about appointment setting
+
+**What is included in appointment setting?**
+
+We research the list, write the outreach you approve, set up separate sending domains, handle replies the same business day, and book qualified meetings on your calendar. Most programs use cold email, often with LinkedIn alongside it. Weekly reporting is included. Paid ads, SMS, and AI voice are separate programs.
+
+**What counts as a qualified meeting?**
+
+A qualified meeting is written down before anyone is booked. It names the title, the kind of company, and the problem the person needs solved. It counts when that person is on your seller's calendar, your seller can see the hold, and the notes say why they replied and whether they match. A positive reply with no time on the calendar is not a meeting. We only book people who match the definition.
+
+**How fast do you handle replies?**
+
+We answer replies the same business day. An interested reply gets two times in their time zone and one booking link. The invite goes on your seller's calendar with the company, why they replied, and whether they match. If they do not pick a time, we send one reminder the next business morning, then we wait. A hard no and an unsubscribe come off email and LinkedIn the same day.
+
+**What happens on a no-show or a reschedule?**
+
+We do not guarantee that a booked person will attend. After a no-show we offer two new times the same day, send one note the next morning, and then stop. One reschedule is normal. We do not keep chasing a second reschedule. The contract can say whether a reschedule still counts. We will not promise a show rate.
+
+**Will cold email hurt our company domain?**
+
+No. We send from separate domains that we set up, warm and monitor. Your company domain never carries cold volume.
+
+**What does it cost?**
+
+Programs start from $2,000 a month. Infrastructure, lists, copy, and reply handling are included. You will get an exact number after a 30-minute call. We do not promise a meeting count before we have looked at your market.
+
+**How does appointment setting compare with hiring an SDR?**
+
+The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with an average ramp of 3.0 months. Programs start from $2,000 a month, with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings. It is not a claim that the program replaces every job an SDR does.
+
+---
+
 URL: https://www.beleaded.com/linkedin-lead-generation-agency/
 
 - Home
@@ -4854,7 +4899,7 @@ Cold email
 
 # Cold email vs LinkedIn outreach
 
-By Ahmad Khan, founder of Be Leaded. Updated October 7, 2026. 8 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026. 8 min read.
 
 Cold email covers a verified list. LinkedIn outreach covers fewer people, usually more senior, from a real profile. If you are weighing LinkedIn outreach vs cold email for B2B, ask which books more B2B meetings for the list you actually have. Cold email wins when that list is large and the titles live in the inbox. LinkedIn wins when the list is short, the buyers are senior, and a familiar face matters more than reach. For most founders and sales leaders, the sequence that books more meetings runs both: email carries the volume, a LinkedIn touch sits between the emails, and a person puts an interested reply on the calendar the same business day.
 
@@ -4892,7 +4937,7 @@ Four parts have to be true before this channel is a fair comparison with LinkedI
 
 Volume is why teams pick email. Be Leaded's sending infrastructure can handle more than 400,000 emails a day at a 99% delivery rate, across 30-plus client programs, from the US. New inboxes stay at a low daily volume. Add inboxes when you need reach. Plan on about three weeks to launch: domains, authentication, warmup, a verified list, and approved copy.
 
-Use this as a planning model, not a guarantee. A healthy week on the programs we describe on this site is about a 3% reply rate, with about a third of replies positive. We do not promise a number of meetings. If delivery falls off the 99% line, fix authentication, the list, or volume per inbox before you rewrite the copy. The cadence is in the cold email follow-up sequence.
+Reply targets and the qualification rules are locked with you before anything sends. Calls that get booked afterwards still depend on the market and on the offer. If delivery falls off the 99% line, fix authentication, the list, or volume per inbox before you rewrite the copy. The cadence is in the cold email follow-up sequence.
 
 ## How LinkedIn outreach works
 
@@ -6602,9 +6647,9 @@ Cold email
 
 # Cold email reply rate benchmarks 2026
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026. 4 min read.
 
-The short answer: In 2026 a typical cold email campaign replies at 3% to 4.5% of emails sent, a good one at 5.5% or more, and the top 10% at over 10%, according to Instantly's and Hunter's reports on billions of emails. Roughly a third of replies are positive. Benchmarks that quote 0.45% are measuring differently, not describing a different world.
+The short answer: In 2026 a typical cold email campaign replies at 3% to 4.5% of emails sent, a good one at 5.5% or more, and the top 10% at over 10%, according to Instantly's and Hunter's reports on billions of emails. Benchmarks that quote 0.45% are measuring differently, not describing a different world.
 
 - The numbers, from three large studies
 - What a good reply rate is
@@ -6635,13 +6680,7 @@ For a B2B campaign with a verified list and a specific offer, we treat these as 
 
 ## Positive replies and meetings
 
-Reply rate includes "not interested," "unsubscribe" and out-of-office. What pays is the positive reply, and then the meeting. Across our programs about a third of replies are positive. Reply counts at the bands below look like this:
-
-| Reply rate | Replies per 1,000 | Positive (about a third) |
-| 2% | 20 | 7 |
-| 3.5% | 35 | 12 |
-| 5% | 50 | 17 |
-| 8% | 80 | 27 |
+Reply rate includes "not interested," "unsubscribe" and out-of-office. What pays is the positive reply, and then the meeting.
 
 A typical campaign replies at 3.43% of emails sent, according to Instantly's 2026 report, and at 4.5% overall in Hunter's. We do not promise a number of meetings. If someone promises a fixed number of meetings from 1,000 emails, ask to see the definition of a meeting.
 
@@ -6666,7 +6705,7 @@ Those levers are the evidence. The order to apply them, without rewriting the li
 
 ## The numbers we hold ourselves to
 
-Every Be Leaded program is measured on delivery rate, reply rate, positive reply rate and meetings held, reported weekly. Our infrastructure holds a 99% delivery rate, and we consider a program healthy at a 3% reply rate with a third positive. Below that we change the list or the angle before we add volume. The templates that get us there are in the cold email templates guide.
+Every Be Leaded program is measured on delivery rate, reply rate, positive reply rate and meetings held, reported weekly. Delivery across client programs is held at 99%. When replies fall off, the next edit is the list or the offer angle, ahead of any volume increase. The templates that get us there are in the cold email templates guide.
 
 ## FAQ
 
@@ -6685,6 +6724,10 @@ We do not promise a number of meetings. A typical campaign replies at 3.43% of e
 **Why do benchmarks disagree so much?**
 
 They count differently. Some divide replies by emails sent across whole sequences, some by unique prospects, some exclude bounces. Check the method before comparing your numbers to anyone's.
+
+**Why is the Belkins reply rate so far from Instantly?**
+
+Belkins' method puts each reply over every send in the sequence, and follow-ups sit in that denominator. The 2025 study of 7.5 million emails reports 0.45% (Belkins cold email response rates (https://belkins.io/blog/cold-email-response-rates)). Instantly's 2026 report puts a typical campaign at 3.43% of emails sent (Instantly Cold Email Benchmark Report 2026 (https://instantly.ai/cold-email-benchmark-report-2026)). Read the method before you treat those two rates as the same kind of number.
 
 ## Sources
 
@@ -7013,9 +7056,9 @@ URL: https://www.beleaded.com/blog/best-cold-email-software/
 
 Cold email
 
-# Best cold email software in 2026: Saleshandy vs Instantly vs Smartlead vs Apollo
+# Cold email software compared for 2026
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 3 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026. 3 min read.
 
 The short answer: There's no single best cold email software. Saleshandy has the most reliable warmup we've used and is our default for new domains, Instantly and Smartlead are built for large multi-inbox volume, and Apollo combines a contact database with sequencing for teams that want one tool. Pair any of them with a verification tool and a CRM. Below is how we choose for each client, based on running all of them.
 
@@ -7096,6 +7139,10 @@ Yes, even if the platform includes verification. A second check with ZeroBounce 
 **Can I run cold email from Salesforce?**
 
 Yes, for moderate volumes of plain-text email from a sales team's own addresses. For a cold program across many domains, use a dedicated platform and connect it to Salesforce.
+
+**How long should a new domain warm before cold email software sends?**
+
+On any of these four platforms, warm a new sending domain for two to three weeks before live cold email, and publish SPF, DKIM, and DMARC first. The sequence we follow is in the email warmup guide (https://www.beleaded.com/blog/email-warmup/).
 
 ## Sources
 
@@ -8021,7 +8068,7 @@ Founder
 
 Ahmad founded Be Leaded and works directly with every client, from the first call to the weekly report. He leads a small team that handles list research, data verification and campaign operations.
 
-He has scaled an outbound operation from 50,000 to 400,000 emails a day while raising deliverability from about 88% to 99%, run multi-domain sending infrastructure across hundreds of inboxes on Google Workspace and Microsoft, and built AI voice agents for follow-up calls on Retell AI and ElevenLabs.
+He has grown one outbound desk from a daily send of 50,000 emails up to 400,000 while holding 99% delivery across the client programs, run multi-domain sending infrastructure across hundreds of inboxes on Google Workspace and Microsoft, and built AI voice agents for follow-up calls on Retell AI and ElevenLabs.
 
 He has run programs for SaaS, IT, M&A deal flow, and newsletter plus SMS, with clients in the US, and takes every first call himself.
 
@@ -8373,8 +8420,6 @@ Sending starts. Positive replies get booked. You see the numbers every week afte
 
 - The product is still changing weekly and there is no offer to write
 
-- You want a phone-heavy pod as the whole motion. That is a different vendor.
-
     See B2B appointment setting (https://www.beleaded.com/appointment-setting/) for how meetings get booked, how much appointment setting services cost (https://www.beleaded.com/guides/appointment-setting-pricing/) across retainer, pay-per-meeting, and hybrid models, and Be Leaded pricing (https://www.beleaded.com/pricing/) for what is in the monthly program. Software teams can also read lead generation for B2B SaaS (https://www.beleaded.com/industries/b2b-saas/).
 
 ## Questions about an outsourced SDR team
@@ -8383,9 +8428,9 @@ Sending starts. Positive replies get booked. You see the numbers every week afte
 What is included in an outsourced SDR team?The ICP list, contact verification, separate sending domains with warmup, copy you approve, email, LinkedIn from your team's own profiles, same-business-day reply handling, booking, and a weekly report. Every program includes targeting up to 25,000 new contacts a month.
 How much does an outsourced SDR team cost?Programs start from $2,000 a month, with tools, data, and infrastructure included. Every program includes targeting up to 25,000 new contacts a month. The exact number comes after a 30-minute call. Ad spend and call minutes, if you add those channels, are billed at cost.
 How does an outsourced SDR team compare with hiring in-house SDRs?The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with an average ramp of 3.0 months. Programs start from $2,000 a month with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings.
-How soon can an outsourced SDR team go live?Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. How many replies become meetings depends on the market and the offer. We do not promise a number of meetings.
+How soon can an outsourced SDR team go live?Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. Reply targets and the pass rules for a qualified buyer are agreed before launch. What reaches the calendar after that still follows the market and the offer.
 Is an outsourced SDR team only for SaaS?No. It is for B2B companies that need meetings with a defined buyer. SaaS is one of those markets. The B2B SaaS page covers lists by headcount, tech stack, and the problem the product solves.
-Do you guarantee a number of meetings?No. We do not promise a number of meetings before we have looked at the market.
+Do you guarantee a number of meetings?Scope is set from reply targets and from buyer rules approved before sending starts. Calls that reach a seller's calendar still follow the market and the offer you are taking to it.
 What if we already have SDRs?We can run the infrastructure, list, and copy beside them, or take the top of the funnel so they spend time on live conversations. Say which one you want on the call. The price follows the scope.
 
 ## Tell us who should be on the meeting.
@@ -8410,7 +8455,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
 # Best appointment setting companies in 2026
 
-    By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
+    By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026.
 
       The short answer: The best appointment setting company is the one whose channels, meeting definition, and price match the meetings you can take. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month.
 
@@ -8465,7 +8510,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
       Best for packaged appointment volume, if you want a yearly appointment tier and will confirm a starter Belkins lists from $5,000.
 
-      Belkins sells appointment setting and monthly retainer packages. On October 1, 2026, the appointment setting page listed an average starter price from $5,000, with 1,500 leads a month, three outreach channels, and 100 guaranteed appointments a year (belkins.io/appointment-setting). Structured data on that same page lists a minimum price of $8,000, so the visible starter and the schema do not match. The pricing page describes retainers by yearly appointments: 30 or more for the small-business package, 100 or more for Growth, and 200 or more for Growth Plus, plus an Enterprise tier. It lists cold email, LinkedIn, calling, messenger, account-based marketing, and paid advertising, and it does not publish dollar prices (belkins.io/pricing). Confirm the quote with Belkins.
+      Appointment setting and a monthly retainer are the two Belkins offers on this shortlist. On the October 1, 2026 read, that appointment setting page (belkins.io/appointment-setting) card showed $5,000 as its starter. Structured data on that URL puts the floor at $8,000, so the card and the schema disagree. Opened October 18, 2026, Belkins pricing (belkins.io/pricing) labels one plan Growth at 100+ yearly appointments and another plan Growth Plus at 200+ yearly appointments. A third heading on that page reads For small business, marked 30+ yearly appointments. Enterprise is the custom plan under those three. No monthly dollar is printed on that pricing screen.
 
       Ask what a guaranteed appointment means in the contract: title, company size, show rate, and who owns a no-show. A yearly tier is a volume product. It fits when your offer is already stable enough to absorb that many conversations.
 
@@ -8481,7 +8526,7 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
       Best for an onshore fractional sales team that can run discovery and, on higher tiers, closing.
 
-      Martal Group publishes three tiers and does not publish a dollar retainer. Checked October 1, 2026 (martal.ca/pricing). Tier 1 outbound lead generation is a flat fee per month, with a 3 month pilot, then a monthly subscription. The scope on that page is email, LinkedIn, and calls, with appointment booking and discovery calls led by a North American team. Tier 2 adds sales and customer onboarding. Tier 3 adds account management. Tiers 2 and 3 are a flat fee per month plus a sales commission, with a 4 month pilot. Clutch's appointment setting rankings, checked the same day, list Martal Group at $25 to $49 an hour and a minimum project size of $1,000+ (Clutch). That is a directory band, not a quote. Ask Martal for the current fee.
+      A reread of the Martal Group pricing page (martal.ca/pricing) on October 18, 2026 shows the words Customize your pricing on Tier 1, on Tier 2, and on Tier 3, and no dollar retainer. Tier 1A, the outbound lead generation offer, bills one flat fee each month. It opens as a 3 month pilot and then becomes a monthly subscription. Scope on that tier covers email, LinkedIn, and calls. Appointment booking and the discovery calls are led by a North American team. Tier 2 layers sales and customer onboarding onto outbound. Tier 3 adds account management. Those two tiers bill a flat fee each month plus a sales commission, and each opens with a 4 month pilot.
 
       Martal's pricing page is a scope page, not a rate card. The pilot length is the commercial fact: three months on Tier 1 outbound, four months when they also sell and onboard. If you only need meetings on a calendar, you are buying more process than that.
 
@@ -8519,14 +8564,14 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
 ## Comparison table
 
-      Prices are directional public figures as of October 1, 2026. They are not a promise that the next proposal will match.
+      Prices are directional public figures as of October 1, 2026. They are not a promise that the next proposal will match. A reread of the Martal Group pricing page (martal.ca/pricing) on October 18, 2026 still shows the words Customize your pricing.
 
           Appointment setting companies compared on fit, public price, model, and channels.
            |  | Company | Best for | Public pricing, checked October 1, 2026 | Model | Channels
 
              | Belkins | Packaged appointment volume | Starter from $5,000 on the appointment page. Schema on that page says $8,000 minimum. Pricing page has no dollar amounts. | Yearly appointment tiers, monthly retainer | Email, LinkedIn, calling, messenger, ads
  | CIENCE | GTM system plus SDR seats | Team fee $2,000 a month, platform fee $499 a month, SDRs from $1,750 to $3,500 a month per SDR depending on region, setup fee not priced publicly per CIENCE's pricing page. | Platform plus optional seats | Email, calls, and workflows in graph8, plus SDR outreach
- | Martal Group | Fractional sales, including discovery | No dollar retainer on their pricing page. Clutch lists $25 to $49/hr and a $1,000+ minimum. | Flat fee. Higher tiers add commission. 3 or 4 month pilot. | Email, LinkedIn, calls
+ | Martal Group | Fractional sales, including discovery | No dollar retainer. Customize your pricing, reread October 18, 2026. | Flat fee. Higher tiers add commission. 3 or 4 month pilot. | Email, LinkedIn, calls
  | Leadium | Month-to-month published retainer | Guide: $3,500/mo calling, $4,000 to $5,000/mo multi-channel. Pricing page has no dollar amount. | Month-to-month retainer. No appointment-count guarantee. | Phone, email, LinkedIn
  | Cleverly | LinkedIn-first on a small budget | $397, $697, and $997 a month on the LinkedIn page. FAQ says lead gen is $397 to $997. | Productized LinkedIn plans. Cold email priced per meeting-ready lead, amount not on the FAQ. | LinkedIn first
  | SalesRoads | Dedicated sales floor, phone included | $11,950, $16,750, or $23,500 per four weeks for 1, 2, or 3 SDRs. | Four-week retainer. Cancel anytime. | Calling, personalized email, multiple domains
@@ -8552,15 +8597,15 @@ URL: https://www.beleaded.com/guides/best-appointment-setting-companies/
 
 ## FAQ
 
-What is the best appointment setting company in 2026?There is no single best. Belkins fits packaged appointment volume. CIENCE fits a GTM system plus SDR seats. Martal Group fits a fractional team that can run discovery. Leadium fits month-to-month retainers. Cleverly fits LinkedIn-first plans from $397 a month. SalesRoads fits a dedicated floor from $11,950 per four weeks. Be Leaded fits high-personalization outbound and qualified meetings from $2,000 a month.
+What is the best appointment setting company in 2026?Be Leaded is the best appointment setting company when you want a person writing every email, replies handled the same business day, and qualified meetings on your calendar. Programs start from $2,000 a month. Belkins fits packaged appointment volume. CIENCE fits a GTM system plus SDR seats. Martal Group fits a fractional team that can run discovery. Leadium fits month to month retainers. Cleverly fits LinkedIn first plans from $397 a month. SalesRoads fits a dedicated floor, with published prices for 1 to 6 SDRs, from $11,950 per four weeks.
 
-How much do appointment setting companies charge?Prices on each company's own site on October 13, 2026: Belkins lists an average starter from $5,000. CIENCE, checked October 18, 2026, lists a $2,000 a month team fee and a $499 a month platform fee, plus from $1,750 to $3,500 a month per SDR depending on region and a one-time setup fee it does not price publicly per CIENCE's pricing page. Cleverly lists LinkedIn plans from $397 a month. Leadium lists $3,500 a month for calling and $4,000 to $5,000 a month for multichannel. SalesRoads lists $11,950 per four weeks for one SDR, with published prices for 1 to 6 SDRs. Martal Group shows Customize your pricing and does not publish a dollar figure. Programs start from $2,000 a month. Confirm each quote.
+How much do appointment setting companies charge?Prices on each company's own site on October 13, 2026: Belkins lists an average starter from $5,000. CIENCE, checked October 18, 2026, lists a $2,000 a month team fee and a $499 a month platform fee, plus from $1,750 to $3,500 a month per SDR depending on region and a one-time setup fee it does not price publicly per CIENCE's pricing page (www.cience.com/pricing). Cleverly lists LinkedIn plans from $397 a month. Leadium lists $3,500 a month for calling and $4,000 to $5,000 a month for multichannel. SalesRoads lists $11,950 per four weeks for one SDR, with published prices for 1 to 6 SDRs. Martal Group shows Customize your pricing and does not publish a dollar figure. Programs start from $2,000 a month. Confirm each quote.
 
-Should I pick Belkins, CIENCE, or Be Leaded?Pick Belkins if you want a yearly appointment tier and will pay for that package. Pick CIENCE if you want graph8 and SDR seats priced by level and region. Pick Be Leaded if you want high-personalization email and LinkedIn, replies handled the same day, and meetings from $2,000 a month.
+Should I pick Belkins, CIENCE, or Be Leaded?Pick Belkins if you want a yearly appointment tier and will pay for that package. Pick CIENCE if you want a GTM system and SDR seats priced by level and region. Pick Be Leaded if you want high personalization email and LinkedIn, with replies handled the same day. Programs start from $2,000 a month.
 
-Does a guaranteed appointment count mean the meetings are qualified?No. Belkins publishes 100 guaranteed appointments a year on its appointment setting page. The contract still has to define title, company, agenda, and no-shows. Be Leaded does not promise a count before looking at the market.
+What plan names does Belkins print?On October 18, 2026 the Belkins pricing page (belkins.io/pricing) shows Growth, then a separate heading Growth Plus, then a heading written For small business, and Enterprise under those. Yearly appointment marks are 100+ on Growth, 200+ on Growth Plus, and 30+ on For small business. A dollar figure is absent from that pricing screen.
 
-What should I ask before I sign?Ask whose domains send, who writes the copy, who answers a positive reply, what a qualified meeting means in writing, and which line items are inside the fee. Use the same questions on the buyer's scorecard.
+Does Martal Group publish a monthly dollar fee?No dollar retainer is printed on the Martal Group pricing page (martal.ca/pricing), which we reread on October 18, 2026. The screen says Customize your pricing on Tier 1, on Tier 2, and on Tier 3. Outbound on Tier 1A is a flat monthly fee with a pilot of 3 months. Commission is added on the two higher tiers, and each of those tiers opens with a 4 month pilot.
 
 ## Related guides
 
@@ -8574,7 +8619,7 @@ Pod rates are covered on Callbox alternatives (https://www.beleaded.com/guides/c
 
 - CIENCE pricing, CIENCE homepage, and CIENCE SDR services terms
 
-- Martal Group pricing and Clutch appointment setting rankings
+- Martal Group pricing (martal.ca/pricing), reread October 18, 2026
 
 - Leadium pricing and Leadium outbound pricing guide
 
@@ -8610,7 +8655,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
 # CIENCE alternatives in 2026
 
-    By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
+    By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026.
 
     The short answer: CIENCE alternatives are the right search when you want meetings and do not want a platform license plus a separate SDR seat. Be Leaded (beleaded.com), a US B2B outbound agency, fits teams that want high-personalization email and LinkedIn with qualified meetings from $2,000 a month.
 
@@ -8663,7 +8708,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
       Best CIENCE alternative if you want a yearly appointment package instead of a platform plus seats.
 
-      Belkins sells appointment setting and monthly retainer packages. On October 1, 2026, the appointment setting page listed an average starter price from $5,000, with 1,500 leads a month, three outreach channels, and 100 guaranteed appointments a year (belkins.io/appointment-setting). Structured data on that same page lists a minimum price of $8,000, so the visible starter and the schema do not match. The pricing page describes retainers by yearly appointments: 30 or more for the small-business package, 100 or more for Growth, and 200 or more for Growth Plus, plus an Enterprise tier. It lists cold email, LinkedIn, calling, messenger, account-based marketing, and paid advertising, and it does not publish dollar prices (belkins.io/pricing). Confirm the quote with Belkins.
+      Appointment setting, plus monthly retainers, is how Belkins packages this offer. On October 1, 2026 its appointment setting page (belkins.io/appointment-setting) showed an average starter price of $5,000 while the schema minimum on that same page is $8,000. belkins.io/pricing (belkins.io/pricing), opened October 18, 2026, is where the plan headings live. Growth is listed at 100+ yearly appointments. Growth Plus is listed at 200+ yearly appointments. For small business is listed at 30+ yearly appointments. Enterprise is the custom build. That pricing screen publishes no dollar amount.
 
       Belkins is the switch when the buying committee wants a meeting package with a name, not a platform invoice plus seats. You trade CIENCE's published seat menu for a starter you still have to reconcile ($5,000 on the page, $8,000 in the schema).
 
@@ -8798,7 +8843,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
 # Martal Group alternatives in 2026
 
-    By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026.
+    By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026.
 
     The short answer: Martal Group alternatives fit when you want meetings on the calendar and you do not need a fractional sales team to run discovery and closing. Be Leaded (beleaded.com), a US B2B outbound agency, fits high-personalization outbound and qualified meetings from $2,000 a month.
 
@@ -8851,7 +8896,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
       Best Martal alternative if you want appointment packages and a published starter, not a sales commission on closed deals.
 
-      Belkins sells appointment setting and monthly retainer packages. On October 1, 2026, the appointment setting page listed an average starter price from $5,000, with 1,500 leads a month, three outreach channels, and 100 guaranteed appointments a year (belkins.io/appointment-setting). Structured data on that same page lists a minimum price of $8,000, so the visible starter and the schema do not match. The pricing page describes retainers by yearly appointments: 30 or more for the small-business package, 100 or more for Growth, and 200 or more for Growth Plus, plus an Enterprise tier. It lists cold email, LinkedIn, calling, messenger, account-based marketing, and paid advertising, and it does not publish dollar prices (belkins.io/pricing). Confirm the quote with Belkins.
+      Belkins is on this list for appointment setting and for monthly retainers. October 1, 2026 is when the Belkins appointment setting page (belkins.io/appointment-setting) was found printing $5,000 for the starter. Structured data beside that figure sets the floor at $8,000. The pricing page (belkins.io/pricing) was opened again on October 18, 2026. Its headings run Growth, then Growth Plus. For small business is its own heading. Enterprise is listed after those. Yearly appointment marks beside the first three headings are 100+, then 200+, then 30+. No dollar figure is printed there.
 
       Belkins is the switch when you want appointments as the product and your team will run the sale. You give up Martal's commission-on-close tier and take Belkins' package structure instead.
 
@@ -9120,7 +9165,7 @@ Guides
 
 # Best cold email agency in 2026: 10 agencies compared, not a paid list
 
-By Ahmad Khan, founder of Be Leaded. Updated October 17, 2026.
+By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026.
 
 The best cold email agency is the one that can prove separate sending domains, copy you approve, fast human replies, a written meeting definition and a price you can see. Below are 10 agencies grouped by the job each one does best, with prices taken from their own sites and checked October 17, 2026. Be Leaded publishes this page and is one of the 10. Nobody paid for a place.
 
@@ -9163,7 +9208,7 @@ SalesBread | Researched lines, month to month | Month to month. No dollar figure
 
 ## Belkins
 
-The appointment setting page prints an average starter price from $5,000. That card also names three outreach channels and a monthly lead volume of 1,500. Structured data on the same page sets a minimum price of $8,000. On the pricing page, retainers are sold as yearly appointment tiers, and that page prints no dollar amount. That pricing page also lists paid advertising, account based marketing, messenger, cold calling, LinkedIn, and cold email. Dedicated warmed domains and mailboxes, SPF, DKIM and DMARC, domain health monitored. SDRs review and respond within 24 hours.
+The appointment setting page prints an average starter price from $5,000. That card also names three outreach channels. Structured data on the same page sets a minimum price of $8,000. On the pricing page, retainers are sold as yearly appointment tiers, and that page prints no dollar amount. That pricing page also lists paid advertising, account based marketing, messenger, cold calling, LinkedIn, and cold email. Dedicated warmed domains and mailboxes, SPF, DKIM and DMARC, domain health monitored. SDRs review and respond within 24 hours.
 
 Sources, checked October 17, 2026: https://belkins.io/appointment-setting , https://belkins.io/pricing , https://belkins.io/cold-email-services
 
@@ -9175,7 +9220,7 @@ Sources, checked October 17, 2026: https://www.cience.com/pricing/ , https://www
 
 ## OneAway
 
-B2B SaaS cold email and LinkedIn. Intro $3,250 a month plus a $299 setup, up to 10,000 leads a month, cold email, 3 month commitment. Managed $6,200 a month plus a $499 setup, up to 20,000 leads a month, cold email plus LinkedIn on 5 accounts, 3 month commitment. Appointment setter add on: a person calls every interested lead up to 6 times, at 2% of ACV per held meeting, minimum $150. Dedicated domains and warmed inboxes. Every interested reply is handled, with up to 4 follow ups.
+B2B SaaS cold email and LinkedIn. Intro $3,250 a month plus a $299 setup, cold email, 3 month commitment. Managed $6,200 a month plus a $499 setup, cold email plus LinkedIn on 5 accounts, 3 month commitment. Appointment setter add on: a person calls every interested lead up to 6 times, at 2% of ACV per held meeting, minimum $150. Dedicated domains and warmed inboxes. Every interested reply is handled, with up to 4 follow ups.
 
 Sources, checked October 17, 2026: https://oneaway.io/ , https://oneaway.io/channels/cold-email
 
@@ -9358,6 +9403,16 @@ Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=bele
 
 ---
 
+---
+
+URL: https://www.beleaded.com/guides/appointment-setting-pricing/
+
+# Appointment setting pricing: what a booked meeting costs
+
+By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026.
+
+Belkins' appointment setting page (https://belkins.io/appointment-setting), as opened on October 1, 2026, gave $5,000 for the average starter. The schema floor on that page is $8,000, which does not agree with the visible starter. The pricing page (https://belkins.io/pricing), read October 18, 2026, names Growth with a yearly appointment mark of 100+. It names Growth Plus with a yearly appointment mark of 200+. It names For small business with a yearly appointment mark of 30+. It names Enterprise as the tailored plan. It does not publish dollar prices. A yearly appointment count is not the same product as a meeting that must fit, be booked, and be attended.
+
 URL: https://www.beleaded.com/guides/belkins-alternatives/
 
 - Home (https://www.beleaded.com/)
@@ -9370,7 +9425,7 @@ Guides
 
 # Belkins alternatives 2026: who to hire instead
 
-By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 2026.
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 18, 2026.
 
 The short answer: Belkins alternatives matter when budget, contract length, channel mix, or personalization depth do not match Belkins mid-market appointment packages. This guide puts Be Leaded first, then CIENCE, Cleverly, Martal Group, SalesRoads, Callbox, and Leadium, each with a clear best-for line and only publicly verifiable facts.
 
@@ -9405,6 +9460,7 @@ Best appointment setting companies: https://www.beleaded.com/guides/best-appoint
 
 - Best Belkins alternatives depend on fit across Be Leaded, CIENCE, Cleverly, Martal, SalesRoads, Callbox, Leadium, and Belkins itself.
 - Switching agencies should not hurt domain reputation if the new partner sends from separate warmed domains with SPF, DKIM, and DMARC.
+- When we checked on October 1, 2026, Belkins' appointment setting page (https://belkins.io/appointment-setting) listed a starter averaging $5,000. The pricing page (https://belkins.io/pricing), opened October 18, 2026, heads its offers as Growth and as Growth Plus, then a heading that reads For small business, then Enterprise.
 
 Related: CIENCE alternatives (https://www.beleaded.com/guides/cience-alternatives/), Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/).
 
@@ -9428,7 +9484,7 @@ URL: https://www.beleaded.com/guides/best-meeting-booking-company/
 - Meeting booking company 
 Guides 
 # Best meeting booking company in 2026
-By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 5, 2026. 
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 18, 2026. 
 The short answer: The best meeting booking company is the one that books people who fit your ICP, puts a real time on the calendar, and gets them to show. Be Leaded (beleaded.com), a US B2B outbound agency, fits B2B teams that want high-personalization outbound and qualified meetings from $2,000 a month. 
 Book a 30-minute call 
 Skip to the table 
@@ -9466,7 +9522,7 @@ Domains Whether cold email stays off your company domain
 Price source A page you can open, not a number from a listicle 
 ## Belkins: best for packaged appointment volume
 Best for packaged appointment volume, if you want a yearly appointment tier and will confirm a starter Belkins lists from $5,000. 
-Belkins sells appointment setting and monthly retainer packages. On October 1, 2026, the appointment setting page listed an average starter price from $5,000, with 1,500 leads a month, three outreach channels, and 100 guaranteed appointments a year (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). Structured data on that same page lists a minimum price of $8,000, so the visible starter and the schema do not match. The pricing page describes retainers by yearly appointments: 30 or more for the small-business package, 100 or more for Growth, and 200 or more for Growth Plus, plus an Enterprise tier. It lists cold email, LinkedIn, calling, messenger, account-based marketing, and paid advertising, and it does not publish dollar prices (belkins.io/pricing (https://belkins.io/pricing)). Confirm the quote with Belkins. 
+The Belkins products named here are appointment setting and a monthly retainer. We read the appointment setting page (belkins.io/appointment-setting (https://belkins.io/appointment-setting)) on October 1, 2026: average starter $5,000 on the card, minimum $8,000 in structured data. We opened Belkins pricing (belkins.io/pricing (https://belkins.io/pricing)) on October 18, 2026. Names on that screen: Growth, marked 100+ yearly appointments; Growth Plus, marked 200+; For small business, marked 30+; and Enterprise. Dollars are not on that pricing screen. 
 Ask what a guaranteed appointment means in the contract: title, company size, show rate, and who owns a no-show. A yearly tier is a volume product. It fits when your offer is already stable enough to absorb that many conversations. If the package is the wrong shape, the side-by-side is Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/). 
 ## CIENCE: best for a GTM system plus SDR seats
 Best for a GTM system plus optional SDR seats, with prices published by level and region. 
@@ -10070,7 +10126,7 @@ Belkins
 
       Grouped here for packaged yearly appointment tiers that include email and LinkedIn in every tier.
 
-      Opened on October 18, 2026, Belkins shows an average starter price from $5,000 on its appointment setting page. The Belkins pricing page sorts the offer into yearly appointment tiers, with intent based cold calling included only on the higher tiers. Cold email and LinkedIn are marked included on each tier. Ask Belkins how a guaranteed appointment is defined before you treat a tier as a like for like buy.
+      Opened on October 18, 2026, Belkins shows an average starter price from $5,000 on its appointment setting page (https://belkins.io/appointment-setting). The Belkins pricing page (https://belkins.io/pricing), opened October 18, 2026, sorts the offer into named plans. One heading is Growth. The next is Growth Plus. Another heading is written For small business. Enterprise sits below those. Intent based cold calling is included on Growth and on Growth Plus, and is absent from For small business. Cold email and LinkedIn are marked included on Growth, on Growth Plus, and on For small business. Ask Belkins how a guaranteed appointment is defined before you treat a tier as a like for like buy.
 
 CIENCE
 
