@@ -1153,7 +1153,7 @@ The buyer, the angle and the channel change from one industry to the next. These
 
 ### B2B SaaS
 
-We generate the leads, qualify them against your criteria, then book the demo.
+Lists by tech stack and headcount, sequences around the problem, qualified demos.
 
 ### HR and payroll software
 
@@ -1245,13 +1245,6 @@ We generate the leads, qualify them against the vendor's criteria, then book the
 
 The person who owns the problem. Companies at the right stage. Champions below the buyer. Lists filtered by headcount, tech stack, funding, hiring and growth signals.
 
-## Software categories
-
-Some software categories have their own buyer, their own timing, and their own demo rules.
-
-- HR and payroll software (https://www.beleaded.com/industries/hr-payroll-software/): HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS and PEO. The demo has a user and a person who signs.
-- Project management software (https://www.beleaded.com/industries/project-management-software/): operations, PMO, agency, and construction buyers, with a written sheet before the demo is booked.
-
 ## What works in B2B SaaS
 
 Sequences built on a problem statement, lists filtered by tech stack, a written definition of a qualified demo, paid social for the high-intent audiences, with the same follow-up, and newsletters for trial users and lost deals.
@@ -1284,9 +1277,12 @@ Compare quotes on held, qualified demos. Zenbee's example: a $200 headline price
 
 49 to 51% open rate on newsletters, 99% delivery, 400,000 emails a day, 30-plus client programs. Illustrative examples are on the work page.
 
-## Software categories we book demos for
+## Software categories
 
-Project management software. HR and payroll software.
+Payroll tools and work tracking tools do not share a room, so each one has a page of its own.
+
+- HR and payroll software (https://www.beleaded.com/industries/hr-payroll-software/) is the page for vendors whose buyer sits in people or finance.
+- Project management software (https://www.beleaded.com/industries/project-management-software/) is the page for vendors whose buyer sits with the team that ships the work.
 
 ## Outbound for product-led SaaS
 
@@ -1329,6 +1325,8 @@ We do not promise a number of demos. Results depend on your offer and your marke
 **Is outbound right for product-led SaaS?**
 
 Often, yes. Outbound reaches the accounts that will never find you through self-serve, and the same sequences work for upselling free users to paid plans.
+
+Part of our B2B lead generation program (https://www.beleaded.com/lead-generation-services/).
 
 ## Tell us who you want to meet.
 
@@ -4984,8 +4982,6 @@ Hire a firm that shows you the list and the copy before anything sends, and that
 Cold email and appointment setting programs start from $2,000 a month. You get an exact number after a 30-minute call. What the monthly fee covers is on the pricing page. If you want to talk through the market before that call, use the contact page.
 
 Be Leaded does this from the US: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
-
-When the company is B2B SaaS, the service page is SaaS lead generation and qualified demo booking (https://www.beleaded.com/industries/b2b-saas/).
 
 ## Checklist before you scale
 
