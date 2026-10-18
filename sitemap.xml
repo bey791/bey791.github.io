@@ -291,7 +291,7 @@
   </url>
   <url>
     <loc>https://www.beleaded.com/guides/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -372,6 +372,11 @@
   <url>
     <loc>https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/</loc>
     <lastmod>2026-10-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beleaded.com/guides/saleshive-alternatives/</loc>
+    <lastmod>2026-10-18</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
