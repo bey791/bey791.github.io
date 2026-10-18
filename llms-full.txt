@@ -9447,11 +9447,11 @@ Belkins plus 7 alternatives. Currency comes from each firm's own page. A cell's 
 | Name | Price | Channels | Contract |
 | Belkins | Opened October 18, 2026. Appointment URL: starter average $5,000. Dollar amounts are absent on the pricing URL. | Every package lists cold email and LinkedIn. Growth and Growth Plus add calling and messenger. | Retainer packages by month. Enterprise is custom. |
 | CIENCE | Opened October 18, 2026. Team charge is $2,000 monthly. Platform charge is $499 monthly. Seat prices by region are $1,750, $2,500, and $3,500. | graph8 runs mail and dials. SDR seats are optional. | The pricing URL says month to month. SDR terms say twelve months unless the order form differs. |
-| Cleverly | Opened 13 October 2026. Three LinkedIn prices on that page: $397, next $697, next $997, billed monthly. | Published plans are LinkedIn. Email sits outside those plans. | Productized monthly plans. |
-| Martal Group | Martal's pricing URL, last opened on the first of October 2026, says Customize your pricing and prints no retainer dollar. | Tier 1 scope lists email, LinkedIn, and calls. | Flat fee per month. Tier 1 names a 3 month pilot. |
+| Cleverly | Opened October 13, 2026. Three LinkedIn prices on that page: $397, next $697, next $997, billed monthly. | Published plans are LinkedIn. Email sits outside those plans. | Productized monthly plans. |
+| Martal Group | Martal's pricing URL, last opened on October 1, 2026, says Customize your pricing and prints no retainer dollar. | Tier 1 scope lists email, LinkedIn, and calls. | Flat fee per month. Tier 1 names a 3 month pilot. |
 | SalesRoads | Opened October 18, 2026. The pricing screen totals $11,950 for one SDR, $16,750 for two, and $23,500 for three. Each total covers four weeks. | The channel list names proactive outbound calling and personalized email prospecting. | The contract FAQ on that page says programs run without long-term commitments. |
 | Callbox | Opened October 18, 2026. One pod is estimated at $16,000 to $32,000 monthly. The exact figure follows a consult. | Pricing FAQ names phone, email, and LinkedIn. | Subscription. No fixed minimum term is printed in that FAQ. |
-| Leadium | Opened 13 October 2026. Pricing URL shows no currency. Their outbound article prices phone-only at $3,500 each month. The mixed offer there is $4,000 to $5,000. | The multichannel guide names phone, email, and LinkedIn. | Month to month, as the pricing URL states. |
+| Leadium | Opened October 13, 2026. Pricing URL shows no currency. Their outbound article prices phone-only at $3,500 each month. The mixed offer there is $4,000 to $5,000. | The multichannel guide names phone, email, and LinkedIn. | Month to month, as the pricing URL states. |
 | Be Leaded | Publisher row. Programs start from $2,000 a month. Figure is set after the scoping conversation. | Email and LinkedIn | Monthly program. |
 
 ## Belkins pricing
