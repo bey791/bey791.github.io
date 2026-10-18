@@ -9942,7 +9942,7 @@ SalesHive alternatives compared on what each company published on its own site, 
  | Phone, email, LinkedIn, web retargeting
  | Minimum term not stated
 
- | memoryBlue
+ | memoryBlue and Operatix
  | Price not published
  | Not listed as a priced channel menu
  | Ask for a quote in writing
