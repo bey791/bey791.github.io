@@ -317,9 +317,9 @@ URL: https://www.beleaded.com/services/
 - Home
 - Services
 
-# Six programs, one standard
+# Eight programs, one standard
 
-Be Leaded runs cold email and appointment setting, LinkedIn lead generation, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. Every program runs on infrastructure we build ourselves, and every message is written by a person.
+Be Leaded runs cold email and appointment setting, LinkedIn lead generation, paid social and search, newsletter, email and SMS programs, AI voice follow-up, off-market deal flow for M&A advisors and business brokers, cold calling alongside email and LinkedIn, and demand generation. Every program runs on infrastructure we build ourselves, and every message is written by a person.
 
 ### Cold email and appointment setting
 Verified lists, plain-text sequences, reply handling and qualified meetings on your calendar.
@@ -368,6 +368,8 @@ Most clients start with one and add a second once the first is producing. Start 
 | Newsletters, email and SMS | Brands and B2B companies with a list to work | Newsletters people open, plus lifecycle email and SMS | $2,000 a month |
 | AI voice follow-up | Anyone getting inbound leads who can't call back in five minutes | Every lead called within a minute and booked | $2,000 a month plus usage |
 | Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale or valuation | $2,000 a month |
+| Cold calling services | B2B teams that want phone outreach alongside email and LinkedIn | Qualified calls booked on your calendar | $2,000 a month |
+| Demand generation | B2B companies that want outbound, paid social and newsletters in one plan | Booked calls from one plan | $2,000 a month |
 
 ## Tell us who you want to meet.
 
@@ -10074,34 +10076,29 @@ URL: https://www.beleaded.com/cold-calling-services/
 
 # B2B cold calling services
 
-Phone outreach that works alongside email and LinkedIn, with qualified calls booked on your calendar. Target up to 25,000 new contacts a month.
+Phone outreach kept in the same program as email and LinkedIn, so one buyer can be reached on more than one channel. Target up to 25,000 new contacts a month.
 
 Programs start from $2,000 a month.
 
-What a cold calling service does: an outside team that calls your target buyers, qualifies interest and books calls with your sales team. It runs alongside email and LinkedIn.
+What a cold calling service does: phone outreach inside one program that also uses email and LinkedIn. It is not a calling offer sold on its own.
 
-Who we call: people who match your ICP, at verified business numbers.
-
-Compliance: business calls in the US follow do not call rules and opt outs.
+Who it reaches: buyers who match a definition you approve, on the same accounts as the email and the LinkedIn note.
 
 Qualification: against a written definition you approve before launch.
 
 What is a B2B cold calling service?
-An outside team that calls your target buyers, qualifies interest and books calls with your sales team.
+Phone outreach used with email and LinkedIn in one program, for buyers who match a definition you approve.
 
 Do you use cold calling on its own?
-We run it alongside email and LinkedIn so prospects hear from you more than once.
+No. It sits with email and LinkedIn in the same program, and it is not sold as calling by itself.
 
 How do you qualify a call?
 Against a written definition you approve before launch.
 
-Is B2B cold calling legal?
-Business calls are allowed in the US with do not call and opt out rules followed.
-
 How much does it cost?
 Programs start from $2,000 a month.
 
-Related: https://www.beleaded.com/appointment-setting/ https://www.beleaded.com/cold-email-agency/ https://www.beleaded.com/ai-voice-agents/ https://www.beleaded.com/outsourced-sdr-team/ https://www.beleaded.com/lead-generation-services/ https://www.beleaded.com/pricing/
+Related: https://www.beleaded.com/appointment-setting/ https://www.beleaded.com/cold-email-agency/ https://www.beleaded.com/lead-generation-services/ https://www.beleaded.com/pricing/
 
 ---
 
@@ -10117,7 +10114,11 @@ Demand generation builds interest with your market. Lead generation turns that i
 
 Channels: cold email (https://www.beleaded.com/cold-email-agency/), LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/), paid social (https://www.beleaded.com/paid-social-agency/), newsletters (https://www.beleaded.com/newsletter-agency/).
 
+When a newsletter is part of the plan, those issues average a 49 to 51% open rate, and delivery on them is 99%.
+
 Measured on booked calls and pipeline, not form fills.
+
+A count of booked conversations is not written down until the market has been reviewed. The opening call is where a qualified conversation gets defined.
 
 What is the difference between demand generation and lead generation?
 Demand generation builds interest with your market. Lead generation turns that interest into conversations. We run both toward booked calls.
