@@ -10315,7 +10315,7 @@ Qualification: against a written definition you approve before launch.
 
 Target up to 25,000 new contacts a month
 Programs start from $2,000 a month. See pricing (https://www.beleaded.com/pricing/).
-Size the program with the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/)
+Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
 
 What is a B2B cold calling service?
 Phone outreach used with email and LinkedIn in one program, for buyers who match a definition you approve.
@@ -10330,7 +10330,7 @@ Who gets called?
 Buyers from the account list you review before the program starts.
 
 What is left off the list?
-Current customers, live deals, and contacts who already declined are left out before the list goes into the program.
+Current customers and the live deals the client names are left out before the list goes into the program.
 
 Who takes the meeting once it is booked?
 Your sellers run the meeting from the hold. Booking is where this program ends.
@@ -10365,7 +10365,7 @@ A count of booked conversations is not written down until the market has been re
 
 Target up to 25,000 new contacts a month
 Programs start from $2,000 a month. See pricing (https://www.beleaded.com/pricing/).
-Size the program with the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/)
+Estimate the plan in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
 
 What is the difference between demand generation and lead generation?
 Demand generation builds interest with your market. Lead generation turns that interest into conversations. We run both toward booked calls.
