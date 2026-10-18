@@ -505,6 +505,8 @@ Be Leaded is a LinkedIn lead generation agency. We build the prospect list, writ
 
 An email from a stranger is easy to ignore. An email from someone whose face you saw on LinkedIn yesterday is not. Running both channels in one sequence is the single biggest lift we see in reply rates.
 
+Staffing desks pair a profile note with email about one live req. That version is lead generation for staffing and recruiting companies (https://www.beleaded.com/industries/staffing-recruiting/).
+
 ### The request
 
 A blank connection request, or a pitch in the note. Accepted rarely, remembered never.
@@ -1168,6 +1170,10 @@ Qualified demos for operations, PMO, agency, and construction buyers, screened b
 ### IT services and MSPs
 
 MSP lead generation for owners of 20 to 200 person companies in your region.
+
+### Staffing and recruiting
+
+Signal lists from open roles, written to the hiring manager who owns the req. (https://www.beleaded.com/industries/staffing-recruiting/)
 
 ### Home services
 
@@ -1873,6 +1879,222 @@ Programs start from $2,000 a month.
 ## Tell us who you want to meet.
 
 Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/industries/staffing-recruiting/
+
+- Home
+- Industries
+- Staffing and recruiting
+
+Staffing and recruiting
+
+# Lead generation for staffing and recruiting companies
+
+One hiring manager on Reddit says he gets 15 to 20 staffing pitches a week (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) and most sound the same. We find companies with roles they are struggling to fill, write to the manager who owns the role, and book the call with your recruiters.
+
+Programs start from $2,000 a month.
+
+Target up to 25,000 new contacts a month.
+
+Names and companies are illustrative.
+
+Subject: contract network engineer
+
+Reese, the contract network engineer req at Pinetop has been open since the first week of September.
+
+Two people who already ran that on-call rotation can be reviewed this week.
+
+Should I send those profiles to you?
+
+Camille
+
+## Why most staffing outreach gets ignored
+
+One hiring manager on Reddit (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) wrote that he gets maybe 15 to 20 emails a week from staffing firms and that almost all of them sound identical. He said the notes he actually opens lead with something specific about his open roles.
+
+A recruiter on Reddit pointed at ads that had been reposted 30 plus days after they first went up, and read the repost as a sign the internal team had not filled the seat. The same note said to offer two candidate profiles for review instead of pitching the agency (https://www.reddit.com/r/RecruitmentAgencies/comments/1vts5rv/how_i_stopped_wasting_hours_on_cold_bd_and/).
+
+The program under this page is appointment setting (https://www.beleaded.com/appointment-setting/) for staffing and recruiting firms. We build the signal list, write to the manager who owns the role, and place the call on your recruiter's calendar.
+
+What gets a note ignored
+
+- A note that could go to any company with a careers page
+- A services paragraph before the open role is named
+- A calendar link in the first lines, before the req is clear
+- Wording that matches the other pitches already in that inbox
+
+## The signals that a company needs help
+
+Each name on the list has a live hiring problem. Posts that belong to another staffing firm are removed before anyone is emailed.
+
+- A role that has stayed open longer than three weeks
+- The same req posted again after it was taken down
+- Several open roles sitting on one team
+- A salary band on the posting that was raised
+- A funding announcement for that company
+- A new leader in the function that owns the req
+- A new site or location that will need people
+- Another agency's job post, which is dropped
+
+Tell us your niche and region. We will show you which companies are hiring now.
+
+## Who to contact on an open role
+
+Write the hiring manager who owns the role first. Go through talent acquisition or procurement when a preferred supplier list is the gate.
+
+### Hiring manager
+
+This is the person whose team is short and who will run the interviews. The first note names their req and nothing else.
+
+### Talent acquisition
+
+When the company keeps a preferred supplier list, the note goes through TA instead of around that list.
+
+### Procurement
+
+When a contract decides which firms may submit people, procurement is the door. The open role is still the reason for writing.
+
+## What to say about one open role
+
+One role, one signal, one short ask. Two candidate profiles for that req is the ask. A tour of the agency is not. Look through cold email templates (https://www.beleaded.com/blog/cold-email-templates/) for other notes built around a single req.
+
+Names and companies are illustrative. These samples are the note a recruiter at your firm would send. Be Leaded does not attach candidate profiles. We open the conversation and book the call, and your recruiters discuss candidates after that.
+
+Subject: two profiles for the contract network engineer
+
+Morgan, the contract network engineer req at Northbridge has been up longer than three weeks.
+
+I can send two people who have done that on-call pattern, for you to review or set aside.
+
+Should I send them?
+
+Rae
+
+Subject: per diem ICU, refreshed this week
+
+Priya, the per diem ICU posting at Lakeside was refreshed this week.
+
+Two nurses who already work that shift pattern can be reviewed before the weekend.
+
+Want those profiles?
+
+Samir
+
+Subject: second shift packers posted again
+
+Chris, the second shift packer req at Millward was posted again after it came down.
+
+I can share two people who can start on that line next week.
+
+Should I send the profiles?
+
+Dana
+
+## Email plus LinkedIn for staffing firms
+
+Hiring managers who buy from recruiters already spend time on LinkedIn. Email carries the role and the signal. The profile note reaches the same person from a recruiter they can recognize.
+
+### Cold email
+
+Separate domains, one req in the opening lines, and the reply stays in that thread. https://www.beleaded.com/cold-email-agency/
+
+### LinkedIn
+
+A short note from your recruiter's profile to the manager who owns the open role. https://www.beleaded.com/linkedin-lead-generation-agency/
+
+### Same business day replies
+
+Replies are worked inside the thread and the call goes on your recruiter's calendar. https://www.beleaded.com/appointment-setting/
+
+## Capacity and newsletter opens
+
+The strip shows sending capacity, delivery rate, the newsletter open rate, and a count of client programs.
+
+- 400K+ Emails a day of sending capacity
+- 99% Delivery rate across programs
+- 49 to 51% Average open rate on newsletters
+- 30+ Client programs
+
+## Contract, temp to perm, and direct hire
+
+The signal stays the same. The ask changes with how the seat is filled.
+
+### Contract
+
+Name the contract skill and how long that req has been open. The ask is two profiles who can start on that contract.
+
+### Temp to perm
+
+Say the assignment can convert. Ask whether the manager wants profiles who will consider a permanent move after the temp stretch.
+
+### Direct hire
+
+Name the permanent role and the signal, such as a repost or a new leader. Offer two profiles for that seat. Leave the fee table out of the first note.
+
+## You keep the client relationship
+
+Replies come back to your recruiters. The call goes on their calendar. The company list and the contact list stay with your firm when the program ends.
+
+We open the thread. Your recruiters keep the account and handle candidates. Staffing firms buy this inside B2B lead generation (https://www.beleaded.com/lead-generation-services/), with the file built from hiring signals rather than a title search alone.
+
+## Target up to 25,000 new contacts a month
+
+Programs start from $2,000 a month. What the monthly program includes is on pricing (https://www.beleaded.com/pricing/). Use the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/) when you want the contact target translated into mailboxes and domains. That tool does not forecast calls for a staffing desk. Domain setup for the sends is covered under cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
+
+- Signal lists refreshed each week from aged roles, reposts, team growth, funding, new leaders, and new sites
+- Sending domains kept separate from the domain your clients already know
+- Every line is approved by your team before the first send
+- Replies worked inside the thread the hiring manager opened
+- Calls placed on your recruiters' calendars
+- A weekly report of companies contacted and what they wrote back
+
+## Questions
+
+**How do staffing agencies get new clients?**
+
+Referrals, a niche, and outreach to hiring managers at companies showing a live hiring problem.
+
+**Who should I contact, HR or the hiring manager?**
+
+The hiring manager who owns the open role. Go through TA when the company runs a supplier list.
+
+**Does cold email work for recruitment agencies?**
+
+When it names the specific role and signal and makes one small offer. Generic capability emails get ignored.
+
+**What signals show a company needs a recruiter?**
+
+Roles open more than three weeks, reposts, several roles on one team, funding and new leaders.
+
+**Do you send candidate profiles?**
+
+No. We start the conversation and book the call. Your recruiters handle candidates.
+
+**Who owns the client relationship?**
+
+You do. Replies and calls go to your team.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month.
+
+## Related
+
+- Appointment setting (https://www.beleaded.com/appointment-setting/): the call is placed on the recruiter who will work the account after the reply names the req.
+- LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/): profile notes to hiring managers, sent from the recruiter the buyer can look up.
+- Cold email (https://www.beleaded.com/cold-email-agency/): the first touch that names one open role, sent on domains warmed for that firm.
+- Cold email templates (https://www.beleaded.com/blog/cold-email-templates/): short note patterns your recruiters can adapt when they write the first touch themselves.
+- Speed to lead (https://www.beleaded.com/blog/speed-to-lead/): why a hiring manager's reply should be answered before the next shift starts.
+- Cold email deliverability (https://www.beleaded.com/cold-email-deliverability/): how the domains on a staffing program stay authenticated and off the firm's main domain.
+
+## Tell us who you want to meet.
+
+Bring the niches and cities your recruiters already work. That conversation covers which hiring signals belong on the list and what the monthly program includes.
 
 Or email sales@beleaded.com
 
