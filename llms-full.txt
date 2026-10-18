@@ -1153,7 +1153,7 @@ The buyer, the angle and the channel change from one industry to the next. These
 
 ### B2B SaaS
 
-Lists by tech stack and headcount, sequences around the problem, qualified demos.
+We generate the leads, qualify them against your criteria, then book the demo.
 
 ### HR and payroll software
 
@@ -4982,6 +4982,8 @@ Hire a firm that shows you the list and the copy before anything sends, and that
 Cold email and appointment setting programs start from $2,000 a month. You get an exact number after a 30-minute call. What the monthly fee covers is on the pricing page. If you want to talk through the market before that call, use the contact page.
 
 Be Leaded does this from the US: lists by tech stack and headcount, sequences you approve, and qualified demos on your account executives' calendars. Ahmad Khan takes the first call.
+
+When the company is B2B SaaS, the service page is SaaS lead generation and qualified demo booking (https://www.beleaded.com/industries/b2b-saas/).
 
 ## Checklist before you scale
 
