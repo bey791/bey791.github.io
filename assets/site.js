@@ -2320,4 +2320,28 @@
     window.addEventListener("scroll", loadGtag, { once: true, passive: true, capture: true });
     setTimeout(loadGtag, 3000);
   });
+
+  /* Apollo visitor tracker. One inject after load, on idle, with a 2s cap so a short visit still records. */
+  function initApollo() {
+    if (window.__blApollo || document.querySelector('script[src*="assets.apollo.io/micro/website-tracker/"]')) return;
+    window.__blApollo = true;
+    var n = Math.random().toString(36).substring(7), o = document.createElement("script");
+    o.src = "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=" + n;
+    o.async = true; o.defer = true;
+    o.onload = function () {
+      if (window.trackingFunctions && window.trackingFunctions.onLoad) {
+        window.trackingFunctions.onLoad({ appId: "6979175f828d8b0019d7cc6f" });
+      }
+    };
+    document.head.appendChild(o);
+  }
+  function scheduleApollo() {
+    if (typeof window.requestIdleCallback === "function") {
+      window.requestIdleCallback(initApollo, { timeout: 2000 });
+    } else {
+      window.setTimeout(initApollo, 2000);
+    }
+  }
+  if (document.readyState === "complete") scheduleApollo();
+  else window.addEventListener("load", scheduleApollo);
 })();
