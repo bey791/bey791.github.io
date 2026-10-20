@@ -9751,7 +9751,7 @@ People who type best B2B lead generation companies, or a top 10 of those compani
 
 - Belkins, when the buy is yearly appointment tiers and a mid market starter price.
 
-- CIENCE, when SDR seats are itemized for offshore, for Europe, or for the US.
+- CIENCE, when the seat labels are Offshore or US and Europe.
 
 - Callbox, when the unit is a pod and the work crosses many countries.
 
@@ -9771,6 +9771,8 @@ People who type best B2B lead generation companies, or a top 10 of those compani
 
 This page is published by Be Leaded, listed fifth, inside the group it fits. Each rival fact was read on that company's site on October 18, 2026, and the link is in that company's section. Where a dollar is absent, the firm quotes on request.
 
+Comparison table
+
 ## 10 agencies side by side
 
  Ten B2B lead generation agencies, limited to what each firm printed on its site. Check date October 18, 2026.
@@ -9779,9 +9781,9 @@ This page is published by Be Leaded, listed fifth, inside the group it fits. Eac
 
  Belkins | Yearly appointment tiers | Starter average printed as $5,000. Yearly labels on the pricing screen leave the dollars off. | Published channels: cold email and LinkedIn on every tier, and intent based calling on two tiers of the three. | Custom proposal. Tiers are organized by the year.
 
- CIENCE | SDR seats by location | Campaign team line reads $2,000 per month. graph8 line reads $499 per month. Offshore seat $1,750. Europe seat $2,500. US seat $3,500. | Published channels: SDR capacity, with the seat price moving by location. | Pricing screen says month to month. SDR terms can still read twelve months if the order form is silent.
+ CIENCE | SDR seats by location | Campaign team line reads $2,000 per month. graph8 line reads $499 per month. Offshore starting at $1,750 per SDR, per month. US and Europe starting at $3,500 per SDR, per month. | Published channels: SDR capacity, with the seat price moving by location. | Pricing screen says month to month. SDR terms can still read twelve months if the order form is silent.
 
- Callbox | Many countries, one pod | Pod range runs from $16,000 to $32,000 each month. | Published channels: a multichannel cadence inside the pod. | Called flexible. A minimum term is not printed on the pricing page.
+ Callbox | Many countries, one pod | Estimated Quarterly Investment of $16,000 to $32,000, estimated for 1 pod. | Published channels: a multichannel cadence inside the pod. | Called flexible. A minimum term is not printed on the pricing page.
 
  Martal Group | Onshore fractional team, pilot first | Inquire about pricing. No dollar retainer on the page. | Published channels: tier labels say outbound lead generation. | Tier 1: a 3 month pilot, followed by subscription billing each month. Tiers 2 and 3: a 4 month pilot, plus commission.
 
@@ -9819,6 +9821,8 @@ Silence on a vendor page stays silence here. Roundups written by someone else ar
 
 ## The 10 agencies
 
+Each note below quotes the page that firm publishes, kept in the table's order, with Be Leaded fifth.
+
 ## Belkins: best for yearly appointment tiers
 
 Fits a mid market budget that is buying appointment tiers organized by the year.
@@ -9833,11 +9837,11 @@ A longer read of the same public pages is on Belkins alternatives (https://www.b
 
 ## CIENCE: best for seats priced by where the SDR sits
 
-Fits a buyer who wants each SDR seat priced on its own line, split by offshore, Europe, and the US.
+Fits a buyer who wants each SDR seat priced on its own line, labeled Offshore or US and Europe.
 
-We read the CIENCE pricing page (https://www.cience.com/pricing/) on October 18, 2026. It itemizes the bill. The campaign team line on that page reads $2,000 per month. The graph8 line on that page reads $499 per month. A seat is $1,750 when the SDR is offshore, $2,500 when the SDR is in Europe, and $3,500 when the SDR is in the US. Each seat price is per person, billed monthly, with a performance bonus listed in addition. A single setup fee appears, with no dollar attached. The screen also says the deal is month to month, that there is no long contract, and that seats can come or go with the month. First month bundles still quoted on older roundups are absent from this screen, so they are absent here.
+We read the CIENCE pricing page (https://www.cience.com/pricing/) again on October 20, 2026. It itemizes the bill. The campaign team line on that page reads $2,000 per month. The graph8 line on that page reads $499 per month. Offshore is starting at $1,750 per SDR, per month. US and Europe is starting at $3,500 per SDR, per month. Seats are per month, per person, plus a performance bonus. A single setup fee appears, with no dollar attached. The screen also says the deal is month to month, that there is no long contract, and that seats can come or go with the month. First month bundles still quoted on older roundups are absent from this screen, so they are absent here.
 
-A second file, the SDR services terms (https://www.cience.com/sdr-services-terms/), was opened that same morning. It writes twelve months as the opening length if the order form never replaces it.
+A second file, the SDR services terms (https://www.cience.com/sdr-services-terms/), was opened October 18, 2026. It writes twelve months as the opening length if the order form never replaces it.
 
 Published channels: SDR capacity. The seat price moves with location, and the pricing page does not add a separate channel menu.
 
@@ -9849,7 +9853,7 @@ When the question is the platform plus the seats, see CIENCE alternatives (https
 
 Fits work that crosses many countries and is billed as a pod, not as one seat.
 
-The Callbox lead generation pricing page (https://www.callboxinc.com/lead-generation-pricing/) was opened October 18, 2026. Price is set per campaign pod. The estimate shown is $16,000 to $32,000 for a pod each month, with the final number after a consultation. A pod on that page comes with a multichannel cadence, contact data, a campaign manager, and a weekly report. Length of contract is called flexible, and the page tells you to ask. On the Callbox homepage (https://www.callboxinc.com/), the founding year is 2004 and the campaign footprint is 60+ countries.
+The Callbox lead generation pricing page (https://www.callboxinc.com/lead-generation-pricing/) was opened again on October 20, 2026. Price is set per campaign pod. The label is Estimated Quarterly Investment: $16,000 to $32,000, estimated for 1 pod, with the exact price after a consultation. A pod on that page comes with a multichannel cadence, contact data, a campaign manager, and a weekly report. Length of contract is called flexible, and the page tells you to ask. On the Callbox homepage (https://www.callboxinc.com/), the founding year is 2004 and the campaign footprint is 60+ countries.
 
 Routes: whatever the pod's multichannel cadence includes. No extra route is added here.
 
@@ -9939,6 +9943,8 @@ Published channels: LinkedIn, on the plans that show a dollar. Cold email is a d
 
 Read before you sign: those printed dollars belong to the LinkedIn plans. Ask for the cold email price on paper.
 
+Which buyer fits which company
+
 ## Which B2B lead generation companies fit which buyer
 
 Match a buyer to a billing unit, a term, and whether a dollar is printed. Published channels, inside each entry, quotes that firm's own page and sits beside the price and the term.
@@ -9997,11 +10003,13 @@ See pricing (https://www.beleaded.com/pricing/)
 
 ## Questions
 
+The answers use the same sources as the entries above.
+
 What are the best B2B lead generation agencies?
-It depends on the job. Belkins sells appointment tiers organized by the year. CIENCE itemizes an SDR seat by region: offshore, Europe, and the US. Callbox bills one pod. Martal Group fields an onshore fractional team. Leadium renews the contract monthly, and SalesHive quotes monthly SDR teams. SalesRoads prints the price of a four week engagement. Sopro covers the UK and Europe with a price in pounds. Cleverly prints three LinkedIn prices. Be Leaded runs Email and LinkedIn, with replies handled and the meeting booked.
+It depends on the job. Belkins sells appointment tiers organized by the year. CIENCE itemizes SDR seats as Offshore or as US and Europe. Callbox bills one pod. Martal Group fields an onshore fractional team. Leadium renews the contract monthly, and SalesHive quotes monthly SDR teams. SalesRoads prints the price of a four week engagement. Sopro covers the UK and Europe with a price in pounds. Cleverly prints three LinkedIn prices. Be Leaded runs Email and LinkedIn, with replies handled and the meeting booked.
 
 What do B2B lead generation agencies charge?
-From the vendor pages opened October 18, 2026: The CIENCE campaign team line reads $2,000 per month, the graph8 line reads $499 per month, and a seat price that starts at $1,750. Leadium's guide shows $3,500 monthly for phone alone and $4,000 to $5,000 monthly when channels are combined. Belkins shows its starter figure as $5,000. SalesRoads prints $11,950 for one representative on a 4 week engagement. Callbox prints a pod range that runs from $16,000 to $32,000 each month. Sopro prints a start around £3K each month. Cleverly prints LinkedIn prices of $397, then $697, then $997, each monthly. For Be Leaded the published line is Programs start from $2,000 a month. Martal Group and SalesHive quote on request.
+From the vendor pages opened October 18, 2026: The CIENCE campaign team line reads $2,000 per month, the graph8 line reads $499 per month, and a seat price that starts at $1,750. Leadium's guide shows $3,500 monthly for phone alone and $4,000 to $5,000 monthly when channels are combined. Belkins shows its starter figure as $5,000. SalesRoads prints $11,950 for one representative on a 4 week engagement. Callbox prints an Estimated Quarterly Investment of $16,000 to $32,000, estimated for 1 pod. Sopro prints a start around £3K each month. Cleverly prints LinkedIn prices of $397, then $697, then $997, each monthly. For Be Leaded the published line is Programs start from $2,000 a month. Martal Group and SalesHive quote on request.
 
 Which agencies are month to month?
 Leadium, SalesHive, and SalesRoads say you can stop without a long commitment, in the words on their own pages. Cleverly's FAQ says the cold email offer renews monthly. CIENCE's pricing page says month to month, while the SDR terms file puts twelve months in place when an order form leaves the length blank. Martal Group's first term is a pilot, 3 months on tier 1 and 4 months above it. Sopro says there is no minimum length.
@@ -10037,9 +10045,9 @@ No. Lead generation is the job of finding companies that fit and starting a conv
 
 - Belkins, checked October 18, 2026: appointment setting (https://belkins.io/appointment-setting), pricing (https://belkins.io/pricing)
 
-- CIENCE, checked October 18, 2026: pricing (https://www.cience.com/pricing/), SDR services terms (https://www.cience.com/sdr-services-terms/)
+- CIENCE, checked October 20, 2026: pricing (https://www.cience.com/pricing/), SDR services terms (https://www.cience.com/sdr-services-terms/)
 
-- Callbox, checked October 18, 2026: lead generation pricing (https://www.callboxinc.com/lead-generation-pricing/), homepage (https://www.callboxinc.com/)
+- Callbox, checked October 20, 2026: lead generation pricing (https://www.callboxinc.com/lead-generation-pricing/), homepage (https://www.callboxinc.com/)
 
 - Martal Group, checked October 18, 2026: pricing (https://martal.ca/pricing/)
 
