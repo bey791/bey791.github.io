@@ -303,24 +303,23 @@
       live.appendChild(rest);
       p.appendChild(live);
     });
-    var caret = document.createElement("span"); caret.className = "caret";
     var i = 0, j = 0;
     function step() {
       if (rot.dataset.gen !== gen) return;
       var p = ps[i], full = p.dataset.full, live = p.querySelector(".type-live");
       var rest = live && live.querySelector(".type-rest");
       if (!live || !rest) return;
-      if (j === 0) rest.insertAdjacentElement("beforebegin", caret);
+      if (j === 0) rest.classList.add("is-caret");
       if (j < full.length) {
         var ch = full.charAt(j); j++;
-        caret.insertAdjacentText("beforebegin", ch);
+        rest.insertAdjacentText("beforebegin", ch);
         rest.textContent = full.slice(j);
         var wait = ch === "." || ch === "?" ? 240 : ch === "," ? 110 : 16 + Math.random() * 26;
         setTimeout(step, wait);
       } else {
         rest.remove();
         i++; j = 0;
-        if (i < ps.length) setTimeout(step, 300); else { caret.remove(); done(); }
+        if (i < ps.length) setTimeout(step, 300); else done();
       }
     }
     setTimeout(step, 1150);

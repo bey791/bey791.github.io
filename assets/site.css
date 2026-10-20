@@ -846,7 +846,8 @@ a.nl-img{display:block;text-decoration:none}
 .mail-body{min-height:168px}
 .mail-body p:empty{min-height:1.2em}
 .type-rest{visibility:hidden}
-.caret{display:inline-block;width:0;height:1.05em;margin-left:0;vertical-align:-.18em;background:transparent;box-shadow:2px 0 0 var(--ink);animation:caret 1s steps(1) infinite}
+.type-rest.is-caret{position:relative}
+.type-rest.is-caret::before{content:"";position:absolute;left:0;top:.08em;width:0;height:1.05em;box-shadow:2px 0 0 var(--ink);visibility:visible;pointer-events:none;animation:caret 1s steps(1) infinite}
 @keyframes caret{50%{opacity:0}}
 .typing-row{visibility:hidden;margin-left:clamp(0px,9%,56px);pointer-events:none}
 .rotator .slide{height:100%;align-content:stretch;grid-template-rows:minmax(auto,1fr) auto auto}
