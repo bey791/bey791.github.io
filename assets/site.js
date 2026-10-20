@@ -291,21 +291,35 @@
   function typeInto(slide, gen, rot, done) {
     var ps = Array.prototype.slice.call(slide.querySelectorAll("[data-type] p"));
     if (!ps.length) { done(); return; }
-    ps.forEach(function (p) { if (!p.dataset.full) p.dataset.full = p.textContent; p.textContent = ""; });
-    var caret = document.createElement("span"); caret.className = "caret";
+    ps.forEach(function (p) {
+      if (!p.dataset.full) p.dataset.full = p.textContent;
+      p.textContent = "";
+      var live = document.createElement("span");
+      live.className = "type-live";
+      var rest = document.createElement("span");
+      rest.className = "type-rest";
+      rest.setAttribute("aria-hidden", "true");
+      rest.textContent = p.dataset.full;
+      live.appendChild(rest);
+      p.appendChild(live);
+    });
     var i = 0, j = 0;
     function step() {
       if (rot.dataset.gen !== gen) return;
-      var p = ps[i], full = p.dataset.full;
-      if (j === 0) p.appendChild(caret);
+      var p = ps[i], full = p.dataset.full, live = p.querySelector(".type-live");
+      var rest = live && live.querySelector(".type-rest");
+      if (!live || (!rest && j < full.length)) return;
+      if (j === 0) rest.classList.add("is-caret");
       if (j < full.length) {
         var ch = full.charAt(j); j++;
-        caret.insertAdjacentText("beforebegin", ch);
+        rest.insertAdjacentText("beforebegin", ch);
+        if (j < full.length) rest.textContent = full.slice(j); else rest.remove();
         var wait = ch === "." || ch === "?" ? 240 : ch === "," ? 110 : 16 + Math.random() * 26;
         setTimeout(step, wait);
       } else {
+        if (rest) rest.remove();
         i++; j = 0;
-        if (i < ps.length) setTimeout(step, 300); else { caret.remove(); done(); }
+        if (i < ps.length) setTimeout(step, 300); else done();
       }
     }
     setTimeout(step, 1150);
@@ -335,9 +349,9 @@
           t.setAttribute("tabindex", k === n ? "0" : "-1");
           t.classList.remove("run");
         });
-        if (motion && tabs[n]) { void tabs[n].offsetWidth; tabs[n].classList.add("run"); }
+        if (motion && !reduce && tabs[n]) { void tabs[n].offsetWidth; tabs[n].classList.add("run"); }
         var slide = slides[n];
-        if (!motion) { restoreText(slide); return; }
+        if (!motion || reduce) { restoreText(slide); slide.classList.add("typed"); return; }
         typeInto(slide, gen, rot, function () {
           slide.classList.add("is-typing");
           setTimeout(function () {
@@ -358,14 +372,20 @@
         var b = t.querySelector(".bar");
         if (b) b.addEventListener("animationend", function () { if (t.classList.contains("run")) go((cur + 1) % slides.length); });
       });
-      // Start only when visible, so the typing is seen from the first character
+      // Autoplay is the tab bar. Hold it off screen, in a hidden tab, and under reduced motion.
+      var inView = false, started = false;
+      function held() { return reduce || document.hidden || !inView; }
+      function syncHold() { rot.classList.toggle("is-held", held()); }
+      document.addEventListener("visibilitychange", syncHold);
+      slides.forEach(function (s, k) { if (k) { s.setAttribute("inert", ""); s.setAttribute("aria-hidden", "true"); } });
       if (motion && "IntersectionObserver" in window) {
-        var io = new IntersectionObserver(function (en) {
-          if (en.some(function (x) { return x.isIntersecting; })) { io.disconnect(); go(0); }
-        }, { threshold: 0.3 });
-        slides.forEach(function (s, k) { if (k) { s.setAttribute("inert", ""); s.setAttribute("aria-hidden", "true"); } });
-        io.observe(rot);
-      } else { go(0); }
+        new IntersectionObserver(function (en) {
+          inView = en.some(function (x) { return x.isIntersecting; });
+          if (inView && !started) { started = true; go(0); }
+          syncHold();
+        }, { threshold: 0 }).observe(rot);
+      } else { inView = true; go(0); }
+      syncHold();
       // Pointer tilt on the compose card
       var zone = rot.querySelector("[data-tilt-zone]");
       if (zone && motion && !holdMotion() && window.matchMedia("(hover: hover)").matches) {
@@ -1631,7 +1651,8 @@
       var mx = -1, my = -1, hover = null, pinned = null, pointerT = -1e9, outAcc = 0, replyQueue = [], lastSweep = 0, tiltX = 0, tiltY = 0, lastTx = "", lastTy = "", lastHud = "";
       var tourEl = map.querySelector("[data-map-tour]"), tourTabs = tourEl ? Array.prototype.slice.call(tourEl.querySelectorAll("[data-tour]")) : [];
       var tourTitle = map.querySelector("[data-tour-title]"), tourText = map.querySelector("[data-tour-text]"), tourBar = map.querySelector("[data-tour-bar]"), tourPlay = map.querySelector("[data-tour-play]");
-      var STEP = 2.8, tourStep = -1, tourAuto = true, tourT = 0, focus = null, clusterOn = {}, over = false, zoom = 1;
+      var STEP = 2.8, tourStep = -1, tourAuto = true, tourT = 0, tourClock = 0, tourInView = false, focus = null, clusterOn = {}, over = false, zoom = 1;
+      function tourHeld() { return reduce || document.hidden || !tourInView; }
       var TOUR = [
         { key: "market", title: "Your market", text: "1,000 accounts that match your buyer: title, size, industry, region, signals. Every one researched before it enters the system." },
         { key: "research", title: "Research", text: "List, verify, enrich. Addresses are checked before a single send, and every person gets a line written for them. Bounces stay under 2%." },
@@ -1642,6 +1663,39 @@
         { key: "outcomes", title: "Meetings on your calendar", text: "Qualified meetings, booked with context: who they are, what they said, what they want. You take the meeting and close." },
         { key: null, title: "The whole loop, live", text: "It runs every day, and the numbers come back to the center every week. Look around the map, or step inside the machine below." }
       ];
+      if (tourEl && tourTitle && tourText) {
+        var cap = tourEl.querySelector(".mt-cap");
+        if (cap && !cap.querySelector(".mt-sizer")) {
+          cap.classList.add("mt-stack");
+          var liveCap = document.createElement("div");
+          liveCap.className = "mt-slide is-on";
+          liveCap.appendChild(tourTitle);
+          liveCap.appendChild(tourText);
+          cap.appendChild(liveCap);
+          function addSizer(title, text) {
+            var d = document.createElement("div");
+            d.className = "mt-slide mt-sizer";
+            d.setAttribute("aria-hidden", "true");
+            d.inert = true;
+            var t = document.createElement("p");
+            t.className = "mt-t";
+            t.textContent = title;
+            var x = document.createElement("p");
+            x.className = "mt-d";
+            x.textContent = text;
+            d.appendChild(t);
+            d.appendChild(x);
+            cap.appendChild(d);
+          }
+          addSizer(tourTitle.textContent, tourText.textContent);
+          TOUR.forEach(function (step) { addSizer(step.title, step.text); });
+        }
+        if ("IntersectionObserver" in window) {
+          new IntersectionObserver(function (en) {
+            tourInView = en.some(function (x) { return x.isIntersecting; });
+          }, { threshold: 0 }).observe(tourEl);
+        } else tourInView = true;
+      }
       function clamp(v, a, b) { return v < a ? a : (v > b ? b : v); }
       function ease(u) { return 1 - Math.pow(1 - u, 3); }
       function fmt(n) { return Math.round(n).toLocaleString("en-US"); }
@@ -2000,7 +2054,7 @@
       }
       function goStep(i, auto) {
         i = clamp(i, 0, TOUR.length - 1);
-        tourStep = i; tourT = sceneT;
+        tourStep = i; tourT = tourClock;
         for (var j = 0; j <= i; j++) bootCluster(TOUR[j].key);
         if (i === TOUR.length - 1) Object.keys(CLUSTERS).forEach(bootCluster);
         focus = TOUR[i].key;
@@ -2014,18 +2068,21 @@
       }
       function setAuto(on) {
         tourAuto = on;
-        if (on && tourStep >= TOUR.length - 1) { tourStep = -1; sceneT = 0; goStep(0, true); }
-        else if (on) tourT = sceneT;
+        if (on && tourStep >= TOUR.length - 1) { tourStep = -1; tourClock = 0; goStep(0, true); }
+        else if (on) tourT = tourClock;
         if (tourEl) tourEl.classList.toggle("is-paused", !tourAuto);
         if (tourPlay) tourPlay.setAttribute("aria-pressed", String(tourAuto));
       }
       function update(dt, t) {
         sceneT += dt; running = true;
         var idle = t - pointerT > 2;
-        // tour
-        if (tourStep < 0 && sceneT > 0.5) goStep(0, true);
-        else if (tourAuto && tourStep >= 0 && tourStep < TOUR.length - 1 && sceneT - tourT >= STEP) goStep(tourStep + 1, true);
-        if (tourBar) { var pr = tourAuto && tourStep >= 0 && tourStep < TOUR.length - 1 ? clamp((sceneT - tourT) / STEP, 0, 1) : (tourStep >= TOUR.length - 1 ? 1 : 0); tourBar.style.transform = "scaleX(" + pr.toFixed(3) + ")"; }
+        // tour: the step clock pauses off screen, while the tab is hidden, and under reduced motion
+        if (!tourHeld() && tourAuto) tourClock += dt;
+        if (!tourHeld()) {
+          if (tourStep < 0 && tourClock > 0.5) goStep(0, true);
+          else if (tourAuto && tourStep >= 0 && tourStep < TOUR.length - 1 && tourClock - tourT >= STEP) goStep(tourStep + 1, true);
+        }
+        if (tourBar && !tourHeld()) { var pr = tourAuto && tourStep >= 0 && tourStep < TOUR.length - 1 ? clamp((tourClock - tourT) / STEP, 0, 1) : (tourStep >= TOUR.length - 1 ? 1 : 0); tourBar.style.transform = "scaleX(" + pr.toFixed(3) + ")"; }
         Object.keys(chips).forEach(function (key) {
           var c = chips[key], d = CLUSTERS[key]; if (!c.classList.contains("on") || c._cT === undefined || c._cT > 1.6) return;
           c._cT += dt; var u = ease(clamp(c._cT / 1.4, 0, 1)); var st = c.querySelector("[data-mc-stat]"); if (st) st.textContent = d.text(Math.round(d.n * u));
