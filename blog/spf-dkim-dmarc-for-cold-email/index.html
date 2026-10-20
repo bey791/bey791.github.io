@@ -156,9 +156,11 @@
     <h1 id="h-b-auth" style="margin-top:14px">SPF, DKIM and DMARC setup for cold email</h1>
     <p class="byline">By <a href="/about/">Ahmad Khan</a>, founder of Be Leaded. Updated October 18, 2026. 10 min read.</p>
     <div class="answer"><p>Publish one SPF record, a DKIM key of at least 1024 bits (2048 when the host allows it), and a DMARC record at p=none on every cold email domain. Align the From domain with SPF or DKIM, confirm spf=pass, dkim=pass, and dmarc=pass on a test message, and only then start warmup.</p></div>
+    <p>Want this set up on your domains for you?</p>
     <div class="cta-row">
-      <a class="btn btn-lg btn-mag" href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=hero&amp;utm_content=blog-spf-dkim-dmarc-for-cold-email" target="_blank" rel="noopener" data-cta="hero">Book a 30-minute call</a>
-      <a class="link" href="/tools/inbox-setup-checker/">Run the inbox setup checker</a>
+      <a class="btn btn-lg btn-mag" data-hero-cta href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=hero&amp;utm_content=blog-spf-dkim-dmarc-for-cold-email" target="_blank" rel="noopener" data-cta="hero">Book a 30-minute call</a>
+      <a class="link" href="/tools/inbox-setup-checker/">Test your records free</a>
+      <p class="cta-note">Programs start from $2,000 a month</p>
     </div>
   </div>
 </section>
@@ -181,7 +183,7 @@ v=DKIM1; k=rsa; p=examplePublicKeyReplaceWithTheHostKey
 _dmarc.example.com. TXT
 v=DMARC1; p=none; rua=mailto:dmarc@example.com</code></pre>
 <p><a class="link" href="/tools/inbox-setup-checker/">Run the inbox setup checker</a> on the domain before it joins a sequence. It reads SPF, DKIM, DMARC, and MX in the browser.</p>
-<div class="callout"><p><strong>Want this set up for you?</strong> We place the three records on separate sending domains, then warm those domains before the first cold email leaves.</p><div class="cta-row"><a class="btn btn-lg btn-mag" href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=inline&amp;utm_content=blog-spf-dkim-dmarc-for-cold-email" target="_blank" rel="noopener" data-cta="inline">Book a 30-minute call</a></div></div>
+<div class="callout"><p><strong>Have us publish these records?</strong> We place the three records on separate sending domains, then warm those domains before the first cold email leaves.</p><div class="cta-row"><a class="btn btn-lg btn-mag" href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=inline&amp;utm_content=blog-spf-dkim-dmarc-for-cold-email" target="_blank" rel="noopener" data-cta="inline">Book a 30-minute call</a></div></div>
 <h2 id="au-what">What the three records do</h2>
 <p>SPF, DKIM, and DMARC are three DNS records on the domain in the From address. A cold email domain needs all three before warmup. Records on the company domain do not cover a separately registered sending domain.</p>
 <p>SPF lists the servers allowed to send. DKIM signs selected headers and the body so the receiver can see who signed and whether those parts changed. DMARC checks that the passing SPF or DKIM domain aligns with the From domain, says what to do on failure, and names a mailbox for reports. It does not replace the other two.</p>
@@ -437,6 +439,7 @@ dmarc=pass header.from=outreach.example</code></pre>
   </div>
   <p class="foot-word wrap" aria-hidden="true">Be Leaded</p>
 </footer>
+<a class="book-bar" hidden href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=bookbar&amp;utm_content=blog-spf-dkim-dmarc-for-cold-email" target="_blank" rel="noopener" data-cta="bookbar">Book a 30-minute call</a>
 <p class="sr-only" role="status" id="copy-status"></p>
 
 </body>
