@@ -470,7 +470,7 @@ We agree on it with you on the first call: title, company size, industry and the
 
 **How are targets set?**
 
-Targets are reply goals you approve. Pass rules are approved with them. The offer still shapes the calendar.
+Clients agree both targets and buyer rules with us before sending starts. What comes back still rests on the market and your offer, and the weekly report lays that out.
 
 **Is cold email legal?**
 
@@ -3241,7 +3241,7 @@ Because the work depends on your market. Reaching 800 accounts in one niche is a
 
 **How are targets set?**
 
-A reply goal is set first. Buyer rules are locked with it. The market still decides bookings.
+Sending waits until the targets and the buyer rules have your approval. Progress is visible in the weekly report, while outcomes still track the market and your offer.
 
 **Do we need to buy tools, data or inboxes?**
 
@@ -3446,7 +3446,7 @@ We send from your team's own profiles at a human pace, inside LinkedIn's limits 
 
 **How are targets set?**
 
-Reply goals get set before launch. Buyer rules get set before launch. Later calls follow the market.
+You sign off on the targets and the buyer rules before sending starts. Weekly reporting shows progress, and the market together with your offer still decides the result.
 
 ## Paid ads, newsletters, SMS and voice
 
@@ -5261,7 +5261,7 @@ One true detail, the problem it implies, who attends, and one question. Under ab
 
 **How many cold emails does it take to book a SaaS demo?**
 
-No fixed email count is published here. Judge threads against the written definition.
+The number you need depends on list quality, the offer, and fit. Judge the program each week by qualified replies and booked demos.
 
 **What should a SaaS team measure on a cold email program?**
 
@@ -8483,7 +8483,7 @@ How much does an outsourced SDR team cost?Programs start from $2,000 a month, wi
 How does an outsourced SDR team compare with hiring in-house SDRs?The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with an average ramp of 3.0 months. Programs start from $2,000 a month with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings.
 How soon can an outsourced SDR team go live?Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. How many replies become meetings depends on the market and the offer. We do not promise a number of meetings.
 Is an outsourced SDR team only for SaaS?No. It is for B2B companies that need meetings with a defined buyer. SaaS is one of those markets. The B2B SaaS page covers lists by headcount, tech stack, and the problem the product solves.
-How are targets set?Reply goals set the scope. Buyer rules are approved first.
+Do you guarantee a number of meetings?No. We do not promise a number of meetings before we have looked at the market.
 What if we already have SDRs?We can run the infrastructure, list, and copy beside them, or take the top of the funnel so they spend time on live conversations. Say which one you want on the call. The price follows the scope.
 
 ## Tell us who should be on the meeting.
@@ -9385,7 +9385,7 @@ It should not. Be Leaded sends from separate domains that we set up, warm, and m
 
 How are targets set?
 
-We set reply goals before launch. Buyer rules are set then. Booked calls still depend on fit.
+Targets and buyer rules are agreed with you before any sending starts. Results still depend on the market and the offer, and weekly reporting is where progress shows.
 
 Why isn't there one public price?
 
@@ -9798,7 +9798,7 @@ What counts as a qualified lead?
 One that matches the checklist you approve before launch: role, company size, industry, region and a stated interest, with a call accepted on your calendar.
 
 How are targets set?
-Targets follow buyer rules you approve. Reporting covers the work after that.
+Before sending starts, you and we lock the targets alongside the buyer rules. The weekly report shows progress, though results still hinge on the market and the offer.
 
 Who owns the data when we stop?
 The lists and replies are yours.
@@ -10637,7 +10637,7 @@ URL: https://www.beleaded.com/guides/saleshive-alternatives/
 
  Fits multi country campaigns run by campaign pods.
 
- On October 18, 2026, the Callbox pricing page (https://www.callboxinc.com/lead-generation-pricing/) estimated $16,000 to $32,000 per pod per month. Each pod is described with one dedicated SDR, a campaign manager, and weekly reporting. Channels on that page are phone, email, LinkedIn, and web retargeting. The Callbox homepage (https://www.callboxinc.com/) says the company was founded in 2004 and runs campaigns in 60+ countries. The pricing page does not state a minimum term. Ask for it before you sign.
+ On October 20, 2026 the Callbox pricing page (https://www.callboxinc.com/lead-generation-pricing/) uses this label. It reads Estimated Quarterly Investment. The range is $16,000 to $32,000. It is estimated for 1 pod. Each pod is described with one dedicated SDR, a campaign manager, and weekly reporting. Channels on that page are phone, email, LinkedIn, and web retargeting. The Callbox homepage (https://www.callboxinc.com/) says the company was founded in 2004 and runs campaigns in 60+ countries. The pricing page does not state a minimum term. Ask for it before you sign.
 
 ### memoryBlue and Operatix
 
@@ -10692,7 +10692,7 @@ SalesHive alternatives compared on what each company published on its own site, 
  | Not stated on the homepage
 
  | Callbox
- | $16,000 to $32,000 per pod per month
+ | Estimated Quarterly Investment. The range is $16,000 to $32,000. It is estimated for 1 pod.
  | Phone, email, LinkedIn, web retargeting
  | Minimum term not stated
 
@@ -10771,7 +10771,7 @@ Is SalesHive month to month?
 
 Which SalesHive alternatives publish a price?
 
- On October 18, 2026: SalesRoads, Leadium (in its pricing guide), CIENCE, Belkins (a starter figure), Abstrakt Marketing Group (a starting range), Callbox (a per pod estimate) and Be Leaded. memoryBlue did not show a price.
+ On October 18, 2026: SalesRoads, Leadium (in its pricing guide), CIENCE, Belkins (a starter figure), Abstrakt Marketing Group (a starting range), Callbox (a quarterly estimate for 1 pod, opened October 20, 2026) and Be Leaded. memoryBlue did not show a price.
 
 What does this page compare Be Leaded on?
 
