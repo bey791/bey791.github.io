@@ -308,16 +308,16 @@
       if (rot.dataset.gen !== gen) return;
       var p = ps[i], full = p.dataset.full, live = p.querySelector(".type-live");
       var rest = live && live.querySelector(".type-rest");
-      if (!live || !rest) return;
+      if (!live || (!rest && j < full.length)) return;
       if (j === 0) rest.classList.add("is-caret");
       if (j < full.length) {
         var ch = full.charAt(j); j++;
         rest.insertAdjacentText("beforebegin", ch);
-        rest.textContent = full.slice(j);
+        if (j < full.length) rest.textContent = full.slice(j); else rest.remove();
         var wait = ch === "." || ch === "?" ? 240 : ch === "," ? 110 : 16 + Math.random() * 26;
         setTimeout(step, wait);
       } else {
-        rest.remove();
+        if (rest) rest.remove();
         i++; j = 0;
         if (i < ps.length) setTimeout(step, 300); else done();
       }
