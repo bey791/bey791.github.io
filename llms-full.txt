@@ -71,11 +71,7 @@ Client programs across B2B, advisory and consumer brands.
 
 Figures as of September 2026.
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want more meetings with the right buyers? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=home) and we'll show you who we'd target first.
 
 - Input Your target list
 - 01 Targeting 1,000 accounts We build the list from your ideal customer: title, company size, industry, region and buying signals. Every account is researched before it enters the system.
@@ -365,11 +361,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Not sure which program fits? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=services) and we'll map the right channel mix for your market.
 
 ## An illustrative month for one program
 
@@ -490,11 +482,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want to see what cold email could do in your market? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=cold-email-agency) and we'll walk you through the plan.
 
 Volume and tools
 
@@ -2196,6 +2184,8 @@ Home services
 
 A homeowner who asks for a quote calls the first company that answers. We run the ads that bring the request, build the form that captures consent, and follow up within a minute by text and voice so the job is booked before they call anyone else. Between seasons, a newsletter keeps you in their inbox.
 
+Programs start from $2,000 a month
+
 ## Who we reach
 
 ### Homeowners in your service area
@@ -2247,11 +2237,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Selling to home services businesses? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=industries-home-services) and we'll map who signs off on the work.
 
 ## Questions
 
@@ -2293,6 +2279,8 @@ Dental and med spa
 The cheapest new patient is the one who already came once. We reactivate lapsed patients by text and email, fill gaps with Meta ads and a booking page, and keep a newsletter going so the practice stays top of mind. Marketing lists hold names and contact details only, never treatment information.
 
 Selling to practices instead? See medical billing and RCM (https://www.beleaded.com/industries/medical-billing-rcm/).
+
+Programs start from $2,000 a month
 
 ## Who we reach
 
@@ -2345,11 +2333,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Selling to dental practices or med spas? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=industries-dental-med-spa) and we'll show you how we'd reach the owners.
 
 ## Questions
 
@@ -2574,6 +2558,8 @@ Professional services
 
 People hire firms they already know. We put your partners in front of the right companies on LinkedIn and by email with something useful, not a pitch, then keep a newsletter going so you're the firm they think of when the need arrives.
 
+Programs start from $2,000 a month
+
 ## Who we reach
 
 ### Owners and CFOs
@@ -2627,11 +2613,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want more conversations with firms that need your services? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=industries-professional-services) and we'll show you the list we'd build.
 
 ## Questions
 
@@ -2671,6 +2653,8 @@ Agencies and consultants (white label)
 # White-label outbound and newsletters for agencies
 
 You sold the retainer. We do the outbound and the newsletters under your name: domains, lists, copy, sending, replies and reporting, or a newsletter series designed and sent every week. Your client sees your brand. We work in the background and report to you.
+
+Programs start from $2,000 a month
 
 ## Who we reach
 
@@ -2723,11 +2707,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want outbound you can resell under your own brand? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=industries-marketing-agencies-white-label) and we'll walk you through how white label works.
 
 ## Questions
 
@@ -3363,11 +3343,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want a quote for your market? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=pricing) and we'll scope a program for it. Programs start from $2,000 a month.
 
 ## What changes the price
 
@@ -4107,7 +4083,7 @@ Deliverability
 
 By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 10 min read.
 
-Spam problem right now? Book a 30-minute call and we will look at your setup with you.
+Seeing cold mail hit spam? We can walk the checks on one message you already received.
 
 Book a 30-minute call
 
@@ -6347,7 +6323,7 @@ v=DMARC1; p=none; rua=mailto:dmarc@example.com
 
 Run the inbox setup checker (https://www.beleaded.com/tools/inbox-setup-checker/) on the domain before it joins a sequence. It reads SPF, DKIM, DMARC, and MX in the browser.
 
-## Want this set up for you?
+## Have us publish these records?
 
 We place the three records on separate sending domains, then warm those domains before the first cold email leaves.
 
@@ -6844,7 +6820,7 @@ By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026. 4 min read.
 
 The short answer: In 2026 a typical cold email campaign replies at 3% to 4.5% of emails sent, a good one at 5.5% or more, and the top 10% at over 10%, according to Instantly's and Hunter's reports on billions of emails. Roughly a third of replies are positive. Benchmarks that quote 0.45% are measuring differently, not describing a different world.
 
-Numbers below the range? Book a 30-minute call and we will review your last campaign.
+Numbers under the published reply range? We can read the figures from your last send.
 
 Book a 30-minute call
 
@@ -7828,7 +7804,9 @@ URL: https://www.beleaded.com/blog/sms-marketing-compliance/
 
 SMS
 
-# SMS marketing compliance in 2026: TCPA, 10DLC and consent, explained plainly
+# SMS compliance checklist for 2026
+
+By Ahmad Khan, founder of Be Leaded. Updated October 20, 2026. 4 min read.
 
 Short answer: the checklist
 
@@ -7842,8 +7820,6 @@ Short answer: the checklist
 Book a 30-minute call
 
 Programs start from $2,000 a month
-
-By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 4 min read.
 
 The short answer: To send marketing texts in the US you need the recipient's prior express written consent under the TCPA, a business phone number registered for A2P 10DLC through your provider, automatic handling of STOP and HELP, sends during reasonable hours, and a record of every consent. The FCC's stricter one-to-one consent rule was vacated by the Eleventh Circuit in January 2025 and repealed by the FCC in July 2025, so the earlier consent standard applies. Never text purchased lists.
 
@@ -8149,7 +8125,7 @@ URL: https://www.beleaded.com/guides/choosing-a-cold-email-agency/
 
 # How to choose a cold email agency: 12 questions to ask before you sign
 
-Want our written answers to all 12 before a call? Book a 30-minute call and we will walk through them.
+Use the list below to sort a careful cold email agency from a pitch, then hear how we answer each one.
 
 Book a 30-minute call
 
@@ -8213,11 +8189,7 @@ Any agency can book meetings. The question is whether they're with people who ca
 
 A good answer: a written definition agreed before launch, covering title, company size, industry and need.
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Comparing agencies? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=guides-choosing-a-cold-email-agency) and ask us all 12 questions directly.
 
 ### 8. Who handles replies, and how fast?
 
@@ -8546,11 +8518,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want one team running research, sending and booking? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=full-cycle-outbound-lead-generation) and we'll show you how it fits your sales process.
 
 ## Who it is for
 
@@ -8702,11 +8670,7 @@ Average open rate on newsletters
 
 Client programs
 
-Tell us who you want to meet.
-
-Book a 30-minute call
-
-Programs start from $2,000 a month
+Want an outbound team without hiring one? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=outsourced-sdr-team) and we'll show you how ours would work your pipeline.
 
 ## About three weeks to launch
 
@@ -9679,6 +9643,7 @@ Guides
 By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 18, 2026.
 The short answer: CIENCE, Cleverly, Martal Group, SalesRoads, Callbox, Leadium, and Be Leaded are named here. The first table is price, channels, and contract. It is not a rank.
 Book a 30-minute call
+Programs start from $2,000 a month
 Open the glance grid
 On this page
 - Glance grid
@@ -9857,7 +9822,7 @@ It should not if the new partner sends from separate, warmed domains with SPF, D
 If the job is qualified meetings on the calendar rather than a full SDR platform, start with the best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/) guide and this Belkins alternatives table. Match meeting definition and reply handling before you compare logos.
 
 ## What to do next
-Shortlist two or three Belkins alternatives using the table above, run the five diligence questions, and score them on the same sheet as every other vendor. If high-personalization outbound from $2,000 a month sounds like the fit, Book a 30-minute call or email sales@beleaded.com. Or start with pricing (https://www.beleaded.com/pricing/) and the how to choose the best cold email agency (https://www.beleaded.com/guides/best-cold-email-agency/) scorecard. Related reads: CIENCE alternatives (https://www.beleaded.com/guides/cience-alternatives/), Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/), best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/), and best company for cold email (https://www.beleaded.com/guides/best-company-for-cold-email/).
+Shortlist two or three Belkins alternatives using the table above, run the five diligence questions, and score them on the same sheet as every other vendor. If high-personalization outbound from $2,000 a month sounds like the fit, book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-belkins-alternatives) or email sales@beleaded.com. Or start with pricing (https://www.beleaded.com/pricing/) and the how to choose the best cold email agency (https://www.beleaded.com/guides/best-cold-email-agency/) scorecard. Related reads: CIENCE alternatives (https://www.beleaded.com/guides/cience-alternatives/), Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/), best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/), and best company for cold email (https://www.beleaded.com/guides/best-company-for-cold-email/).
 
 ## Programs start from $2,000 a month.
 Thirty minutes with the founder. You’ll leave with a clear picture of your market, what a campaign would look like and what it would cost, whether Be Leaded is the right Belkins alternative for you or not.
