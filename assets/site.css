@@ -845,9 +845,7 @@ a.nl-img{display:block;text-decoration:none}
 .subj b{font-weight:600}
 .mail-body{min-height:168px}
 .mail-body p:empty{min-height:1.2em}
-[data-type] p{display:grid}
-.type-full,.type-live{grid-area:1/1;align-self:start}
-.type-full{visibility:hidden}
+.type-rest{visibility:hidden}
 .caret{display:inline-block;width:0;height:1.05em;margin-left:0;vertical-align:-.18em;background:transparent;box-shadow:2px 0 0 var(--ink);animation:caret 1s steps(1) infinite}
 @keyframes caret{50%{opacity:0}}
 .typing-row{visibility:hidden;margin-left:clamp(0px,9%,56px);pointer-events:none}
@@ -1332,9 +1330,6 @@ input[type="range"].rng:focus-visible{outline:3px solid var(--signal);outline-of
 /* Sequence section */
 .seq-grid{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:clamp(32px,6vw,88px);align-items:start}
 .seq-grid .rotator{animation:none}
-/* Tallest measured slide, including the typing row, so a shorter slide cannot shrink the page. */
-@media (max-width:390px){.rotator .slides{min-height:681px}}
-@media (max-width:360px){.rotator .slides{min-height:777px}}
 @media (max-width:960px){.seq-grid{grid-template-columns:1fr}}
 
 /* Match */

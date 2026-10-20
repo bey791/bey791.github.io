@@ -294,13 +294,13 @@
     ps.forEach(function (p) {
       if (!p.dataset.full) p.dataset.full = p.textContent;
       p.textContent = "";
-      var full = document.createElement("span");
-      full.className = "type-full";
-      full.setAttribute("aria-hidden", "true");
-      full.textContent = p.dataset.full;
       var live = document.createElement("span");
       live.className = "type-live";
-      p.appendChild(full);
+      var rest = document.createElement("span");
+      rest.className = "type-rest";
+      rest.setAttribute("aria-hidden", "true");
+      rest.textContent = p.dataset.full;
+      live.appendChild(rest);
       p.appendChild(live);
     });
     var caret = document.createElement("span"); caret.className = "caret";
@@ -308,14 +308,17 @@
     function step() {
       if (rot.dataset.gen !== gen) return;
       var p = ps[i], full = p.dataset.full, live = p.querySelector(".type-live");
-      if (!live) return;
-      if (j === 0) live.appendChild(caret);
+      var rest = live && live.querySelector(".type-rest");
+      if (!live || !rest) return;
+      if (j === 0) rest.insertAdjacentElement("beforebegin", caret);
       if (j < full.length) {
         var ch = full.charAt(j); j++;
         caret.insertAdjacentText("beforebegin", ch);
+        rest.textContent = full.slice(j);
         var wait = ch === "." || ch === "?" ? 240 : ch === "," ? 110 : 16 + Math.random() * 26;
         setTimeout(step, wait);
       } else {
+        rest.remove();
         i++; j = 0;
         if (i < ps.length) setTimeout(step, 300); else { caret.remove(); done(); }
       }
