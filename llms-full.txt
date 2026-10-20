@@ -317,9 +317,9 @@ URL: https://www.beleaded.com/services/
 - Home
 - Services
 
-# Six programs, one standard
+# Eight programs, one standard
 
-Be Leaded runs cold email and appointment setting, LinkedIn lead generation, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. Every program runs on infrastructure we build ourselves, and every message is written by a person.
+Be Leaded runs cold email and appointment setting, LinkedIn lead generation, paid social and search, newsletter, email and SMS programs, AI voice follow-up, off-market deal flow for M&A advisors and business brokers, cold calling alongside email and LinkedIn, and demand generation. Every program runs on infrastructure we build ourselves, and every message is written by a person.
 
 ### Cold email and appointment setting
 Verified lists, plain-text sequences, reply handling and qualified meetings on your calendar.
@@ -368,6 +368,8 @@ Most clients start with one and add a second once the first is producing. Start 
 | Newsletters, email and SMS | Brands and B2B companies with a list to work | Newsletters people open, plus lifecycle email and SMS | $2,000 a month |
 | AI voice follow-up | Anyone getting inbound leads who can't call back in five minutes | Every lead called within a minute and booked | $2,000 a month plus usage |
 | Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale or valuation | $2,000 a month |
+| Cold calling services | B2B teams that want phone outreach alongside email and LinkedIn | Qualified calls booked on your calendar | $2,000 a month |
+| Demand generation | B2B companies that want outbound, paid social and newsletters in one plan | Booked calls from one plan | $2,000 a month |
 
 ## Tell us who you want to meet.
 
@@ -10853,6 +10855,105 @@ What should I check before switching from SalesHive?
 
  Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=guides-saleshive-alternatives)
  Or email sales@beleaded.com (mailto:sales@beleaded.com) Copy
+
+---
+
+URL: https://www.beleaded.com/cold-calling-services/
+
+# B2B cold calling services
+
+Phone outreach kept in the same program as email and LinkedIn, so one buyer can be reached on more than one channel. Target up to 25,000 new contacts a month.
+
+400K+ Emails a day of sending capacity
+99% Delivery rate across programs
+49 to 51% Average open rate on newsletters
+30+ Client programs
+
+Programs start from $2,000 a month.
+
+What a cold calling service does: phone outreach inside one program that also uses email and LinkedIn. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message.
+
+Who gets called: buyers who match a definition you approve, on the same accounts as the email and the LinkedIn note.
+
+Qualification: against a written definition you approve before launch.
+
+Target up to 25,000 new contacts a month
+Programs start from $2,000 a month. See pricing (https://www.beleaded.com/pricing/).
+Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
+
+What is a B2B cold calling service?
+Phone outreach used with email and LinkedIn in one program, for buyers who match a definition you approve.
+
+How does cold calling fit with email and LinkedIn?
+Calling runs in the same program as email and LinkedIn, on the buyers you approved.
+
+How do you qualify a call?
+Against a written definition you approve before launch.
+
+Who gets called?
+Buyers from the account list you review before the program starts.
+
+What is left off the list?
+Current customers and the live deals the client names are left out before the list goes into the program.
+
+Who takes the meeting once it is booked?
+Your sellers run the meeting from the hold. Booking is where this program ends.
+
+How much does it cost?
+Programs start from $2,000 a month.
+
+Related: https://www.beleaded.com/lead-generation-services/ https://www.beleaded.com/cold-email-agency/ https://www.beleaded.com/appointment-setting/ https://www.beleaded.com/linkedin-lead-generation-agency/
+
+---
+
+URL: https://www.beleaded.com/demand-generation-agency/
+
+# B2B demand generation agency
+
+One plan that builds interest with the buyers you want and turns it into booked calls: outbound, paid social and newsletters aimed at the same accounts. Target up to 25,000 new contacts a month.
+
+400K+ Emails a day of sending capacity
+99% Delivery rate across programs
+49 to 51% Average open rate on newsletters
+30+ Client programs
+
+Programs start from $2,000 a month.
+
+Demand generation builds interest with your market. Lead generation turns that interest into conversations. We run both toward booked calls.
+
+Channels: cold email (https://www.beleaded.com/cold-email-agency/), LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/), paid social (https://www.beleaded.com/paid-social-agency/), newsletters (https://www.beleaded.com/newsletter-agency/). The channels stay the ones already described on those pages.
+
+Measured on booked calls and pipeline, not form fills.
+
+A count of booked conversations is not written down until the market has been reviewed. The opening call is where a qualified conversation gets defined.
+
+Target up to 25,000 new contacts a month
+Programs start from $2,000 a month. See pricing (https://www.beleaded.com/pricing/).
+Estimate the plan in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
+
+What is the difference between demand generation and lead generation?
+Demand generation builds interest with your market. Lead generation turns that interest into conversations. We run both toward booked calls.
+
+What does a demand generation agency do?
+It plans and runs the channels that make your buyers aware of you and ready to talk.
+
+How do you measure results?
+Booked calls and pipeline, not form fills.
+
+Which channels sit in the plan?
+Cold email, LinkedIn, paid social, and a newsletter, aimed at the same accounts.
+
+Who is a fit for this plan?
+A company that wants those channels on one audience, and someone free to take the booked call.
+
+When should you hire a larger firm?
+When you want an embedded brand team for a much bigger organization, or nobody on your side can take a booked call.
+
+How much does it cost?
+Programs start from $2,000 a month.
+
+Related: https://www.beleaded.com/lead-generation-services/ https://www.beleaded.com/cold-email-agency/ https://www.beleaded.com/linkedin-lead-generation-agency/ https://www.beleaded.com/paid-social-agency/ https://www.beleaded.com/newsletter-agency/ https://www.beleaded.com/cold-calling-services/
+Phone outreach to the same accounts as the email and the LinkedIn note.
 
 ---
 
