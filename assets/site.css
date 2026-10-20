@@ -1025,6 +1025,11 @@ a.nl-img{display:block;text-decoration:none}
 .blog-cat:first-child{margin-top:0}
 @media (max-width:980px){.posts{grid-template-columns:1fr 1fr}}
 @media (max-width:640px){.posts{grid-template-columns:1fr}}
+/* Hub card grid. Four across on desktop so four cards fill the row, two by two below 980px, one column on small screens. */
+.hub-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.hub-span{grid-column:1/-1}
+@media (max-width:980px){.hub-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){.hub-grid{grid-template-columns:1fr}}
 
 /* Author box */
 .author{margin-top:2.4em;display:grid;grid-template-columns:auto minmax(0,1fr);gap:18px;align-items:start;padding:22px 24px;border-radius:var(--r);background:var(--paper-2);border:1px solid var(--line)}
@@ -1712,6 +1717,7 @@ p,li,dd,.lead{text-wrap:pretty}
      display-font swap grew the strip and failed CLS. */
   .proof-strip dd{min-height:calc(1.35em * 3)}
 }
+.proof-strip + .callout{margin-top:28px}
 
 /* Buyer scorecard */
 .scorecard-hero h1{font-size:clamp(1.85rem,1.05rem + 2.2vw,2.75rem);max-width:20ch;line-height:1.08}
