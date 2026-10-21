@@ -754,6 +754,9 @@
   }
 
 
+  /* While the booking popup is open, pointermove must not put the custom cursor back. */
+  var calendlyCursorHeld = false;
+
   /* ---------------- Custom cursor ---------------- */
   function setupCursor() {
     if (reduce || isSmall() || !window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
@@ -770,6 +773,7 @@
       if (Math.abs(x - rx) > 0.2 || Math.abs(y - ry) > 0.2) raf = requestAnimationFrame(loop);
     }
     document.addEventListener("pointermove", function (e) {
+      if (calendlyCursorHeld) return;
       x = e.clientX; y = e.clientY; root.classList.add("cur-on");
       var t = e.target;
       var hot = t.closest ? t.closest("a, button, [role=tab], summary, label.sw, input[type=range], [data-cursor]") : null;
@@ -785,7 +789,10 @@
     document.addEventListener("pointerdown", function () { ring.classList.add("down"); });
     document.addEventListener("pointerup", function () { ring.classList.remove("down"); });
     document.documentElement.addEventListener("mouseleave", function () { root.classList.remove("cur-on"); });
-    document.documentElement.addEventListener("mouseenter", function () { root.classList.add("cur-on"); });
+    document.documentElement.addEventListener("mouseenter", function () {
+      if (calendlyCursorHeld) return;
+      root.classList.add("cur-on");
+    });
   }
 
   /* ---------------- Cursor light on dark surfaces, shine on lime ---------------- */
@@ -2447,13 +2454,20 @@
   /* Plain primary click on a calendly.com link opens the popup.
      Ctrl, Cmd, Shift, Alt, and any non-primary button keep the link's own new tab.
      preventDefault runs only for the intercepted click. The href is not rewritten.
-     Widget CSS and JS load on the first intercepted click and are reused after that.
-     If the script fails, or the overlay is still missing after 3 seconds, open that
-     same href in one new tab. A click never opens the popup and a tab together. */
+     Widget CSS and JS preload once on pointerover or focus, and again on click if needed.
+     A backdrop shows immediately. If the script fails, or the overlay is still missing
+     after 3 seconds, open that same href in one new tab. A click never opens the popup
+     and a tab together. */
   var calendlyCss = "https://assets.calendly.com/assets/external/widget.css";
   var calendlyJs = "https://assets.calendly.com/assets/external/widget.js";
   var calendlyLoadState = "idle";
   var calendlyWaiters = [];
+  var calendlyScrollY = 0;
+  var calendlyOpener = null;
+  var calendlyCursorState = null;
+  var calendlySawOverlay = false;
+  var calendlyCloseReady = false;
+  var calendlyObserver = null;
 
   function calendlyPopupOpen() {
     return !!document.querySelector(".calendly-overlay");
@@ -2517,15 +2531,157 @@
     }
   }
 
-  function openCalendlyPopup(href) {
+  function showCalendlyHold() {
+    if (document.querySelector(".bl-cal-hold")) return;
+    var hold = document.createElement("div");
+    var spin = document.createElement("div");
+    var i;
+    hold.className = "bl-cal-hold";
+    hold.setAttribute("aria-hidden", "true");
+    spin.className = "bl-cal-hold-spin";
+    for (i = 0; i < 3; i++) spin.appendChild(document.createElement("div"));
+    hold.appendChild(spin);
+    document.body.appendChild(hold);
+  }
+
+  function removeCalendlyHold() {
+    var hold = document.querySelector(".bl-cal-hold");
+    if (hold && hold.parentNode) hold.parentNode.removeChild(hold);
+  }
+
+  function calendlyInertNodes() {
+    return [
+      document.querySelector(".site-header"),
+      document.querySelector("main"),
+      document.querySelector(".site-footer"),
+      document.querySelector(".book-bar")
+    ];
+  }
+
+  function setCalendlyInert(on) {
+    var nodes = calendlyInertNodes();
+    var i;
+    for (i = 0; i < nodes.length; i++) {
+      if (!nodes[i]) continue;
+      if (on) nodes[i].setAttribute("inert", "");
+      else nodes[i].removeAttribute("inert");
+    }
+  }
+
+  function holdCalendlyCursor() {
+    calendlyCursorState = {
+      has: root.classList.contains("has-cursor"),
+      on: root.classList.contains("cur-on")
+    };
+    calendlyCursorHeld = true;
+    root.classList.remove("has-cursor");
+    root.classList.remove("cur-on");
+  }
+
+  function restoreCalendlyCursor() {
+    var state = calendlyCursorState;
+    if (state) {
+      root.classList.toggle("has-cursor", !!state.has);
+      root.classList.toggle("cur-on", !!state.on);
+    }
+    calendlyCursorState = null;
+    calendlyCursorHeld = false;
+  }
+
+  function beginCalendlyUi(opener) {
+    if (opener) calendlyOpener = opener;
+    if (root.classList.contains("bl-cal-open")) return;
+    calendlyScrollY = window.scrollY || window.pageYOffset || 0;
+    holdCalendlyCursor();
+    root.classList.add("bl-cal-open");
+    setCalendlyInert(true);
+    ensureCalendlyObserver();
+  }
+
+  function endCalendlyUi() {
+    var y, opener;
+    removeCalendlyHold();
+    if (!root.classList.contains("bl-cal-open")) return;
+    root.classList.remove("bl-cal-open");
+    setCalendlyInert(false);
+    restoreCalendlyCursor();
+    y = calendlyScrollY;
+    opener = calendlyOpener;
+    calendlyOpener = null;
+    calendlyCloseReady = false;
+    if (opener && typeof opener.focus === "function") {
+      try { opener.focus({ preventScroll: true }); }
+      catch (err) { opener.focus(); }
+    }
+    window.scrollTo(0, y);
+  }
+
+  function focusCalendlyClose() {
+    var btn = document.querySelector(".calendly-overlay button.calendly-popup-close");
+    if (btn && typeof btn.focus === "function") btn.focus();
+  }
+
+  function upgradeCalendlyClose() {
+    var old = document.querySelector(".calendly-overlay .calendly-popup-close");
+    var btn;
+    if (!old) return null;
+    if (old.tagName === "BUTTON") return old;
+    btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "calendly-popup-close";
+    btn.setAttribute("aria-label", "Close booking");
+    btn.addEventListener("click", function (ev) {
+      ev.preventDefault();
+      if (window.Calendly && typeof window.Calendly.closePopupWidget === "function") {
+        window.Calendly.closePopupWidget();
+      }
+    });
+    if (old.parentNode) old.parentNode.replaceChild(btn, old);
+    return btn;
+  }
+
+  function prepareOpenPopup() {
+    if (!calendlyPopupOpen()) return;
+    calendlySawOverlay = true;
+    removeCalendlyHold();
+    if (calendlyCloseReady) return;
+    calendlyCloseReady = true;
+    upgradeCalendlyClose();
+    focusCalendlyClose();
+    if (window.requestAnimationFrame) requestAnimationFrame(focusCalendlyClose);
+  }
+
+  function onCalendlyMutations() {
+    if (calendlyPopupOpen()) {
+      prepareOpenPopup();
+      return;
+    }
+    if (calendlySawOverlay) {
+      calendlySawOverlay = false;
+      endCalendlyUi();
+    }
+  }
+
+  function ensureCalendlyObserver() {
+    if (calendlyObserver || !window.MutationObserver) return;
+    calendlyObserver = new MutationObserver(onCalendlyMutations);
+    calendlyObserver.observe(document.body, { childList: true, subtree: true });
+  }
+
+  function openCalendlyPopup(href, opener) {
     var settled = false;
-    var timer = window.setTimeout(function () {
+    var timer;
+    showCalendlyHold();
+    beginCalendlyUi(opener);
+    timer = window.setTimeout(function () {
       if (settled) return;
       if (calendlyPopupOpen()) {
         settled = true;
+        prepareOpenPopup();
         return;
       }
       settled = true;
+      endCalendlyUi();
       window.open(href, "_blank", "noopener");
     }, 3000);
 
@@ -2533,6 +2689,7 @@
       if (settled) return;
       settled = true;
       window.clearTimeout(timer);
+      prepareOpenPopup();
     }
 
     function finishFallback() {
@@ -2543,6 +2700,7 @@
       }
       settled = true;
       window.clearTimeout(timer);
+      endCalendlyUi();
       window.open(href, "_blank", "noopener");
     }
 
@@ -2581,20 +2739,64 @@
     return el.closest("a");
   }
 
+  function preloadCalendlyFrom(target) {
+    var a = calendlyAnchorFrom(target);
+    if (!a || a.hostname !== "calendly.com") return;
+    ensureCalendly(function () {});
+  }
+
+  document.addEventListener("pointerover", function (e) {
+    preloadCalendlyFrom(e.target);
+  });
+  document.addEventListener("focusin", function (e) {
+    if (root.classList.contains("bl-cal-open")) {
+      var overlay = document.querySelector(".calendly-overlay");
+      if (overlay && e.target && !overlay.contains(e.target)) focusCalendlyClose();
+    }
+    preloadCalendlyFrom(e.target);
+  });
+  document.addEventListener("keydown", function (e) {
+    var overlay, btn, frame, active;
+    if (e.key === "Escape" || e.keyCode === 27) {
+      if (!calendlyPopupOpen()) return;
+      if (window.Calendly && typeof window.Calendly.closePopupWidget === "function") {
+        window.Calendly.closePopupWidget();
+      }
+      return;
+    }
+    if (e.key !== "Tab" || !root.classList.contains("bl-cal-open")) return;
+    overlay = document.querySelector(".calendly-overlay");
+    if (!overlay) return;
+    btn = overlay.querySelector("button.calendly-popup-close");
+    frame = overlay.querySelector("iframe");
+    if (!btn) return;
+    active = document.activeElement;
+    if (active === btn) {
+      e.preventDefault();
+      if (!e.shiftKey && frame && typeof frame.focus === "function") frame.focus();
+      else btn.focus();
+      return;
+    }
+    if (!active || !overlay.contains(active)) {
+      e.preventDefault();
+      btn.focus();
+    }
+  });
   document.addEventListener("click", function (e) {
     if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
     var a = calendlyAnchorFrom(e.target);
     if (!a || a.hostname !== "calendly.com") return;
     e.preventDefault();
-    openCalendlyPopup(a.href);
+    openCalendlyPopup(a.href, a);
   });
 
   /* book_meeting fires once per page load, on production hosts only.
-     The position is the stored bl_last_cta string, or unknown.
+     bl_last_cta is JSON. Only its position string is sent.
+     A bad value or a missing position sends unknown.
      Invitee fields from the Calendly message are never read or sent. */
   var bookMeetingSent = false;
   window.addEventListener("message", function (event) {
-    var data, position, stored;
+    var data, position, stored, parsed;
     if (!beleadedHost()) return;
     if (!event || event.origin !== "https://calendly.com") return;
     data = event.data;
@@ -2604,7 +2806,10 @@
     position = "unknown";
     try {
       stored = window.localStorage.getItem("bl_last_cta");
-      if (stored) position = stored;
+      if (stored) {
+        parsed = JSON.parse(stored);
+        if (parsed && typeof parsed.position === "string" && parsed.position) position = parsed.position;
+      }
     } catch (err) {}
     if (typeof gtag === "function") gtag("event", "book_meeting", { position: position });
   });

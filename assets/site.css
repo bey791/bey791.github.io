@@ -1853,3 +1853,19 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
   body.has-book-bar{padding-bottom:calc(48px + env(safe-area-inset-bottom,0px))}
   body.nav-open .book-bar{visibility:hidden;pointer-events:none}
 }
+
+/* Calendly popup. html overflow-x:clip ignores Calendly's body lock, so bl-cal-open holds the page. */
+html.bl-cal-open,html.bl-cal-open body{overflow:hidden;scrollbar-gutter:stable}
+html.bl-cal-open .cur,html.bl-cal-open .cur-ring{display:none}
+.bl-cal-hold{position:fixed;inset:0;z-index:9999;background:rgba(31,31,31,.4);overflow:hidden}
+.bl-cal-hold-spin{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);text-align:center}
+.bl-cal-hold-spin div{display:inline-block;width:18px;height:18px;margin:0 3px;border-radius:50%;background:#C7FB6D;animation:bl-cal-bounce 1.4s ease-in-out infinite;animation-fill-mode:both}
+.bl-cal-hold-spin div:nth-child(1){animation-delay:-.32s}
+.bl-cal-hold-spin div:nth-child(2){animation-delay:-.16s}
+@keyframes bl-cal-bounce{0%,80%,100%{transform:scale(0)}40%{transform:scale(1)}}
+html .calendly-overlay .calendly-spinner>div{background-color:#C7FB6D}
+html .calendly-overlay button.calendly-popup-close{box-sizing:border-box;width:44px;height:44px;min-width:44px;min-height:44px;margin:0;padding:0;border:0;border-radius:50%;appearance:none;background-color:rgba(31,31,31,.72);background-image:url("https://assets.calendly.com/assets/external/close-icon.svg");background-repeat:no-repeat;background-position:center;background-size:19px 19px;color:#fff;cursor:pointer;position:absolute;right:13px;top:13px;z-index:2}
+html .calendly-overlay button.calendly-popup-close:focus-visible{outline:2px solid #C7FB6D;outline-offset:2px}
+@media (max-width:640px){
+  html .calendly-overlay .calendly-popup{top:0;right:0;bottom:0;left:0;width:100%;height:100%;max-height:none!important;min-width:0;transform:none}
+}
