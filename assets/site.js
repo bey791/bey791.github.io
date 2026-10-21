@@ -2600,11 +2600,14 @@
 
   function pinCalendlyBody(y) {
     var body = document.body;
+    var sw = window.innerWidth - document.documentElement.clientWidth;
+    root.classList.add("bl-cal-open");
     body.style.position = "fixed";
     body.style.top = "-" + y + "px";
     body.style.left = "0";
     body.style.right = "0";
-    body.style.width = "100%";
+    body.style.width = "auto";
+    body.style.paddingRight = sw + "px";
   }
 
   function unpinCalendlyBody() {
@@ -2614,6 +2617,7 @@
     body.style.left = "";
     body.style.right = "";
     body.style.width = "";
+    body.style.paddingRight = "";
   }
 
   function beginCalendlyUi(opener) {
@@ -2623,7 +2627,6 @@
     y = window.scrollY || window.pageYOffset || 0;
     calendlyScrollY = y;
     holdCalendlyCursor();
-    root.classList.add("bl-cal-open");
     pinCalendlyBody(y);
     setCalendlyInert(true);
     ensureCalendlyObserver();
