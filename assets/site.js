@@ -41,6 +41,7 @@
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(function () {
+      if (root.classList.contains("bl-cal-open")) { ticking = false; return; }
       var y = window.scrollY || 0;
       if (header) header.classList.toggle("scrolled", y > 8);
       if (bar) {
@@ -2455,16 +2456,21 @@
      Ctrl, Cmd, Shift, Alt, and any non-primary button keep the link's own new tab.
      preventDefault runs only for the intercepted click. The href is not rewritten.
      Widget CSS and JS preload once on pointerover or focus, and again on click if needed.
-     A backdrop shows immediately. If the script fails, or the overlay is still missing
-     after 3 seconds, open that same href in one new tab. A click never opens the popup
-     and a tab together. Escape or a click on that backdrop, before the overlay exists,
-     cancels the open: no popup and no tab. While the popup is up the body is pinned
-     and the saved scroll is restored instantly on close. */
+     A backdrop shows immediately. The 3 second new-tab fallback arms only while widget.js
+     is still loading. A successful initPopupWidget call clears that timer immediately and
+     does not call window.open, even if the overlay node is not in the document yet.
+     If init throws, the script fails, or the script is still loading after 3 seconds,
+     that same href opens in one new tab. A click never opens the popup and a tab together.
+     Escape or a click on that backdrop, before the overlay exists, cancels the open:
+     no popup and no tab. While the popup is up the body is pinned and the saved scroll
+     is restored instantly on close. The html inline overflow is saved on open and put
+     back on close before the nested scroller reflow and the scroll restore. */
   var calendlyCss = "https://assets.calendly.com/assets/external/widget.css";
   var calendlyJs = "https://assets.calendly.com/assets/external/widget.js";
   var calendlyLoadState = "idle";
   var calendlyWaiters = [];
   var calendlyScrollY = 0;
+  var calendlyHtmlOverflow = "";
   var calendlyOpener = null;
   var calendlyCursorState = null;
   var calendlySawOverlay = false;
@@ -2601,13 +2607,16 @@
   function pinCalendlyBody(y) {
     var body = document.body;
     var sw = window.innerWidth - document.documentElement.clientWidth;
+    calendlyHtmlOverflow = root.style.overflow;
     root.classList.add("bl-cal-open");
+    root.style.overflow = "hidden";
     body.style.position = "fixed";
     body.style.top = "-" + y + "px";
     body.style.left = "0";
     body.style.right = "0";
     body.style.width = "auto";
     body.style.paddingRight = sw + "px";
+    root.style.setProperty("--bl-cal-sb", sw + "px");
   }
 
   function unpinCalendlyBody() {
@@ -2618,6 +2627,7 @@
     body.style.right = "";
     body.style.width = "";
     body.style.paddingRight = "";
+    root.style.removeProperty("--bl-cal-sb");
   }
 
   function beginCalendlyUi(opener) {
@@ -2638,8 +2648,18 @@
     if (!root.classList.contains("bl-cal-open")) return;
     y = calendlyScrollY;
     unpinCalendlyBody();
-    window.scrollTo({ top: y, left: 0, behavior: "instant" });
     root.classList.remove("bl-cal-open");
+    root.style.overflow = calendlyHtmlOverflow;
+    calendlyHtmlOverflow = "";
+    /* Chrome drops nested classic scrollbars when the page scrollbar toggles. Re-evaluate the page's own scrollers. */
+    Array.prototype.forEach.call(document.querySelectorAll(".table-wrap,.owners-scroll,.prose pre"), function (el) {
+      var sl = el.scrollLeft;
+      el.style.overflowX = "hidden";
+      void el.offsetWidth;
+      el.style.overflowX = "";
+      el.scrollLeft = sl;
+    });
+    window.scrollTo({ top: y, left: 0, behavior: "instant" });
     setCalendlyInert(false);
     restoreCalendlyCursor();
     opener = calendlyOpener;
@@ -2718,48 +2738,49 @@
     endCalendlyUi();
   }
 
+  function calendlyWidgetReady() {
+    return !!(window.Calendly && typeof window.Calendly.initPopupWidget === "function");
+  }
+
   function openCalendlyPopup(href, opener) {
     var gen = calendlyOpenGen + 1;
     var settled = false;
-    var poll = 0;
     calendlyOpenGen = gen;
     calendlyLiveGen = gen;
     showCalendlyHold();
     beginCalendlyUi(opener);
-    if (calendlyOpenTimer) window.clearTimeout(calendlyOpenTimer);
-    calendlyOpenTimer = window.setTimeout(function () {
-      if (settled || gen !== calendlyOpenGen) return;
-      if (calendlyPopupOpen()) {
+    if (calendlyOpenTimer) {
+      window.clearTimeout(calendlyOpenTimer);
+      calendlyOpenTimer = 0;
+    }
+    if (!calendlyWidgetReady()) {
+      calendlyOpenTimer = window.setTimeout(function () {
+        if (settled || gen !== calendlyOpenGen) return;
+        if (calendlyPopupOpen()) {
+          settled = true;
+          calendlyOpenTimer = 0;
+          prepareOpenPopup();
+          return;
+        }
         settled = true;
         calendlyOpenTimer = 0;
-        prepareOpenPopup();
-        return;
-      }
-      settled = true;
-      calendlyOpenTimer = 0;
-      endCalendlyUi();
-      window.open(href, "_blank", "noopener");
-    }, 3000);
-
-    function finishOpen() {
-      if (settled || gen !== calendlyOpenGen) return;
-      settled = true;
-      if (poll) window.clearInterval(poll);
-      if (calendlyOpenTimer) {
-        window.clearTimeout(calendlyOpenTimer);
-        calendlyOpenTimer = 0;
-      }
-      prepareOpenPopup();
+        endCalendlyUi();
+        window.open(href, "_blank", "noopener");
+      }, 3000);
     }
 
     function finishFallback() {
       if (settled || gen !== calendlyOpenGen) return;
       if (calendlyPopupOpen()) {
-        finishOpen();
+        settled = true;
+        if (calendlyOpenTimer) {
+          window.clearTimeout(calendlyOpenTimer);
+          calendlyOpenTimer = 0;
+        }
+        prepareOpenPopup();
         return;
       }
       settled = true;
-      if (poll) window.clearInterval(poll);
       if (calendlyOpenTimer) {
         window.clearTimeout(calendlyOpenTimer);
         calendlyOpenTimer = 0;
@@ -2770,32 +2791,23 @@
 
     ensureCalendly(function (ok) {
       if (settled || gen !== calendlyOpenGen) return;
-      if (!ok || !window.Calendly || typeof window.Calendly.initPopupWidget !== "function") {
+      if (!ok || !calendlyWidgetReady()) {
         finishFallback();
         return;
       }
-      if (gen !== calendlyOpenGen) return;
       try {
         window.Calendly.initPopupWidget({ url: href });
       } catch (err) {
         finishFallback();
         return;
       }
-      if (gen !== calendlyOpenGen) return;
-      if (calendlyPopupOpen()) {
-        finishOpen();
-        return;
+      if (settled || gen !== calendlyOpenGen) return;
+      settled = true;
+      if (calendlyOpenTimer) {
+        window.clearTimeout(calendlyOpenTimer);
+        calendlyOpenTimer = 0;
       }
-      poll = window.setInterval(function () {
-        if (gen !== calendlyOpenGen || settled) {
-          window.clearInterval(poll);
-          return;
-        }
-        if (calendlyPopupOpen()) {
-          window.clearInterval(poll);
-          finishOpen();
-        }
-      }, 50);
+      if (calendlyPopupOpen()) prepareOpenPopup();
     });
   }
 
@@ -2864,8 +2876,9 @@
   });
 
   /* book_meeting fires once per page load, on production hosts only.
-     bl_last_cta is JSON. Only its position string is sent.
-     A bad value or a missing position sends unknown.
+     bl_last_cta is JSON. position is sent only when that JSON parses and
+     position is a string of 32 characters or fewer. Otherwise position is unknown.
+     The event payload is exactly position and page_path. page_path is location.pathname.
      Invitee fields from the Calendly message are never read or sent. */
   var bookMeetingSent = false;
   window.addEventListener("message", function (event) {
@@ -2881,9 +2894,9 @@
       stored = window.localStorage.getItem("bl_last_cta");
       if (stored) {
         parsed = JSON.parse(stored);
-        if (parsed && typeof parsed.position === "string" && parsed.position) position = parsed.position;
+        if (parsed && typeof parsed.position === "string" && parsed.position.length <= 32) position = parsed.position;
       }
     } catch (err) {}
-    if (typeof gtag === "function") gtag("event", "book_meeting", { position: position });
+    if (typeof gtag === "function") gtag("event", "book_meeting", { position: position, page_path: location.pathname });
   });
 })();
