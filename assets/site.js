@@ -2457,7 +2457,9 @@
      Widget CSS and JS preload once on pointerover or focus, and again on click if needed.
      A backdrop shows immediately. If the script fails, or the overlay is still missing
      after 3 seconds, open that same href in one new tab. A click never opens the popup
-     and a tab together. */
+     and a tab together. Escape or a click on that backdrop, before the overlay exists,
+     cancels the open: no popup and no tab. While the popup is up the body is pinned
+     and the saved scroll is restored instantly on close. */
   var calendlyCss = "https://assets.calendly.com/assets/external/widget.css";
   var calendlyJs = "https://assets.calendly.com/assets/external/widget.js";
   var calendlyLoadState = "idle";
@@ -2468,6 +2470,9 @@
   var calendlySawOverlay = false;
   var calendlyCloseReady = false;
   var calendlyObserver = null;
+  var calendlyOpenGen = 0;
+  var calendlyLiveGen = 0;
+  var calendlyOpenTimer = 0;
 
   function calendlyPopupOpen() {
     return !!document.querySelector(".calendly-overlay");
@@ -2541,6 +2546,11 @@
     spin.className = "bl-cal-hold-spin";
     for (i = 0; i < 3; i++) spin.appendChild(document.createElement("div"));
     hold.appendChild(spin);
+    hold.addEventListener("click", function (ev) {
+      ev.preventDefault();
+      if (calendlyPopupOpen()) return;
+      cancelPendingCalendly();
+    });
     document.body.appendChild(hold);
   }
 
@@ -2588,12 +2598,33 @@
     calendlyCursorHeld = false;
   }
 
+  function pinCalendlyBody(y) {
+    var body = document.body;
+    body.style.position = "fixed";
+    body.style.top = "-" + y + "px";
+    body.style.left = "0";
+    body.style.right = "0";
+    body.style.width = "100%";
+  }
+
+  function unpinCalendlyBody() {
+    var body = document.body;
+    body.style.position = "";
+    body.style.top = "";
+    body.style.left = "";
+    body.style.right = "";
+    body.style.width = "";
+  }
+
   function beginCalendlyUi(opener) {
+    var y;
     if (opener) calendlyOpener = opener;
     if (root.classList.contains("bl-cal-open")) return;
-    calendlyScrollY = window.scrollY || window.pageYOffset || 0;
+    y = window.scrollY || window.pageYOffset || 0;
+    calendlyScrollY = y;
     holdCalendlyCursor();
     root.classList.add("bl-cal-open");
+    pinCalendlyBody(y);
     setCalendlyInert(true);
     ensureCalendlyObserver();
   }
@@ -2602,10 +2633,12 @@
     var y, opener;
     removeCalendlyHold();
     if (!root.classList.contains("bl-cal-open")) return;
+    y = calendlyScrollY;
+    unpinCalendlyBody();
+    window.scrollTo({ top: y, left: 0, behavior: "instant" });
     root.classList.remove("bl-cal-open");
     setCalendlyInert(false);
     restoreCalendlyCursor();
-    y = calendlyScrollY;
     opener = calendlyOpener;
     calendlyOpener = null;
     calendlyCloseReady = false;
@@ -2613,7 +2646,6 @@
       try { opener.focus({ preventScroll: true }); }
       catch (err) { opener.focus(); }
     }
-    window.scrollTo(0, y);
   }
 
   function focusCalendlyClose() {
@@ -2653,6 +2685,12 @@
 
   function onCalendlyMutations() {
     if (calendlyPopupOpen()) {
+      if (calendlyLiveGen !== calendlyOpenGen) {
+        if (window.Calendly && typeof window.Calendly.closePopupWidget === "function") {
+          window.Calendly.closePopupWidget();
+        }
+        return;
+      }
       prepareOpenPopup();
       return;
     }
@@ -2668,65 +2706,92 @@
     calendlyObserver.observe(document.body, { childList: true, subtree: true });
   }
 
+  function cancelPendingCalendly() {
+    calendlyOpenGen = calendlyOpenGen + 1;
+    if (calendlyOpenTimer) {
+      window.clearTimeout(calendlyOpenTimer);
+      calendlyOpenTimer = 0;
+    }
+    endCalendlyUi();
+  }
+
   function openCalendlyPopup(href, opener) {
+    var gen = calendlyOpenGen + 1;
     var settled = false;
-    var timer;
+    var poll = 0;
+    calendlyOpenGen = gen;
+    calendlyLiveGen = gen;
     showCalendlyHold();
     beginCalendlyUi(opener);
-    timer = window.setTimeout(function () {
-      if (settled) return;
+    if (calendlyOpenTimer) window.clearTimeout(calendlyOpenTimer);
+    calendlyOpenTimer = window.setTimeout(function () {
+      if (settled || gen !== calendlyOpenGen) return;
       if (calendlyPopupOpen()) {
         settled = true;
+        calendlyOpenTimer = 0;
         prepareOpenPopup();
         return;
       }
       settled = true;
+      calendlyOpenTimer = 0;
       endCalendlyUi();
       window.open(href, "_blank", "noopener");
     }, 3000);
 
     function finishOpen() {
-      if (settled) return;
+      if (settled || gen !== calendlyOpenGen) return;
       settled = true;
-      window.clearTimeout(timer);
+      if (poll) window.clearInterval(poll);
+      if (calendlyOpenTimer) {
+        window.clearTimeout(calendlyOpenTimer);
+        calendlyOpenTimer = 0;
+      }
       prepareOpenPopup();
     }
 
     function finishFallback() {
-      if (settled) return;
+      if (settled || gen !== calendlyOpenGen) return;
       if (calendlyPopupOpen()) {
         finishOpen();
         return;
       }
       settled = true;
-      window.clearTimeout(timer);
+      if (poll) window.clearInterval(poll);
+      if (calendlyOpenTimer) {
+        window.clearTimeout(calendlyOpenTimer);
+        calendlyOpenTimer = 0;
+      }
       endCalendlyUi();
       window.open(href, "_blank", "noopener");
     }
 
     ensureCalendly(function (ok) {
-      if (settled) return;
+      if (settled || gen !== calendlyOpenGen) return;
       if (!ok || !window.Calendly || typeof window.Calendly.initPopupWidget !== "function") {
         finishFallback();
         return;
       }
+      if (gen !== calendlyOpenGen) return;
       try {
         window.Calendly.initPopupWidget({ url: href });
       } catch (err) {
         finishFallback();
         return;
       }
+      if (gen !== calendlyOpenGen) return;
       if (calendlyPopupOpen()) {
         finishOpen();
         return;
       }
-      var poll = window.setInterval(function () {
+      poll = window.setInterval(function () {
+        if (gen !== calendlyOpenGen || settled) {
+          window.clearInterval(poll);
+          return;
+        }
         if (calendlyPopupOpen()) {
           window.clearInterval(poll);
           finishOpen();
-          return;
         }
-        if (settled) window.clearInterval(poll);
       }, 50);
     });
   }
@@ -2758,9 +2823,14 @@
   document.addEventListener("keydown", function (e) {
     var overlay, btn, frame, active;
     if (e.key === "Escape" || e.keyCode === 27) {
-      if (!calendlyPopupOpen()) return;
-      if (window.Calendly && typeof window.Calendly.closePopupWidget === "function") {
-        window.Calendly.closePopupWidget();
+      if (calendlyPopupOpen()) {
+        if (window.Calendly && typeof window.Calendly.closePopupWidget === "function") {
+          window.Calendly.closePopupWidget();
+        }
+        return;
+      }
+      if (root.classList.contains("bl-cal-open") || document.querySelector(".bl-cal-hold")) {
+        cancelPendingCalendly();
       }
       return;
     }
