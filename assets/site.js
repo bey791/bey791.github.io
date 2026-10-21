@@ -2349,15 +2349,51 @@
 
   /* One delegated listener. The inline stub defines gtag() before this file runs
      and queues onto dataLayer, so a click before gtag.js loads still records.
-     If a page has no stub, skip the call instead of throwing. */
+     If a page has no stub, skip the gtag call instead of throwing.
+     cta_click takes position from utm_campaign on that link's href only.
+     It does not read location.search and does not send any page query param.
+     The same click stores bl_last_cta for a later /booked/ page in another tab.
+     The handler does not cancel the click. These links open in a new tab. */
+  function campaignOf(href) {
+    var i = href.indexOf("?");
+    if (i < 0) return "";
+    var query = href.slice(i + 1).split("#")[0].split("&");
+    var p, pair, value;
+    for (p = 0; p < query.length; p++) {
+      pair = query[p].split("=");
+      if (pair[0] !== "utm_campaign") continue;
+      value = pair.slice(1).join("=");
+      try { return decodeURIComponent(value.replace(/\+/g, " ")); }
+      catch (err) { return value; }
+    }
+    return "";
+  }
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest('a[href*="calendly.com/ahmad-beleaded"], a[href^="mailto:"]');
-    if (!a || typeof gtag !== "function") return;
+    if (!a) return;
     var isCal = a.href.indexOf("calendly.com") > -1;
-    gtag("event", isCal ? "book_call_click" : "email_click", {
-      cta_location: a.getAttribute("data-cta") || "unlabeled",
-      link_text: (a.textContent || "").trim().slice(0, 60)
-    });
+    var cta = a.getAttribute("data-cta");
+    if (typeof gtag === "function") {
+      gtag("event", isCal ? "book_call_click" : "email_click", {
+        cta_location: cta || "unlabeled",
+        link_text: (a.textContent || "").trim().slice(0, 60)
+      });
+    }
+    if (!isCal) return;
+    var position = campaignOf(a.href) || "unknown";
+    var pagePath = location.pathname;
+    if (typeof gtag === "function") {
+      var fields = { position: position, page_path: pagePath };
+      if (cta) fields.cta = cta;
+      gtag("event", "cta_click", fields);
+    }
+    try {
+      localStorage.setItem("bl_last_cta", JSON.stringify({
+        position: position,
+        page_path: pagePath,
+        ts: Date.now()
+      }));
+    } catch (err) {}
   }, { capture: true });
 
   /* Analytics stays off the LCP window. The inline snippet queues the pageview on beleaded.com.
