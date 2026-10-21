@@ -2,7 +2,7 @@
 
 > Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.
 
-Source: https://www.beleaded.com/ . Updated 2026-10-20.
+Source: https://www.beleaded.com/ . Updated 2026-10-21.
 
 ## Where to verify us
 
@@ -575,6 +575,8 @@ Programs start from $2,000 a month. Infrastructure, lists, copy, and reply handl
 **How does appointment setting compare with hiring an SDR?**
 
 The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with an average ramp of 3.0 months. Programs start from $2,000 a month, with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings. It is not a claim that the program replaces every job an SDR does.
+
+The 2025 SDR benchmarks for ramp, pay, tenure and turnover are in hire an SDR or outsource (https://www.beleaded.com/blog/hire-sdr-or-outsource/).
 
 Email, LinkedIn and cold calling. For phone outreach, see cold calling services. See demand generation. LinkedIn alongside email is included when the program calls for it. Paid ads, SMS, and AI voice are separate programs. Ad spend is paid to the platform. Voice minutes are billed at cost. If you only want the warm reply handed to your team, say so on the call. The fee follows that scope. Sending domains we set up for cold volume stay off your company domain.
 
@@ -3859,6 +3861,10 @@ Connection request notes and follow-up messages that get accepted and answered o
 
 ## Lead generation
 
+### Hire or outsource an SDR
+
+Survey figures for how long a new rep takes to ramp, what the seat pays, how long people stay, and how often the seat turns over.
+
 ### How to build a B2B lead list
 
 A practical checklist for a targeted, verified B2B lead list for cold email and LinkedIn: ICP, filters, decision-makers, verification, catch-alls, and list size.
@@ -3900,6 +3906,160 @@ What you need before sending marketing texts in the US: prior express written co
 Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
 
 Or email sales@beleaded.com
+
+
+---
+
+URL: https://www.beleaded.com/blog/hire-sdr-or-outsource/
+
+- Home
+- Guides
+- Hire an SDR or outsource
+
+Lead generation
+
+# Hire an SDR or outsource? What the 2025 benchmarks show
+
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026. 7 min read.
+
+A new SDR takes 3.0 months on average to ramp, earns a median $80,000 on target, stays 1.9 years, and 40% of SDR seats turned over in 2024. Those are The Bridge Group's figures from a survey of 351 B2B companies, published February 6, 2025. Here is what each number covers and what it leaves out.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=blog-hire-sdr-or-outsource)
+
+Programs start from $2,000 a month
+
+In this note
+
+- Benchmarks
+- Ramp time
+- Pay
+- Tenure and turnover
+- Management load
+- An SDR day
+- Who was surveyed
+- What the numbers mean
+- How we run the job
+- FAQ
+- Sources
+
+## The 2025 SDR benchmarks at a glance
+
+Every row below is taken from The Bridge Group's SDR research for 2025 (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), an online survey of 351 B2B companies published by Matt Bertuzzi on February 6, 2025. The table has no price column and no Be Leaded column.
+
+SDR benchmarks from The Bridge Group 2025 research report, published February 6, 2025.
+
+| Metric | Figure | Source and date |
+| Ramp | 3.0 months on average, after a 3.8 month peak in 2014 | The Bridge Group, Feb 6, 2025 |
+| On-target earnings | $80,000 median, split $55,000 base and $25,000 variable, flat since 2022 | The Bridge Group, Feb 6, 2025 |
+| Tenure | 1.9 years on average. 58% of companies land between 12 and 23 months | The Bridge Group, Feb 6, 2025 |
+| 2024 attrition | 40% median. Middle half of companies: 21% to 57%. Split of 13% involuntary, 11% voluntary, 16% promotions | The Bridge Group, Feb 6, 2025 |
+| SDRs per leader | 6.4 median. 3.6 below $5 million revenue. 8.1 at $500 million and above | The Bridge Group, Feb 6, 2025 |
+| SDR manager on-target earnings | $146,000 median | The Bridge Group, Feb 6, 2025 |
+| Reps at quota | 60%, the lowest share the series has recorded | The Bridge Group, Feb 6, 2025 |
+| Daily activity mix | Phone, email, LinkedIn, and text or other | The Bridge Group, Feb 6, 2025 |
+| SDR to account executive ratio | One SDR for every 2.4 account executives | The Bridge Group, Feb 6, 2025 |
+
+## Ramp time is 3.0 months
+
+Average ramp in that survey is 3.0 months. That is the lowest mark the series has recorded since 2010, after a high of 3.8 months in 2014. Add your own hiring time on top of ramp. The months in between are the product, the buyer, the tools, and the talk track, and someone inside the company has to teach them.
+
+## Pay has been flat since 2022
+
+Median on-target earnings in the survey sit at $80,000 and have not moved since 2022. Base pay is $55,000 and variable pay is $25,000, a 68:32 split. The report's name for the person who leads this group is SDR manager, and that role's median on-target earnings are $146,000. Benefits, data subscriptions, and the manager's own time sit outside the $80,000. PayScale (https://www.payscale.com/research/US/Job=Sales_Development_Representative_(SDR)/Salary) lists a separate base-pay figure for the same job title, $51,677, from 840 salary profiles last updated September 3, 2026. That figure is a salary site, not this survey, and it leaves variable pay out.
+
+## Tenure and 2024 turnover
+
+Average tenure in the series is 1.9 years, the longest stretch it has shown since the early 2010s. In 58% of the companies, that average falls between 12 and 23 months. Median attrition for 2024 is 40%, and the middle of the companies runs from 21% to 57%. The 40% breaks into involuntary exits at 13%, voluntary exits at 11%, and promotions at 16%. A promotion is not a resignation. The seat is still empty afterward, and the ramp clock starts again after the next person is hired.
+
+## Management load moves with company size
+
+The median leader in the survey has 6.4 SDRs, down from 8 in the studies covering 2021 to 2023. Below $5 million in revenue the ratio is 3.6. At $500 million and above it is 8.1. Hiring one SDR does not remove the management job. Someone still reads the list, the conversations, and the weekly report. When that someone is the founder, the load sits on the founder's calendar.
+
+## What an SDR day is made of
+
+The median SDR day in that report mixes phone, email, LinkedIn, and text or other. The benchmark is 112 activities a day for an in-house SDR, made up of 44 phone, 41 email, 19 LinkedIn and 8 text or other (The Bridge Group (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), SDR research, February 2025). A day built only from email is a narrower job than the mix the survey describes.
+
+## Who was surveyed, and how far the numbers travel
+
+The sample behind every row is 351 B2B companies, surveyed online from 2024 into 2025. It is 83% B2B SaaS and 78% based in North America, with median revenue of $47 million and a median selling price of $50,000. Companies typed in their own numbers. A firm outside software, or outside North America, should read the medians as a direction, not a forecast for its own team. Readers who sell software can also open lead generation for B2B SaaS (https://www.beleaded.com/industries/b2b-saas/).
+
+## What the benchmarks mean before you hire or outsource
+
+Set the averages beside each other and the productive window is short. 1.9 years of tenure minus 3.0 months of ramp leaves about 19.8 months at full speed, before the backfill ramp starts again. That arithmetic uses only the survey averages. It is not a prediction for one person.
+
+The cost comparison and what an outsourced team includes are on the outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) page.
+
+A company that already employs reps can still divide the motion, with an agency on the list and the inboxes while those reps stay on live conversations. That division is an operating choice, not a second price list.
+
+Questions worth asking an agency before a contract are the 12 questions in the choosing guide (https://www.beleaded.com/guides/choosing-a-cold-email-agency/). The short note on an agency versus a hire sits in that guide's SDR section (https://www.beleaded.com/guides/choosing-a-cold-email-agency/#gd-sdr). How a booked call is defined on our own work is on B2B appointment setting (https://www.beleaded.com/appointment-setting/).
+
+## How we run the SDR job
+
+The figures under this heading are ours. They are not rows from the survey.
+
+- 400K+: Emails a day of sending capacity
+- 99%: Delivery rate across programs
+- 49 to 51%: Average open rate on newsletters
+- 30+: Client programs
+
+Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), and on the first call we agree whether we book the meeting or pass the warm reply to your team.
+
+Most programs go live in about three weeks. That is our figure, not a survey result.
+
+Want the SDR job done without the 3.0 month ramp? Bring your buyer and we will sketch the target list together on the call. Programs start from $2,000 a month (https://www.beleaded.com/pricing/). We do not promise a number of demos. Target up to 25,000 new contacts a month.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=blog-hire-sdr-or-outsource)
+
+See what an outsourced SDR team includes (https://www.beleaded.com/outsourced-sdr-team/)
+
+## FAQ
+
+**How long does it take an SDR to ramp?**
+
+The Bridge Group's 2025 report puts average ramp at 3.0 months, the lowest since 2010. Add your own hiring time on top of ramp.
+
+**What does an SDR earn?**
+
+Median on-target earnings are $80,000 a year, split $55,000 base and $25,000 variable, unchanged since 2022 (The Bridge Group, 2025). Benefits, tools, data and management sit on top.
+
+**How long do SDRs stay?**
+
+Average tenure is 1.9 years, and 58% of companies report 12 to 23 months (The Bridge Group, 2025).
+
+**What is the SDR turnover rate?**
+
+Median annual attrition was 40% in 2024: 13% involuntary, 11% voluntary and 16% promotions (The Bridge Group, 2025).
+
+**How many SDRs can one manager run?**
+
+The median is 6.4 SDRs per leader, from 3.6 at companies under $5 million in revenue to 8.1 at $500 million and above (The Bridge Group, 2025).
+
+**Do these benchmarks apply outside SaaS?**
+
+Treat them as directional. 83% of the 351 companies surveyed were B2B SaaS and 78% were based in North America.
+
+## Sources
+
+- Bridge Group 2025 research report on SDR models (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), Matt Bertuzzi, published February 6, 2025. Online survey of 351 B2B companies, fielded 2024 to 2025. Ramp, pay, tenure, 2024 attrition, leader ratio, SDR manager pay, the share of reps at quota, the channel mix of a median day, the SDR to account executive ratio, and the sample limits above are from that report.
+- PayScale, Sales Development Representative (SDR) salary (https://www.payscale.com/research/US/Job=Sales_Development_Representative_(SDR)/Salary), average base pay $51,677 from 840 salary profiles, last updated September 3, 2026. Used only as a second source for base pay. It is not part of the Bridge Group survey.
+
+Ahmad Khan (https://www.beleaded.com/about/) writes from Be Leaded
+
+He still takes the opening call with each new client.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=author&utm_content=blog-hire-sdr-or-outsource)
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You will leave with a straight answer on the market, the shape of a campaign, and the cost.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=blog-hire-sdr-or-outsource)
+
+If the survey is enough and you want the work off payroll, start on the outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) page.
+
+Or email sales@beleaded.com
+
+SDR hire? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=blog-hire-sdr-or-outsource).
 
 
 ---
@@ -8281,7 +8441,7 @@ Most cold email agencies use one of four models, or a mix of them.
 
 The Bridge Group's 2025 research puts median on-target earnings for a sales development rep at $80,000 a year, average ramp time at 3.0 months and average tenure at 1.9 years, before tools, data and management time. An agency brings infrastructure and people who are already ramped. An in-house rep brings deep product knowledge and live conversations inside your team.
 
-One sensible path is to prove the channel with an agency first, then decide whether to bring it in-house once you know what works.
+One sensible path is to prove the channel with an agency first, then decide whether to bring it in-house once you know what works. The 2025 SDR benchmarks for ramp, pay, tenure and turnover are in hire an SDR or outsource (https://www.beleaded.com/blog/hire-sdr-or-outsource/).
 
 ## How we answer these
 
@@ -8667,7 +8827,7 @@ URL: https://www.beleaded.com/outsourced-sdr-team/
  | Continuity | Average tenure of 1.9 years, with 40% median annual attrition | A team that stays on your program
  | Infrastructure | You buy and maintain domains, inboxes, data, and tools | Built, warmed, and monitored for you
 
-    SDR figures from The Bridge Group's 2025 SDR report. An in-house rep does things we do not, such as live discovery calls inside your team. This comparison is about cost and time to first meetings. The original table is on Be Leaded pricing (https://www.beleaded.com/pricing/). How the booked meeting is produced is on B2B appointment setting (https://www.beleaded.com/appointment-setting/).
+    SDR figures from The Bridge Group's 2025 SDR report. An in-house rep does things we do not, such as live discovery calls inside your team. This comparison is about cost and time to first meetings. The original table is on Be Leaded pricing (https://www.beleaded.com/pricing/). How the booked meeting is produced is on B2B appointment setting (https://www.beleaded.com/appointment-setting/). The full 2025 benchmarks are in hire an SDR or outsource (https://www.beleaded.com/blog/hire-sdr-or-outsource/).
 
 ## What is included
 
