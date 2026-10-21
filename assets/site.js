@@ -2452,16 +2452,32 @@
   window.blCalGen = 0;
   var blT = 0;
   var blS = null;
+  var blF = null;
+  var blBad = 0;
   function blA(t) {
     t = t && (t.nodeType === 1 ? t : t.parentElement);
     t = t && t.closest && t.closest("a");
     return t && t.href && t.href.indexOf("https://calendly.com/ahmad-beleaded") === 0 && t;
+  }
+  function blHide() {
+    var h = document.querySelector(".bl-cal-hold");
+    if (h) h.parentNode.removeChild(h);
+  }
+  function blCancel() {
+    if (!blT) return;
+    clearTimeout(blT);
+    blT = 0;
+    window.blCalGen++;
+    blHide();
+    document.documentElement.classList.remove("bl-cal-open");
+    if (blF) blF.focus();
   }
   function blJs(fn) {
     if (window.blCalendlyOpen) return fn && fn();
     if (!blS) {
       blS = document.createElement("script");
       blS.src = "/assets/js/calendly-popup.js?v=20261021c";
+      blS.addEventListener("error", function () { blBad = 1; });
       document.head.appendChild(blS);
     }
     if (fn) {
@@ -2475,25 +2491,40 @@
   }
   document.addEventListener("pointerover", blW);
   document.addEventListener("focusin", blW);
+  document.addEventListener("keydown", function (e) {
+    if (blT && (e.key === "Escape" || e.keyCode === 27)) blCancel();
+  });
   document.addEventListener("click", function (e) {
     var a = blA(e.target), g, h;
     if (!a || e.button || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
     e.preventDefault();
+    if (blBad) {
+      clearTimeout(blT);
+      blT = 0;
+      window.blCalGen++;
+      blHide();
+      window.open(a.href, "_blank", "noopener");
+      return;
+    }
+    blF = a;
     g = ++window.blCalGen;
     h = document.querySelector(".bl-cal-hold");
     if (!h) {
       h = document.createElement("div");
       h.className = "bl-cal-hold";
       h.innerHTML = "<div class=bl-cal-hold-spin><div></div><div></div><div></div></div>";
+      h.addEventListener("click", function (ev) {
+        ev.preventDefault();
+        blCancel();
+      });
       document.body.appendChild(h);
     }
     clearTimeout(blT);
     blT = setTimeout(function () {
       if (g - window.blCalGen) return;
       blT = 0;
-      ++window.blCalGen;
-      h = document.querySelector(".bl-cal-hold");
-      if (h) h.parentNode.removeChild(h);
+      window.blCalGen++;
+      blHide();
       window.open(a.href, "_blank", "noopener");
     }, 3000);
     blJs(function () {
