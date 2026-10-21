@@ -3,10 +3,13 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-VC74PPHD7V');
+  if (location.hostname === "www.beleaded.com" || location.hostname === "beleaded.com") {
+    gtag('js', new Date());
+    gtag('config', 'G-VC74PPHD7V');
+  }
   window.addEventListener("load", function () {
     function loadGtag() {
+      if (location.hostname !== "www.beleaded.com" && location.hostname !== "beleaded.com") return;
       if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
       var s = document.createElement("script");
       s.async = true;

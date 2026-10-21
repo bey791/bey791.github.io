@@ -2360,11 +2360,16 @@
     });
   }, { capture: true });
 
-  /* Analytics stays off the LCP window. The inline snippet still queues the pageview.
-     Load on the first tap, key, or scroll, otherwise 3 seconds after window load. */
+  /* Analytics stays off the LCP window. The inline snippet queues the pageview on beleaded.com.
+     Load on the first tap, key, or scroll, otherwise 3 seconds after window load.
+     Other hostnames return before the script is injected. Timing on beleaded.com is unchanged. */
+  function beleadedHost() {
+    return location.hostname === "www.beleaded.com" || location.hostname === "beleaded.com";
+  }
   window.addEventListener("load", function () {
     var kicked = false;
     function loadGtag() {
+      if (!beleadedHost()) return;
       if (kicked || document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
       kicked = true;
       var s = document.createElement("script");
@@ -2380,6 +2385,7 @@
 
   /* Apollo visitor tracker. One inject after load, on idle, with a 2s cap so a short visit still records. */
   function initApollo() {
+    if (!beleadedHost()) return;
     if (window.__blApollo || document.querySelector('script[src*="assets.apollo.io/micro/website-tracker/"]')) return;
     window.__blApollo = true;
     var n = Math.random().toString(36).substring(7), o = document.createElement("script");

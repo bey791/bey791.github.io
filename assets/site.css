@@ -56,6 +56,33 @@
   src:url("/assets/fonts/jetbrains-mono-latin.woff2") format("woff2");
   unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }
+/* Metric-matched fallbacks. size-adjust is the lowercase advance ratio vs Arial
+   (Courier New for the mono), and the overrides put that face on the same em box
+   as the webfont so the swap does not move lines. */
+@font-face{
+  font-family:"Outfit Fallback";
+  src:local("Arial"),local("Liberation Sans");
+  size-adjust:101.43%;
+  ascent-override:98.59%;
+  descent-override:25.63%;
+  line-gap-override:0%;
+}
+@font-face{
+  font-family:"Bricolage Grotesque Fallback";
+  src:local("Arial"),local("Liberation Sans");
+  size-adjust:102.44%;
+  ascent-override:90.79%;
+  descent-override:26.36%;
+  line-gap-override:0%;
+}
+@font-face{
+  font-family:"JetBrains Mono Fallback";
+  src:local("Courier New"),local("Liberation Mono");
+  size-adjust:99.98%;
+  ascent-override:102.02%;
+  descent-override:30%;
+  line-gap-override:0%;
+}
 
 :root{
   color-scheme:light;
@@ -81,9 +108,9 @@
   --shadow-sm:0 1px 2px rgba(17,18,4,.06);
   --shadow:0 1px 0 rgba(17,18,4,.04),0 18px 40px -22px rgba(17,18,4,.30);
   --shadow-lg:0 2px 0 rgba(17,18,4,.03),0 44px 90px -44px rgba(17,18,4,.42);
-  --display:"Bricolage Grotesque","Outfit",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --text:"Outfit",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-  --mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+  --display:"Bricolage Grotesque","Bricolage Grotesque Fallback","Outfit","Outfit Fallback",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --text:"Outfit","Outfit Fallback",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:"JetBrains Mono","JetBrains Mono Fallback",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
   --r-sm:12px;
   --r:18px;
   --r-lg:28px;
@@ -1625,6 +1652,15 @@ html:not(.js) .map-plane{order:2}
 .js .map-tour{opacity:1;translate:0 0}
 .hero-copy .map-tour{background:transparent;border:0;border-radius:0;padding:0;margin:18px 0 0;max-width:540px}
 .hero-map.has-tour .hero-copy>.lead{display:none}
+/* Desktop JS moves .map-tour into the copy and hides the lead. The tour is
+   about 92px taller, which dropped .cta-row. Hold the lead at the tour height
+   until that swap. 190px under 840px tall, 192px above (the caption type steps up). */
+@media (min-width:1101px){
+  .hero-map:not(.has-tour) .hero-copy>.lead{min-height:192px}
+}
+@media (min-width:1101px) and (max-height:840px){
+  .hero-map:not(.has-tour) .hero-copy>.lead{min-height:190px}
+}
 .mt-tabs{display:flex;flex-wrap:wrap;gap:5px;margin:0 0 12px}
 .mt-tab{font:inherit;font-family:var(--mono);font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-3);background:color-mix(in srgb,var(--card) 80%,transparent);border:1px solid var(--line-2);border-radius:999px;padding:4px 9px 4px 7px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;transition:color .2s,border-color .2s,background-color .2s,transform .2s}
 .mt-tab b{font-weight:600;color:var(--ink-3);transition:color .2s}
