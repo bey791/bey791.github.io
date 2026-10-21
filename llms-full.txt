@@ -9508,7 +9508,7 @@ Comparison
 
 ### Best demand generation agencies in 2026
 
-Nine agencies grouped by the job. Prices come from each agency's own site, opened October 21, 2026. Be Leaded publishes this page and sits fifth.
+Be Leaded publishes this page, which groups nine agencies by the job, from content and paid media to outbound, with prices checked on each agency's own site.
 
 Updated October 21, 2026
 
@@ -13022,7 +13022,7 @@ Channels named on the paid media row are LinkedIn, Google, Meta, YouTube, CTV, a
 
 ## Directive
 
-Directive's demand generation page (https://directiveconsulting.com/services/b2b-demand-generation-agency/) was opened October 21, 2026. It describes content marketing, paid media management across LinkedIn, Google, Meta, and programmatic, SEO, account based marketing, conversion work, and marketing automation. The page prints no dollar for the agency fee, so the price cell has no dollar.
+Directive's demand generation page (https://directiveconsulting.com/services/b2b-demand-generation-agency/), checked on October 21, 2026, describes content marketing, paid media management across LinkedIn, Google, Meta, and programmatic, SEO, account based marketing, conversion work, and marketing automation. The page prints no dollar for the agency fee, so the price cell has no dollar.
 
 The proposal page (https://directiveconsulting.com/request-for-proposal/), opened that day, tells a buyer to confirm who owns accounts, data, and creative assets. It does not state Directive's own rule. Directive's site menu lists Technology, Industrial, and Services verticals, and the demand generation page speaks to tech startups and enterprises.
 
@@ -13034,7 +13034,7 @@ The page names paid media, organic demand, and RevOps, and it names Google, Link
 
 ## Ironpaper
 
-Ironpaper's demand generation page (https://www.ironpaper.com/demand-generation/) was opened October 21, 2026. It describes targeted advertising, content, conversion work, and post conversion nurturing for B2B companies. The page prints no dollar.
+Ironpaper's demand generation page (https://www.ironpaper.com/demand-generation/), checked on October 21, 2026, describes targeted advertising, content, conversion work, and post conversion nurturing for B2B companies. The page prints no dollar.
 
 The consulting page (https://www.ironpaper.com/b2b-marketing-consulting), opened the same day, describes projects, retainers, and consulting, and it also prints no dollar. Neither page states who holds the ad accounts, the audiences, or the pixels. Neither page splits software buyers from services firms.
 
@@ -13056,13 +13056,13 @@ The price line is the one on pricing (https://www.beleaded.com/pricing/).
 
 ## Gripped
 
-The Gripped pricing page (https://gripped.io/pricing/) was opened October 21, 2026. It prints from £3,500 a month plus project fees, from £7,500 a month for one or two channels such as paid search, paid social, SEO, or content, and from £15,000 a month for full demand generation across strategy, paid media, content, SEO, and conversion work. The page says paid media budgets are not included in the monthly retainer. It also says a one time onboarding fee is typical, and it does not print the amount. The page is titled for SaaS and tech.
+The Gripped pricing page (https://gripped.io/pricing/), checked on October 21, 2026, prints from £3,500 a month plus project fees, from £7,500 a month for one or two channels such as paid search, paid social, SEO, or content, and from £15,000 a month for full demand generation across strategy, paid media, content, SEO, and conversion work. The page says paid media budgets are not included in the monthly retainer. It also says a one time onboarding fee is typical, and it does not print the amount. The page is titled for SaaS and tech.
 
 The homepage (https://gripped.io/), opened the same day, says a typical investment is £5K to £15K a month and that contracts are rolling with three months notice. The same page's FAQ also mentions 6 to 12 month commitments. It also says media spend for Google and LinkedIn ads is paid directly to the platforms. It does not say who holds the ad account or the pixel.
 
 ## Sopro
 
-The Sopro pricing page (https://sopro.io/pricing/) was opened October 21, 2026. It says pricing starts at around $3.8K per month and that there is no minimum contract. Channels named on that page are email outreach, LinkedIn outreach, Audience AdSync for display ads, and gifting. The data block says the audience is yours to download and keep. The page does not state who holds the ad accounts or the pixels. It also says a campaign could be live in 3 weeks.
+The Sopro pricing page (https://sopro.io/pricing/), checked on October 21, 2026, says pricing starts at around $3.8K per month and that there is no minimum contract. Channels named on that page are email outreach, LinkedIn outreach, Audience AdSync for display ads, and gifting. The data block says the audience is yours to download and keep. The page does not state who holds the ad accounts or the pixels. It also says a campaign could be live in 3 weeks.
 
 ## Callbox
 
@@ -13072,7 +13072,7 @@ The contract answer says the options are flexible. A shortest term is not printe
 
 ## SalesRoads
 
-SalesRoads' pricing page (https://salesroads.com/pricing/), read October 21, 2026, lists one representative at $11,950 across four weeks. Two are $16,750. Three are $23,500. Four are $30,150. Five are $36,700. Six are $43,150. Each figure is for four weeks. The page says there is no long term tie and that stopping is allowed at any time. The channels named are outbound calling and personalized email prospecting. A demand generation playbook is listed as a deliverable.
+SalesRoads' pricing page (https://salesroads.com/pricing/), read October 21, 2026, lists $11,950 for a single representative. Two are $16,750. Three are $23,500. Four are $30,150. Five are $36,700. Six are $43,150. Each figure is for four weeks. The page says there is no long term tie and that stopping is allowed at any time. The channels named are outbound calling and personalized email prospecting. A demand generation playbook is listed as a deliverable.
 
 The page says a program can launch in 15 business days. It does not state an ad account, audience, or pixel policy.
 
@@ -13086,7 +13086,7 @@ Put these to any firm before you sign, the publisher included. They cover pipeli
 
 - Will the ad accounts, audiences, and pixels sit in your name, with the agency added as a partner?
 
-- If the work stops, who still holds the contact list and the history in the CRM?
+- If the work ends, do the contact list and the CRM history stay with you?
 
 - Is cold calling quoted as its own fee, or is it absent from the quote?
 
@@ -13128,7 +13128,7 @@ Answers use only the pages named above.
 
 What are the best demand generation agencies?
 
-This page does not crown one agency. Match the job. Refine Labs, Directive, Powered by Search, Ironpaper, and Gripped publish content and paid demand creation. Sopro, Callbox, and SalesRoads publish outbound that books calls. Be Leaded publishes this page and sits between those jobs. The order is not a rank.
+This page does not crown one agency. Match the job. Refine Labs, Directive, Powered by Search, Ironpaper, and Gripped publish content and paid demand creation. Sopro, Callbox, and SalesRoads publish outbound that books calls. Be Leaded publishes this page, and its own work falls between those two jobs. The order is not a rank.
 
 Which demand generation agencies publish their prices?
 
