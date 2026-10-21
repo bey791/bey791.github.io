@@ -3956,16 +3956,16 @@ SDR benchmarks from The Bridge Group 2025 research report, published February 6,
 | SDRs per leader | 6.4 median. 3.6 below $5 million revenue. 8.1 at $500 million and above | The Bridge Group, Feb 6, 2025 |
 | SDR manager on-target earnings | $146,000 median | The Bridge Group, Feb 6, 2025 |
 | Reps at quota | 60%, the lowest share the series has recorded | The Bridge Group, Feb 6, 2025 |
-| Daily activity mix | Phone, email, LinkedIn, and text | The Bridge Group, Feb 6, 2025 |
+| Daily activity mix | Phone, email, LinkedIn, and text or other | The Bridge Group, Feb 6, 2025 |
 | SDR to account executive ratio | One SDR for every 2.4 account executives | The Bridge Group, Feb 6, 2025 |
 
-## Ramp time is 3.0 months after the hire
+## Ramp time is 3.0 months
 
-Average ramp in that survey is 3.0 months. That is the lowest mark the series has recorded since 2010, after a high of 3.8 months in 2014. The clock in the report starts once the person has accepted the seat, not when the job opening goes up. Recruiting time is absent from the published tables, so a company adds whatever its last search actually took. The months in between are the product, the buyer, the tools, and the talk track, and someone inside the company has to teach them.
+Average ramp in that survey is 3.0 months. That is the lowest mark the series has recorded since 2010, after a high of 3.8 months in 2014. Add your own hiring time on top of ramp. The months in between are the product, the buyer, the tools, and the talk track, and someone inside the company has to teach them.
 
 ## Pay has been flat since 2022
 
-Median on-target earnings in the survey sit at $80,000 and have not moved since 2022. Base pay is $55,000 and variable pay is $25,000, a 68:32 split. The report's name for the person who leads this group is SDR manager, and that role's median on-target earnings are $146,000. Benefits, data subscriptions, and the manager's own time sit outside the $80,000. PayScale (https://www.payscale.com/research/US/Job=Sales_Development_Representative_(SDR)/Salary) lists a separate base-pay figure for the same job title, $51,677, from 840 salary profiles last updated May 29, 2026. That figure is a salary site, not this survey, and it leaves variable pay out.
+Median on-target earnings in the survey sit at $80,000 and have not moved since 2022. Base pay is $55,000 and variable pay is $25,000, a 68:32 split. The report's name for the person who leads this group is SDR manager, and that role's median on-target earnings are $146,000. Benefits, data subscriptions, and the manager's own time sit outside the $80,000. PayScale (https://www.payscale.com/research/US/Job=Sales_Development_Representative_(SDR)/Salary) lists a separate base-pay figure for the same job title, $51,677, from 840 salary profiles last updated September 3, 2026. That figure is a salary site, not this survey, and it leaves variable pay out.
 
 ## Tenure and 2024 turnover
 
@@ -3977,7 +3977,7 @@ The median leader in the survey has 6.4 SDRs, down from 8 in the studies coverin
 
 ## What an SDR day is made of
 
-The median SDR day in that report mixes phone, email, LinkedIn, and text. The benchmark is 112 activities a day for an in-house SDR, made up of 44 phone, 41 email, 19 LinkedIn and 8 text (The Bridge Group (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), SDR research, February 2025). A day built only from email is a narrower job than the mix the survey describes.
+The median SDR day in that report mixes phone, email, LinkedIn, and text or other. The benchmark is 112 activities a day for an in-house SDR, made up of 44 phone, 41 email, 19 LinkedIn and 8 text or other (The Bridge Group (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), SDR research, February 2025). A day built only from email is a narrower job than the mix the survey describes.
 
 ## Who was surveyed, and how far the numbers travel
 
@@ -4004,7 +4004,7 @@ The figures under this heading are ours. They are not rows from the survey.
 
 Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), and on the first call we agree whether we book the meeting or pass the warm reply to your team.
 
-Our own launch window is about three weeks, the time new sending domains need to warm. That is our figure, not a survey result.
+Most programs go live in about three weeks. That is our figure, not a survey result.
 
 Want the SDR job done without the 3.0 month ramp? Bring your buyer and we will sketch the target list together on the call. Programs start from $2,000 a month (https://www.beleaded.com/pricing/). We do not promise a number of demos. Target up to 25,000 new contacts a month.
 
@@ -4016,7 +4016,7 @@ See what an outsourced SDR team includes (https://www.beleaded.com/outsourced-sd
 
 **How long does it take an SDR to ramp?**
 
-The Bridge Group's 2025 report puts average ramp at 3.0 months, the lowest since 2010. The clock starts after the hire, so add your recruiting time.
+The Bridge Group's 2025 report puts average ramp at 3.0 months, the lowest since 2010. Add your own hiring time on top of ramp.
 
 **What does an SDR earn?**
 
@@ -4041,7 +4041,7 @@ Treat them as directional. 83% of the 351 companies surveyed were B2B SaaS and 7
 ## Sources
 
 - Bridge Group 2025 research report on SDR models (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), Matt Bertuzzi, published February 6, 2025. Online survey of 351 B2B companies, fielded 2024 to 2025. Ramp, pay, tenure, 2024 attrition, leader ratio, SDR manager pay, the share of reps at quota, the channel mix of a median day, the SDR to account executive ratio, and the sample limits above are from that report.
-- PayScale, Sales Development Representative (SDR) salary (https://www.payscale.com/research/US/Job=Sales_Development_Representative_(SDR)/Salary), average base pay $51,677 from 840 salary profiles, last updated May 29, 2026. Used only as a second source for base pay. It is not part of the Bridge Group survey.
+- PayScale, Sales Development Representative (SDR) salary (https://www.payscale.com/research/US/Job=Sales_Development_Representative_(SDR)/Salary), average base pay $51,677 from 840 salary profiles, last updated September 3, 2026. Used only as a second source for base pay. It is not part of the Bridge Group survey.
 
 Ahmad Khan (https://www.beleaded.com/about/) writes from Be Leaded
 
