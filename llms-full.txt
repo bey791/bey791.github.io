@@ -3944,9 +3944,7 @@ In this note
 
 ## The 2025 SDR benchmarks at a glance
 
-Every row below is taken from The Bridge Group's SDR research for 2025 (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), an online survey of 351 B2B companies published by Matt Bertuzzi on February 6, 2025. The table has no price column and no Be Leaded column.
-
-SDR benchmarks from The Bridge Group 2025 research report, published February 6, 2025.
+Every row below is taken from The Bridge Group's SDR research for 2025 (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), an online survey of 351 B2B companies published by Matt Bertuzzi on February 6, 2025.
 
 | Metric | Figure | Source and date |
 | Ramp | 3.0 months on average, after a 3.8 month peak in 2014 | The Bridge Group, Feb 6, 2025 |
@@ -3958,6 +3956,8 @@ SDR benchmarks from The Bridge Group 2025 research report, published February 6,
 | Reps at quota | 60%, the lowest share the series has recorded | The Bridge Group, Feb 6, 2025 |
 | Daily activity mix | Phone, email, LinkedIn, and text or other | The Bridge Group, Feb 6, 2025 |
 | SDR to account executive ratio | One SDR for every 2.4 account executives | The Bridge Group, Feb 6, 2025 |
+
+SDR benchmarks from The Bridge Group 2025 research report, published February 6, 2025.
 
 ## Ramp time is 3.0 months
 
