@@ -41,6 +41,7 @@
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(function () {
+      if (root.classList.contains("bl-cal-open")) { ticking = false; return; }
       var y = window.scrollY || 0;
       if (header) header.classList.toggle("scrolled", y > 8);
       if (bar) {
@@ -770,6 +771,7 @@
       if (Math.abs(x - rx) > 0.2 || Math.abs(y - ry) > 0.2) raf = requestAnimationFrame(loop);
     }
     document.addEventListener("pointermove", function (e) {
+      if (window.blCur) return;
       x = e.clientX; y = e.clientY; root.classList.add("cur-on");
       var t = e.target;
       var hot = t.closest ? t.closest("a, button, [role=tab], summary, label.sw, input[type=range], [data-cursor]") : null;
@@ -785,7 +787,10 @@
     document.addEventListener("pointerdown", function () { ring.classList.add("down"); });
     document.addEventListener("pointerup", function () { ring.classList.remove("down"); });
     document.documentElement.addEventListener("mouseleave", function () { root.classList.remove("cur-on"); });
-    document.documentElement.addEventListener("mouseenter", function () { root.classList.add("cur-on"); });
+    document.documentElement.addEventListener("mouseenter", function () {
+      if (window.blCur) return;
+      root.classList.add("cur-on");
+    });
   }
 
   /* ---------------- Cursor light on dark surfaces, shine on lime ---------------- */
@@ -2443,4 +2448,91 @@
   }
   if (document.readyState === "complete") scheduleApollo();
   else window.addEventListener("load", scheduleApollo);
+
+  window.blCalGen = 0;
+  var blT = 0;
+  var blS = null;
+  var blF = null;
+  var blBad = 0;
+  function blA(t) {
+    t = t && (t.nodeType === 1 ? t : t.parentElement);
+    t = t && t.closest && t.closest("a");
+    return t && t.href && t.href.indexOf("https://calendly.com/ahmad-beleaded") === 0 && t;
+  }
+  function blHide() {
+    var h = document.querySelector(".bl-cal-hold");
+    if (h) h.parentNode.removeChild(h);
+  }
+  function blCancel() {
+    if (!blT) return;
+    clearTimeout(blT);
+    blT = 0;
+    window.blCalGen++;
+    blHide();
+    document.documentElement.classList.remove("bl-cal-open");
+    if (blF) blF.focus();
+  }
+  function blJs(fn) {
+    if (window.blCalendlyOpen) return fn && fn();
+    if (!blS) {
+      blS = document.createElement("script");
+      blS.src = "/assets/js/calendly-popup.js?v=20261021c";
+      blS.addEventListener("error", function () { blBad = 1; });
+      document.head.appendChild(blS);
+    }
+    if (fn) {
+      blS.addEventListener("load", fn);
+      blS.addEventListener("error", fn);
+    }
+  }
+  function blW(e) {
+    var a = blA(e.target);
+    if (a) blJs(function () { if (window.blCalendlyPreload) window.blCalendlyPreload(a); });
+  }
+  document.addEventListener("pointerover", blW);
+  document.addEventListener("focusin", blW);
+  document.addEventListener("keydown", function (e) {
+    if (blT && (e.key === "Escape" || e.keyCode === 27)) blCancel();
+  });
+  document.addEventListener("click", function (e) {
+    var a = blA(e.target), g, h;
+    if (!a || e.button || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+    e.preventDefault();
+    if (blBad) {
+      clearTimeout(blT);
+      blT = 0;
+      window.blCalGen++;
+      blHide();
+      window.open(a.href, "_blank", "noopener");
+      return;
+    }
+    blF = a;
+    g = ++window.blCalGen;
+    h = document.querySelector(".bl-cal-hold");
+    if (!h) {
+      h = document.createElement("div");
+      h.className = "bl-cal-hold";
+      h.innerHTML = "<div class=bl-cal-hold-spin><div></div><div></div><div></div></div>";
+      h.addEventListener("click", function (ev) {
+        ev.preventDefault();
+        blCancel();
+      });
+      document.body.appendChild(h);
+    }
+    clearTimeout(blT);
+    blT = setTimeout(function () {
+      if (g - window.blCalGen) return;
+      blT = 0;
+      window.blCalGen++;
+      blHide();
+      window.open(a.href, "_blank", "noopener");
+    }, 3000);
+    blJs(function () {
+      if (g - window.blCalGen || !window.blCalendlyOpen) return;
+      clearTimeout(blT);
+      blT = 0;
+      window.blCalendlyOpen(a, g);
+    });
+  });
+
 })();
