@@ -1238,7 +1238,7 @@ Programs start from $2,000 a month. The exact number depends on the size of your
 
 ## Related
 
-When the company is already a listing, how business brokers find buyers (https://www.beleaded.com/guides/how-business-brokers-find-buyers/) covers the buyer file, the blind note, and the checks a broker runs before a memorandum goes out.
+How business brokers find buyers (https://www.beleaded.com/guides/how-business-brokers-find-buyers/). When the company is already a listing, this covers the buyer file, the blind note, and the checks a broker runs before a memorandum goes out.
 
 ## Tell us who you want to meet.
 
@@ -12516,9 +12516,7 @@ Confidentiality is a sequence.
 - The note goes out on a domain that is not the one clients already have in their address book. SPF, DKIM, and DMARC for that domain are the subject of our cold email deliverability (https://www.beleaded.com/cold-email-deliverability/) guide.
 - You read the reply before anyone at the firm spends a meeting on it. Passing a raw thread straight to an advisor is how a tire kicker consumes a week.
 Checking whether a buyer has funds, sending the NDA, and sending the memorandum stay with your firm. The next section is the screen you run. It is advice for the broker, not a check an outside firm certifies.
-Have a listing that needs buyers? Bring the buy box on a 30-minute call so we can map strategic acquirers, search funds and PE groups against that listing.
-Programs start from $2,000 a month, month to month. No long contract.
-Target up to 25,000 new contacts a month.
+Have a listing that needs buyers? Bring the buy box on a 30-minute call so we can map strategic acquirers, search funds and PE groups against that listing. Programs start from $2,000 a month, month to month. No long contract. Target up to 25,000 new contacts a month.
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=guides-how-business-brokers-find-buyers)
 ## Screen replies before you spend time
 Three questions, in order, before you book time or send the memorandum.
