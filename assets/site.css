@@ -847,7 +847,7 @@ a.nl-img{display:block;text-decoration:none}
 .mail-body p:empty{min-height:1.2em}
 .type-rest{visibility:hidden}
 .type-rest.is-caret{position:relative}
-.type-rest.is-caret::before{content:"";position:absolute;left:1px;top:.08em;width:2px;height:1.05em;background:var(--ink);box-shadow:none;visibility:visible;pointer-events:none;animation:caret 1s steps(1) infinite}
+.type-rest.is-caret::before{content:"";position:absolute;left:1px;top:.16em;width:2px;height:1.05em;background:var(--ink);box-shadow:none;visibility:visible;pointer-events:none;animation:caret 1s steps(1) infinite}
 @keyframes caret{50%{opacity:0}}
 .typing-row{visibility:hidden;margin-left:clamp(0px,9%,56px);pointer-events:none}
 .rotator .slide{height:100%;align-content:stretch;grid-template-rows:minmax(auto,1fr) auto auto}
