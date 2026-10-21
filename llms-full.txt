@@ -3916,11 +3916,13 @@ Lead generation
 
 # Hire an SDR or outsource? What the 2025 benchmarks show
 
-By Ahmad Khan (https://www.beleaded.com/about/), who founded Be Leaded. This note was updated October 21, 2026. 7 min read.
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026. 7 min read.
 
 A new SDR takes 3.0 months on average to ramp, earns a median $80,000 on target, stays 1.9 years, and 40% of SDR seats turned over in 2024. Those are The Bridge Group's figures from a survey of 351 B2B companies, published February 6, 2025. Here is what each number covers and what it leaves out.
 
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=blog-hire-sdr-or-outsource)
+
+Programs start from $2,000 a month
 
 In this note
 
@@ -3938,7 +3940,7 @@ In this note
 
 ## The 2025 SDR benchmarks at a glance
 
-Every row below comes from The Bridge Group's 2025 SDR report (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), an online survey of 351 B2B companies published by Matt Bertuzzi on February 6, 2025. The table has no price column and no Be Leaded column.
+Every row below is taken from The Bridge Group's SDR research for 2025 (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), an online survey of 351 B2B companies published by Matt Bertuzzi on February 6, 2025. The table has no price column and no Be Leaded column.
 
 SDR benchmarks from The Bridge Group 2025 research report, published February 6, 2025.
 
@@ -3946,7 +3948,7 @@ SDR benchmarks from The Bridge Group 2025 research report, published February 6,
 | Ramp | 3.0 months on average, after a 3.8 month peak in 2014 | The Bridge Group, Feb 6, 2025 |
 | On-target earnings | $80,000 median, split $55,000 base and $25,000 variable, flat since 2022 | The Bridge Group, Feb 6, 2025 |
 | Tenure | 1.9 years on average. 58% of companies land between 12 and 23 months | The Bridge Group, Feb 6, 2025 |
-| 2024 attrition | 40% median. Middle of the sample: 21% to 57%. Split of 13% involuntary, 11% voluntary, 16% promotions | The Bridge Group, Feb 6, 2025 |
+| 2024 attrition | 40% median. Middle half of companies: 21% to 57%. Split of 13% involuntary, 11% voluntary, 16% promotions | The Bridge Group, Feb 6, 2025 |
 | SDRs per leader | 6.4 median. 3.6 below $5 million revenue. 8.1 at $500 million and above | The Bridge Group, Feb 6, 2025 |
 | SDR manager on-target earnings | $146,000 median | The Bridge Group, Feb 6, 2025 |
 | Reps at quota | 60%, the lowest share the series has recorded | The Bridge Group, Feb 6, 2025 |
@@ -3971,7 +3973,7 @@ The median leader in the survey has 6.4 SDRs, down from 8 in the studies coverin
 
 ## What an SDR day is made of
 
-The median SDR day in that report mixes phone, email, LinkedIn, and text. A day built only from email is a narrower job than the mix the survey describes.
+The median SDR day in that report mixes phone, email, LinkedIn, and text. The benchmark is 112 activities a day for an in-house SDR, made up of 44 phone, 41 email, 19 LinkedIn and 8 text (The Bridge Group (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), SDR research, February 2025). A day built only from email is a narrower job than the mix the survey describes.
 
 ## Who was surveyed, and how far the numbers travel
 
@@ -3989,17 +3991,18 @@ Questions worth asking an agency before a contract are the 12 questions in the c
 
 ## How we run the SDR job
 
-The three figures under this heading are ours. They are not rows from the survey.
+The figures under this heading are ours. They are not rows from the survey.
 
-- 400,000: Emails a day of sending capacity
-- 30+: Client programs on this setup
+- 400K+: Emails a day of sending capacity
 - 99%: Delivery rate across programs
+- 49 to 51%: Average open rate on newsletters
+- 30+: Client programs
 
-Be Leaded runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), and on the first call we agree whether we book the meeting or pass the warm reply to your team.
+Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), and on the first call we agree whether we book the meeting or pass the warm reply to your team.
 
-Most programs go live in about three weeks, once domains are warmed and the first sequences are approved. That sentence is our launch window, not a survey result.
+Our own launch window is about three weeks, the time new sending domains need to warm. That is our figure, not a survey result.
 
-Want the SDR job done without the 3.0 month ramp? Bring your buyer and we will map the list on the call. Programs start from $2,000 a month (https://www.beleaded.com/pricing/). We do not promise a number of demos. Target up to 25,000 new contacts a month.
+Want the SDR job done without the 3.0 month ramp? Bring your buyer and we will sketch the target list together on the call. Programs start from $2,000 a month (https://www.beleaded.com/pricing/). We do not promise a number of demos. Target up to 25,000 new contacts a month.
 
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=blog-hire-sdr-or-outsource)
 
@@ -4052,7 +4055,7 @@ If the survey is enough and you want the work off payroll, start on the outsourc
 
 Or email sales@beleaded.com
 
-Weighing an SDR hire? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=blog-hire-sdr-or-outsource).
+SDR hire? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=blog-hire-sdr-or-outsource).
 
 
 ---
