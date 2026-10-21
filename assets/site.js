@@ -2456,11 +2456,14 @@
      Ctrl, Cmd, Shift, Alt, and any non-primary button keep the link's own new tab.
      preventDefault runs only for the intercepted click. The href is not rewritten.
      Widget CSS and JS preload once on pointerover or focus, and again on click if needed.
-     A backdrop shows immediately. The 3 second new-tab fallback arms only while widget.js
-     is still loading. A successful initPopupWidget call clears that timer immediately and
-     does not call window.open, even if the overlay node is not in the document yet.
-     If init throws, the script fails, or the script is still loading after 3 seconds,
-     that same href opens in one new tab. A click never opens the popup and a tab together.
+     A backdrop shows immediately. A 3 second new-tab fallback is armed on every open,
+     including when the widget is already loaded. initPopupWidget clears that timer only
+     when .calendly-overlay is already in the document. A later overlay settles the open
+     and does not call window.open. If the overlay is still missing when the timer fires,
+     the open generation is bumped, the hold ends, the page unlocks, focus returns to the
+     opener, and that same href opens in one new tab. A popup that appears after that bump
+     is closed by the stale generation guard, so a tab and a popup never both stay up.
+     If init throws or the script fails, that same href opens in one new tab.
      Escape or a click on that backdrop, before the overlay exists, cancels the open:
      no popup and no tab. While the popup is up the body is pinned and the saved scroll
      is restored instantly on close. The html inline overflow is saved on open and put
@@ -2753,21 +2756,20 @@
       window.clearTimeout(calendlyOpenTimer);
       calendlyOpenTimer = 0;
     }
-    if (!calendlyWidgetReady()) {
-      calendlyOpenTimer = window.setTimeout(function () {
-        if (settled || gen !== calendlyOpenGen) return;
-        if (calendlyPopupOpen()) {
-          settled = true;
-          calendlyOpenTimer = 0;
-          prepareOpenPopup();
-          return;
-        }
+    calendlyOpenTimer = window.setTimeout(function () {
+      if (settled || gen !== calendlyOpenGen) return;
+      if (calendlyPopupOpen()) {
         settled = true;
         calendlyOpenTimer = 0;
-        endCalendlyUi();
-        window.open(href, "_blank", "noopener");
-      }, 3000);
-    }
+        prepareOpenPopup();
+        return;
+      }
+      settled = true;
+      calendlyOpenTimer = 0;
+      calendlyOpenGen = calendlyOpenGen + 1;
+      endCalendlyUi();
+      window.open(href, "_blank", "noopener");
+    }, 3000);
 
     function finishFallback() {
       if (settled || gen !== calendlyOpenGen) return;
@@ -2802,12 +2804,13 @@
         return;
       }
       if (settled || gen !== calendlyOpenGen) return;
+      if (!calendlyPopupOpen()) return;
       settled = true;
       if (calendlyOpenTimer) {
         window.clearTimeout(calendlyOpenTimer);
         calendlyOpenTimer = 0;
       }
-      if (calendlyPopupOpen()) prepareOpenPopup();
+      prepareOpenPopup();
     });
   }
 
@@ -2877,7 +2880,8 @@
 
   /* book_meeting fires once per page load, on production hosts only.
      bl_last_cta is JSON. position is sent only when that JSON parses and
-     position is a string of 32 characters or fewer. Otherwise position is unknown.
+     position is a non-empty string of 32 characters or fewer.
+     An empty string, a bad value, or a missing position sends unknown.
      The event payload is exactly position and page_path. page_path is location.pathname.
      Invitee fields from the Calendly message are never read or sent. */
   var bookMeetingSent = false;
@@ -2894,7 +2898,7 @@
       stored = window.localStorage.getItem("bl_last_cta");
       if (stored) {
         parsed = JSON.parse(stored);
-        if (parsed && typeof parsed.position === "string" && parsed.position.length <= 32) position = parsed.position;
+        if (parsed && typeof parsed.position === "string" && parsed.position && parsed.position.length <= 32) position = parsed.position;
       }
     } catch (err) {}
     if (typeof gtag === "function") gtag("event", "book_meeting", { position: position, page_path: location.pathname });
