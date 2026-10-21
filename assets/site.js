@@ -2443,4 +2443,169 @@
   }
   if (document.readyState === "complete") scheduleApollo();
   else window.addEventListener("load", scheduleApollo);
+
+  /* Plain primary click on a calendly.com link opens the popup.
+     Ctrl, Cmd, Shift, Alt, and any non-primary button keep the link's own new tab.
+     preventDefault runs only for the intercepted click. The href is not rewritten.
+     Widget CSS and JS load on the first intercepted click and are reused after that.
+     If the script fails, or the overlay is still missing after 3 seconds, open that
+     same href in one new tab. A click never opens the popup and a tab together. */
+  var calendlyCss = "https://assets.calendly.com/assets/external/widget.css";
+  var calendlyJs = "https://assets.calendly.com/assets/external/widget.js";
+  var calendlyLoadState = "idle";
+  var calendlyWaiters = [];
+
+  function calendlyPopupOpen() {
+    return !!document.querySelector(".calendly-overlay");
+  }
+
+  function flushCalendlyWaiters(ok) {
+    var waiters = calendlyWaiters;
+    var i;
+    calendlyWaiters = [];
+    for (i = 0; i < waiters.length; i++) waiters[i](ok);
+  }
+
+  function markCalendlyReady() {
+    if (window.Calendly && typeof window.Calendly.initPopupWidget === "function") {
+      calendlyLoadState = "ready";
+      flushCalendlyWaiters(true);
+      return;
+    }
+    calendlyLoadState = "failed";
+    flushCalendlyWaiters(false);
+  }
+
+  function ensureCalendly(done) {
+    if (window.Calendly && typeof window.Calendly.initPopupWidget === "function") {
+      calendlyLoadState = "ready";
+      done(true);
+      return;
+    }
+    if (calendlyLoadState === "failed") {
+      done(false);
+      return;
+    }
+    calendlyWaiters.push(done);
+    if (calendlyLoadState === "loading") return;
+    calendlyLoadState = "loading";
+
+    if (!document.querySelector('link[href="' + calendlyCss + '"]')) {
+      var link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = calendlyCss;
+      document.head.appendChild(link);
+    }
+
+    var script = document.querySelector('script[src="' + calendlyJs + '"]');
+    if (!script) {
+      script = document.createElement("script");
+      script.async = true;
+      script.src = calendlyJs;
+      script.addEventListener("load", markCalendlyReady);
+      script.addEventListener("error", function () {
+        calendlyLoadState = "failed";
+        flushCalendlyWaiters(false);
+      });
+      document.head.appendChild(script);
+    } else {
+      script.addEventListener("load", markCalendlyReady);
+      script.addEventListener("error", function () {
+        calendlyLoadState = "failed";
+        flushCalendlyWaiters(false);
+      });
+    }
+  }
+
+  function openCalendlyPopup(href) {
+    var settled = false;
+    var timer = window.setTimeout(function () {
+      if (settled) return;
+      if (calendlyPopupOpen()) {
+        settled = true;
+        return;
+      }
+      settled = true;
+      window.open(href, "_blank", "noopener");
+    }, 3000);
+
+    function finishOpen() {
+      if (settled) return;
+      settled = true;
+      window.clearTimeout(timer);
+    }
+
+    function finishFallback() {
+      if (settled) return;
+      if (calendlyPopupOpen()) {
+        finishOpen();
+        return;
+      }
+      settled = true;
+      window.clearTimeout(timer);
+      window.open(href, "_blank", "noopener");
+    }
+
+    ensureCalendly(function (ok) {
+      if (settled) return;
+      if (!ok || !window.Calendly || typeof window.Calendly.initPopupWidget !== "function") {
+        finishFallback();
+        return;
+      }
+      try {
+        window.Calendly.initPopupWidget({ url: href });
+      } catch (err) {
+        finishFallback();
+        return;
+      }
+      if (calendlyPopupOpen()) {
+        finishOpen();
+        return;
+      }
+      var poll = window.setInterval(function () {
+        if (calendlyPopupOpen()) {
+          window.clearInterval(poll);
+          finishOpen();
+          return;
+        }
+        if (settled) window.clearInterval(poll);
+      }, 50);
+    });
+  }
+
+  function calendlyAnchorFrom(target) {
+    var el = target;
+    if (!el) return null;
+    if (el.nodeType !== 1) el = el.parentElement;
+    if (!el || !el.closest) return null;
+    return el.closest("a");
+  }
+
+  document.addEventListener("click", function (e) {
+    if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+    var a = calendlyAnchorFrom(e.target);
+    if (!a || a.hostname !== "calendly.com") return;
+    e.preventDefault();
+    openCalendlyPopup(a.href);
+  });
+
+  /* book_meeting fires once per page load, on production hosts only.
+     The position is the stored bl_last_cta string, or unknown.
+     Invitee fields from the Calendly message are never read or sent. */
+  var bookMeetingSent = false;
+  window.addEventListener("message", function (event) {
+    var data, position, stored;
+    if (!beleadedHost()) return;
+    if (!event || event.origin !== "https://calendly.com") return;
+    data = event.data;
+    if (!data || data.event !== "calendly.event_scheduled") return;
+    if (bookMeetingSent) return;
+    bookMeetingSent = true;
+    position = "unknown";
+    try {
+      stored = window.localStorage.getItem("bl_last_cta");
+      if (stored) position = stored;
+    } catch (err) {}
+    if (typeof gtag === "function") gtag("event", "book_meeting", { position: position });
+  });
 })();
