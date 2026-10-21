@@ -94,7 +94,7 @@ Key facts:
 - [Pricing](https://www.beleaded.com/pricing/): programs start from $2,000 a month. Target up to 25,000 new contacts a month; what's included, what changes the price, and how it compares with hiring an SDR
 
 ## Guides
-- [Outsourced SDR vs in-house SDR](https://www.beleaded.com/blog/outsourced-sdr-vs-in-house-sdr/): A buyer's comparison for founders and sales leaders: ramp, hiring, tooling, lists, brand voice, scaling, a hybrid model, and how to judge an outsourced partner.
+- [Hire an SDR or outsource? What the 2025 benchmarks show](https://www.beleaded.com/blog/hire-sdr-or-outsource/): SDR ramp time, pay, tenure and turnover from The Bridge Group's 2025 report of 351 B2B companies, and what each number means before you hire or outsource.
 - [How AI voice calling works for B2B lead generation](https://www.beleaded.com/blog/ai-voice-calling-for-b2b-lead-generation/): How AI voice calling works for B2B lead generation: speed to lead, short scripts, a human handoff, compliance, and what to measure before you scale.
 - [How to increase cold email reply rate](https://www.beleaded.com/blog/increase-cold-email-reply-rate/): How to increase cold email reply rate: fix placement, the list, and the ask before you add volume. Change one variable at a time, with cited benchmarks behind each step.
 - [Why are my cold emails going to spam](https://www.beleaded.com/blog/cold-emails-going-to-spam/): Why cold emails land in spam and what to fix first: SPF, DKIM and DMARC, warmup, daily volume, list quality, links and blocklists. Free inbox checker.
