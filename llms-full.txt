@@ -412,9 +412,51 @@ URL: https://www.beleaded.com/cold-email-agency/
 - Services
 - Cold email and appointment setting
 
-# Cold email and appointment setting for B2B sales teams
+Updated October 22, 2026.
 
-Be Leaded is a cold email agency for B2B companies. We build separate sending domains, verify every contact, write plain-text sequences and book qualified meetings on your calendar. Programs start from $2,000 a month and go live in about three weeks.
+# Cold email agency that books qualified meetings
+
+A cold email agency finds the buyers you name, sends plain-text email from separate domains it builds and warms, answers the replies, and books qualified meetings on your calendar. Be Leaded (beleaded.com) is a US cold email agency for B2B teams. Programs start from $2,000 a month. Most programs go live in about three weeks.
+
+Verified lists, warmed domains, and plain-text sequences. We handle replies and put qualified meetings on your calendar, with the context your team needs.
+
+400K+
+
+Emails a day of sending capacity
+
+99%
+
+Delivery rate across programs
+
+49 to 51%
+
+Average open rate on newsletters
+
+30+
+
+Client programs
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=cold-email-agency)
+
+Read the scorecard (https://www.beleaded.com/guides/best-cold-email-agency/)
+
+The exact fee is quoted on the call. Cold volume stays off the domain your staff already use for day to day mail.
+
+The whole motion is on full-cycle outbound (https://www.beleaded.com/full-cycle-outbound-lead-generation/). SaaS teams comparing a hire can read outsourced SDR (https://www.beleaded.com/outsourced-sdr-team/).
+
+If Belkins is on your list, read Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/). What the $2,000 program includes sits in the pricing guide (https://www.beleaded.com/guides/cold-email-agency-pricing/).
+
+A typical sequence. 4 touches, 8 days.
+
+- Day 1. First email. Plain text, one question, no links. Email
+
+- Day 3. Connection request with a short note. LinkedIn
+
+- Day 4. Follow-up on the same thread, a new angle. Email
+
+- Day 8. Last touch. Easy to answer, easy to decline. Email
+
+Yours is built around your buyer and your market.
 
 ## What's included
 
@@ -426,7 +468,7 @@ Accounts and contacts matched to your buyer, verified before a single email goes
 
 ### Sending infrastructure
 
-Separate domains and inboxes with SPF, DKIM and DMARC, warmed for two to three weeks and checked every morning. The record setup is in the SPF, DKIM and DMARC guide.
+Separate domains and inboxes with SPF, DKIM and DMARC, warmed for two to three weeks and checked every morning. The record setup is in the SPF, DKIM and DMARC guide (https://www.beleaded.com/blog/spf-dkim-dmarc-for-cold-email/). Your company domain never sends cold volume.
 
 ### Sequences written for your market
 
@@ -444,29 +486,55 @@ We answer replies the same business day, handle the back and forth, and put qual
 
 Sends, replies and meetings, what's working and what we're changing next. You can read every reply.
 
-## Is it a fit?
+Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
+
+Calling runs as its own program, scoped and priced on its own.
+
+## Cold email services for B2B: who it fits
+
+Cold email services, for a B2B company, are this same program under a second name. You name the buyer. We find the accounts, write the notes, send them from domains stood up for the program, answer what comes back, and place a qualified meeting where your sellers already work.
+
+It fits when the buyer can be described, someone on your side will take the meeting, and the offer can be said in a couple of sentences.
 
 ### Works well for
 
 - B2B companies with a clear buyer and a deal size worth a sales conversation
+
 - Teams with someone ready to take the meetings we book
+
 - Offers you can explain in two sentences
+
 - Founders who want outbound running without hiring an SDR team
 
 ### Not a fit for
 
 - Products sold to individual consumers. That's a different channel with different rules.
+
 - Teams without time to take meetings in the next month
-- Anyone who wants a guaranteed number before we've looked at the market
+
+- Anyone asking for a fixed count of meetings prior to a market review
+
+We will not name a count of meetings on the first call. What a qualified meeting means is written down first, and each weekly report is scored against that definition.
 
 ## How it works
 
-From the first call to meetings on your calendar in about three weeks.
+Most programs go live in about three weeks.
 
-- Day 1 Strategy call We learn your buyer, your offer and what a qualified meeting means to you.
-- Days 2 to 14 Build Domains, authentication, warmup, verified lists and the first sequences for your approval.
-- Week 3 Launch Campaigns go live on a steady ramp. Replies are handled and meetings booked.
-- Every week Report Sends, replies, meetings and what we're changing next.
+### Strategy call
+
+We learn your buyer, your offer and what a qualified meeting means to you.
+
+### Build
+
+Domains, authentication, warmup, verified lists and the first sequences for your approval. You review a sample of the list before those sequences are finished.
+
+### Launch
+
+You read and approve the sequences first. Campaigns go live on a steady ramp. Replies are handled and meetings booked.
+
+### Report
+
+Sends, replies, meetings and what we're changing next.
 
 400K+
 
@@ -486,13 +554,115 @@ Client programs
 
 Want to see what cold email could do in your market? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=cold-email-agency) and we'll sketch the first sequence.
 
+## Agency, DIY tools, or an in-house SDR
+
+Three ways to run the motion. The columns are the questions that show up before a contract.
+
+Hand the work to an agency, run it on tools your company buys, or recruit one person and manage that seat. The rows cover who does the work, what the money is for, how long until mail can go out, which domains carry it, who answers, and what you still hold if you stop.
+
+DIY is a sequencer plus a data subscription. Your people buy them, warm what they send from, write the notes and sit on the replies. The cost is those subscriptions plus the hours.
+
+An in-house SDR is a hire. Pay, ramp and how long people stay come from one study, linked under the table and read again on October 22, 2026. Be Leaded is neither a tool login nor a seat you recruit. We find the buyers, stand up the sending domains, write the notes, answer the replies and book the meeting. You approve a list sample and the sequences. Your sellers take the meeting.
+
+| Compared | Be Leaded | DIY tools (sequencer plus data) | In-house SDR |
+| Who does the work | Our team: list, domains, copy, replies, booking | Your team, on tools you buy | One hire you recruit and manage |
+| Price | Programs start from $2,000 a month | Tool and data subscriptions you buy and manage, plus your team's time | Median on-target earnings $80,000 a year before tools and data (The Bridge Group, 2025) |
+| Go-live | Most programs go live in about three weeks | Depends on who on your team sets up domains and warmup | Average ramp 3.0 months (The Bridge Group, 2025) |
+| Sending domains | Separate domains we build, warm and monitor | You buy and warm them | You buy and warm them |
+| Reply handling | Same business day | Whoever owns the inbox | The SDR |
+| What you own after | The list and the replies | Everything | Everything, while the hire stays (average tenure 1.9 years, The Bridge Group, 2025) |
+
+SDR figures: the Bridge Group report titled SDR Models, Motions and Metrics 2025 (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group). Checked October 22, 2026.
+
+## What a cold email agency costs
+
+Our own number comes first. Programs start from $2,000 a month. Segment count is what moves it. Channels beside email change the scope. The fee covers finding names, sending domains, the notes, reply handling and booking. How other firms charge is set out in cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/). Our own line items are on pricing (https://www.beleaded.com/pricing/).
+
+Starting prices printed on October 22, 2026: Belkins (https://belkins.io/appointment-setting) lists an average starter price from $5,000 for appointment setting, and Leadium (https://www.leadium.com/blog/outbound-lead-generation-services) lists $4,000 to $5,000 a month for outbound across channels.
+
 Volume and tools
 
 ## Any volume you need. Never at the cost of the inbox.
 
-We keep daily volume per inbox low and ramp new inboxes slowly. When a program needs more reach, we add inboxes and domains instead of pushing harder through the ones we have. That's how the same infrastructure runs 400,000 emails a day without losing placement.
+We keep daily volume per inbox low and ramp new inboxes slowly. When a program needs more reach, we add inboxes and domains instead of pushing harder through the ones we have. That's how the same infrastructure runs 400K+ emails a day without losing placement.
 
-How we protect deliverability
+Target up to 25,000 new contacts a month. Delivery holds at 99% on those sends.
+
+How we protect deliverability (https://www.beleaded.com/cold-email-deliverability/)
+
+SPF
+
+v=spf1 include:_spf.google.com ~all
+
+checking
+
+pass
+
+DKIM
+
+google._domainkey, 2048-bit
+
+checking
+
+pass
+
+DMARC
+
+v=DMARC1; p=quarantine
+
+checking
+
+pass
+
+Spamhaus DBL
+
+not listed
+
+checking
+
+clear
+
+SURBL
+
+not listed
+
+checking
+
+clear
+
+URIBL
+
+not listed
+
+checking
+
+clear
+
+Warmup
+
+day 21 of 21
+
+checking
+
+ready
+
+Example daily report for a client sending domain. Tools we work in: Apollo, Clay, Saleshandy, Instantly, Smartlead, Salesforce, Dripify and n8n, plus Retell AI and ElevenLabs voice agents for follow-up calls.
+
+## Who owns the list and the replies when we stop?
+
+They stay with your company when the program ends.
+
+The file of contacts comes with you, and every reply thread does too.
+
+While the work is live, your team can open any thread. The meeting invite keeps that thread with it, so the seller sees why the person agreed to talk.
+
+Cold volume does not leave from the domain your customers already know. Domains for the program are registered, warmed and watched on their own. Staff mail stays on the company domain, outside that volume.
+
+The names are not a rental. What was found for the buyer you described leaves with you, and so does every reply. The short form of that point is in the questions below.
+
+## Compare cold email agencies
+
+Ten agencies are compared side by side in the best cold email agencies (https://www.beleaded.com/guides/best-cold-email-agency/) guide, and the questions to ask any of them are in how to choose a cold email agency (https://www.beleaded.com/guides/choosing-a-cold-email-agency/).
 
 ## Questions about cold email
 
@@ -506,7 +676,7 @@ No. We register separate sending domains that point back to your brand, so your 
 
 **How many emails do you send?**
 
-It depends on the size of your market. Each new inbox is warmed for two to three weeks and kept to a low daily volume, and we add inboxes rather than push more through each one. Our infrastructure can send more than 400,000 emails a day, so volume is never the limit. Your market is.
+It depends on the size of your market. Each new inbox is warmed for two to three weeks and kept to a low daily volume, and we add inboxes rather than push more through each one. Our infrastructure can send 400K+ emails a day, so volume is never the limit. Your market is.
 
 **What counts as a qualified meeting?**
 
@@ -518,13 +688,39 @@ Clients agree both targets and buyer rules with us before sending starts. What c
 
 **Is cold email legal?**
 
-In the US, commercial email falls under CAN-SPAM. Every email we send identifies the sender, includes a physical mailing address and a working opt-out, and opt-outs are honored right away. Rules differ in the EU, UK and Canada, and we tell you what applies before we send there.
+In the US, commercial email falls under CAN-SPAM. Every email we send identifies the sender, includes a physical mailing address and a working opt-out, and opt-outs are honored right away. Rules differ in the EU, UK and Canada (https://www.beleaded.com/blog/is-cold-email-legal/), and we tell you what applies before we send there.
+
+**What does Be Leaded charge for cold email?**
+
+Programs start from $2,000 a month. Your quote follows a 30-minute call and depends on how many segments and channels you run. Our cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/) guide breaks down how other firms charge.
+
+**Do you promise a set number of meetings?**
+
+No. We do not promise a number of demos. Before launch we write down what a qualified meeting is, and every weekly report is measured against that.
+
+**Should we hire a cold email agency or run the motion ourselves?**
+
+Read the table under Agency, DIY tools, or an in-house SDR. It lines up who does the work, the shape of the cost, and what you still hold afterward. If your own people will run the tools and the replies, the DIY column is the honest read. If you do not want to recruit, look at the Be Leaded column.
+
+**Who owns the list and the replies when we stop?**
+
+You do.
+
+**What is the difference between cold email services and a cold email agency?**
+
+Cold email services and a cold email agency name the same offer on this page. Services is the work: the list, the send, the replies, the booking. Agency is who performs that work. The wording changes. The program does not.
 
 ## Tell us who you want to meet.
 
 Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
 
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=cold-email-agency)
+
 Or email sales@beleaded.com
+
+Need cold email? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=cold-email-agency)
 
 
 ---
