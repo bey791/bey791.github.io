@@ -737,9 +737,7 @@ Appointment setting
 
 # B2B appointment setting services
 
-B2B appointment setting services find buyers who match your definition, run the outreach, answer the replies and put a qualified meeting on your sales team's calendar. Be Leaded runs this appointment setting motion. Programs start from $2,000 a month, with scope set on the call. Most programs go live in about three weeks.
-
-We qualify the reply, handle the back and forth, and put a held meeting on your calendar. Most of those conversations start with cold email on separate domains.
+B2B appointment setting services find buyers who match your definition, run the outreach, answer the replies and put a qualified meeting on your sales team's calendar. Be Leaded runs this for you. Programs start from $2,000 a month, with scope set on the call. Most programs go live in about three weeks. Then your seller takes the meeting.
 
 30 minutes: fit for your market + what a campaign looks like. No pitch deck.
 
@@ -839,13 +837,13 @@ A straight path from a written buyer to a meeting on your calendar. Most program
 
 Cold email leaves from separate domains with SPF, DKIM and DMARC. Your company domain stays on the mail your customers already expect. LinkedIn, when we use it, runs from your team's own profiles. We do not send both channels on the same day, and a reply on either one stops the other. You approve every sequence before it sends. Catch-all and unverifiable addresses, customers, open opportunities, and anyone who already said no stay off the list.
 
-As of September 2026, the infrastructure on our work page (https://www.beleaded.com/work/) has capacity for 400,000 emails a day, a 99% delivery rate, and 30-plus client programs.
+As of September 2026, the infrastructure on our work page (https://www.beleaded.com/work/) has capacity for 400K+ emails a day, a 99% delivery rate, and 30+ client programs.
 
 ## Outsourced appointment setting: what you hand over and what you keep
 
 Outsourced appointment setting is a split of jobs. Your sellers still sell. Our team runs the outreach that fills the calendar they already use.
 
-You keep the list and the replies. You also keep the definition, the calendar, the meeting, and the close. The contact file built to your buyer stays with your company when the program stops, and every reply thread stays with it.
+You keep the list and the replies, during the program and after it ends. The definition, the calendar, the meeting and the close stay with you too.
 
 What you hand over is the material only your company can supply. The offer in a few plain sentences. The titles that belong in the room. The problem those people already have. The seller who will take the meeting. A yes on the sequences before the first send.
 
@@ -891,8 +889,6 @@ After a no-show: two new times the same day, one note the next morning, then sto
 
 Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
 
-That channel sits beside the meeting motion on this page.
-
 Phone work is quoted as its own program.
 
 LinkedIn alongside email is included when the program calls for it. See demand generation (https://www.beleaded.com/demand-generation-agency/) when the job is demand rather than a held meeting. Paid ads, SMS, and AI voice are separate programs. Ad spend is paid to the platform. Voice minutes are billed at cost. If you only want the warm reply handed to your team, say so on the call. The fee follows that scope. Sending domains we set up for cold volume stay off your company domain.
@@ -921,7 +917,9 @@ Infrastructure, lists, copy, and reply handling are included. You will get an ex
 
 30 minutes: fit for your market + what a campaign looks like. No pitch deck.
 
-Reach on this program follows one ceiling. Target up to 25,000 new contacts a month. Fresh names are what that ceiling counts.
+The ceiling is one number.
+
+Target up to 25,000 new contacts a month, counted as new names only.
 
 The exact number depends on how many accounts fit the definition, whether LinkedIn runs beside email, how many offers need their own list and copy, and whether we book the meeting or hand you the warm reply. We do not promise a meeting count before we have looked at the market, and we will not put one on this page. How retainer, per-meeting and hybrid pricing compare across firms is in the appointment setting pricing guide (https://www.beleaded.com/guides/appointment-setting-pricing/).
 
@@ -930,13 +928,13 @@ The exact number depends on how many accounts fit the definition, whether Linked
 | Compared | Monthly retainer (Be Leaded) | Pay per meeting | Retainer plus per-seat team | In-house SDR |
 | --- | --- | --- | --- | --- |
 | What you pay for | The program: list, domains, copy, replies, booking | Each meeting that passes the definition in the contract | A team fee plus each SDR seat | Salary, tools, data, management |
-| Published example | Programs start from $2,000 a month | Ask for the per meeting price and the written definition. | Campaign team $2,000 per month. The Offshore figure is $1,750. The US and Europe figure is $3,500. Both sit beside the Starting at label | Median on-target earnings $80,000 a year (The Bridge Group, 2025) |
+| Published example | Programs start from $2,000 a month | Ask for the per meeting price and the written definition. | CIENCE seats from $1,750 a month each offshore, $3,500 each in the US and Europe, plus team, platform, setup and bonus fees | Median on-target earnings $80,000 a year (The Bridge Group, 2025) |
 | Where the risk sits | On the definition you agree before launch | On how loose "qualified" is | On how many seats you buy | On the hire and the ramp (3.0 months average) |
-| Who owns the list after | You keep the list and the replies | Ask before you sign. | Ask | You keep the list and the replies |
+| Who owns the list after | You keep the list and the replies | Ask before you sign. | Ask before you sign. | You keep the list and the replies |
 
-Monthly retainer, pay per meeting, a retainer plus seats, and an in-house SDR. Third-party figures are linked under the table.
+Monthly retainer, pay per meeting, a retainer plus seats, and an in-house SDR. Third-party figures are linked below.
 
-Starting prices printed on October 22, 2026: CIENCE (https://www.cience.com/pricing/) prints Campaign team as $2,000 per month. Offshore shows $1,750 beside the label Starting at. US and Europe shows $3,500 beside that same label. Both prices use the unit line per SDR, per month. graph8 platform is printed at $499 per month. Belkins (https://belkins.io/appointment-setting) prints the label "The average starter price:" from $5,000.
+Starting prices printed on October 22, 2026: CIENCE (https://www.cience.com/pricing/) lists SDR seats from $1,750 a month each offshore and from $3,500 each in the US and Europe. On top of the seats it lists a $2,000 monthly campaign team fee, a $499 monthly graph8 platform fee, one setup fee and a performance bonus. Belkins (https://belkins.io/appointment-setting) gives $5,000 as its average starter price.
 
 Median on-target earnings and the 3.0 month average ramp are from the 2025 Bridge Group SDR research (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), read October 22, 2026.
 
@@ -956,7 +954,7 @@ Client names stay private unless a client agrees otherwise. These are engagement
 
 - Outbound for an Arizona advertising agency (https://www.beleaded.com/work/#eng-adagency). Verified lists, a plain-text sequence in the agency's voice, and replies put on the partners' calendars.
 
-- Sending infrastructure scaled to 400,000 emails a day (https://www.beleaded.com/work/#eng-scale), with delivery at 99%. That is the capacity behind the programs, not a meeting tally.
+- Sending infrastructure scaled to 400K+ emails a day (https://www.beleaded.com/work/#eng-scale), with delivery at 99%. That is the capacity behind the programs, not a meeting tally.
 
 References are available. Ask on the call and we will connect you with a current client. The full set, including newsletter work that is not appointment setting, is on work (https://www.beleaded.com/work/).
 
@@ -988,11 +986,11 @@ Programs start from $2,000 a month. Infrastructure, lists, copy, and reply handl
 
 **How does appointment setting compare with hiring an SDR?**
 
-Appointment setting is a meeting you defined, placed on a calendar your seller already uses. Hiring buys a person. The cost of that hire sits on outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/). Fee shape is the only job of the table here: monthly retainer, pay per meeting, retainer plus seats, or the hire.
+Appointment setting is a meeting you defined, placed on a calendar your seller already uses. Hiring buys a person. The cost of that hire sits on outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/). The table on this page compares fee shapes: a monthly retainer, pay per meeting, a retainer plus seats, or the hire.
 
 **What is outsourced appointment setting?**
 
-Outsourced appointment setting is the model where a firm runs outreach and booking, and your sellers keep the conversation. You keep the list and the replies, and you keep the definition, the calendar, the meeting, and the close. It describes who does the motion. The line items sit in a separate question on this page.
+Outsourced appointment setting is the model where a firm runs outreach and booking, and your sellers keep the conversation. You keep the list and the replies.
 
 **Do you book on our calendar?**
 
