@@ -10551,9 +10551,8 @@ URL: https://www.beleaded.com/lead-generation-services/
 
 # B2B lead generation agency
 
-dateModified: 2026-10-22
 
-Outbound lead generation for B2B companies. We build the list, write and send the outreach, answer replies and book calls with buyers who fit a definition you approve. Target up to 25,000 new contacts a month. List size and fee sit apart. Programs start from $2,000 a month.
+Outbound lead generation for B2B companies. We build the list, write and send the outreach, answer replies and book calls with buyers who fit a definition you approve. Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
 
 This is outbound lead generation. We start the conversation with people who were not already looking for you. If you want inbound leads from ads and landing pages, see paid social (https://www.beleaded.com/paid-social-agency/).
 
@@ -10563,11 +10562,11 @@ What we count as a qualified meeting: title or role, company size, industry, reg
 
 Outsourced lead generation: who does what. You keep the buyer definition and the meetings. Our team does the list, the writing, and the replies. The founder is on the first call. You approve a sample of the list, the copy, and which calendar receives the booking. The list, the reply threads, and the written definition stay with you while the program runs and after it ends.
 
-Services in the program: Cold email, LinkedIn and meeting booking are the core of the program. Cold calling and demand generation are their own programs, each scoped and priced separately, and can run alongside it. Each card is one piece you can read on its own. Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/). The AI voice follow up card stays in the program.
+Services in the program: Cold email, LinkedIn and meeting booking are the core of the program. Cold calling and demand generation are their own programs, each scoped and priced separately, and can run alongside it. Each card is one piece you can read on its own. Phone outreach to the same list, with the meeting placed on your calendar. Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
 
 How the program runs: define the meeting, build the lists, separate sending domains with warmup, copy you approve, replies the same business day, and a weekly ICP review.
 
-What the infrastructure can carry: 400,000 emails a day, 99% delivery, and 30-plus client programs.
+What the infrastructure can carry: Sending capacity runs to 400K+ emails a day, with 99% delivery across 30+ client programs.
 
 You own the list and the replies. Your list and your replies stay yours when the program ends.
 
@@ -10582,14 +10581,14 @@ Agency, hiring an SDR, or pay per lead: the model table on the page compares a l
 What published programs cost (checked October 22, 2026):
 Be Leaded: Programs start from $2,000 a month. Exact number after a 30-minute call. https://www.beleaded.com/pricing/
 Belkins: Average starter from $5,000 (appointment setting page). Custom proposal. https://belkins.io/appointment-setting
-CIENCE: Campaign team $2,000 a month, graph8 $499 a month, SDRs from $1,750 (offshore) or $3,500 (US and Europe) per SDR a month. SDRs added or removed month to month. https://www.cience.com/pricing/
+CIENCE: Per SDR each month: $1,750 offshore, $3,500 for reps based in the US and Europe. Flat extras: a $2,000 campaign team and the $499 graph8 platform. Month to month per SDR. A one time setup fee and a target bonus per SDR come on top. https://www.cience.com/pricing/
 Leadium: $4,000 to $5,000 a month multi-channel; $3,500 a month cold calling only. Per Leadium's own guide. https://www.leadium.com/blog/outbound-lead-generation-services
 SalesRoads: $11,950 per 4 weeks for 1 SDR. Per 4-week period. https://salesroads.com/pricing/
 Martal Group: No published dollar price. 3 month pilot, then monthly (Tier 1A). https://martal.ca/pricing/
 
 Ten agencies are compared on channels and terms in best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
 
-Target up to 25,000 new contacts a month. Only a list ceiling. Programs start from $2,000 a month.
+Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
 
 Looking for inbound leads from ads instead? This page is outbound. Ads are paid social (https://www.beleaded.com/paid-social-agency/).
 
@@ -10597,10 +10596,10 @@ What does a B2B lead generation agency do?
 It finds the companies and people who fit your market, reaches them by email and LinkedIn, handles the replies, and books calls with the ones who are interested.
 
 How much do lead generation services cost?
-The published floor is simple. Programs start from $2,000 a month. Price depends on markets, channels and volume.
+Programs start from $2,000 a month. Price depends on markets, channels and volume.
 
 How many contacts do you reach?
-Target up to 25,000 new contacts a month. Fresh names only.
+Target up to 25,000 new contacts a month.
 
 What counts as a qualified lead?
 One that matches the checklist you approve before launch: role, company size, industry, region and a stated interest, with a call accepted on your calendar.
@@ -10608,7 +10607,7 @@ One that matches the checklist you approve before launch: role, company size, in
 How are targets set?
 Before sending starts, you and we lock the targets alongside the buyer rules. The weekly report shows progress, though results still hinge on the market and the offer.
 
-Who owns the data when we stop?
+Who keeps the data when we stop?
 The lists and replies are yours.
 
 Is an agency better than hiring an SDR?
@@ -10623,7 +10622,6 @@ Outsourced lead generation means our team runs the list, the writing, and the re
 How do lead generation agencies get their leads?
 From a list built to your definition: firmographic filters, verified contacts and a reason to write now. We build it, you approve a sample, and it stays yours.
 
-Bookbar: Need more leads? Book a 30-minute call.
 
 ---
 
