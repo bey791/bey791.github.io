@@ -728,21 +728,235 @@ Need cold email? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30m
 URL: https://www.beleaded.com/appointment-setting/
 
 - Home
+- Services
 - B2B appointment setting
+
+Updated October 22, 2026.
+
+Appointment setting
 
 # B2B appointment setting services
 
-Updated October 20, 2026.
+B2B appointment setting services find buyers who match your definition, run the outreach, answer the replies and put a qualified meeting on your sales team's calendar. Be Leaded runs this for you. Programs start from $2,000 a month, with scope set on the call. Most programs go live in about three weeks.
+
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+400K+
+
+Emails a day of sending capacity
+
+99%
+
+Delivery rate across programs
+
+49 to 51%
+
+Average open rate on newsletters
+
+30+
+
+Client programs
+
+You will get an exact number after the call. Outreach runs on separate domains, so your company domain never carries cold volume.
+
+Last updated October 22, 2026
 
 ## From a list to a booked call
 
 Three steps. The definition is written before the first send.
 
-1. Lead generation. A verified list of new contacts who match the buyer you named, plus the first note you approve.
-2. Qualification against your criteria. Every reply is scored against the buyer definition you approved: role, firm type, and the pain they must have.
-3. Booked call. A match gets two times and one booking link. The hold goes on the calendar your sellers already use.
+- 01 Lead generation A verified list of new contacts who match the buyer you named, plus the first note you approve.
 
-## FAQ
+- 02 Qualification against your criteria Every reply is scored against the buyer definition you approved: role, firm type, and the pain they must have.
+
+- 03 Booked call A match gets two times and one booking link. The hold goes on the calendar your sellers already use.
+
+## Who it's for
+
+B2B teams that want meetings with a defined buyer, not a pile of replies to sort through. Appointment setting is the work after someone answers. The cold email agency (https://www.beleaded.com/cold-email-agency/) program is where most of those conversations start. This page is what happens next: check the reply against a definition you wrote down, handle the back and forth, and put a hold on the calendar your sellers already use.
+
+It fits when you already know who should be in the room. A software company whose account executives can take a demo. An IT services firm that sells to owners and operations leaders. An M&A advisor who wants owner conversations that match a mandate. A professional services firm where a partner will take the call. If nobody on your side can attend this month, wait. A booked meeting with an empty chair is not a program.
+
+It is the wrong fit if you sell to individual consumers, if the offer still changes every week, or if you want a meeting count promised before anyone has looked at the market. Be Leaded is a US B2B agency founded in 2023. We run the list, the domains, the copy, and the booking. Your team takes the meeting and closes.
+
+Before you sign, use what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/) and the best company for cold email (https://www.beleaded.com/guides/best-company-for-cold-email/). If Belkins is on the shortlist, the Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/) guide is the side-by-side.
+
+## What a qualified meeting means
+
+Write it down before the first email goes out. A qualified meeting is not "someone interested." It is a person who matches a definition you and we agreed, at a time both sides can see, with enough context that your seller does not walk in cold.
+
+Three lines, in writing:
+
+- Fit. Title, company, and the problem. On the first call we name the title, the company size or type, the industry, and the problem the person needs solved. A champion under that buyer can be in the thread. They are not a substitute for the person who can take the meeting.
+
+- Booked. A real time is on your seller's calendar. The invite names the company, why they replied, and whether they match. A positive reply, a link you sent, or a "let's find time" with nothing held is not a booked meeting.
+
+- Showed. The person attends. We do not treat a booking as a held meeting until they are in the room or on the call. The contract can say whether a reschedule still counts. We will not invent a show rate to make that line look tighter than the work is.
+
+We only book meetings that match. A reply from the wrong title gets one ask for the right person, or it stops. We do not pad a calendar to make a week look full. Your sellers take the meeting and close. We do not run discovery, and we do not sit on the call. The same three-part test is in the qualified meeting definition (https://www.beleaded.com/guides/best-meeting-booking-company/). A yearly appointment package is a different product. Read the contract for title, company, and who owns a missed meeting before you compare the fee.
+
+## Same-business-day reply handling
+
+On our programs the rule is the same business day. An interested reply with nothing on a calendar is not a booked meeting. A yes goes quiet when it sits overnight. We do not promise that every reply becomes a meeting. The handling is same business day, checked against the written definition, with the thread visible to you.
+
+- Stop the sequence before we answer. If the tool will not, a person does.
+
+- Answer what they asked. We do not paste the first email again.
+
+- Two times in their time zone, and one booking link. We name who from your team will be there.
+
+- The invite goes out from your seller's calendar. Company, why they replied, and whether they match. No deck.
+
+- No time chosen. One reminder the next business morning, then we wait.
+
+- A maybe gets one question, then times if they still want the call. A not-now gets a return date and a stop. The next note is a new first email.
+
+- A wrong person gets one referral ask. Unsubscribe and a hard no come off email and LinkedIn the same day.
+
+You can read every reply. The weekly report covers sends, bounces, replies, and meetings booked. The same-day steps are also in how SaaS teams turn a reply into a demo (https://www.beleaded.com/blog/book-saas-demos-with-cold-email/).
+
+## When someone does not show
+
+People miss meetings. A long form before the times, a 7 a.m. slot on their side, or a second reschedule fills a calendar with holds nobody attends. We set the invite to avoid that. Showing up stays with the buyer, and we will not quote a show rate.
+
+After a no-show we offer two new times the same day, send one note the next morning, and then stop. One reschedule is normal, and we will move the hold. We do not keep chasing a second reschedule. That is how your sellers lose the hour twice.
+
+Whether a reschedule still counts sits next to the written definition, in the contract. We will say that on the call. We will not promise a makeup meeting, a replacement, or a refund rule we have not agreed in writing. If your seller cannot attend, tell us before we book. A meeting your side misses is not a prospect problem.
+
+## How it works
+
+A straight path from a written buyer to a meeting on your calendar. Most programs go live in about three weeks.
+
+- 01 Define the meeting Who you want to meet, and what counts as qualified before anyone is booked.
+
+- 02 Build the infrastructure Separate domains, SPF, DKIM and DMARC, warmup, and a verified list matched to that buyer.
+
+- 03 Write and send Plain-text sequences you approve. LinkedIn can run beside email when it helps.
+
+- 04 Book the meeting We answer replies the same business day and put the qualified ones on your calendar.
+
+Cold email leaves from separate domains with SPF, DKIM and DMARC. Your company domain stays on the mail your customers already expect. LinkedIn, when we use it, runs from your team's own profiles. We do not send both channels on the same day, and a reply on either one stops the other. You approve every sequence before it sends. Catch-all and unverifiable addresses, customers, open opportunities, and anyone who already said no stay off the list.
+
+As of September 2026, the infrastructure on our work page (https://www.beleaded.com/work/) has capacity for 400K+ emails a day, a 99% delivery rate, and 30+ client programs.
+
+## Outsourced appointment setting: what you hand over and what you keep
+
+Outsourced appointment setting is a split of jobs. Your sellers still sell. Our team runs the outreach that fills the calendar they already use.
+
+You keep the list and the replies, during the program and after it ends. The definition, the calendar, the meeting and the close stay with you too.
+
+What you hand over is the material only your company can supply. The offer in a few plain sentences. The titles that belong in the room. The problem those people already have. The seller who will take the meeting. A yes on the sequences before the first send.
+
+We build the contact file to the definition you approved, write the notes, answer what comes back, place the hold, and send the weekly report. Your seller walks in with the thread, runs the meeting, and owns the close.
+
+## What your seller gets with each meeting
+
+Four facts in the invite, ready before the greeting.
+
+Who replied, with the title matched to the definition you approved. The company they work for. The reply thread, placed with the time. Why now: the problem they named, or the reason they would take a call this month.
+
+## What's included
+
+Everything between the written definition and the hold on your calendar. You do not buy tools, data, or inboxes for this program.
+
+### The definition
+
+Title, company, and the problem, written before the first send. We book only what matches.
+
+### Verified list
+
+Accounts and contacts matched to that buyer. Catch-all and unverifiable addresses stay off.
+
+### New contacts
+
+Target up to 25,000 new contacts a month.
+
+### Domains and warmup
+
+Separate domains, SPF, DKIM and DMARC, warmed for two to three weeks and checked after launch.
+
+### Copy you approve
+
+Plain-text sequences for your market. Nothing sends until you have read it.
+
+### Reply handling
+
+Same business day. Two times, one booking link, and the invite on your seller's calendar.
+
+### No-shows and reporting
+
+After a no-show: two new times the same day, one note the next morning, then stop. A weekly report of sends, replies, and meetings.
+
+Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
+
+Phone work is quoted as its own program.
+
+LinkedIn alongside email is included when the program calls for it. See demand generation (https://www.beleaded.com/demand-generation-agency/) when the job is demand rather than a held meeting. Paid ads, SMS, and AI voice are separate programs. Ad spend is paid to the platform. Voice minutes are billed at cost. If you only want the warm reply handed to your team, say so on the call. The fee follows that scope. Sending domains we set up for cold volume stay off your company domain.
+
+400K+
+
+Emails a day of sending capacity
+
+99%
+
+Delivery rate across programs
+
+49 to 51%
+
+Average open rate on newsletters
+
+30+
+
+Client programs
+
+Pricing
+
+## Programs start from $2,000 a month.
+
+Infrastructure, lists, copy, and reply handling are included. You will get an exact number after a 30-minute call.
+
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+Target up to 25,000 new contacts a month, counted as new names only.
+
+The exact number depends on how many accounts fit the definition, whether LinkedIn runs beside email, how many offers need their own list and copy, and whether we book the meeting or hand you the warm reply. We do not promise a meeting count before we have looked at the market, and we will not put one on this page. How retainer, per-meeting and hybrid pricing compare across firms is in the appointment setting pricing guide (https://www.beleaded.com/guides/appointment-setting-pricing/).
+
+## Retainer, pay per meeting, or an in-house SDR
+
+| Compared | Monthly retainer (Be Leaded) | Pay per meeting | Retainer plus per-seat team | In-house SDR |
+| --- | --- | --- | --- | --- |
+| What you pay for | The program: list, domains, copy, replies, booking | Each meeting that passes the definition in the contract | A team fee plus each SDR seat | Salary, tools, data, management |
+| Published example | Programs start from $2,000 a month | Ask for the per meeting price and the written definition. | CIENCE seats from $1,750 a month each offshore, $3,500 each in the US and Europe, plus team, platform, setup and bonus fees | Median on-target earnings $80,000 a year (The Bridge Group, 2025) |
+| Where the risk sits | On the definition you agree before launch | On how loose "qualified" is | On how many seats you buy | On the hire and the ramp (3.0 months average) |
+| Who owns the list after | You keep the list and the replies | Ask before you sign. | Ask before you sign. | You keep the list and the replies |
+
+Monthly retainer, pay per meeting, a retainer plus seats, and an in-house SDR. Third-party figures are linked below.
+
+Starting prices printed on October 22, 2026: CIENCE (https://www.cience.com/pricing/) lists SDR seats from $1,750 a month each offshore and from $3,500 each in the US and Europe. On top of the seats, CIENCE lists a $2,000 monthly campaign team fee, a $499 monthly graph8 platform fee, one setup fee and a performance bonus. Belkins (https://belkins.io/appointment-setting) gives $5,000 as its average starter price.
+
+Median on-target earnings and the 3.0 month average ramp are from the 2025 Bridge Group SDR research (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group), read October 22, 2026.
+
+The full in-house SDR cost view is on outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/).
+
+## Compare appointment setting companies
+
+A field of firms, with a best-for line on each, is written up in best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/). Use it to make a short list, then test the finalist against the definition, the calendar, and the fee shape on this page.
+
+## Work you can read
+
+Client names stay private unless a client agrees otherwise. These are engagements already on the work page. We are not adding new names here.
+
+- Off-market owner outreach for sell-side advisors (https://www.beleaded.com/work/#eng-ma). Lists by mandate, email and LinkedIn in the firm's voice, replies screened before a calendar invite.
+
+- Cold email for an HR and project platform (https://www.beleaded.com/work/#eng-hr). Two buyer segments, verified lists, and one operational problem per sequence.
+
+- Outbound for an Arizona advertising agency (https://www.beleaded.com/work/#eng-adagency). Verified lists, a plain-text sequence in the agency's voice, and replies put on the partners' calendars.
+
+- Sending infrastructure scaled to 400K+ emails a day (https://www.beleaded.com/work/#eng-scale), with delivery at 99%. That is the capacity behind the programs, not a meeting tally.
+
+References are available. Ask on the call and we will connect you with a current client. The full set, including newsletter work that is not appointment setting, is on work (https://www.beleaded.com/work/).
+
+## Questions about appointment setting
 
 **What is included in appointment setting?**
 
@@ -758,7 +972,7 @@ We answer replies the same business day. An interested reply gets two times in t
 
 **What happens on a no-show or a reschedule?**
 
-We do not guarantee that a booked person will attend. After a no-show we offer two new times the same day, send one note the next morning, and then stop. One reschedule is normal. We do not keep chasing a second reschedule. The contract can say whether a reschedule still counts. We will not promise a show rate.
+Showing up stays with the buyer. After a no-show we offer two new times the same day, send one note the next morning, and then stop. One reschedule is normal. We do not keep chasing a second reschedule. The contract can say whether a reschedule still counts. We will not promise a show rate.
 
 **Will cold email hurt our company domain?**
 
@@ -766,18 +980,37 @@ No. We send from separate domains that we set up, warm and monitor. Your company
 
 **What does it cost?**
 
-Programs start from $2,000 a month. Infrastructure, lists, copy, and reply handling are included. You will get an exact number after a 30-minute call. Retainer, pay per held call, and hybrid shapes are compared in the pricing writeup.
+Programs start from $2,000 a month. Infrastructure, lists, copy, and reply handling are included. You will get an exact number after a 30-minute call. Retainer, pay per held call, and hybrid shapes are compared in the pricing writeup (https://www.beleaded.com/guides/appointment-setting-pricing/).
 
 **How does appointment setting compare with hiring an SDR?**
 
-The Bridge Group's 2025 SDR report puts median on-target earnings at $80,000 a year, before benefits, tools, data, and management, with an average ramp of 3.0 months. Programs start from $2,000 a month, with tools, data, and infrastructure included, and most programs go live in about three weeks. An in-house rep can run live discovery inside your team. This comparison is cost and time to first meetings. It is not a claim that the program replaces every job an SDR does.
+Appointment setting is a meeting you defined, placed on a calendar your seller already uses. Hiring buys a person. The cost of that hire sits on outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/). The table on this page compares fee shapes: a monthly retainer, pay per meeting, a retainer plus seats, or the hire.
 
-The 2025 SDR benchmarks for ramp, pay, tenure and turnover are in hire an SDR or outsource (https://www.beleaded.com/blog/hire-sdr-or-outsource/).
+**What is outsourced appointment setting?**
 
-Email, LinkedIn and cold calling. For phone outreach, see cold calling services. See demand generation. LinkedIn alongside email is included when the program calls for it. Paid ads, SMS, and AI voice are separate programs. Ad spend is paid to the platform. Voice minutes are billed at cost. If you only want the warm reply handed to your team, say so on the call. The fee follows that scope. Sending domains we set up for cold volume stay off your company domain.
+Outsourced appointment setting is the model where a firm runs outreach and booking, and your sellers keep the conversation. You keep the list and the replies.
+
+**Do you book on our calendar?**
+
+Yes. On the calendar of the person who takes the meeting, with the reply thread and context in the invite.
+
+**Is pay per meeting better than a retainer?**
+
+It depends on how tight the written definition is. A loose qualified bar makes a per meeting fee hard to read. A tight definition makes either fee shape easier to judge. Retainer, per meeting, and hybrid shapes are compared in the appointment setting pricing guide (https://www.beleaded.com/guides/appointment-setting-pricing/).
+
+Comparing appointment setting companies before you sign? Read the Cold email & appointment setting guides (https://www.beleaded.com/guides/), then Best company for cold email (https://www.beleaded.com/guides/best-company-for-cold-email/). For what a booked meeting costs, read appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/).
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.
+
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+Or email sales@beleaded.com
+
+Need meetings? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=appointment-setting)
 
 ---
-
 URL: https://www.beleaded.com/linkedin-lead-generation-agency/
 
 - Home
