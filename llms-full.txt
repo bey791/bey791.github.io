@@ -422,23 +422,23 @@ Verified lists, warmed domains, and plain-text sequences. We handle replies and 
 
 400K+
 
-emails a day
+Emails a day of sending capacity
 
 99%
 
-delivery
+Delivery rate across programs
+
+49 to 51%
+
+Average open rate on newsletters
 
 30+
 
-on this motion
-
-Programs start from $2,000 a month
-
-Segment count is what moves it.
+Client programs
 
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=cold-email-agency)
 
-See the buyer scorecard (https://www.beleaded.com/guides/best-cold-email-agency/)
+Read the scorecard (https://www.beleaded.com/guides/best-cold-email-agency/)
 
 The exact fee is quoted on the call. Cold volume stays off the domain your staff already use for day to day mail.
 
@@ -488,7 +488,7 @@ Sends, replies and meetings, what's working and what we're changing next. You ca
 
 Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
 
-Cold calling is a separate program with its own scope and price.
+Calling runs as its own program, scoped and priced on its own.
 
 ## Cold email services for B2B: who it fits
 
@@ -514,7 +514,7 @@ It fits when the buyer can be described, someone on your side will take the meet
 
 - Anyone asking for a fixed count of meetings prior to a market review
 
-It is the wrong buy when the product is sold one person at a time, when nobody can take a meeting this month, or when someone wants a count of meetings prior to any market review. We will not name a count of meetings on the first call. What a qualified meeting means is written down first, and each weekly report is scored against that definition.
+We will not name a count of meetings on the first call. What a qualified meeting means is written down first, and each weekly report is scored against that definition.
 
 ## How it works
 
@@ -536,19 +536,21 @@ You read and approve the sequences first. Campaigns go live on a steady ramp. Re
 
 Sends, replies, meetings and what we're changing next.
 
-Two sign-offs sit with you. In Build you look at a sample of the list. Before Launch you read the sequences. The first touch waits until both of those are a yes.
-
 400K+
 
-emails a day
+Emails a day of sending capacity
 
 99%
 
-delivery
+Delivery rate across programs
+
+49 to 51%
+
+Average open rate on newsletters
 
 30+
 
-on this motion
+Client programs
 
 Want to see what cold email could do in your market? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=mid&utm_content=cold-email-agency) and we'll sketch the first sequence.
 
@@ -558,14 +560,14 @@ Three ways to run the motion. The columns are the questions that show up before 
 
 Hand the work to an agency, run it on tools your company buys, or recruit one person and manage that seat. The rows cover who does the work, what the money is for, how long until mail can go out, which domains carry it, who answers, and what you still hold if you stop.
 
-DIY is a sequencer plus a data subscription. Your people buy them, warm what they send from, write the notes and sit on the replies. The cost is those subscriptions plus the hours. Tool prices are not printed in that column. There is no dated public source on file for a subscription rate, so the cell stays descriptive.
+DIY is a sequencer plus a data subscription. Your people buy them, warm what they send from, write the notes and sit on the replies. The cost is those subscriptions plus the hours.
 
 An in-house SDR is a hire. Pay, ramp and how long people stay come from one study, linked under the table and read again on October 22, 2026. Be Leaded is neither a tool login nor a seat you recruit. We find the buyers, stand up the sending domains, write the notes, answer the replies and book the meeting. You approve a list sample and the sequences. Your sellers take the meeting.
 
 | Compared | Be Leaded | DIY tools (sequencer plus data) | In-house SDR |
 | Who does the work | Our team: list, domains, copy, replies, booking | Your team, on tools you buy | One hire you recruit and manage |
-| Invoice | Programs start from $2,000 a month | Tool and data subscriptions you buy and manage, plus your team's time | Median on-target earnings $80,000 a year before tools and data (The Bridge Group, 2025) |
-| Timing | Most programs go live in about three weeks | Depends on who on your team sets up domains and warmup | Average ramp 3.0 months (The Bridge Group, 2025) |
+| Price | Programs start from $2,000 a month | Tool and data subscriptions you buy and manage, plus your team's time | Median on-target earnings $80,000 a year before tools and data (The Bridge Group, 2025) |
+| Go-live | Most programs go live in about three weeks | Depends on who on your team sets up domains and warmup | Average ramp 3.0 months (The Bridge Group, 2025) |
 | Sending domains | Separate domains we build, warm and monitor | You buy and warm them | You buy and warm them |
 | Reply handling | Same business day | Whoever owns the inbox | The SDR |
 | What you own after | The list and the replies | Everything | Everything, while the hire stays (average tenure 1.9 years, The Bridge Group, 2025) |
@@ -574,17 +576,17 @@ SDR figures: the Bridge Group report titled SDR Models, Motions and Metrics 2025
 
 ## What a cold email agency costs
 
-The line below is the invoice. Programs start from $2,000 a month. Segment count is what moves it. Channels beside email change the scope. The fee covers finding names, sending domains, the notes, reply handling and booking. How other firms charge is set out in cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/). Our own line items are on pricing (https://www.beleaded.com/pricing/).
+Our own number comes first. Programs start from $2,000 a month. Segment count is what moves it. Channels beside email change the scope. The fee covers finding names, sending domains, the notes, reply handling and booking. How other firms charge is set out in cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/). Our own line items are on pricing (https://www.beleaded.com/pricing/).
 
-Starting prices printed on build day: Belkins (https://belkins.io/appointment-setting) lists from $5,000 for appointment setting, and Leadium (https://www.leadium.com/blog/outbound-lead-generation-services) lists $4,000 to $5,000 a month for outbound across channels. Both pages were read on October 22, 2026.
+Starting prices printed on October 22, 2026: Belkins (https://belkins.io/appointment-setting) lists an average starter price from $5,000 for appointment setting, and Leadium (https://www.leadium.com/blog/outbound-lead-generation-services) lists $4,000 to $5,000 a month for outbound across channels.
 
 Volume and tools
 
 ## Any volume you need. Never at the cost of the inbox.
 
-We keep daily volume per inbox low and ramp new inboxes slowly. When a program needs more reach, we add inboxes and domains instead of pushing harder through the ones we have. That's how the same infrastructure runs 400,000 emails a day without losing placement.
+We keep daily volume per inbox low and ramp new inboxes slowly. When a program needs more reach, we add inboxes and domains instead of pushing harder through the ones we have. That's how the same infrastructure runs 400K+ emails a day without losing placement.
 
-Target up to 25,000 new contacts a month. 99% delivery is held on the sends that capacity carries.
+Target up to 25,000 new contacts a month. Delivery holds at 99% on those sends.
 
 How we protect deliverability (https://www.beleaded.com/cold-email-deliverability/)
 
@@ -646,15 +648,15 @@ ready
 
 Example daily report for a client sending domain. Tools we work in: Apollo, Clay, Saleshandy, Instantly, Smartlead, Salesforce, Dripify and n8n, plus Retell AI and ElevenLabs voice agents for follow-up calls.
 
-## Who owns the domains, the list and the replies
+## Who owns the list and the replies when we stop?
 
 They stay with your company when the program ends.
 
-The contact file, the reply threads and the domains registered for cold volume are handed over. Nothing in that file is held back to force a renewal. Ask on the last week and the export goes to the people you name.
+The file of contacts comes with you, and every reply thread does too.
 
-While the work is live, those people can open any thread. The meeting invite keeps that thread with it, so the seller sees why the person agreed to talk.
+While the work is live, your team can open any thread. The meeting invite keeps that thread with it, so the seller sees why the person agreed to talk.
 
-Cold volume does not leave from the domain your customers already know. Domains for the program are registered, warmed and watched on their own. If you leave, those domains can move to a registrar login you control. Staff mail stays on the company domain, outside that volume.
+Cold volume does not leave from the domain your customers already know. Domains for the program are registered, warmed and watched on their own. Staff mail stays on the company domain, outside that volume.
 
 The names are not a rental. What was found for the buyer you described leaves with you, and so does every reply. The short form of that point is in the questions below.
 
@@ -674,7 +676,7 @@ No. We register separate sending domains that point back to your brand, so your 
 
 **How many emails do you send?**
 
-It depends on the size of your market. Each new inbox is warmed for two to three weeks and kept to a low daily volume, and we add inboxes rather than push more through each one. Our infrastructure can send more than 400,000 emails a day, so volume is never the limit. Your market is.
+It depends on the size of your market. Each new inbox is warmed for two to three weeks and kept to a low daily volume, and we add inboxes rather than push more through each one. Our infrastructure can send 400K+ emails a day, so volume is never the limit. Your market is.
 
 **What counts as a qualified meeting?**
 
@@ -700,7 +702,7 @@ No. We do not promise a number of demos. Before launch we write down what a qual
 
 Read the table under Agency, DIY tools, or an in-house SDR. It lines up who does the work, the shape of the cost, and what you still hold afterward. If your own people will run the tools and the replies, the DIY column is the honest read. If you do not want to recruit, look at the Be Leaded column.
 
-**Who owns the domains and the list when we stop?**
+**Who owns the list and the replies when we stop?**
 
 You do.
 
