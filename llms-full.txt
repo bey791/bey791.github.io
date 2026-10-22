@@ -7493,7 +7493,7 @@ For a B2B campaign with a verified list and a specific offer, we treat these as 
 
 ## Positive replies and meetings
 
-Reply rate includes "not interested," "unsubscribe" and out-of-office. What pays is the positive reply, and then the meeting.
+Reply rate includes "not interested," "unsubscribe" and out-of-office. What pays is the positive reply, and then the meeting. Turning those replies into held meetings is the job of B2B appointment setting (https://www.beleaded.com/appointment-setting/).
 
 A typical campaign replies at 3.43% of emails sent, according to Instantly's 2026 report, and at 4.5% overall in Hunter's. Ask any vendor which replies they count before you treat their percentage as yours.
 
@@ -7520,7 +7520,7 @@ Those levers are the evidence. The order to apply them, without rewriting the li
 
 ## The numbers we hold ourselves to
 
-Every Be Leaded program is measured on delivery rate, reply rate, positive reply rate and meetings held, reported weekly. Delivery across client programs is held at 99%. When replies fall off, the next edit is the list or the offer angle, ahead of any volume increase. The templates that get us there are in the cold email templates guide.
+Every Be Leaded program is measured on delivery rate, reply rate, positive reply rate and meetings held, reported weekly. Delivery across client programs is held at 99%. When replies fall off, the next edit is the list or the offer angle, ahead of any volume increase. The templates that get us there are in the cold email templates guide. If you want the program run for you, see how our cold email agency (https://www.beleaded.com/cold-email-agency/) works.
 
 ## FAQ
 
