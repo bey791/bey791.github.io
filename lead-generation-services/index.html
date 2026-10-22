@@ -43,7 +43,22 @@
 <link rel="preload" href="/assets/fonts/outfit-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/bricolage-grotesque-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css?v=20261021c">
+<style>
+  /* Page scoped. site.css stays untouched. Three proof figures, and the bookbar on one line. */
+  main .proof-strip{grid-template-columns:repeat(3,minmax(0,1fr))}
+  @media (max-width:720px){
+    main .proof-strip{grid-template-columns:1fr}
+    main .proof-strip div:nth-child(n){border-right:0;border-bottom:1px solid var(--line)}
+    main .proof-strip div:last-child{border-bottom:0}
+  }
+  @media (max-width:767px){
+    a.book-bar:not([hidden]){white-space:nowrap;font-size:15px;letter-spacing:-.02em;padding-left:10px;padding-right:10px}
+  }
+</style>
+<!--
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.beleaded.com/#org","name":"Be Leaded","legalName":"Be Leaded Group LLC","foundingDate":"2023","numberOfEmployees":{"@type":"QuantitativeValue","minValue":11,"maxValue":50},"disambiguatingDescription":"Be Leaded (www.beleaded.com) is a US B2B outbound and email marketing agency founded by Ahmad Khan. It is not BeLead, a separate company in Belgium.","identifier":{"@type":"PropertyValue","propertyID":"URL","value":"https://www.beleaded.com/"},"brand":{"@type":"Brand","name":"Be Leaded","logo":"https://www.beleaded.com/assets/logo-mark-512.png"},"foundingLocation":{"@type":"Place","name":"New York, NY","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"}},"alternateName":["BeLeaded","Be Leaded Agency","Be Leaded cold email agency"],"url":"https://www.beleaded.com/","sameAs":["https://www.linkedin.com/company/beleaded","https://www.facebook.com/people/Be-Leaded/61550359872702/","https://clutch.co/profile/be-leaded","https://www.goodfirms.co/company/be-leaded"],"logo":{"@type":"ImageObject","url":"https://www.beleaded.com/assets/logo-mark-512.png","contentUrl":"https://www.beleaded.com/assets/logo-mark-512.png","width":512,"height":512,"caption":"Be Leaded logo","encodingFormat":"image/png"},"image":"https://www.beleaded.com/assets/og-image-20261001c.png","description":"Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.","slogan":"Meetings on your calendar. Emails in their inbox.","email":"sales@beleaded.com","address":{"@type":"PostalAddress","streetAddress":"30 N Gould St #69992","addressLocality":"Sheridan","addressRegion":"WY","postalCode":"82801","addressCountry":"US"},"areaServed":"Worldwide","founder":{"@id":"https://www.beleaded.com/about/#ahmad-khan"},"knowsAbout":["Cold email","B2B lead generation","Appointment setting","Demo booking","Outbound sales","Email deliverability","SPF, DKIM and DMARC","LinkedIn outreach","Off-market deal sourcing","M&A deal flow","Business broker lead generation","Newsletter design","Email marketing","Lifecycle email","SMS marketing","AI voice agents","Paid social advertising","Meta Ads","Google Ads","LinkedIn Ads","Lead generation","Speed to lead"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"sales@beleaded.com","url":"https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_content=lead-generation-services","availableLanguage":["English"]},"location":{"@id":"https://www.beleaded.com/#localbusiness"}},{"@type":["ProfessionalService","LocalBusiness"],"@id":"https://www.beleaded.com/#localbusiness","name":"Be Leaded","legalName":"Be Leaded Group LLC","foundingDate":"2023","numberOfEmployees":{"@type":"QuantitativeValue","minValue":11,"maxValue":50},"disambiguatingDescription":"Be Leaded (www.beleaded.com) is a US B2B outbound and email marketing agency founded by Ahmad Khan. It is not BeLead, a separate company in Belgium.","url":"https://www.beleaded.com/","image":"https://www.beleaded.com/assets/og-image-20261001c.png","logo":{"@type":"ImageObject","url":"https://www.beleaded.com/assets/logo-mark-512.png","contentUrl":"https://www.beleaded.com/assets/logo-mark-512.png","width":512,"height":512,"caption":"Be Leaded logo","encodingFormat":"image/png"},"email":"sales@beleaded.com","priceRange":"$2000+","currenciesAccepted":"USD","address":{"@type":"PostalAddress","streetAddress":"30 N Gould St #69992","addressLocality":"Sheridan","addressRegion":"WY","postalCode":"82801","addressCountry":"US"},"areaServed":[{"@type":"Country","name":"United States"},{"@type":"State","name":"New York"},{"@type":"City","name":"New York"}],"openingHours":"Mo-Fr 09:00-17:00","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"17:00"}],"sameAs":["https://www.linkedin.com/company/beleaded","https://www.facebook.com/people/Be-Leaded/61550359872702/","https://clutch.co/profile/be-leaded","https://www.goodfirms.co/company/be-leaded"],"parentOrganization":{"@id":"https://www.beleaded.com/#org"},"founder":{"@id":"https://www.beleaded.com/about/#ahmad-khan"},"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"sales@beleaded.com","url":"https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_content=lead-generation-services","availableLanguage":["English"]}},{"@type":"Person","@id":"https://www.beleaded.com/about/#ahmad-khan","name":"Ahmad Khan","jobTitle":"Founder","worksFor":{"@id":"https://www.beleaded.com/#org"},"url":"https://www.beleaded.com/about/","knowsAbout":["Cold email","B2B lead generation","Appointment setting","Demo booking","Outbound sales","Email deliverability","SPF, DKIM and DMARC","LinkedIn outreach","Off-market deal sourcing","M&A deal flow","Business broker lead generation","Newsletter design","Email marketing","Lifecycle email","SMS marketing","AI voice agents","Paid social advertising","Meta Ads","Google Ads","LinkedIn Ads","Lead generation","Speed to lead"]},{"@type":"WebSite","@id":"https://www.beleaded.com/#website","url":"https://www.beleaded.com/","name":"Be Leaded","publisher":{"@id":"https://www.beleaded.com/#org"},"inLanguage":"en-US"},{"@type":["WebPage","FAQPage"],"@id":"https://www.beleaded.com/lead-generation-services/#webpage","url":"https://www.beleaded.com/lead-generation-services/","name":"Lead Generation Agency for B2B Companies | Be Leaded","description":"B2B lead generation agency: verified lists, cold email, LinkedIn and qualified calls booked on your calendar. Programs start from $2,000 a month.","isPartOf":{"@id":"https://www.beleaded.com/#website"},"inLanguage":"en-US","dateModified":"2026-10-20","primaryImageOfPage":{"@type":"ImageObject","url":"https://www.beleaded.com/assets/og-image-20261001c.png"},"breadcrumb":{"@id":"https://www.beleaded.com/lead-generation-services/#breadcrumb"},"about":{"@id":"https://www.beleaded.com/lead-generation-services/#service"},"mainEntity":[{"@type":"Question","name":"What does a B2B lead generation agency do?","acceptedAnswer":{"@type":"Answer","text":"It finds the companies and people who fit your market, reaches them by email and LinkedIn, handles the replies, and books calls with the ones who are interested."}},{"@type":"Question","name":"How much do lead generation services cost?","acceptedAnswer":{"@type":"Answer","text":"Programs start from $2,000 a month. Price depends on markets, channels and volume."}},{"@type":"Question","name":"How many contacts do you reach?","acceptedAnswer":{"@type":"Answer","text":"Target up to 25,000 new contacts a month."}},{"@type":"Question","name":"What counts as a qualified lead?","acceptedAnswer":{"@type":"Answer","text":"One that matches the checklist you approve before launch: role, company size, industry, region and a stated interest, with a call accepted on your calendar."}},{"@type":"Question","name":"How are targets set?","acceptedAnswer":{"@type":"Answer","text":"Before sending starts, you and we lock the targets alongside the buyer rules. The weekly report shows progress, though results still hinge on the market and the offer."}},{"@type":"Question","name":"Who owns the data when we stop?","acceptedAnswer":{"@type":"Answer","text":"The lists and replies are yours."}},{"@type":"Question","name":"Is an agency better than hiring an SDR?","acceptedAnswer":{"@type":"Answer","text":"An agency is faster to start and includes data, domains and tools. A hire makes sense once outbound is proven and you can manage it."}},{"@type":"Question","name":"Do you do inbound lead generation?","acceptedAnswer":{"@type":"Answer","text":"Our core is outbound. For ads and landing pages see paid social."}}]},{"@type":"BreadcrumbList","@id":"https://www.beleaded.com/lead-generation-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.beleaded.com/"},{"@type":"ListItem","position":2,"name":"Services","item":"https://www.beleaded.com/services/"},{"@type":"ListItem","position":3,"name":"Lead generation services","item":"https://www.beleaded.com/lead-generation-services/"}]},{"@type":"Service","@id":"https://www.beleaded.com/lead-generation-services/#service","name":"B2B lead generation","serviceType":"Lead generation","provider":{"@id":"https://www.beleaded.com/#org"},"areaServed":"United States","audience":{"@type":"BusinessAudience","audienceType":"Founders and sales leaders at B2B companies"},"url":"https://www.beleaded.com/lead-generation-services/","mainEntityOfPage":{"@id":"https://www.beleaded.com/lead-generation-services/#webpage"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Lead generation services in the program","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Cold email","url":"https://www.beleaded.com/cold-email-agency/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Appointment setting","url":"https://www.beleaded.com/appointment-setting/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"LinkedIn lead generation","url":"https://www.beleaded.com/linkedin-lead-generation-agency/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Outsourced SDR team","url":"https://www.beleaded.com/outsourced-sdr-team/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI voice follow up","url":"https://www.beleaded.com/ai-voice-agents/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Cold email deliverability","url":"https://www.beleaded.com/cold-email-deliverability/"}}]},"offers":{"@type":"Offer","description":"Programs start from $2,000 a month. Target up to 25,000 new contacts a month.","priceCurrency":"USD","price":"2000","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"2000","priceCurrency":"USD","unitText":"MONTH"},"seller":{"@id":"https://www.beleaded.com/#org"}}}]}</script>
+-->
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.beleaded.com/#org","name":"Be Leaded","legalName":"Be Leaded Group LLC","foundingDate":"2023","numberOfEmployees":{"@type":"QuantitativeValue","minValue":11,"maxValue":50},"disambiguatingDescription":"Be Leaded (www.beleaded.com) is a US B2B outbound and email marketing agency founded by Ahmad Khan. It is not BeLead, a separate company in Belgium.","identifier":{"@type":"PropertyValue","propertyID":"URL","value":"https://www.beleaded.com/"},"brand":{"@type":"Brand","name":"Be Leaded","logo":"https://www.beleaded.com/assets/logo-mark-512.png"},"foundingLocation":{"@type":"Place","name":"New York, NY","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"}},"alternateName":["BeLeaded","Be Leaded Agency","Be Leaded cold email agency"],"url":"https://www.beleaded.com/","sameAs":["https://www.linkedin.com/company/beleaded","https://www.facebook.com/people/Be-Leaded/61550359872702/","https://clutch.co/profile/be-leaded","https://www.goodfirms.co/company/be-leaded"],"logo":{"@type":"ImageObject","url":"https://www.beleaded.com/assets/logo-mark-512.png","contentUrl":"https://www.beleaded.com/assets/logo-mark-512.png","width":512,"height":512,"caption":"Be Leaded logo","encodingFormat":"image/png"},"image":"https://www.beleaded.com/assets/og-image-20261001c.png","description":"Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. It runs cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers.","slogan":"Meetings on your calendar. Emails in their inbox.","email":"sales@beleaded.com","address":{"@type":"PostalAddress","streetAddress":"30 N Gould St #69992","addressLocality":"Sheridan","addressRegion":"WY","postalCode":"82801","addressCountry":"US"},"areaServed":"Worldwide","founder":{"@id":"https://www.beleaded.com/about/#ahmad-khan"},"knowsAbout":["Cold email","B2B lead generation","Appointment setting","Demo booking","Outbound sales","Email deliverability","SPF, DKIM and DMARC","LinkedIn outreach","Off-market deal sourcing","M&A deal flow","Business broker lead generation","Newsletter design","Email marketing","Lifecycle email","SMS marketing","AI voice agents","Paid social advertising","Meta Ads","Google Ads","LinkedIn Ads","Lead generation","Speed to lead"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"sales@beleaded.com","url":"https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_content=lead-generation-services","availableLanguage":["English"]},"location":{"@id":"https://www.beleaded.com/#localbusiness"}},{"@type":["ProfessionalService","LocalBusiness"],"@id":"https://www.beleaded.com/#localbusiness","name":"Be Leaded","legalName":"Be Leaded Group LLC","foundingDate":"2023","numberOfEmployees":{"@type":"QuantitativeValue","minValue":11,"maxValue":50},"disambiguatingDescription":"Be Leaded (www.beleaded.com) is a US B2B outbound and email marketing agency founded by Ahmad Khan. It is not BeLead, a separate company in Belgium.","url":"https://www.beleaded.com/","image":"https://www.beleaded.com/assets/og-image-20261001c.png","logo":{"@type":"ImageObject","url":"https://www.beleaded.com/assets/logo-mark-512.png","contentUrl":"https://www.beleaded.com/assets/logo-mark-512.png","width":512,"height":512,"caption":"Be Leaded logo","encodingFormat":"image/png"},"email":"sales@beleaded.com","priceRange":"$2000+","currenciesAccepted":"USD","address":{"@type":"PostalAddress","streetAddress":"30 N Gould St #69992","addressLocality":"Sheridan","addressRegion":"WY","postalCode":"82801","addressCountry":"US"},"areaServed":[{"@type":"Country","name":"United States"},{"@type":"State","name":"New York"},{"@type":"City","name":"New York"}],"openingHours":"Mo-Fr 09:00-17:00","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"17:00"}],"sameAs":["https://www.linkedin.com/company/beleaded","https://www.facebook.com/people/Be-Leaded/61550359872702/","https://clutch.co/profile/be-leaded","https://www.goodfirms.co/company/be-leaded"],"parentOrganization":{"@id":"https://www.beleaded.com/#org"},"founder":{"@id":"https://www.beleaded.com/about/#ahmad-khan"},"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"sales@beleaded.com","url":"https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_content=lead-generation-services","availableLanguage":["English"]}},{"@type":"Person","@id":"https://www.beleaded.com/about/#ahmad-khan","name":"Ahmad Khan","jobTitle":"Founder","worksFor":{"@id":"https://www.beleaded.com/#org"},"url":"https://www.beleaded.com/about/","knowsAbout":["Cold email","B2B lead generation","Appointment setting","Demo booking","Outbound sales","Email deliverability","SPF, DKIM and DMARC","LinkedIn outreach","Off-market deal sourcing","M&A deal flow","Business broker lead generation","Newsletter design","Email marketing","Lifecycle email","SMS marketing","AI voice agents","Paid social advertising","Meta Ads","Google Ads","LinkedIn Ads","Lead generation","Speed to lead"]},{"@type":"WebSite","@id":"https://www.beleaded.com/#website","url":"https://www.beleaded.com/","name":"Be Leaded","publisher":{"@id":"https://www.beleaded.com/#org"},"inLanguage":"en-US"},{"@type":["WebPage","FAQPage"],"@id":"https://www.beleaded.com/lead-generation-services/#webpage","url":"https://www.beleaded.com/lead-generation-services/","name":"Lead Generation Agency for B2B Companies | Be Leaded","description":"B2B lead generation agency: verified lists, cold email, LinkedIn and qualified calls booked on your calendar. Programs start from $2,000 a month.","isPartOf":{"@id":"https://www.beleaded.com/#website"},"inLanguage":"en-US","dateModified":"2026-10-22","primaryImageOfPage":{"@type":"ImageObject","url":"https://www.beleaded.com/assets/og-image-20261001c.png"},"breadcrumb":{"@id":"https://www.beleaded.com/lead-generation-services/#breadcrumb"},"about":{"@id":"https://www.beleaded.com/lead-generation-services/#service"},"mainEntity":[{"@type":"Question","name":"What does a B2B lead generation agency do?","acceptedAnswer":{"@type":"Answer","text":"It finds the companies and people who fit your market, reaches them by email and LinkedIn, handles the replies, and books calls with the ones who are interested."}},{"@type":"Question","name":"How much do lead generation services cost?","acceptedAnswer":{"@type":"Answer","text":"The published floor is simple. Programs start from $2,000 a month. Price depends on markets, channels and volume."}},{"@type":"Question","name":"How many contacts do you reach?","acceptedAnswer":{"@type":"Answer","text":"Target up to 25,000 new contacts a month. Fresh names only."}},{"@type":"Question","name":"What counts as a qualified lead?","acceptedAnswer":{"@type":"Answer","text":"One that matches the checklist you approve before launch: role, company size, industry, region and a stated interest, with a call accepted on your calendar."}},{"@type":"Question","name":"How are targets set?","acceptedAnswer":{"@type":"Answer","text":"Before sending starts, you and we lock the targets alongside the buyer rules. The weekly report shows progress, though results still hinge on the market and the offer."}},{"@type":"Question","name":"Who owns the data when we stop?","acceptedAnswer":{"@type":"Answer","text":"The lists and replies are yours."}},{"@type":"Question","name":"Is an agency better than hiring an SDR?","acceptedAnswer":{"@type":"Answer","text":"A firm can begin sooner because the list, the sending setup, and the tools come with the program. Hiring fits after outbound is already working and someone on your side can run the seat."}},{"@type":"Question","name":"Do you do inbound lead generation?","acceptedAnswer":{"@type":"Answer","text":"Our core is outbound. For ads and landing pages see paid social."}},{"@type":"Question","name":"What is outsourced lead generation?","acceptedAnswer":{"@type":"Answer","text":"Outsourced lead generation means our team runs the list, the writing, and the replies, while you keep the buyer definition and the meetings. The founder joins the first call. You approve a list sample, the copy, and which calendar receives the booking."}},{"@type":"Question","name":"How do lead generation agencies get their leads?","acceptedAnswer":{"@type":"Answer","text":"From a list built to your definition: firmographic filters, verified contacts and a reason to write now. We build it, you approve a sample, and it stays yours."}}]},{"@type":"BreadcrumbList","@id":"https://www.beleaded.com/lead-generation-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.beleaded.com/"},{"@type":"ListItem","position":2,"name":"Services","item":"https://www.beleaded.com/services/"},{"@type":"ListItem","position":3,"name":"Lead generation services","item":"https://www.beleaded.com/lead-generation-services/"}]},{"@type":"Service","@id":"https://www.beleaded.com/lead-generation-services/#service","name":"B2B lead generation","serviceType":"Lead generation","provider":{"@id":"https://www.beleaded.com/#org"},"areaServed":"United States","audience":{"@type":"BusinessAudience","audienceType":"Founders and sales leaders at B2B companies"},"url":"https://www.beleaded.com/lead-generation-services/","mainEntityOfPage":{"@id":"https://www.beleaded.com/lead-generation-services/#webpage"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Lead generation services in the program","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Cold email","url":"https://www.beleaded.com/cold-email-agency/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Appointment setting","url":"https://www.beleaded.com/appointment-setting/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"LinkedIn lead generation","url":"https://www.beleaded.com/linkedin-lead-generation-agency/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Outsourced SDR team","url":"https://www.beleaded.com/outsourced-sdr-team/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI voice follow up","url":"https://www.beleaded.com/ai-voice-agents/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Cold email deliverability","url":"https://www.beleaded.com/cold-email-deliverability/"}}]},"offers":{"@type":"Offer","description":"Programs start from $2,000 a month. Target up to 25,000 new contacts a month.","priceCurrency":"USD","price":"2000","availability":"https://schema.org/InStock","priceSpecification":{"@type":"UnitPriceSpecification","price":"2000","priceCurrency":"USD","unitText":"MONTH"},"seller":{"@id":"https://www.beleaded.com/#org"}}}]}</script>
 <script src="/assets/site.js?v=20261021c" defer></script>
 </head>
 <body>
@@ -154,11 +169,11 @@
       <nav aria-label="Breadcrumb"><ol class="crumbs"><li><a href="/">Home</a></li><li><a href="/services/">Services</a></li><li><span aria-current="page">Lead generation services</span></li></ol></nav>
       <p class="kicker">Outbound lead generation</p>
       <h1 id="h-lgs">B2B lead generation agency</h1>
-      <p class="lead">Outbound lead generation for B2B companies. We build the list, write and send the outreach, answer replies and book calls with buyers who match a definition you approve. Target up to 25,000 new contacts a month.</p>
+      <p class="lead">Outbound lead generation for B2B companies. We build the list, write and send the outreach, answer replies and book calls with buyers who fit a definition you approve. Target up to 25,000 new contacts a month. List size and fee sit apart. Programs start from $2,000 a month.</p>
       <p>This is outbound lead generation. We start the conversation with people who were not already looking for you. If you want inbound leads from ads and landing pages, see <a href="/paid-social-agency/">paid social</a>.</p>
       <div class="cta-row">
-        <div class="cta-primary"><a class="btn btn-lg btn-mag" data-hero-cta href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=inline&amp;utm_content=lead-generation-services" target="_blank" rel="noopener" data-cta="inline">Book a 30-minute call</a><p class="cta-note">Programs start from $2,000 a month</p></div>
-        <a class="link" href="/pricing/">See pricing</a>
+        <div class="cta-primary"><a class="btn btn-lg btn-mag" data-hero-cta href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=inline&amp;utm_content=lead-generation-services" target="_blank" rel="noopener" data-cta="inline">Book a 30-minute call</a><p class="cta-note">Quoted after the session. Programs start from $2,000 a month</p></div>
+        <a class="link" href="/pricing/">Fee sheet</a>
       </div>
     </div>
     <figure class="mail" style="margin:0" aria-labelledby="cap-lgs">
@@ -190,15 +205,15 @@
     </div>
     <div class="features">
       <div class="feature" data-reveal style="--d:0"><h3>Founders and sales leaders</h3><p>The people who hire this program. Many have already paid for "leads" that were the wrong job, or they do not want to find that out in month three.</p></div>
-      <div class="feature" data-reveal style="--d:1"><h3>The person on your calendar</h3><p>A title or role, at a company size you would actually sell to. A champion can be in the thread. They are not a substitute for the person who can take the call.</p></div>
+      <div class="feature" data-reveal style="--d:1"><h3>The person on your calendar</h3><p>A title or role, at a company size you would actually sell to. Someone junior may sit in the thread. That person does not replace the buyer who can accept the meeting.</p></div>
       <div class="feature" data-reveal style="--d:2"><h3>The market you named</h3><p>Industry and region, written down. The list is that market, not every company a data tool can export.</p></div>
     </div>
     <div class="split-2" style="margin-top:44px">
       <div class="prose">
         <p>Six lines, agreed before anyone is contacted. If a reply misses one of them, it is not a lead and it does not get booked to pad a week.</p>
-        <p>Buyers describe the failure mode plainly. On <a href="https://www.reddit.com/r/b2b_sales/comments/1s9hm4x/b2b_lead_gen_agencies/" target="_blank" rel="noopener">Reddit</a>, one founder said most of what an agency called a marketing qualified lead was an intern or someone in the wrong job. The fix they described was a checklist both sides wrote together: title, company, and the tools already in the account.</p>
+        <p>On <a href="https://www.reddit.com/r/b2b_sales/comments/1s9hm4x/b2b_lead_gen_agencies/" target="_blank" rel="noopener">Reddit</a>, one founder said an agency's marketing qualified lead was often an intern or the wrong job. The fix was a checklist both sides wrote: title, company, and the tools already in the account.</p>
         <div class="callout"><p>Names and companies are illustrative.</p></div>
-        <p>Harbor and Pine is a hotel group with 22 properties in the Southeast. Northline Supply sells commercial kitchen smallwares. The signed definition says: facilities director, groups with 8 to 40 properties, hotels, Southeast, and a stated mess in how each hotel orders on its own. A reply that says "send a one pager" is not a lead. A call with that facilities director, accepted on the seller's calendar, is.</p>
+        <p>Harbor and Pine is a hotel group with 22 properties in the Southeast. The signed definition says: facilities director, groups with 8 to 40 properties, hotels, Southeast, and a stated mess in how each hotel orders on its own. A call with that facilities director, accepted on the seller's calendar, is.</p>
       </div>
       <ul class="ticks">
         <li>Title or role</li>
@@ -212,11 +227,25 @@
   </div>
 </section>
 
+<section class="section" style="padding-top:0" aria-labelledby="h-lgs-outsourced">
+  <div class="wrap split-2">
+    <div class="section-head">
+      <h2 id="h-lgs-outsourced">Outsourced lead generation: who does what</h2>
+      <p class="lead">You keep the buyer definition and the meetings. Our team does the list, the writing, and the replies.</p>
+    </div>
+    <div class="prose">
+      <p>The founder is on the first call. That working session drafts the checklist: role, company size, industry, region, and the problem that earns the conversation. Afterward the team builds the file, drafts the sequences, and answers replies.</p>
+      <p>Three approvals sit with you before anything goes out. You approve a sample of the list. You approve the copy. You approve which calendar receives the booking, so it lands with the person who will take it. A polite note is not booked to fill a quiet week.</p>
+      <p>The list, the reply threads, and the written definition stay with you while the program runs and after it ends. You can read every thread. The weekly review changes the checklist when the market disagrees with the first call. You do not recruit a sender or manage a seat. You stay on the definition, the sample, and the meetings.</p>
+    </div>
+  </div>
+</section>
+
 <section class="section" style="padding-top:0" aria-labelledby="h-lgs-services">
   <div class="wrap">
     <div class="section-head">
       <h2 id="h-lgs-services">Services in the program</h2>
-      <p class="lead">Cold email, LinkedIn, and meeting booking are the core. <a href="/cold-calling-services/">Cold calling</a> and <a href="/demand-generation-agency/">demand generation</a> are part of the same Be Leaded program when the market needs them. Each card is one piece you can read on its own.</p>
+      <p class="lead">Cold email, LinkedIn and meeting booking are the core of the program. Cold calling and demand generation are their own programs, each scoped and priced separately, and can run alongside it. Each card is one piece you can read on its own.</p>
     </div>
     <div class="svc-cards features four" style="margin-top:44px">
       <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:0"><span class="tag">Cold email</span><h3>Cold email</h3><p>Contacts checked before they are loaded, and sequences you read before they send.</p><a class="go" href="/cold-email-agency/">Explore cold email</a></div>
@@ -225,7 +254,7 @@
       <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:0"><span class="tag">Outsourced SDR</span><h3>Outsourced SDR</h3><p>The outbound work without recruiting someone to sit in the seat.</p><a class="go" href="/outsourced-sdr-team/">Explore outsourced SDR</a></div>
       <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:1"><span class="tag">AI voice</span><h3>AI voice follow up</h3><p>A voice agent calls an interested reply back and puts the conversation on the calendar.</p><a class="go" href="/ai-voice-agents/">Explore AI voice</a></div>
       <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:2"><span class="tag">Deliverability</span><h3>Deliverability</h3><p>Authentication, warmup, and placement checks so the email can reach the inbox.</p><a class="go" href="/cold-email-deliverability/">Explore deliverability</a></div>
-      <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:0"><span class="tag">Cold calling</span><h3>Cold calling</h3><p>Phone outreach alongside email and LinkedIn, with qualified calls booked on your calendar.</p><a class="go" href="/cold-calling-services/">Explore cold calling</a></div>
+      <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:0"><span class="tag">Cold calling</span><h3>Cold calling</h3><p>A phone program scoped and priced on its own, with the meeting placed on your seller's calendar.</p><p>Our team runs Email, LinkedIn and <a href="/cold-calling-services/">cold calling</a></p><a class="go" href="/cold-calling-services/">Explore cold calling</a></div>
       <div class="svc-card spot" data-cursor="Explore" data-reveal style="--d:1"><span class="tag">Demand generation</span><h3>Demand generation</h3><p>One plan for outbound, paid social and newsletters, aimed at booked calls.</p><a class="go" href="/demand-generation-agency/">Explore demand generation</a></div>
     </div>
   </div>
@@ -241,8 +270,8 @@
       <div class="feature"><h3>Define the meeting</h3><p>The checklist, signed off before anyone is contacted.</p></div>
       <div class="feature"><h3>Build the lists</h3><p>Companies and people who match it, verified before a send.</p></div>
       <div class="feature"><h3>Domains and warmup</h3><p>Separate sending domains, authenticated and warmed before the first send. Your company domain is not used for that volume.</p></div>
-      <div class="feature"><h3>Copy you approve</h3><p>Nothing sends until you have read it.</p></div>
-      <div class="feature"><h3>Replies the same business day</h3><p>An interested person gets a time on your calendar. A polite reply stops there.</p></div>
+      <div class="feature"><h3>Copy you approve</h3><p>You read every sequence, and the first send waits for that read.</p></div>
+      <div class="feature"><h3>Replies the same business day</h3><p>Someone who wants to talk gets a time on your calendar. A polite note stops there.</p></div>
       <div class="feature"><h3>Weekly ICP review</h3><p>We update the definition from the threads you can read. It does not stay as the version from a single onboarding call.</p></div>
     </div>
     <div class="prose" style="max-width:780px;margin-top:28px">
@@ -258,19 +287,18 @@
       <p class="lead">Program stats, not a promise about your market. The <a href="/work/">work page</a> is illustrative examples only.</p>
     </div>
     <dl class="proof-strip">
-      <div><dt>400K+</dt><dd>Emails a day of sending capacity</dd></div>
-      <div><dt>99%</dt><dd>Delivery rate across programs</dd></div>
-      <div><dt>49 to 51%</dt><dd>Average open rate on newsletters</dd></div>
-      <div><dt>30+</dt><dd>Client programs</dd></div>
+      <div><dt>400,000</dt><dd>emails a day we can send</dd></div>
+      <div><dt>99%</dt><dd>delivery on the programs we run</dd></div>
+      <div><dt>30-plus</dt><dd>client programs in motion</dd></div>
     </dl>
     <div class="callout">
-      <p>Bring your ICP. We will draft the meeting definition with you on the call.</p>
+      <p>Bring the buyer definition to the working session. We draft it with you there.</p>
       <div class="cta-row">
         <a class="btn btn-lg btn-mag" href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=inline&amp;utm_content=lead-generation-services" target="_blank" rel="noopener" data-cta="inline">Book a 30-minute call</a>
       </div>
     </div>
     <div class="prose" style="max-width:780px;margin-top:22px">
-      <p>Sending capacity is 400,000 emails a day. Delivery across programs is 99%. Newsletters average a 49 to 51% open rate. We run 30-plus client programs. Names and companies are illustrative.</p>
+      <p>The capacity figure is 400,000 emails a day. The delivery figure is 99% delivery. The book of work is 30-plus client programs. Names and companies are illustrative.</p>
     </div>
   </div>
 </section>
@@ -283,20 +311,36 @@
     </div>
     <div class="prose">
       <p>You can read every thread while the work is running, not only after it stops. When you leave, you take the contacts and the reply history with you. We do not hold a polite reply back as if it were ours.</p>
-      <p>An MSP buyer on <a href="https://www.reddit.com/r/msp/comments/13wji6c/has_anyone_here_worked_with_any_of_the_larger/" target="_blank" rel="noopener">Reddit</a> said a larger firm did not turn over the bulk data when the work ended. That is the objection this section is for. The lists and replies are yours.</p>
+      <p>An MSP buyer on <a href="https://www.reddit.com/r/msp/comments/13wji6c/has_anyone_here_worked_with_any_of_the_larger/" target="_blank" rel="noopener">Reddit</a> said a larger firm kept the file when the engagement stopped. That is the objection this section answers. The lists and replies are yours.</p>
     </div>
   </div>
 </section>
 
-<section class="section" style="padding-top:0" aria-labelledby="h-lgs-guarantee">
+<section class="section" style="padding-top:0" aria-labelledby="h-lgs-lead-count">
   <div class="wrap split-2">
     <div class="section-head">
-      <h2 id="h-lgs-guarantee">Why we do not sell a lead count</h2>
+      <h2 id="h-lgs-lead-count">Why we do not sell a lead count</h2>
       <p class="lead">We commit to the work and the reporting, not a number of leads.</p>
     </div>
     <div class="prose">
       <p>A promised count pushes the checklist wider so the number can be hit. The leads then include people who were polite and never booked, or people who could not buy.</p>
-      <p>On <a href="https://www.reddit.com/r/agency/comments/1rbz226/1015_leads_per_month_or_you_dont_pay/" target="_blank" rel="noopener">Reddit</a>, buyers describe agencies that define a lead as a positive email reply, and agencies that will guarantee the amount of work and the reporting rather than a tally. That second version is the one we sell. The weekly report shows who was contacted, what they said, and which calls matched the checklist you approved.</p>
+      <p>On <a href="https://www.reddit.com/r/agency/comments/1rbz226/1015_leads_per_month_or_you_dont_pay/" target="_blank" rel="noopener">Reddit</a>, buyers describe firms that treat a positive email reply as the whole deliverable. We sell the work and the weekly report. The report shows who was contacted, what they said, and which conversations matched the checklist you approved.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0" aria-labelledby="h-lgs-wrong">
+  <div class="wrap split-2">
+    <div class="section-head">
+      <h2 id="h-lgs-wrong">When an agency is the wrong choice</h2>
+      <p class="lead">Outbound is a poor buy when the buyer is still a guess, the deal cannot carry the fee, or you need a different motion.</p>
+    </div>
+    <div class="prose">
+      <p>If you cannot name the role, the company size, and the problem, wait. Outreach will spend the month learning what a sales conversation should have settled. Write that down first.</p>
+      <p>Skip it when one closed deal cannot carry a monthly program. If the math does not work, narrow the offer or pick a cheaper channel.</p>
+      <p>If you need people who already raised a hand, this page is the wrong hire. Ads, a landing page, and follow up on that inbound interest are <a href="/paid-social-agency/">paid social</a>.</p>
+      <p>If you need demand built before anyone is ready to talk, that is <a href="/demand-generation-agency/">demand generation</a>, a separate program.</p>
+      <p>If you want closers, not meetings, say that on the working session. We book the conversation that matches the checklist. We do not sit in the seat that asks for the signature.</p>
     </div>
   </div>
 </section>
@@ -338,7 +382,7 @@
         <tbody>
           <tr>
             <th scope="row">Cost type</th>
-            <td>Monthly retainer. Programs start from $2,000 a month.</td>
+            <td>Starter fee on our site. Programs start from $2,000 a month. Session sets the number.</td>
             <td>A salary you manage, plus the data and tools you buy.</td>
             <td>A fee for each lead, using the vendor's definition of a lead.</td>
           </tr>
@@ -352,7 +396,7 @@
             <th scope="row">Who owns the data</th>
             <td>Your list and your replies stay yours when the program ends.</td>
             <td>Your company owns what the hire builds, and you manage the person.</td>
-            <td>Often the vendor. An MSP buyer on Reddit said the firm did not turn over the bulk data when the work ended.</td>
+            <td>Often the vendor. An MSP buyer on Reddit said the firm kept the file when the engagement stopped.</td>
           </tr>
           <tr>
             <th scope="row">Risk</th>
@@ -366,6 +410,61 @@
     <div class="prose" style="max-width:780px;margin-top:22px">
       <p>Pay per lead, as buyers describe it on <a href="https://www.reddit.com/r/NewClientAcquisition/comments/1p6tcil/leadgen_agencies_can_any_of_them_deliver/" target="_blank" rel="noopener">Reddit</a>, pulls in people who were never going to buy, because the vendor gets paid on the lead rather than on a call that matched a checklist. If you want the retainer compared with staffing the seat, read <a href="/outsourced-sdr-team/">outsourced SDR team</a>. How a booked meeting is priced in the market is on <a href="/guides/appointment-setting-pricing/">appointment setting pricing</a>.</p>
     </div>
+    <h3 id="h-lgs-vendors" style="margin-top:44px">What published programs cost (checked October 22, 2026)</h3>
+    <div class="table-wrap">
+      <table class="table">
+        <caption>What published programs cost (checked October 22, 2026). Each figure is copied from that firm's own page on this date.</caption>
+        <thead>
+          <tr>
+            <th scope="col">Firm</th>
+            <th scope="col">Published price</th>
+            <th scope="col">Terms</th>
+            <th scope="col">Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Be Leaded</th>
+            <td>On our pricing page. Programs start from $2,000 a month</td>
+            <td>Exact number after a 30-minute call</td>
+            <td><a href="/pricing/">Pricing</a></td>
+          </tr>
+          <tr>
+            <th scope="row">Belkins</th>
+            <td>Average starter from $5,000 (appointment setting page)</td>
+            <td>Custom proposal</td>
+            <td><a href="https://belkins.io/appointment-setting" target="_blank" rel="noopener">Belkins appointment setting</a></td>
+          </tr>
+          <tr>
+            <th scope="row">CIENCE</th>
+            <td>Campaign team $2,000 a month, graph8 $499 a month, SDRs from $1,750 (offshore) or $3,500 (US and Europe) per SDR a month</td>
+            <td>SDRs added or removed month to month</td>
+            <td><a href="https://www.cience.com/pricing/" target="_blank" rel="noopener">CIENCE pricing</a></td>
+          </tr>
+          <tr>
+            <th scope="row">Leadium</th>
+            <td>$4,000 to $5,000 a month multi-channel; $3,500 a month cold calling only</td>
+            <td>Per Leadium's own guide</td>
+            <td><a href="https://www.leadium.com/blog/outbound-lead-generation-services" target="_blank" rel="noopener">Leadium outbound guide</a></td>
+          </tr>
+          <tr>
+            <th scope="row">SalesRoads</th>
+            <td>$11,950 per 4 weeks for 1 SDR</td>
+            <td>Per 4-week period</td>
+            <td><a href="https://salesroads.com/pricing/" target="_blank" rel="noopener">SalesRoads pricing</a></td>
+          </tr>
+          <tr>
+            <th scope="row">Martal Group</th>
+            <td>No published dollar price</td>
+            <td>3 month pilot, then monthly (Tier 1A)</td>
+            <td><a href="https://martal.ca/pricing/" target="_blank" rel="noopener">Martal pricing</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="prose" style="max-width:780px;margin-top:22px">
+      <p>Ten agencies are compared on channels and terms in <a href="/guides/best-b2b-lead-generation-agencies/">best B2B lead generation agencies</a>.</p>
+    </div>
   </div>
 </section>
 
@@ -373,6 +472,7 @@
   <div class="wrap split-2">
     <div class="section-head">
       <h2 id="h-lgs-offer">Target up to 25,000 new contacts a month</h2>
+      <p>Only a list ceiling.</p>
       <p>Programs start from $2,000 a month.</p>
       <p>Price depends on markets, channels and volume. Detail is on <a href="/pricing/">pricing</a>. The <a href="/tools/outbound-calculator/">outbound calculator</a> sizes a program before you start.</p>
     </div>
@@ -407,7 +507,18 @@
 <section class="section" style="padding-top:0" aria-labelledby="h-lgs-faq">
   <div class="wrap faq-grid">
     <div class="section-head"><h2 id="h-lgs-faq">Questions</h2></div>
-    <div class="faq-list"><details><summary>What does a B2B lead generation agency do?</summary><p>It finds the companies and people who fit your market, reaches them by email and LinkedIn, handles the replies, and books calls with the ones who are interested.</p></details><details><summary>How much do lead generation services cost?</summary><p>Programs start from $2,000 a month. Price depends on markets, channels and volume.</p></details><details><summary>How many contacts do you reach?</summary><p>Target up to 25,000 new contacts a month.</p></details><details><summary>What counts as a qualified lead?</summary><p>One that matches the checklist you approve before launch: role, company size, industry, region and a stated interest, with a call accepted on your calendar.</p></details><details><summary>How are targets set?</summary><p>Before sending starts, you and we lock the targets alongside the buyer rules. The weekly report shows progress, though results still hinge on the market and the offer.</p></details><details><summary>Who owns the data when we stop?</summary><p>The lists and replies are yours.</p></details><details><summary>Is an agency better than hiring an SDR?</summary><p>An agency is faster to start and includes data, domains and tools. A hire makes sense once outbound is proven and you can manage it.</p></details><details><summary>Do you do inbound lead generation?</summary><p>Our core is outbound. For ads and landing pages see paid social.</p></details></div>
+    <div class="faq-list">
+      <details><summary>What does a B2B lead generation agency do?</summary><p>It finds the companies and people who fit your market, reaches them by email and LinkedIn, handles the replies, and books calls with the ones who are interested.</p></details>
+      <details><summary>How much do lead generation services cost?</summary><p>The published floor is simple. Programs start from $2,000 a month. Price depends on markets, channels and volume.</p></details>
+      <details><summary>How many contacts do you reach?</summary><p>Target up to 25,000 new contacts a month. Fresh names only.</p></details>
+      <details><summary>What counts as a qualified lead?</summary><p>One that matches the checklist you approve before launch: role, company size, industry, region and a stated interest, with a call accepted on your calendar.</p></details>
+      <details><summary>How are targets set?</summary><p>Before sending starts, you and we lock the targets alongside the buyer rules. The weekly report shows progress, though results still hinge on the market and the offer.</p></details>
+      <details><summary>Who owns the data when we stop?</summary><p>The lists and replies are yours.</p></details>
+      <details><summary>Is an agency better than hiring an SDR?</summary><p>A firm can begin sooner because the list, the sending setup, and the tools come with the program. Hiring fits after outbound is already working and someone on your side can run the seat.</p></details>
+      <details><summary>Do you do inbound lead generation?</summary><p>Our core is outbound. For ads and landing pages see paid social.</p></details>
+      <details><summary>What is outsourced lead generation?</summary><p>Outsourced lead generation means our team runs the list, the writing, and the replies, while you keep the buyer definition and the meetings. The founder joins the first call. You approve a list sample, the copy, and which calendar receives the booking.</p></details>
+      <details><summary>How do lead generation agencies get their leads?</summary><p>From a list built to your definition: firmographic filters, verified contacts and a reason to write now. We build it, you approve a sample, and it stays yours.</p></details>
+    </div>
   </div>
 </section>
 
@@ -418,12 +529,12 @@
       <p class="lead">Pages that answer the next question after this one.</p>
     </div>
     <div class="svc-cards" style="margin-top:44px">
-      <div class="svc-card spot" data-cursor="Explore"><span class="tag">Related</span><h3>Appointment setting</h3><p>How a reply becomes a call on your calendar, against a definition you wrote down.</p><a class="go" href="/appointment-setting/">Read appointment setting</a></div>
+      <div class="svc-card spot" data-cursor="Explore"><span class="tag">Related</span><h3>Appointment setting</h3><p>A held conversation on your calendar, judged against a definition you wrote down.</p><a class="go" href="/appointment-setting/">Read appointment setting</a></div>
       <div class="svc-card spot" data-cursor="Explore" style="--d:1"><span class="tag">Related</span><h3>Full cycle outbound</h3><p>The longer build, when one program also covers the steps around the list and the booking.</p><a class="go" href="/full-cycle-outbound-lead-generation/">Read full cycle outbound</a></div>
       <div class="svc-card spot" data-cursor="Explore" style="--d:2"><span class="tag">Related</span><h3>Best B2B lead generation agencies</h3><p>A comparison for buyers still making a short list. This page is the offer, not the ranking.</p><a class="go" href="/guides/best-b2b-lead-generation-agencies/">Read the comparison</a></div>
       <div class="svc-card spot" data-cursor="Explore"><span class="tag">Related</span><h3>Choosing a cold email agency</h3><p>Questions to ask before you sign, including what a lead means and who keeps the list.</p><a class="go" href="/guides/choosing-a-cold-email-agency/">Read the questions</a></div>
       <div class="svc-card spot" data-cursor="Explore" style="--d:1"><span class="tag">Related</span><h3>Outsourced SDR team</h3><p>When you want the outbound motion without opening an SDR req.</p><a class="go" href="/outsourced-sdr-team/">Read outsourced SDR</a></div>
-      <div class="svc-card spot" data-cursor="Explore" style="--d:2"><span class="tag">Related</span><h3>Cold email agency</h3><p>The email channel inside this program: checked contacts and copy you approve.</p><a class="go" href="/cold-email-agency/">Read cold email</a></div>
+      <div class="svc-card spot" data-cursor="Explore" style="--d:2"><span class="tag">Related</span><h3>Cold email agency</h3><p>The email channel inside this program: checked contacts and copy you approve.</p><a class="go" href="/cold-email-agency/">Open the email service</a></div>
     </div>
   </div>
 </section>
@@ -433,10 +544,10 @@
     <div class="cta-card on-lime" data-reveal="scale">
       <svg class="cta-mark" viewBox="0 0 37 24" aria-hidden="true" focusable="false"><use href="#bl-mark"/></svg>
       <h2 id="cta-h-lgs">Tell us who you want to meet.</h2>
-      <p>Thirty minutes with the founder. You'll leave with a clear picture of your market, what a campaign would look like and what it would cost.</p>
+      <p>Name the buyer and the offer. The working session maps the checklist, the channels, and what a program would cost for that market.</p>
       <div class="cta-row">
         <a class="btn btn-dark btn-lg btn-mag" href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=end&amp;utm_content=lead-generation-services" target="_blank" rel="noopener" data-cta="end">Book a 30-minute call</a>
-        <p class="email-line"><span>Or email</span> <a id="cta-email-lgs" href="mailto:sales@beleaded.com" data-cta="end">sales@beleaded.com</a> <button class="copy" type="button" data-copy="sales@beleaded.com" aria-controls="cta-email-lgs">Copy</button></p>
+        <p class="email-line"><span>For this program.</span> <span>Or email</span> <a id="cta-email-lgs" href="mailto:sales@beleaded.com" data-cta="end">sales@beleaded.com</a> <button class="copy" type="button" data-copy="sales@beleaded.com" aria-controls="cta-email-lgs">Copy</button></p>
       </div>
     </div>
   </div>
@@ -541,7 +652,7 @@
   </div>
   <p class="foot-word wrap" aria-hidden="true">Be Leaded</p>
 </footer>
-<a class="book-bar" hidden href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=bookbar&amp;utm_content=lead-generation-services" target="_blank" rel="noopener" data-cta="bookbar">Book a 30-minute call</a>
+<a class="book-bar" hidden href="https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&amp;utm_medium=site&amp;utm_campaign=bookbar&amp;utm_content=lead-generation-services" target="_blank" rel="noopener" data-cta="bookbar">Need more leads? Book a 30-minute call.</a>
 <p class="sr-only" role="status" id="copy-status"></p>
 
 </body>
