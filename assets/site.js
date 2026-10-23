@@ -2352,6 +2352,47 @@
   if (reduceMq && reduceMq.addEventListener) reduceMq.addEventListener("change", syncMotionMode);
   if (smallMq && smallMq.addEventListener) smallMq.addEventListener("change", syncMotionMode);
 
+  /* Internal traffic. ?bl_internal=1 stores localStorage bl_internal=1.
+     ?bl_internal=0 removes it. While that marker is set, this page calls
+     gtag("set", {traffic_type: "internal"}) so later GA4 hits can be filtered.
+     The inline head snippet already queued gtag("config") before site.js runs,
+     so the page_view from that config is not tagged. Tagging that first
+     page_view would need the set call moved ahead of config in the head of
+     every page. This file does not do that, and it does not change the
+     hostname guard around loading gtag.js. */
+  function blQueryParam(name) {
+    var q = (location.search || "").replace(/^\?/, "").split("#")[0].split("&");
+    var i, pair, key, value;
+    for (i = 0; i < q.length; i++) {
+      if (!q[i]) continue;
+      pair = q[i].split("=");
+      key = pair[0];
+      try { key = decodeURIComponent(key.replace(/\+/g, " ")); }
+      catch (err) {}
+      if (key !== name) continue;
+      value = pair.slice(1).join("=");
+      try { return decodeURIComponent(value.replace(/\+/g, " ")); }
+      catch (err2) { return value; }
+    }
+    return null;
+  }
+  (function applyInternalTraffic() {
+    var param = blQueryParam("bl_internal");
+    var flag = null;
+    try {
+      if (param === "1") localStorage.setItem("bl_internal", "1");
+      else if (param === "0") localStorage.removeItem("bl_internal");
+    } catch (err) {}
+    try {
+      flag = localStorage.getItem("bl_internal");
+    } catch (err2) {
+      flag = null;
+    }
+    if (flag === "1" && typeof gtag === "function") {
+      gtag("set", { traffic_type: "internal" });
+    }
+  })();
+
   /* One delegated listener. The inline stub defines gtag() before this file runs
      and queues onto dataLayer, so a click before gtag.js loads still records.
      If a page has no stub, skip the gtag call instead of throwing.
