@@ -1063,7 +1063,7 @@ Headline, about section and banner rewritten so the profile sending the messages
 
 ### Researched lists
 
-Prospects matched to your buyer by title, company size, industry and region, checked by a person before outreach.
+Prospects matched to your buyer by title, company size, industry and region, checked by a person before outreach. The Sales Navigator search and list steps are in LinkedIn Sales Navigator lead generation (https://www.beleaded.com/blog/linkedin-sales-navigator-lead-generation/).
 
 ### Notes and messages
 
@@ -4290,6 +4290,10 @@ What Gmail, Yahoo and Outlook require from senders in 2026: SPF, DKIM and DMARC,
 
 ## LinkedIn
 
+### LinkedIn Sales Navigator lead generation
+
+How to build B2B lead lists in Sales Navigator: account and lead search, filters, Boolean, saved alerts, lists, InMail, and when to pair the work with cold email.
+
 ### LinkedIn outreach messages that get replies: 14 templates, limits and timing
 
 Connection request notes and follow-up messages that get accepted and answered on LinkedIn, the weekly invitation limits to respect, and how to time LinkedIn with a cold email sequence.
@@ -4342,6 +4346,197 @@ Thirty minutes with the founder. You'll leave with a clear picture of your marke
 
 Or email sales@beleaded.com
 
+
+---
+
+URL: https://www.beleaded.com/blog/linkedin-sales-navigator-lead-generation/
+
+- Home
+- Guides
+- Sales Navigator lead generation
+
+LinkedIn
+
+# LinkedIn Sales Navigator lead generation
+
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 22, 2026. 12 min read.
+
+LinkedIn Sales Navigator lead generation is an account search, then a lead search, then a saved list. Filter companies before titles, save the search so new matches alert you weekly, and only then write a connection note or an InMail. Message templates and the email sequence live on other pages. Every limit below is one LinkedIn publishes on its own help pages.
+
+Programs start from $2,000 a month
+
+## The order that produces a list
+
+A title typed into Sales Navigator is not a lead list. The company decides whether the person can buy. The ICP, verification, and suppression steps are in how to build a B2B lead list (https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/). Start here once those lines exist.
+
+- Write industry, headcount, geography, and who is out.
+- Run an account search. Hit the cap, and split the search instead of paging.
+- Save the companies that still match. That list fences in the people search.
+- Run a lead search on title, seniority, and where the person sits.
+- Hit the lead cap, and split by region or title.
+- Save the search and name it after the campaign.
+- Put this week's names on a lead list. Leave out customers and anyone who said no.
+- Write from the path: a message, a connection request, or an InMail. Email, if you send it, waits for another day and a verified address.
+
+Notes and the weekly invitation pace are in LinkedIn outreach messages (https://www.beleaded.com/blog/linkedin-outreach-messages/). Channel choice is in cold email vs LinkedIn outreach (https://www.beleaded.com/blog/cold-email-vs-linkedin-outreach/). Timing is the follow-up sequence (https://www.beleaded.com/blog/cold-email-follow-up-sequence/).
+
+## Account search, then lead search
+
+From the homepage, open Account filters or Lead filters. Account search asks whether you would meet this company if the right person replied. Lead search asks who there owns the problem.
+
+LinkedIn's account filters include annual revenue (minimum and maximum), company headcount, headcount growth over the last 12 months, headquarters, industry, company-page followers, department headcount, department headcount growth over 12 months, and Fortune rank. Spotlights can keep accounts with open jobs, recent activity, a connection to you, or buyer intent. An industry filter also includes child industries, so the parent label is wider than it looks.
+
+Headcount, industry, and headquarters are enough for a first pass. Add one growth or department filter only when the offer depends on it. Extra filters hide companies you cannot add back by eye.
+
+The lead filters that change a list are current company, headcount, title, function, seniority, years in role, the person's geography, and connection degree. Seniority is a band. Title is the wording on the profile. A director at 40 people and a director at 4,000 are different buyers, so headcount stays on the account search. LinkedIn files CEOs and presidents under the General Management function, which helps when titles are messy. Lead geography is where the person sits. Headquarters is the company's stated base. Set both. Point current company at the saved account list. Custom lists can be included or excluded in that lead search, which is how last month's exclusions stay out.
+
+## Stop when you hit the result cap
+
+You can view up to 2,500 leads across 100 pages, or up to 1,000 accounts across 40 pages. LinkedIn says the cap keeps results accurate, including 1st degree connections. It is not the size of the market. Hitting either number means the filter is too wide. Split by region, headcount band, or child industry, and save each slice. Names past the cap never appear.
+
+Open ten accounts before you save. If three are wrong, fix the filter. A bad saved search teaches people to ignore the weekly alert.
+
+The commercial use limit is separate, and LinkedIn does not publish the number of searches or profile views. A warning may appear as you near it, or not, if you use the allowance quickly. Free usage resets at midnight Pacific Time on the 1st, and LinkedIn will not lift the limit on request. Profile search, People Also Viewed, and the People tab on a LinkedIn Page count. A name lookup, your 1st degree connections, and job search do not. Sales Navigator raises the allowance versus a free account. It does not remove the limit. Reuse saved lists instead of repeating a wide search.
+
+## Boolean, only in the fields that accept it
+
+LinkedIn says Boolean works in the company, title, and keyword fields, with a limit of about 15 operators.
+
+- Straight quotes mark an exact phrase, such as "sales manager". Curly quotes fail. Replace smart quotes before you paste.
+- NOT in capitals excludes a term, as in sales NOT manager.
+- OR in capitals broadens, as in sales OR marketing OR advertising.
+- AND in capitals requires every term. Two or more terms behave as AND even if you skip the word.
+- Parentheses group a string. LinkedIn's example is VP NOT (assistant OR SVP): vice presidents stay, assistants and senior vice presidents drop.
+
+Precedence is quotes, then parentheses, then NOT, then AND, then OR. Operators must be uppercase. Plus, minus, and wildcards are not supported. Stop words such as "by", "in", and "with" are dropped. A usable title string is ("VP Sales" OR "Head of Sales" OR "Sales Director") NOT (assistant OR intern). A different function gets its own saved search. One giant OR list spends the operator budget and is impossible to explain when the alert arrives. Use keyword for a product the buyer named, not for the whole ICP.
+
+## Saved searches and the weekly alert
+
+Refine the filters, then turn on "Save search to get notified of new results". LinkedIn sends a weekly email and a homepage alert for new matches. You can rerun and rename the search. Sharing is Advanced and Advanced Plus, not Core. Edit by saving a copy. The cap is 50 lead searches and 50 account searches. Delete a search when the campaign ends, or the weekly email becomes noise.
+
+Saving a search is not the same as saving a person. LinkedIn says you must save the lead or the account to get alerts about that lead or account: a job change, a promotion, a senior hire, and new saved-search results. A bookmarked alert lasts 60 days.
+
+Buyer intent sorts a list. It is not a pitch. "Account has buyer intent" is high or moderate interest over the past 30 days, from InMail, ads, page views, and profile views. "Viewed your Company Page recently" covers 90 days, skips people who hid visits, and is Advanced and Advanced Plus only, which matches the plan table: Buyer intent signals are not on Core. LinkedIn says a follower of your company page is more likely to accept an InMail. That is still not a first line. Website-visit alerts need the Insight tag. Open the weekly alert, save who still fits, and stop.
+
+## Build the list you will actually work
+
+LinkedIn lists saved leads and accounts at 10,000 per user on Core, Advanced, and Advanced Plus. Custom lists exist on all three plans. Use separate lists for accounts you checked, people to contact this week, people you are only watching, and people you will not contact: customers, open opportunities, competitors, and anyone who declined. Lead search can include or exclude those lists. Star priority accounts. LinkedIn documents that control. One person per company on the first pass, and a second only if they can introduce the buyer. That rule sits in the B2B lead list guide (https://www.beleaded.com/blog/how-to-build-a-b2b-lead-list/).
+
+CSV upload is Advanced and Advanced Plus, for account lists only, and a list should not pass 1,000 accounts. Sharing lists and saved searches is those same plans. Core is a single-user seat. Several people on one list need a plan that shares, or each person rebuilds the search.
+
+Sales Navigator does not check a mailbox. Keep the LinkedIn list separate from the email file, and verify that file before anyone sends. On the saved lead, note why the company qualified, the path in, one checkable detail, and whether an email row exists. The note itself comes from the outreach messages guide (https://www.beleaded.com/blog/linkedin-outreach-messages/).
+
+## Hand the same accounts to cold email
+
+Some people will never be a useful email. Some will never accept a connection. Same person, two channels, different days. The account and title come from Sales Navigator. The address comes from the verified file. Use one fact, shorter on LinkedIn than in the email. Do not send both on the same day. A reply on either channel stops the other. Leave profile-less names on the email list, and address-less names on the LinkedIn list. Forcing every row into both channels drops everyone outside the overlap.
+
+Be Leaded runs 30-plus client programs, with 400,000 emails a day and a 99% delivery rate. A LinkedIn seat stays at a human pace. The cold email program (https://www.beleaded.com/cold-email-agency/) carries volume. LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/) runs from your team's profiles. They share the account list.
+
+## Connection requests and InMail
+
+Best path in splits 1st degree, 2nd degree, groups, and 3rd degree and beyond. TeamLink is Advanced and Advanced Plus. Core still has 1st degree, 2nd degree, and groups.
+
+| 1st degree | A normal message | InMail, and another connection request |
+| 2nd degree or a shared group | A connection request with a short note | InMail, until the request has had time to fail |
+| No path, account already qualified | InMail, after you unlock the profile | A blank request |
+| Unfiltered search | Nothing yet | Credits used to test a fuzzy title |
+
+Keep the note short and without a pitch. Examples live in the messages guide. These Sales Navigator help pages do not publish one weekly invitation number, so this page does not invent one. The user agreement (https://www.linkedin.com/legal/user-agreement) prohibits bots and automated sending.
+
+InMail does not need an introduction. Unlock the profile first. Each Sales Navigator plan includes 50 credits a month, and you can hold 150. Unused credits carry forward and must be used within 90 days. The refill is the first of the month in UTC, not the license date. You cannot buy more, and credits do not survive a cancellation or a plan change. A response within 90 days returns a credit, including an auto reply and Interested, Maybe later, or Not interested. Silence does not. A second InMail before a reply spends another credit. A reminder goes out within three days. The subject can run to 200 characters and the body to 2,000. One question is enough. Spend the credits on accounts you already qualified.
+
+## Limits LinkedIn publishes
+
+Weekly invitation volume is not in this table. That pace is in LinkedIn outreach messages (https://www.beleaded.com/blog/linkedin-outreach-messages/). A figure with no LinkedIn URL is someone else's number.
+
+| Lead results on screen | Up to 2,500, across 100 pages |
+| Account results on screen | Up to 1,000, across 40 pages |
+| Saved searches | 50 lead and 50 account, with weekly alerts |
+| Saved leads and accounts | 10,000 per user on every Sales Navigator plan |
+| InMail credits | 50 a month, up to 150, use within 90 days. A reply in 90 days returns a credit. |
+| InMail length | Up to 200 characters in the subject, up to 2,000 in the body |
+| CSV account upload | Advanced and Advanced Plus only, accounts only, not past 1,000 |
+| Boolean | About 15 operators, in company, title, and keyword |
+| Bookmarked alerts | Kept 60 days |
+| Commercial use limit | Search and view counts are not published. Free usage resets at midnight Pacific Time on the 1st. |
+
+Figures from LinkedIn help pages linked in the sources.
+
+Core is one user. Advanced and Advanced Plus add shared lists, shared searches, buyer intent signals, and TeamLink. Advanced Plus adds CRM sync. Do not plan a shared queue on a Core seat.
+
+## Mistakes that waste the seat
+
+- One title and no account filter. You collect 2,500 names and still do not know who you would sell to.
+- Fifty saved experiments, so the weekly email is noise.
+- A page view, a job ad, or buyer intent treated as a pitch.
+- InMail to someone already in your 1st degree network.
+- A 2,000-character InMail because the field allows it.
+- Bots. The user agreement prohibits them, and a restricted profile stops the work.
+- An email file copied off the screen, with no verification.
+- One list for every offer, so exclusions and alerts are both wrong.
+- One note pasted down the list.
+- A month of ignored alerts, then a Friday send. Review new names while the change is still true.
+
+## When an agency is the right next step
+
+Keep the seat if one or two people will open it every week, the market fits the caps and the InMail allowance, and someone answers the same day. Hand it off when the search is easy and the weekly review slips, or when the same accounts must run through cold email and LinkedIn together. LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/) is that handoff: the list, the notes, a human pace on your team's own profiles, and replies carried through to a meeting. Plenty of programs never need Sales Navigator. On a first call we say which ones do.
+
+Bring the buyer if you want the list worked every week. We will say whether Sales Navigator belongs in the program. Programs start from $2,000 a month (https://www.beleaded.com/pricing/). We do not promise a meeting count.
+
+## FAQ
+
+**What is the difference between an account search and a lead search?**
+
+An account search finds companies. A lead search finds people. Filter accounts by headcount, industry, and location, save the companies that fit, then run a lead search for titles inside that account list.
+
+**How many Sales Navigator searches can I save?**
+
+LinkedIn says you can save 50 lead searches and 50 account searches. A saved search can email you weekly and show an alert on the Sales Navigator homepage when new results match.
+
+**How many InMail credits come with Sales Navigator?**
+
+Sales Navigator Core, Advanced, and Advanced Plus each include 50 InMail credits a month. You can hold up to 150. Unused credits must be used within 90 days, and a response within 90 days returns a credit. LinkedIn says extra credits cannot be purchased.
+
+**Can Sales Navigator replace a cold email list?**
+
+No. Sales Navigator finds the account and the person and can save the search. Cold email still needs a verified address, a suppression list, and its own sequence. Use the B2B lead list guide for that checklist.
+
+**When should a team outsource Sales Navigator lead generation?**
+
+Outsource it when nobody will review saved-search alerts and answer replies each week, or when LinkedIn has to stay in step with cold email. A smaller market and a person who will work the list can stay in house.
+
+## Sources
+
+- LinkedIn, lead and account search filter definitions (https://www.linkedin.com/help/sales-navigator/answer/a1452817)
+- LinkedIn, search results limit (https://www.linkedin.com/help/sales-navigator/answer/a106030)
+- LinkedIn, commercial use limit (https://www.linkedin.com/help/sales-navigator/answer/a564226)
+- LinkedIn, Boolean search (https://www.linkedin.com/help/sales-navigator/answer/a168061)
+- LinkedIn, save lead and account searches (https://www.linkedin.com/help/sales-navigator/answer/a102024)
+- LinkedIn, Sales Navigator alerts (https://www.linkedin.com/help/sales-navigator/answer/a105133)
+- LinkedIn, account types and features (https://www.linkedin.com/help/sales-navigator/answer/a104003)
+- LinkedIn, custom lists (https://www.linkedin.com/help/sales-navigator/answer/a105125)
+- LinkedIn, CSV account upload (https://www.linkedin.com/help/sales-navigator/answer/a1378574)
+- LinkedIn, InMail credits (https://www.linkedin.com/help/sales-navigator/answer/a101030)
+- LinkedIn, InMail messages FAQ (https://www.linkedin.com/help/sales-navigator/answer/a554514)
+- LinkedIn, User Agreement (https://www.linkedin.com/legal/user-agreement)
+
+Ahmad Khan (https://www.beleaded.com/about/) writes from Be Leaded
+
+He still takes the opening call with each new client.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=author&utm_content=blog-linkedin-sales-navigator-lead-generation)
+
+## Tell us who you want to meet.
+
+Thirty minutes with the founder. You will leave with a straight answer on the market, the shape of a campaign, and the cost.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=blog-linkedin-sales-navigator-lead-generation)
+
+If the search is built and you want the weekly work off your team, start on the LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/) page.
+
+Or email sales@beleaded.com
+
+Sales Navigator list? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=blog-linkedin-sales-navigator-lead-generation).
 
 ---
 
@@ -7628,6 +7823,8 @@ The short answer: LinkedIn messages that get replies are short, mention one spec
 ## The limits first
 
 LinkedIn caps connection invitations at roughly 100 a week for most accounts, restricts profiles that push past it, and its user agreement prohibits bots and automated tools. Two consequences: you can't win on volume, so acceptance rate is the number to optimize, and everything below assumes a real person's profile sending at a human pace. A restricted account costs more than any campaign gains.
+
+Building the list those notes go to is a separate job. Account search, lead filters, saved searches, and lists are in LinkedIn Sales Navigator lead generation (https://www.beleaded.com/blog/linkedin-sales-navigator-lead-generation/).
 
 ## Fix the profile before the first message
 
