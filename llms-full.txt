@@ -412,7 +412,7 @@ URL: https://www.beleaded.com/cold-email-agency/
 - Services
 - Cold email and appointment setting
 
-Updated October 22, 2026.
+Updated October 23, 2026.
 
 # Cold email agency that books qualified meetings
 
@@ -658,7 +658,7 @@ While the work is live, your team can open any thread. The meeting invite keeps 
 
 Cold volume does not leave from the domain your customers already know. Domains for the program are registered, warmed and watched on their own. Staff mail stays on the company domain, outside that volume.
 
-The names are not a rental. What was found for the buyer you described leaves with you, and so does every reply. The short form of that point is in the questions below.
+The names are not a rental. The short form of that point is in the questions below.
 
 ## Compare cold email agencies
 
@@ -6289,7 +6289,7 @@ Cold email
 
 # Cold email follow-up sequence: the 7-touch cadence that books meetings
 
-By Ahmad Khan, founder of Be Leaded. Updated October 1, 2026. 5 min read.
+By Ahmad Khan, founder of Be Leaded. Updated October 23, 2026. 5 min read.
 
 The short answer: Seven touches over about four weeks, then stop. Instantly's 2026 report found 58% of replies come from the first step, and Hunter found three-email sequences reply at 6.8% against 3.3% for one email. Later touches earn the rest only when each one adds something new. Two of the seven sit on LinkedIn, and the last email is a breakup.
 
@@ -6367,7 +6367,7 @@ Email carries the volume. LinkedIn carries the name. Never send both the same da
 
 ## How a program runs this
 
-A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send more than 400,000 emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28.
+A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send 400K+ emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28.
 
 We run 30-plus client programs from the US and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start from $2,000 a month, scoped on the cold email program page.
 
