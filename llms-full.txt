@@ -1907,7 +1907,7 @@ Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases
 
 A founder on Reddit says they saw a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
 
-This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call.
+This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call. The booking process is the same one on B2B appointment setting (https://www.beleaded.com/appointment-setting/), with the titles, the timing, and the two seats in the room set for this market. We can add email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/) to the mix, and price any phone work on its own.
 
 ## Who buys HR and payroll software
 
@@ -2004,7 +2004,7 @@ A founder on Reddit says pay per meeting rewards spray, and that domain reputati
 
 Compare the cost of a held demo that matched your written criteria. The Bridge Group 2025 SDR report puts average ramp at 3.0 months and median annual attrition at 40% (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group). A-Sales describes that three-month ramp and attributes the attrition figure to the Bridge Group (https://www.a-sales.co/blog/outsourced-sdr-cost, checked October 17, 2026). Zenbee lists pay per meeting at $150 to $600, priced on a booked meeting, and an outsourced retainer at $400 to $900 (https://zenbee.io/blog/cost-per-meeting/, checked October 17, 2026). Those are their published figures, not Be Leaded results.
 
-Programs start from $2,000 a month.
+Programs start from $2,000 a month. Most programs go live in about three weeks.
 
 See outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) and appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/).
 
@@ -2247,7 +2247,7 @@ Yes. Demos and reply context go into HubSpot, Salesforce or your CRM.
 
 ## Related
 
-- B2B appointment setting (https://www.beleaded.com/appointment-setting/): the booking motion under this page.
+- B2B appointment setting (https://www.beleaded.com/appointment-setting/): the booking process under this page.
 - B2B SaaS (https://www.beleaded.com/industries/b2b-saas/): generic software demo booking, for products that are not project management software.
 - Outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/): what an outsourced program includes when you compare it with hiring an SDR.
 - Appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/): how a held demo with a PMO or operations buyer sits next to other ways firms price appointment setting.
@@ -3346,7 +3346,7 @@ Business contacts only. No patient data or PHI, ever. CAN-SPAM compliant B2B sen
 
 ## How we start
 
-Week 1: specialties, states and lists, domains set up. Weeks 2 to 3: warmup and copy you approve. Then live sending and weekly review. Most programs go live in about three weeks.
+Week 1: specialties, states and lists, domains set up. Weeks 2 to 3: warmup and copy you approve. Then live sending and weekly review. Most programs go live in about three weeks. They can run across email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), with phone work quoted separately if needed.
 
 ## Questions
 
@@ -10293,6 +10293,7 @@ URL: https://www.beleaded.com/guides/cold-email-agency-pricing/
 Guides
 
 # Cold email agency pricing: what $2,000 a month includes
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026.
 
 A useful price names what is included, whose domain sends the mail, and how a qualified meeting is defined. Ours start from $2,000 a month. The exact number comes after a 30-minute call. What the program includes is on the cold email agency (https://www.beleaded.com/cold-email-agency/) page.
 
