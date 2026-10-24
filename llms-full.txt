@@ -1907,7 +1907,7 @@ Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases
 
 A founder on Reddit says they saw a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
 
-This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call. The booking process is the same one on B2B appointment setting (https://www.beleaded.com/appointment-setting/), with the titles, the timing, and the two seats in the room set for this market. Programs can run across email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), with phone work quoted separately if needed.
+This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call. The booking process is the same one on B2B appointment setting (https://www.beleaded.com/appointment-setting/), with the titles, the timing, and the two seats in the room set for this market. We can add email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/) to the mix, and price any phone work on its own.
 
 ## Who buys HR and payroll software
 
@@ -2247,7 +2247,7 @@ Yes. Demos and reply context go into HubSpot, Salesforce or your CRM.
 
 ## Related
 
-- B2B appointment setting (https://www.beleaded.com/appointment-setting/): the booking motion under this page.
+- B2B appointment setting (https://www.beleaded.com/appointment-setting/): the booking process under this page.
 - B2B SaaS (https://www.beleaded.com/industries/b2b-saas/): generic software demo booking, for products that are not project management software.
 - Outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/): what an outsourced program includes when you compare it with hiring an SDR.
 - Appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/): how a held demo with a PMO or operations buyer sits next to other ways firms price appointment setting.
