@@ -1889,6 +1889,8 @@ URL: https://www.beleaded.com/industries/hr-payroll-software/
 - Industries
 - HR and payroll software
 
+Updated October 24, 2026.
+
 HR and payroll software
 
 # Lead generation and qualified demos for HR and payroll software
@@ -1913,15 +1915,15 @@ The first demo is usually with the person who feels the problem. The person who 
 
 ### The HR leader
 
-CHRO, VP or Head of People, HR director, and HR operations. This is the usual first conversation for HRIS and HCM.
+CHRO, VP or Head of People, HR director, and HR operations. This is the usual first conversation for HRIS and HCM. A chief people officer can approve a new people system. The note is about the stack they walked into, or a process that fails as teams are added. The reply from HR operations should name the workaround.
 
 ### The payroll leader
 
-Payroll manager and the people who run the calendar, the filings, and a multi-state or multi-country run. This is the usual first conversation for payroll software.
+Payroll manager and the people who run the calendar, the filings, and a multi-state or multi-country run. This is the usual first conversation for payroll software. A payment that had to go out off the normal cycle belongs to this desk before it belongs to finance.
 
 ### The person who signs
 
-CFO and controller. For a PEO, owners and CFOs at companies of about 10 to 200 people. Benefits platforms use the same employer list.
+CFO and controller. For a PEO, owners and CFOs at companies of about 10 to 200 people. Benefits platforms use the same employer list. At a midsize company the CFO or the controller can free the budget or halt the switch. They watch a filing that went out late, a close that waited on payroll, and a renewal that may be the only calm moment to move.
 
 ATS, LMS, and time and attendance products use the same three steps. The title on the list changes with the product. The rule stays: one role, one use case, a company that can actually buy.
 
@@ -1938,6 +1940,20 @@ A note lands better when the buyer already has a reason to look. These are the w
 - The company expanded payroll into another state or country
 
 The list itself is built from what is public: headcount, the states or countries where payroll runs, the current system when a job post or a tech profile names it, and hiring signals such as open payroll or people operations roles. A renewal date is included in the handoff only when the buyer shares it. We do not invent one.
+
+## What makes a midsize company look
+
+A midsize employer takes the demo when the strain on payroll or HR is a new one.
+
+Compliance changes are one window. A state can alter a report, add a local tax, or move a deadline. That gives payroll a dated reason to look, and only when the change is public. We will not invent a rule to freshen a subject line.
+
+A messy year end, or a rough season of wage and tax statements, is another. Corrections, reprinted forms, and a close that slipped make a controller willing to see a different system before the next cycle.
+
+Acquisitions are the integration window. Two payrolls and two sets of employee records have to become one, on a short clock. The company keeping its system and the company turning one off are both worth an email then. The handoff note says which system is being kept and whether finance will join.
+
+Outgrowing a starter payroll tool is separate from renewing a full suite. The first tool often fits a single state and a small team. It stops fitting when headcount, extra states, or the monthly close outgrow it. The demo should begin with the job the starter cannot finish.
+
+A company outside those windows waits for a later wave.
 
 ## How a qualified demo gets booked
 
@@ -1970,7 +1986,7 @@ Examples on the work page are illustrative.
 
 Write two tests before the first email. One for the person who uses the product. One for the person who pays for it. Then decide when both have to be in the room.
 
-User criteria cover the HR or payroll leader, company size, payroll footprint, and the current system when you only want displacement deals. Money criteria cover the CFO or controller, a real renewal or budget window, and a company in the band where your price fits. For a PEO, owners and CFOs at roughly 10 to 200 people. Agree in writing when both must attend. Names and companies in any example are illustrative.
+User criteria cover the HR or payroll leader, company size, payroll footprint, and the current system when you only want displacement deals. Money criteria cover the CFO or controller, a real renewal or budget window, and a company in the band where your price fits. For a PEO, owners and CFOs at roughly 10 to 200 people. Agree in writing when both must attend. That rule is on the criteria sheet before launch. Names and companies in any example are illustrative.
 
 ## One use case, one role, one short ask
 
@@ -3213,11 +3229,13 @@ URL: https://www.beleaded.com/industries/medical-billing-rcm/
 - Industries
 - Medical billing and RCM
 
+Updated October 24, 2026.
+
 Medical billing and RCM
 
 # Lead generation for medical billing and RCM companies
 
-Practices get pitched by billing companies every week and most pitches sound the same. We reach practice managers and owners with one specialty, one problem and one small ask, then book the call on your calendar.
+Be Leaded runs lead generation for medical billing and RCM companies: we build the list from the specialties and states you serve, write about one billing problem each practice already has, and book the call on your calendar.
 
 Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
 
@@ -3256,6 +3274,36 @@ Pitching the physician first is the most common reason billing outreach gets ign
 - Specialty first, then state, provider count, and payer mix.
 - EHR or PM system where it is public.
 - Signals: a new location, new providers, a billing job post, an EHR change, year end and Q1 review windows.
+
+## What the note should name
+
+The note follows a change that office is already in the middle of.
+
+### Practice administrators
+
+At an independent practice this person sees the claims that stall and decides which vendor the physicians will sit with.
+
+### Practice managers
+
+Payer questions, coding disagreements, and claims waiting on a missing code land on this desk. The note should name one of those.
+
+### Revenue cycle directors
+
+Inside a physician group, this director owns denials, coding quality, and how long payments sit. The note has to name one of those jobs.
+
+### CFOs
+
+Finance steps in when the contract is large enough to need a finance sign off. The CFO looks at what the group collects, how long cash waits, and a price that is a share of collections.
+
+Specialty comes first because the problem changes with it. Appeals work in orthopedics is a different email from a credentialing delay in behavioral health, and a slow primary care claim is a third email. They go out as separate emails.
+
+A practice that leans on one commercial plan, or that recently started taking Medicare, works under that payer's rules on almost every claim.
+
+Denials that miss the appeal window make an administrator ask who should own that work. Turnover on the billing desk leaves a backlog and an open seat. Adding a specialty brings procedure codes that team has not worked. Switching the practice management system rebuilds the path each claim takes.
+
+Some companies reading this page sell to billers, not to clinics. Software, coding support, and credentialing help are bought by the owner of the billing firm. For those firms the list is billing companies, and the title is the owner.
+
+The copy is written only from those specialties, states, titles, and moments. A matching reply goes to your sellers with the thread.
 
 ## Email, LinkedIn and follow up working together
 
