@@ -1953,7 +1953,7 @@ Acquisitions are the integration window. Two payrolls and two sets of employee r
 
 Outgrowing a starter payroll tool is separate from renewing a full suite. The first tool often fits a single state and a small team. It stops fitting when headcount, extra states, or the monthly close outgrow it. The demo should begin with the job the starter cannot finish.
 
-A company outside those windows waits for a later wave.
+A company outside those windows waits until one of them opens.
 
 ## How a qualified demo gets booked
 
@@ -1986,7 +1986,7 @@ Examples on the work page are illustrative.
 
 Write two tests before the first email. One for the person who uses the product. One for the person who pays for it. Then decide when both have to be in the room.
 
-User criteria cover the HR or payroll leader, company size, payroll footprint, and the current system when you only want displacement deals. Money criteria cover the CFO or controller, a real renewal or budget window, and a company in the band where your price fits. For a PEO, owners and CFOs at roughly 10 to 200 people. Agree in writing when both must attend. That rule is on the criteria sheet before launch. Names and companies in any example are illustrative.
+User criteria cover the HR or payroll leader, company size, payroll footprint, and the current system when you only want displacement deals. Money criteria cover the CFO or controller, a real renewal or budget window, and a company in the band where your price fits. For a PEO, owners and CFOs at roughly 10 to 200 people. Agree in writing when both must attend. That rule is on the criteria sheet. Names and companies in any example are illustrative.
 
 ## One use case, one role, one short ask
 
@@ -3289,13 +3289,13 @@ Payer questions, coding disagreements, and claims waiting on a missing code land
 
 ### Revenue cycle directors
 
-Inside a physician group, this director owns denials, coding quality, and how long payments sit. The note has to name one of those jobs.
+Inside a physician group, this director owns denials, coding quality, and how long payments sit.
 
 ### CFOs
 
-Finance steps in when the contract is large enough to need a finance sign off. The CFO looks at what the group collects, how long cash waits, and a price that is a share of collections.
+Finance steps in when the contract is large enough to need a sign off. The CFO looks at what the group collects, how long cash waits, and a price that is a share of collections.
 
-Specialty comes first because the problem changes with it. Appeals work in orthopedics is a different email from a credentialing delay in behavioral health, and a slow primary care claim is a third email. They go out as separate emails.
+Specialty comes first because the problem changes with it. Appeals work in orthopedics is a different email from a credentialing delay in behavioral health, and a slow primary care claim is a third email.
 
 A practice that leans on one commercial plan, or that recently started taking Medicare, works under that payer's rules on almost every claim.
 
@@ -3303,7 +3303,7 @@ Denials that miss the appeal window make an administrator ask who should own tha
 
 Some companies reading this page sell to billers, not to clinics. Software, coding support, and credentialing help are bought by the owner of the billing firm. For those firms the list is billing companies, and the title is the owner.
 
-The copy is written only from those specialties, states, titles, and moments. A matching reply goes to your sellers with the thread.
+The copy is written only from those specialties, states, titles, and changes. A matching reply goes to your sellers with the thread.
 
 ## Email, LinkedIn and follow up working together
 
@@ -3311,11 +3311,13 @@ Cold email on dedicated warmed domains. Our newsletters average a 49 to 51% open
 
 Proof: 400K+ emails a day of sending capacity. 99% delivery rate across programs. 49 to 51% average open rate on newsletters. 30+ client programs.
 
-## Pay per lead vs a program you own
+## Pay per lead vs a monthly program
 
-Pay per lead marketplaces sell shared or exclusive inquiries, priced per lead. Billing Direct lists exclusive leads at $90 to $390 (checked October 17, 2026). Practices often talk to several billers.
+Pay per lead marketplaces sell shared or exclusive inquiries, priced per lead. Practices often talk to several billers.
 
-A Be Leaded program is outreach in your name, on your list. Programs start from $2,000 a month. Every reply is yours. Your domains, your copy, and your list.
+Starting prices printed on October 24, 2026: Billing Direct (https://billingdirect.com/medical-billing-leads/) lists exclusive leads at $90 to $390 a lead. We do not sell pay per lead.
+
+A Be Leaded program is outreach in your name, on your list. Programs start from $2,000 a month. You own the list and every reply.
 
 Tell us your specialties and states. We will show you the list size and what a program would look like.
 
@@ -3344,7 +3346,7 @@ Business contacts only. No patient data or PHI, ever. CAN-SPAM compliant B2B sen
 
 ## How we start
 
-Week 1: specialties, states and lists, domains set up. Weeks 2 to 3: warmup and copy you approve. Then live sending and weekly review.
+Week 1: specialties, states and lists, domains set up. Weeks 2 to 3: warmup and copy you approve. Then live sending and weekly review. Most programs go live in about three weeks.
 
 ## Questions
 
@@ -3374,7 +3376,7 @@ Our sends follow CAN-SPAM on separate warmed domains: a real sender and a workin
 
 **Why does Be Leaded build verified lists instead of selling leads?**
 
-Pay per lead sellers sell inquiries, often to more than one biller. We run outreach in your name, to your list, and every reply is yours.
+Pay per lead sellers sell inquiries, often to more than one biller. We run outreach in your name. You own the list and every reply.
 
 **How much does it cost?**
 
