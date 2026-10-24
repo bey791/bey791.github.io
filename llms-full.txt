@@ -1971,7 +1971,7 @@ You approve the criteria before launch. We check the reply against those criteri
 
 The invite carries the current system, the renewal date if the buyer shared it, and who else is joining. Your AE walks in with that note. You can read every thread.
 
-Channels: cold email (https://www.beleaded.com/cold-email-agency/) and demo booking (https://www.beleaded.com/appointment-setting/).
+Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
 
 ## Sending infrastructure behind the program
 
@@ -2004,7 +2004,7 @@ A founder on Reddit says pay per meeting rewards spray, and that domain reputati
 
 Compare the cost of a held demo that matched your written criteria. The Bridge Group 2025 SDR report puts average ramp at 3.0 months and median annual attrition at 40% (https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group). A-Sales describes that three-month ramp and attributes the attrition figure to the Bridge Group (https://www.a-sales.co/blog/outsourced-sdr-cost, checked October 17, 2026). Zenbee lists pay per meeting at $150 to $600, priced on a booked meeting, and an outsourced retainer at $400 to $900 (https://zenbee.io/blog/cost-per-meeting/, checked October 17, 2026). Those are their published figures, not Be Leaded results.
 
-Programs start from $2,000 a month.
+Programs start from $2,000 a month. Most programs go live in about three weeks.
 
 See outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) and appointment setting pricing (https://www.beleaded.com/guides/appointment-setting-pricing/).
 
@@ -3305,7 +3305,7 @@ Some companies reading this page sell to billers, not to clinics. Software, codi
 
 The copy is written only from those specialties, states, titles, and changes. A matching reply goes to your sellers with the thread.
 
-## Email, LinkedIn and follow up working together
+## Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/)
 
 Cold email on dedicated warmed domains. Our newsletters average a 49 to 51% open rate. The setup is cold email deliverability. Replies handled the same business day (speed to lead). LinkedIn to administrators and owners. AI voice follow up for warm replies.
 
@@ -10293,6 +10293,7 @@ URL: https://www.beleaded.com/guides/cold-email-agency-pricing/
 Guides
 
 # Cold email agency pricing: what $2,000 a month includes
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 20, 2026.
 
 A useful price names what is included, whose domain sends the mail, and how a qualified meeting is defined. Ours start from $2,000 a month. The exact number comes after a 30-minute call. What the program includes is on the cold email agency (https://www.beleaded.com/cold-email-agency/) page.
 
