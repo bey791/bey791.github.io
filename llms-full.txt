@@ -1889,6 +1889,8 @@ URL: https://www.beleaded.com/industries/hr-payroll-software/
 - Industries
 - HR and payroll software
 
+Updated October 24, 2026.
+
 HR and payroll software
 
 # Lead generation and qualified demos for HR and payroll software
@@ -1927,6 +1929,26 @@ ATS, LMS, and time and attendance products use the same three steps. The title o
 
 Software outside this set starts on lead generation for B2B SaaS (https://www.beleaded.com/industries/b2b-saas/). Staffing firms that sell recruiters to employers are a different buyer.
 
+## The seats we list at a mid market company
+
+HRIS, payroll, benefits, and PEO software are evaluated by a small circle at a mid market company. Put the seat on the list before you put the logo on it. These are the four seats, and the decision each one actually makes.
+
+### CHRO
+
+Where a company has a chief people officer, that person can approve a new people system. The note that earns a look is about the stack they walked into, or about a process that fails as new teams are added.
+
+### HR operations
+
+HR operations lives in the records, in transfers between sites, and in the handoff from people data into the payroll run. If your product sits in that handoff, this is the right first meeting, even when a more senior person will sign. The reply we need names the workaround.
+
+### Payroll managers
+
+A payroll manager owns the run: filings, tax accounts, and the payment that had to go out off the normal cycle. When a company starts withholding in a state where it had no account, this is their problem before it belongs to finance.
+
+### CFOs and controllers
+
+At a mid market company the CFO or the controller can free the budget or halt the switch. They watch a filing that went out late, a close that waited on payroll, and a renewal that may be the only calm moment to move. For some products this seat must attend the first demo. For others the people leader attends first and brings finance later. That rule is on the criteria sheet before launch.
+
 ## When companies switch payroll or an HRIS
 
 A note lands better when the buyer already has a reason to look. These are the windows we build lists around.
@@ -1938,6 +1960,24 @@ A note lands better when the buyer already has a reason to look. These are the w
 - The company expanded payroll into another state or country
 
 The list itself is built from what is public: headcount, the states or countries where payroll runs, the current system when a job post or a tech profile names it, and hiring signals such as open payroll or people operations roles. A renewal date is included in the handoff only when the buyer shares it. We do not invent one.
+
+## What makes a mid market company look
+
+Renewals and budget season are already on this page. The windows below are the ones we add for payroll and HR systems, and you choose which of them are allowed in the opening wave.
+
+Headcount growth is the plain window. The company hired, the old routine got slower, and the people who run payroll or HR are spending late nights on work a system should carry. We use a headcount band you set, plus public hiring, to see it.
+
+Expansion into new states is next. A new state means new tax accounts, a new filing calendar, and registrations the current setup may not hold. The letter to the payroll manager is about running payroll across those states.
+
+Compliance changes come third. A state can alter a report, add a local tax, or move a deadline. That gives payroll a dated reason to look, and only when the change is public. We will not invent a rule to freshen a subject line.
+
+A messy year end, or a rough season of wage and tax statements, is its own window. Corrections, reprinted forms, and a close that slipped make a controller willing to see a different system before the next cycle. The season is why the letter exists.
+
+Acquisitions are the integration window. Two payrolls and two sets of employee records have to become one, on a short clock. The company keeping its system and the company turning one off are both worth a letter then. Tell your sellers which system was named, and whether finance is coming.
+
+Outgrowing a starter payroll tool is separate from renewing a full suite. The first tool often fits a single state and a small team. It stops fitting when headcount, extra states, or the monthly close outgrow it. The demo should begin with the job the starter cannot finish.
+
+You choose which windows belong in the opening wave. A strong title outside those windows stays off it.
 
 ## How a qualified demo gets booked
 
@@ -3213,9 +3253,13 @@ URL: https://www.beleaded.com/industries/medical-billing-rcm/
 - Industries
 - Medical billing and RCM
 
+Updated October 24, 2026.
+
 Medical billing and RCM
 
 # Lead generation for medical billing and RCM companies
+
+Medical billing companies and revenue cycle firms use Be Leaded to start conversations with the practices that can hire them. We build the list from the specialties and states you serve, write a short note about one billing problem that office already has, and stay with the reply until a meeting is set.
 
 Practices get pitched by billing companies every week and most pitches sound the same. We reach practice managers and owners with one specialty, one problem and one small ask, then book the call on your calendar.
 
@@ -3256,6 +3300,36 @@ Pitching the physician first is the most common reason billing outreach gets ign
 - Specialty first, then state, provider count, and payer mix.
 - EHR or PM system where it is public.
 - Signals: a new location, new providers, a billing job post, an EHR change, year end and Q1 review windows.
+
+## Who we write to, and why they look now
+
+The title on the list follows who you sell to: a practice, a physician group, or a billing company. The note follows a change that office is already in the middle of.
+
+### Practice administrators
+
+At an independent practice this person sees the claims that stall and decides which vendor the physicians will sit with. Most firms that bill for practices should open with this title.
+
+### Practice managers
+
+The practice manager is on the billing desk, not above it. Payer questions, coding disagreements, and claims waiting on a missing code land here first. Write about that stack.
+
+### Revenue cycle directors
+
+Inside a physician group, this director owns denials, coding quality, and how long payments sit. The note has to name one of those jobs.
+
+### CFOs
+
+Finance steps in when the group is large and the fee is real money. The CFO looks at what the group collects, how long cash waits, and a price that is a share of collections.
+
+### Owners of billing firms
+
+Some companies reading this page sell to billers, not to clinics. Software, coding support, and credentialing help are bought by the owner of the billing firm. For that motion the list is billing firms, and the title is the owner.
+
+Specialty is the cut that keeps a note honest. Appeals work in orthopedics is a different letter from a credentialing delay in behavioral health, and a slow primary care claim is a third letter. Those letters never share a send. State is the next cut, then the provider count a practice shows in public, so a solo office is not offered the same thing as a group with many sites. Payer mix comes after that, and only where the practice has published the panel. A panel gathered around one commercial plan, or a group that recently accepted a government payer, posts claims under rules a balanced panel does not. When the mix is not public, it stays off the list. We do not guess it from a logo.
+
+The practices that answer are usually inside a change. Switching EHR, or switching the practice management system, rebuilds the path each claim takes and makes the current biller easy to reconsider. Denials that miss the appeal window make an administrator ask who should own that work. A payer mix that moved, because a facility contract changed or a single plan now dominates the panel, breaks the posting habits the old setup knew. Turnover on the billing desk leaves a backlog and a chair with nobody in it. Opening another location adds a site the current team has never billed. Adding a specialty brings procedure codes that team has not worked. Before any copy is drafted, you and we choose which of these moments are in the first wave. An office sitting in none of them can wait for a later one.
+
+You read each line before it sends. Specialties, states, titles, and the moments above are the whole assignment for that copy. A reply that matches is placed with your sellers.
 
 ## Email, LinkedIn and follow up working together
 
