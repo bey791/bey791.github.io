@@ -1907,7 +1907,7 @@ Leadriver's HR tech appointment setting page (https://www.leadriver.io/use-cases
 
 A founder on Reddit says they saw a 50 to 70% no-show or disqualify rate on booked meetings, because the bar to book was agreeing to a calendar invite (https://www.reddit.com/r/startup/comments/1sxoiuq/anyone_tried_outsourced_sdr_services_worth_it_or/).
 
-This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call.
+This page is the fix we run for HRIS, HCM, payroll, benefits, time and attendance, ATS, LMS, and PEO software. We generate the leads, qualify them against criteria you approve, then book the demo. Your AEs take the call. Programs can run across email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), with phone work quoted separately if needed.
 
 ## Who buys HR and payroll software
 
@@ -1971,7 +1971,7 @@ You approve the criteria before launch. We check the reply against those criteri
 
 The invite carries the current system, the renewal date if the buyer shared it, and who else is joining. Your AE walks in with that note. You can read every thread.
 
-Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
+Channels: cold email (https://www.beleaded.com/cold-email-agency/) and demo booking (https://www.beleaded.com/appointment-setting/).
 
 ## Sending infrastructure behind the program
 
@@ -3235,7 +3235,7 @@ Medical billing and RCM
 
 # Lead generation for medical billing and RCM companies
 
-Be Leaded runs lead generation for medical billing and RCM companies: we build the list from the specialties and states you serve, write about one billing problem each practice already has, and book the call on your calendar.
+Be Leaded runs lead generation for medical billing and RCM companies: we build the list from the specialties and states you serve, write about one billing problem each practice already has, and book the call on your calendar. Programs can run across email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/), with phone work quoted separately if needed.
 
 Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
 
@@ -3305,7 +3305,7 @@ Some companies reading this page sell to billers, not to clinics. Software, codi
 
 The copy is written only from those specialties, states, titles, and changes. A matching reply goes to your sellers with the thread.
 
-## Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/)
+## Email, LinkedIn and follow up working together
 
 Cold email on dedicated warmed domains. Our newsletters average a 49 to 51% open rate. The setup is cold email deliverability. Replies handled the same business day (speed to lead). LinkedIn to administrators and owners. AI voice follow up for warm replies.
 
@@ -10293,7 +10293,7 @@ URL: https://www.beleaded.com/guides/cold-email-agency-pricing/
 Guides
 
 # Cold email agency pricing: what $2,000 a month includes
-By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 20, 2026.
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026.
 
 A useful price names what is included, whose domain sends the mail, and how a qualified meeting is defined. Ours start from $2,000 a month. The exact number comes after a 30-minute call. What the program includes is on the cold email agency (https://www.beleaded.com/cold-email-agency/) page.
 
