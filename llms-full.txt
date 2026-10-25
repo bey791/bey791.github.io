@@ -3254,7 +3254,7 @@ Our appointment setting copy leads with those specifics in your specialty.
 
 ## Who this is for
 
-Billing and revenue cycle companies that sell to US practices, including teams based offshore. For the steps you can run yourself, see how to get medical billing clients (https://www.beleaded.com/industries/medical-billing-rcm/#h-rcm-decides).
+Billing and revenue cycle companies that sell to US practices, including teams based offshore. The steps you can run yourself start at who decides on a billing company (https://www.beleaded.com/industries/medical-billing-rcm/#h-rcm-decides).
 
 - US billing and RCM companies. Companies that bill US practices and want specialty and state lists.
 - Offshore and nearshore teams. Billing teams outside the US that serve US practices.
@@ -3280,29 +3280,6 @@ The person who feels a stalled claim is often not the person who signs. At a sol
 Tebra's billing company research (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients), updated April 12, 2026, says half of US billing services are highly specialized. Mental health, physical therapy, and family practice are among the niches that show up most. Pick one specialty you can bill without looking up the basics, and one size: a solo practice, a small group, or a group with several sites.
 
 Write that choice in one sentence you can use to reject a row. Orthopedic groups with one to five providers in Texas and Florida is a list you can finish. Any practice that needs billing is a directory. Stay on that slice until the first conversations repeat the same problems. A second specialty is a second list, a second email, and a second set of partners. Add it when the first slice is producing replies.
-
-## What the four channels cost
-
-Referrals, direct outreach, association events, and paid or bought leads do not trade time, money, speed, and control in the same way. Dollar ranges in the table are Medical Billing Opportunity's directional estimates.
-
-| Channel | Time cost | Money cost | Speed and control |
-| --- | --- | --- | --- |
-| Referrals | Ongoing time with partners and past clients | $0, listed as reciprocal | Slow to start. You do not pick the day a partner introduces you. Their table lists a 10% to 25% conversion range, the highest of the channels they score. |
-| Direct outreach | You write, send, and follow up | Email and phone $0 to $50 a lead. LinkedIn $0 to $30 a lead. | The fastest path they describe for a new firm. You choose the specialty, the state, and the week you send. Their conversion ranges are 3% to 8% for email and phone, and 2% to 6% for LinkedIn. |
-| Association events | Travel plus the days of the meeting | Not in their table. Budget the booth, the travel, and the days you are not billing. | Tied to the association calendar. The association sets the date, so control is low until you are in the room. |
-| Paid or bought leads | Low if someone else finds the practice | Purchased lists $25 to $150 a lead. Google Ads $50 to $200 a lead. | Fast if you already have budget. Their conversion ranges are 1% to 4% for purchased lists and 5% to 12% for Google Ads. A bought list is often shared. Ads you run stay yours. |
-
-Starting prices printed on October 17, 2026: Medical Billing Opportunity (https://www.medicalbillingopportunity.com/resources/guides/medical-billing-leads/) lists these dollar ranges as directional estimates. They are not Be Leaded measurements.
-
-Tebra's billing company research (https://www.tebra.com/theintake/healthcare-reports/billing-companies/getting-paid-how-to-get-medical-billing-clients), updated April 12, 2026, says 72% of billing companies name referrals as their top new business driver. Referrals win on trust. They lose on timing, because you cannot decide that a given month is when orthopedic managers will hear your name.
-
-### Referral partners who already sit with practices
-
-Referrals from current and past clients hold a book you already have. They do not fill a pipeline you are starting. Add a few partners who already talk to the office manager: EHR resellers and the consultants who implement the software, practice management consultants, healthcare CPAs and bookkeepers who already see collections, and credentialing firms, who are in the room when a new provider starts.
-
-Give them one sentence they can forward. If a practice in this specialty is unhappy with denials, you will review last month's codes. A concrete review with a low commitment gets a more specific introduction than a standing contract.
-
-CureMed's public referral program (https://www.curemed.co/refer), as printed on October 17, 2026, pays 5% of its billing fee each month on a practice a partner introduces, inside a commission window that starts at two years. That is one published example of a recurring referral fee, not a rate you have to copy. If you pay a partner, write down the percentage, how long it lasts, and what counts as a signed practice. Do not promise a partner an outcome you do not control.
 
 ## What the note should name
 
@@ -3344,9 +3321,34 @@ Proof: 400K+ emails a day of sending capacity. 99% delivery rate across programs
 
 Pay per lead marketplaces sell shared or exclusive inquiries, priced per lead. Practices often talk to several billers.
 
-Starting prices printed on October 24, 2026: Billing Direct (https://billingdirect.com/medical-billing-leads/) lists exclusive leads at $90 to $390 a lead. We do not sell pay per lead.
+Starting prices printed on October 25, 2026: Billing Direct (https://billingdirect.com/medical-billing-leads/) lists exclusive leads at $90 to $390 a lead. We do not sell pay per lead. These are exclusive leads, not the shared lists in the channel table above.
 
 A Be Leaded program is outreach in your name, on your list. Programs start from $2,000 a month. You own the list and every reply.
+
+## What the four channels cost
+
+Referrals, direct outreach, association events, and paid or bought leads do not trade time, money, speed, and control in the same way. Dollar ranges in the table are Medical Billing Opportunity's directional estimates.
+
+| Channel | Time cost | Money cost | Speed and control |
+| --- | --- | --- | --- |
+| Referrals | Ongoing time with partners and past clients | $0, listed as reciprocal | Slow to start. You do not pick the day a partner introduces you. |
+| Direct outreach | You write, send, and follow up | Email and phone $0 to $50 a lead. LinkedIn $0 to $30 a lead. | The fastest path they describe for a new firm. You choose the specialty, the state, and the week you send. |
+| Association events | Travel plus the days of the meeting | Not in their table. Budget the booth, the travel, and the days you are not billing. | Tied to the association calendar. The association sets the date, so control is low until you are in the room. |
+| Paid or bought leads | Low if someone else finds the practice | Purchased lists $25 to $150 a lead. Google Ads $50 to $200 a lead. | Fast if you already have budget. A bought list is often shared. Ads you run stay yours. |
+
+Typical costs, checked October 25, 2026: Medical Billing Opportunity (https://www.medicalbillingopportunity.com/resources/guides/medical-billing-leads/) lists these dollar ranges as directional estimates. They are not Be Leaded measurements.
+
+An industry figure from Medical Billing Opportunity (https://www.medicalbillingopportunity.com/resources/guides/medical-billing-leads/) lists conversion at 10% to 25% for referrals, the highest of the channels they score, 3% to 8% for email and phone, 2% to 6% for LinkedIn, 1% to 4% for purchased lists, and 5% to 12% for Google Ads.
+
+The same Tebra research says 72% of billing companies name referrals as their top new business driver. Referrals win on trust. They lose on timing, because you cannot decide that a given month is when orthopedic managers will hear your name.
+
+### Referral partners who already sit with practices
+
+Referrals from current and past clients hold a book you already have. They do not fill a pipeline you are starting. Add a few partners who already talk to the office manager: EHR resellers and the consultants who implement the software, practice management consultants, healthcare CPAs and bookkeepers who already see collections, and credentialing firms, who are in the room when a new provider starts.
+
+Give them one sentence they can forward. If a practice in this specialty is unhappy with denials, you will review last month's codes. A concrete review with a low commitment gets a more specific introduction than a standing contract.
+
+Starting prices printed on October 25, 2026: CureMed's public referral program (https://www.curemed.co/refer) pays 5% of its billing fee each month on a practice a partner introduces, inside a commission window that starts at two years. That is one published example of a recurring referral fee, not a rate you have to copy. If you pay a partner, write down the percentage, how long it lasts, and what counts as a signed practice. Do not promise a partner an outcome you do not control.
 
 Tell us your specialties and states. We will show you the list size and what a program would look like.
 
@@ -3381,7 +3383,7 @@ Week 1: specialties, states and lists, domains set up. Weeks 2 to 3: warmup and 
 
 **Should a billing company use a lead generation agency?**
 
-Yes, when you want the list, the copy and the replies handled for you. We run appointment setting for medical billing and RCM companies. Target up to 25,000 new contacts a month. Programs start from $2,000 a month. If you would rather do the work yourself, read how to get medical billing clients (https://www.beleaded.com/industries/medical-billing-rcm/#h-rcm-decides).
+Yes, when you want the list, the copy and the replies handled for you. We run appointment setting for medical billing and RCM companies. The steps you can run yourself start at who decides on a billing company (https://www.beleaded.com/industries/medical-billing-rcm/#h-rcm-decides). Target up to 25,000 new contacts a month. Programs start from $2,000 a month.
 
 **Who do you reach for a billing company?**
 
