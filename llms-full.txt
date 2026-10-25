@@ -1827,14 +1827,14 @@ Compare quotes on held, qualified demos. Zenbee's example: a $200 headline price
 
 ## Software categories
 
-Payroll tools and work tracking tools do not share a room. Payroll keeps a page of its own. Work tracking is the section below.
+Payroll software and project management software sell to different buyers. Project management has its own section below.
 
 - HR and payroll software (https://www.beleaded.com/industries/hr-payroll-software/) is the page for vendors whose buyer sits in people or finance.
 - Project management software (https://www.beleaded.com/industries/b2b-saas/#pm-software) is for vendors whose buyer sits with the team that ships the work.
 
 ## Project management and work management software
 
-The economic buyer is usually an operations director, a PMO lead, or a COO. Team leads show up as champions and often have to be in the room.
+The economic buyer is usually an operations director, a project management office (PMO) lead, or a COO. Team leads show up as champions and often have to be in the room.
 
 What makes a team look now:
 
