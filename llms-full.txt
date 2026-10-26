@@ -9307,6 +9307,7 @@ On this page
 - Cleverly
 - SalesRoads
 - Be Leaded
+- Launch time and first bill
 - How to choose
 - FAQ
 - Sources
@@ -9322,7 +9323,7 @@ Name, price model, channels, and a fit line. Each cell is taken from that firm's
 | Leadium (https://www.leadium.com/pricing) | Read October 13, 2026. Month to month. The pricing URL has no currency. A companion article, not that URL, shows dial-only work at $3,500 per month and the mixed channel offer at $4,000 to $5,000. | Phone, mail, and LinkedIn. | A retainer that states it will not promise an outcome count. |
 | Cleverly (https://www.cleverly.co/home-linkedin) | Read October 13, 2026. LinkedIn menu shows three prices: $397, then $697, then $997, each billed monthly. Mail is quoted off that menu. | LinkedIn on the menu. Cold email is a separate quote. | A LinkedIn test that must stay under $1,000 monthly. |
 | SalesRoads (https://salesroads.com/pricing/) | Read October 13, 2026. Billed every four weeks. The one SDR line is $11,950. The page prints lines through six SDRs. | Calling plus email. | A floor you pay on a four week cycle. |
-| Be Leaded (https://www.beleaded.com/pricing/) | One monthly fee. Programs start from $2,000 a month. Quote follows one scoping call. | Email, LinkedIn and cold calling. | Email, LinkedIn and cold calling, and your sellers take the conversation. |
+| Be Leaded (https://www.beleaded.com/pricing/) | One monthly fee. Programs start from $2,000 a month. Quote follows one scoping call. | Email and LinkedIn. Calling is quoted separately. | Email and LinkedIn, with calling quoted separately, and your sellers take the conversation. |
 
 For the Belkins-specific comparison, use Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/). To score any vendor on the same sheet, use the buyer's scorecard (https://www.beleaded.com/guides/best-cold-email-agency/).
 
@@ -9336,7 +9337,7 @@ Appointment setting companies compared on best for, pricing model, starting pric
 | Leadium | Month to month published retainer | Month to month retainer. No appointment outcome guarantee | From $3,500 a month | Phone, email, LinkedIn |
 | Cleverly | LinkedIn first on a small budget | Lead generation plans. Cold email is pay per meeting-ready lead | From $397 a month | LinkedIn, cold email |
 | SalesRoads | Dedicated sales floor, phone included | Per four weeks. Published prices for 1 to 6 SDRs. Cancel any time | $11,950 per four weeks | Calling, email |
-| Be Leaded | Email, LinkedIn and cold calling. | Monthly program | Programs start from $2,000 a month. Confirm on a call. | Email, LinkedIn and cold calling. |
+| Be Leaded | Email and LinkedIn, with calling quoted separately. | Monthly program | Programs start from $2,000 a month. Confirm on a call. | Email and LinkedIn. Calling is quoted separately. |
 
 The rows above are the long form of the summary.
 
@@ -9368,7 +9369,7 @@ Martal's pricing page is a scope page, not a rate card. The pilot length is the 
 
 ## Leadium: best for a month-to-month published retainer
 Best for month-to-month US outbound when you want a published retainer and no appointment-count guarantee.
-Leadium's pricing page, checked October 13, 2026, says contracts are month to month, that appointment setting typically launches in 7 to 10 days, and that Leadium does not guarantee appointment outcomes (leadium.com/pricing (https://www.leadium.com/pricing)). That page does not list a dollar price. Leadium's own outbound pricing guide lists $3,500 a month for cold calling only and $4,000 to $5,000 a month for multi-channel outbound across phone, email, and LinkedIn, month to month (Leadium outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services)). The pricing page also describes a US-based team and lists a Las Vegas address.
+Leadium's pricing page, checked October 13, 2026, says contracts are month to month, that appointment setting typically launches in 7 to 10 days, and that Leadium does not guarantee appointment outcomes (leadium.com/pricing (https://www.leadium.com/pricing)). That page does not list a dollar price. Leadium's own outbound pricing guide lists $3,500 a month for cold calling only and $4,000 to $5,000 a month for multichannel outbound across phone, email, and LinkedIn, month to month (Leadium outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services)). The pricing page also describes a US-based team and lists a Las Vegas address.
 Leadium is explicit that appointment counts are not guaranteed, and that clients approve the work. That is a cleaner contract than a guarantee with a soft definition of qualified. The dollar figures live on their guide, not on the pricing page, so attach the guide to the proposal you sign.
 Guide dollars and eight other firms are compared on Leadium pricing and alternatives (https://www.beleaded.com/guides/leadium-alternatives/).
 
@@ -9382,15 +9383,27 @@ Best for a dedicated outsourced sales floor, billed every four weeks, with calli
 SalesRoads' pricing page, checked October 13, 2026, lists published prices for 1 to 6 SDRs, including one SDR at $11,950 per four weeks, two SDRs at $16,750 per four weeks, and three SDRs at $23,500 per four weeks (salesroads.com/pricing (https://salesroads.com/pricing/)). The same page says the program includes calling, personalized email, and email infrastructure on multiple domains and mailboxes. It says you can cancel at any time, and that a team launches in 15 business days, with calling on the 16th business day.
 SalesRoads prices a team. One SDR at $11,950 per four weeks is a different product from a $2,000 monthly program. The published scope on that page is calling plus personalized email.
 
-## Be Leaded: Email, LinkedIn and cold calling
-Email, LinkedIn and cold calling in one monthly fee. Programs start from $2,000 a month.
+## Be Leaded: email and LinkedIn, with calling quoted separately
+Email and LinkedIn in one monthly fee. Programs start from $2,000 a month. Calling is quoted separately.
 Be Leaded publishes the fee on pricing (https://www.beleaded.com/pricing/). Most programs go live in about three weeks. Sending domains for this program stay off the company domain and carry SPF plus DKIM plus DMARC. Sequences wait for your approval. LinkedIn notes go out from profiles your team already owns, on a clock that follows the email. Replies are handled the same business day. Email, LinkedIn and cold calling. See cold calling services. The exact fee comes after a 30-minute call.
 Publisher note. This guide is ours. The row is the published model, and it is not a rank. Your sellers take the call.
 
+## Launch time and the first bill
+If Belkins is the firm you are measuring the others against, two things matter early: how long until outreach starts, and what the first invoice covers. Each line below comes from that firm's own site.
+Starting prices printed on October 26, 2026:
+- Belkins: average starter price from $5,000, and a 14 day launch split into setup, research, and final steps (Belkins appointment setting page (https://belkins.io/appointment-setting)).
+- CIENCE: $2,000 a month for the campaign team and $499 a month for graph8, plus SDR seats, which start at $1,750 offshore and at $3,500 for reps in the US or Europe. Setup is paid once, and the page says programs are live in less than 14 days (CIENCE pricing (https://www.cience.com/pricing/)).
+- Leadium: calling alone at $3,500 a month and multichannel at $4,000 to $5,000. New clients start on the 1st or the 15th, and the pricing page puts a typical appointment setting launch at 7 to 10 days (Leadium's outbound guide (https://www.leadium.com/blog/outbound-lead-generation-services) and Leadium pricing (https://www.leadium.com/pricing)).
+- SalesRoads: one SDR at $11,950 per four weeks. Programs launch in 15 business days, and the firm suggests its full 12 week lab before you judge results (SalesRoads pricing (https://salesroads.com/pricing/)).
+- Cleverly: LinkedIn plans from $397 to $997 a month. Cold email is sold per meeting ready lead, month to month, and the FAQ says conversations typically start within the first 30 days (Cleverly FAQ (https://www.cleverly.co/faq)).
+- Martal Group: a 3 month pilot campaign, then a flat monthly subscription. No dollar figure is printed (Martal pricing (https://martal.ca/pricing/)).
+Our own line: Programs start from $2,000 a month. Calling is quoted separately. Most programs go live in about three weeks.
+A fast start only helps if the list is right. Whichever firm you pick, approve a sample of the list before the start date. Firms that compete with Belkins head to head are laid out in Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/).
+
 ## How to choose
 - You want LinkedIn only, and the fee has to stay under $1,000 a month: Cleverly.
-- You want a published multi-channel retainer and month-to-month terms: Leadium.
-- You want high personalization. Meetings from $2,000 a month: Be Leaded. Email, LinkedIn and cold calling. If booked meetings are the goal, see what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/).
+- You want a published multichannel retainer and month-to-month terms: Leadium.
+- You want high personalization: Be Leaded. Programs start from $2,000 a month. Calling is quoted separately from the $2,000 program fee. If booked meetings are the goal, see what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/).
 - You want a yearly appointment package and will confirm Belkins' starter: Belkins.
 - CIENCE fits when the buy is a platform with regional seats you switch on.
 - You want another company to run discovery and help close: Martal Group.
@@ -10927,7 +10940,7 @@ Leadium: $4,000 to $5,000 a month multi-channel; $3,500 a month cold calling onl
 SalesRoads: $11,950 per 4 weeks for 1 SDR. Per 4-week period. https://salesroads.com/pricing/
 Martal Group: No published dollar price. 3 month pilot, then monthly (Tier 1A). https://martal.ca/pricing/
 
-Ten agencies are compared on channels and terms in best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
+Ten agencies are compared on channels and terms in best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/). Pod pricing is set against monthly retainers in Callbox competitors compared (https://www.beleaded.com/guides/callbox-alternatives/), and firms that only book meetings are in 7 appointment setting companies side by side (https://www.beleaded.com/guides/best-appointment-setting-companies/).
 
 Target up to 25,000 new contacts a month. Programs start from $2,000 a month. Most programs go live in about three weeks.
 
@@ -10996,6 +11009,8 @@ Callbox competitors and alternatives: 10 agencies compared
 
 - Price, unit, and channels
 
+- One quarter, side by side
+
 - Questions to ask
 
 - Capacity and the offer
@@ -11024,7 +11039,7 @@ Quick answer by job
 
 - Custom quoted SDR teams, US based or offshore, month to month: SalesHive.
 
-- Email, LinkedIn and cold calling. Replies are handled. Meetings are booked. The monthly price is published: Be Leaded.
+- Email and LinkedIn, with calling quoted separately. Replies are handled. Meetings are booked. The monthly price is published: Be Leaded.
 
 - Leadium, when the buy is a retainer billed one month at a time.
 
@@ -11078,7 +11093,7 @@ SalesHive
 
 Be Leaded
 
-      Grouped here as appointment setting. Email, LinkedIn and cold calling. The monthly price is published. See cold calling services. This is position five of ten.
+      Grouped here as appointment setting. Email and LinkedIn, with calling quoted separately. The monthly price is published. See cold calling services. This is position five of ten.
 
       On October 18, 2026, the Be Leaded pricing page lays out a monthly program covering domains for sending, inboxes, warmup, building and checking the list, the sequences, LinkedIn run beside email, replies carried through to a booking, and a report every week. That page sets the start near three weeks, once warmup is finished and the buyer has approved the opening sequence.
 
@@ -11086,7 +11101,7 @@ Be Leaded
 
       Target up to 25,000 new contacts a month.
 
-      Where that published program sits: teams that want a smaller lead generation services program than a full pod, with Email, LinkedIn and cold calling listed on the pricing page.
+      Where that published program sits: teams that want a smaller lead generation services program than a full pod, with email and LinkedIn in the fee and calling quoted separately.
 
 Leadium
 
@@ -11155,7 +11170,7 @@ Published price, billing unit, and channels
               Be Leaded
               The published floor. Programs start from $2,000 a month.
               per month
-              Email, LinkedIn and cold calling.
+              Email and LinkedIn. Calling is quoted separately.
 
               Leadium
               Calling on its own, $3,500 monthly; multichannel, $4,000 to $5,000 monthly
@@ -11187,9 +11202,33 @@ Published price, billing unit, and channels
 
       Prices move. Confirm every figure in writing with the company that published it.
 
-        If one pod is more program than you need, a 30-minute call will tell you the cost for your market. Email, LinkedIn and cold calling.
+        If one pod is more program than you need, a 30-minute call will tell you the cost for your market. Email and LinkedIn, with calling quoted separately.
 
           Book a 30-minute call
+
+What one quarter costs next to a Callbox pod
+
+      Callbox prints its price by the quarter. Most firms on this page print theirs by the month or by four weeks, so the numbers only line up once they cover the same stretch of time. Every figure below comes from the firm's own site.
+
+      Starting prices printed on October 26, 2026:
+
+- Callbox: one campaign pod is estimated at $16,000 to $32,000 per quarter, with the exact figure given after a consultation (Callbox pricing (https://www.callboxinc.com/lead-generation-pricing/)).
+
+- CIENCE: campaign team $2,000 a month, graph8 platform $499 a month, and SDR seats that start at $1,750 a month offshore and $3,500 a month for US or European reps, plus one setup fee and a bonus per SDR (CIENCE pricing (https://www.cience.com/pricing/)).
+
+- Leadium: cold calling alone runs $3,500 a month, and adding email and LinkedIn puts it at $4,000 to $5,000 a month, on month to month contracts (Leadium's outbound guide (https://www.leadium.com/blog/outbound-lead-generation-services) and Leadium pricing (https://www.leadium.com/pricing)).
+
+- Belkins: its appointment setting page shows an average starter price from $5,000 (Belkins appointment setting (https://belkins.io/appointment-setting)).
+
+- SalesRoads: $11,950 per four weeks for one dedicated SDR and $16,750 for two (SalesRoads pricing (https://salesroads.com/pricing/)).
+
+- SalesHive: no dollar figure printed. Pricing is quoted per client, and an annual plan costs less per month than paying month to month (SalesHive pricing (https://saleshive.com/pricing/)).
+
+      Stretched to one quarter, those printed floors come out like this. Three months of Leadium calling is $10,500. CIENCE with one offshore SDR is $12,747 before the setup fee and any bonus. Three four week SalesRoads blocks with one SDR come to $35,850, and SalesRoads itself recommends running its full 12 week lab before deciding. One Callbox pod is $16,000 to $32,000.
+
+      Programs start from $2,000 a month. Calling is quoted separately. Most programs go live in about three weeks.
+
+      A quarter total still hides scope. Ask each firm what the number buys: how many people do the outreach, on which channels, and who answers the replies.
 
 Questions to ask any Callbox competitor
 
@@ -11289,7 +11328,7 @@ Sources
 
 Name the market you sell into.
 
-      Bring the pod quote and the market you sell into. Thirty minutes is enough to say the cost there. Email, LinkedIn and cold calling.
+      Bring the pod quote and the market you sell into. Thirty minutes is enough to say the cost there. Email and LinkedIn, with calling quoted separately.
 
         Book a 30-minute call
         Send the pod quote to sales@beleaded.com Copy
@@ -11646,7 +11685,9 @@ Cold calling can run alongside your email and LinkedIn outreach. One buyer can b
 
 Programs start from $2,000 a month. Call minutes billed at cost.
 
-What a cold calling service does: cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message.
+What a cold calling service does: cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message. Firms that sell booking alone are compared in best B2B appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
+
+The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains, and the reply handling. This page adds phone outreach beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
 
 Who gets called: buyers who match a definition you approve, on the same accounts as the email and the LinkedIn note.
 
