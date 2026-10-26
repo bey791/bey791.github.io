@@ -9337,7 +9337,7 @@ Appointment setting companies compared on best for, pricing model, starting pric
 | Leadium | Month to month published retainer | Month to month retainer. No appointment outcome guarantee | From $3,500 a month | Phone, email, LinkedIn |
 | Cleverly | LinkedIn first on a small budget | Lead generation plans. Cold email is pay per meeting-ready lead | From $397 a month | LinkedIn, cold email |
 | SalesRoads | Dedicated sales floor, phone included | Per four weeks. Published prices for 1 to 6 SDRs. Cancel any time | $11,950 per four weeks | Calling, email |
-| Be Leaded | Email and LinkedIn, with calling quoted separately. | Monthly program | Programs start from $2,000 a month. Confirm on a call. | Email and LinkedIn. Calling is an add on. |
+| Be Leaded | Email and LinkedIn, with calling quoted separately. | Monthly program | Programs start from $2,000 a month. Confirm on a call. | Email and LinkedIn. Calling is quoted separately. |
 
 The rows above are the long form of the summary.
 
@@ -9369,7 +9369,7 @@ Martal's pricing page is a scope page, not a rate card. The pilot length is the 
 
 ## Leadium: best for a month-to-month published retainer
 Best for month-to-month US outbound when you want a published retainer and no appointment-count guarantee.
-Leadium's pricing page, checked October 13, 2026, says contracts are month to month, that appointment setting typically launches in 7 to 10 days, and that Leadium does not guarantee appointment outcomes (leadium.com/pricing (https://www.leadium.com/pricing)). That page does not list a dollar price. Leadium's own outbound pricing guide lists $3,500 a month for cold calling only and $4,000 to $5,000 a month for multi-channel outbound across phone, email, and LinkedIn, month to month (Leadium outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services)). The pricing page also describes a US-based team and lists a Las Vegas address.
+Leadium's pricing page, checked October 13, 2026, says contracts are month to month, that appointment setting typically launches in 7 to 10 days, and that Leadium does not guarantee appointment outcomes (leadium.com/pricing (https://www.leadium.com/pricing)). That page does not list a dollar price. Leadium's own outbound pricing guide lists $3,500 a month for cold calling only and $4,000 to $5,000 a month for multichannel outbound across phone, email, and LinkedIn, month to month (Leadium outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services)). The pricing page also describes a US-based team and lists a Las Vegas address.
 Leadium is explicit that appointment counts are not guaranteed, and that clients approve the work. That is a cleaner contract than a guarantee with a soft definition of qualified. The dollar figures live on their guide, not on the pricing page, so attach the guide to the proposal you sign.
 Guide dollars and eight other firms are compared on Leadium pricing and alternatives (https://www.beleaded.com/guides/leadium-alternatives/).
 
@@ -9402,7 +9402,7 @@ A fast start only helps if the list is right. Whichever firm you pick, approve a
 
 ## How to choose
 - You want LinkedIn only, and the fee has to stay under $1,000 a month: Cleverly.
-- You want a published multi-channel retainer and month-to-month terms: Leadium.
+- You want a published multichannel retainer and month-to-month terms: Leadium.
 - You want high personalization: Be Leaded. Programs start from $2,000 a month. Calling is quoted separately from the $2,000 program fee. If booked meetings are the goal, see what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/).
 - You want a yearly appointment package and will confirm Belkins' starter: Belkins.
 - CIENCE fits when the buy is a platform with regional seats you switch on.
