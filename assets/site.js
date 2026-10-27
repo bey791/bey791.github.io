@@ -2399,7 +2399,11 @@
      cta_click takes position from utm_campaign on that link's href only.
      It does not read location.search and does not send any page query param.
      The same click stores bl_last_cta for a later /booked/ page in another tab.
-     The handler does not cancel the click. These links open in a new tab. */
+     The handler does not cancel the click. These links open in a new tab.
+     book_call_click also sends page_path. A data-cta used more than once is
+     numbered in DOM order (inline-1, inline-2) on the GA params only.
+     Href, data-cta, utm_campaign, and bl_last_cta.position stay unnumbered.
+     When a slot repeats, the numbered label is also stored as bl_last_cta.cta. */
   function campaignOf(href) {
     var i = href.indexOf("?");
     if (i < 0) return "";
@@ -2414,31 +2418,245 @@
     }
     return "";
   }
+  function blMailParamKey(pair) {
+    var key = String(pair || "").split("=")[0];
+    try { key = decodeURIComponent(key.replace(/\+/g, " ")); }
+    catch (err) {}
+    return String(key || "").toLowerCase();
+  }
+  function blSubjectAlreadyTagged(value, suffix, encodedSuffix) {
+    var decoded;
+    if (!value) return false;
+    if (encodedSuffix && value.length >= encodedSuffix.length && value.slice(-encodedSuffix.length) === encodedSuffix) return true;
+    decoded = value;
+    try { decoded = decodeURIComponent(value.replace(/\+/g, " ")); }
+    catch (err) {
+      try { decoded = decodeURIComponent(value); }
+      catch (err2) { return false; }
+    }
+    return decoded.length >= suffix.length && decoded.slice(-suffix.length) === suffix;
+  }
+  /* Click time, after the /match/ builder has written its subject. An existing
+     subject (Match request, Partner application) keeps its text and gains the
+     path. A bare sales mailto gets Website inquiry (pathname). Body is kept.
+     A second click does not append the path again. */
+  function blTagMailSubject(anchor) {
+    try {
+      var raw, hashAt, hash, main, qAt, addr, query, pairs, i, found, parts, current;
+      var suffix, encodedSuffix, inquiry, built, bodyVal, hasBody, key;
+      if (!anchor || !anchor.getAttribute) return;
+      raw = anchor.getAttribute("href") || "";
+      if (!/^mailto:sales@beleaded\.com(?:\?|#|$)/i.test(raw)) return;
+      hash = "";
+      hashAt = raw.indexOf("#");
+      main = raw;
+      if (hashAt >= 0) {
+        hash = raw.slice(hashAt);
+        main = raw.slice(0, hashAt);
+      }
+      qAt = main.indexOf("?");
+      addr = qAt >= 0 ? main.slice(0, qAt) : main;
+      query = qAt >= 0 ? main.slice(qAt + 1) : "";
+      pairs = query ? query.split("&") : [];
+      suffix = " (" + location.pathname + ")";
+      encodedSuffix = encodeURIComponent(suffix);
+      inquiry = encodeURIComponent("Website inquiry (" + location.pathname + ")");
+      found = -1;
+      for (i = 0; i < pairs.length; i++) {
+        if (blMailParamKey(pairs[i]) === "subject") { found = i; break; }
+      }
+      if (found < 0) {
+        built = "mailto:sales@beleaded.com?subject=" + inquiry;
+        hasBody = false;
+        bodyVal = "";
+        for (i = 0; i < pairs.length; i++) {
+          key = blMailParamKey(pairs[i]);
+          if (key !== "body") continue;
+          hasBody = true;
+          bodyVal = pairs[i].split("=").slice(1).join("=");
+          break;
+        }
+        if (hasBody) built += "&body=" + bodyVal;
+        anchor.setAttribute("href", built + hash);
+        return;
+      }
+      parts = pairs[found].split("=");
+      current = parts.slice(1).join("=");
+      if (!current) {
+        pairs[found] = parts[0] + "=" + inquiry;
+      } else if (!blSubjectAlreadyTagged(current, suffix, encodedSuffix)) {
+        pairs[found] = parts[0] + "=" + current + encodedSuffix;
+      } else {
+        return;
+      }
+      anchor.setAttribute("href", addr + "?" + pairs.join("&") + hash);
+    } catch (err) {}
+  }
+  /* Same data-cta on more than one anchor becomes inline-1, inline-2, ...
+     A value that appears once is returned unchanged. */
+  function blCtaSlot(anchor) {
+    var cta, all, n, idx, i, other;
+    try {
+      if (!anchor || !anchor.getAttribute) return "";
+      cta = anchor.getAttribute("data-cta");
+      if (!cta) return "";
+      all = document.querySelectorAll("a[data-cta]");
+      n = 0;
+      idx = 0;
+      for (i = 0; i < all.length; i++) {
+        other = all[i];
+        if (!other.getAttribute || other.getAttribute("data-cta") !== cta) continue;
+        n += 1;
+        if (other === anchor) idx = n;
+      }
+      if (n < 2 || !idx) return cta;
+      return cta + "-" + idx;
+    } catch (err) {
+      try { return (anchor && anchor.getAttribute && anchor.getAttribute("data-cta")) || ""; }
+      catch (err2) { return ""; }
+    }
+  }
+  function blQueryParts(href) {
+    var i = href.indexOf("?");
+    var hashAt, query, hash;
+    if (i < 0) return null;
+    hashAt = href.indexOf("#", i);
+    hash = "";
+    if (hashAt >= 0) {
+      query = href.slice(i + 1, hashAt);
+      hash = href.slice(hashAt);
+    } else {
+      query = href.slice(i + 1);
+    }
+    return { head: href.slice(0, i), parts: query ? query.split("&") : [], hash: hash };
+  }
+  function blParamDecoded(pair) {
+    var raw = String(pair || "").split("=").slice(1).join("=");
+    try { return decodeURIComponent(raw.replace(/\+/g, " ")); }
+    catch (err) { return raw; }
+  }
+  /* 404.html is the only page with #h-404, and its Calendly links use
+     utm_content=404. Both have to be present. Other pages are left alone.
+     Only utm_content is rewritten. An empty path becomes 404-root. */
+  function blNotFoundContent(pathname) {
+    var path = String(pathname || "");
+    path = path.replace(/^\/+|\/+$/g, "").replace(/\//g, "-").toLowerCase();
+    path = path.replace(/[^a-z0-9-]/g, "");
+    if (path.length > 60) path = path.slice(0, 60);
+    if (!path) return "404-root";
+    return "404-" + path;
+  }
+  function blRewrite404Content() {
+    try {
+      var links, i, raw, source, parsed, p, key, next, value, changed;
+      if (!document.getElementById("h-404")) return;
+      links = document.querySelectorAll('a[href*="calendly.com/ahmad-beleaded"]');
+      value = "";
+      for (i = 0; i < links.length; i++) {
+        raw = links[i].getAttribute("href") || "";
+        source = raw;
+        parsed = blQueryParts(source);
+        if (!parsed) {
+          source = links[i].href || "";
+          parsed = blQueryParts(source);
+        }
+        changed = false;
+        if (parsed) {
+          for (p = 0; p < parsed.parts.length; p++) {
+            key = blMailParamKey(parsed.parts[p]);
+            if (key === "utm_content" && blParamDecoded(parsed.parts[p]) === "404") changed = true;
+          }
+        }
+        if (!changed && links[i].href && links[i].href !== raw) {
+          source = links[i].href;
+          parsed = blQueryParts(source);
+          changed = false;
+          if (parsed) {
+            for (p = 0; p < parsed.parts.length; p++) {
+              key = blMailParamKey(parsed.parts[p]);
+              if (key === "utm_content" && blParamDecoded(parsed.parts[p]) === "404") changed = true;
+            }
+          }
+        }
+        if (!changed) continue;
+        if (!value) value = blNotFoundContent(location.pathname);
+        next = parsed.head + "?";
+        for (p = 0; p < parsed.parts.length; p++) {
+          if (p) next += "&";
+          key = blMailParamKey(parsed.parts[p]);
+          if (key === "utm_content" && blParamDecoded(parsed.parts[p]) === "404") next += "utm_content=" + value;
+          else next += parsed.parts[p];
+        }
+        next += parsed.hash;
+        if (next !== raw) links[i].setAttribute("href", next);
+      }
+    } catch (err) {}
+  }
+  function blArm404() {
+    try {
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", function () {
+          try { blRewrite404Content(); } catch (err) {}
+        });
+      } else {
+        blRewrite404Content();
+      }
+    } catch (err2) {}
+  }
+  blArm404();
+  document.addEventListener("click", function (e) {
+    try {
+      var mail = e.target && e.target.closest && e.target.closest("a");
+      if (mail) blTagMailSubject(mail);
+    } catch (err) {}
+  }, { capture: true });
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest('a[href*="calendly.com/ahmad-beleaded"], a[href^="mailto:"]');
     if (!a) return;
     var isCal = a.href.indexOf("calendly.com") > -1;
     var cta = a.getAttribute("data-cta");
+    var slot = cta || "";
+    try {
+      if (cta) {
+        var numbered = blCtaSlot(a);
+        if (numbered) slot = numbered;
+      }
+    } catch (errSlot) {}
     if (typeof gtag === "function") {
-      gtag("event", isCal ? "book_call_click" : "email_click", {
-        cta_location: cta || "unlabeled",
+      var clickParams = {
+        cta_location: cta ? (slot || cta) : "unlabeled",
         link_text: (a.textContent || "").trim().slice(0, 60)
-      });
+      };
+      if (isCal) {
+        try { clickParams.page_path = location.pathname; }
+        catch (errPath) {}
+      }
+      gtag("event", isCal ? "book_call_click" : "email_click", clickParams);
     }
     if (!isCal) return;
     var position = campaignOf(a.href) || "unknown";
     var pagePath = location.pathname;
+    var eventPosition = position;
+    var eventCta = cta;
+    try {
+      if (cta && slot && slot !== cta) {
+        eventPosition = slot;
+        eventCta = slot;
+      }
+    } catch (errNum) {}
     if (typeof gtag === "function") {
-      var fields = { position: position, page_path: pagePath };
-      if (cta) fields.cta = cta;
+      var fields = { position: eventPosition, page_path: pagePath };
+      if (cta) fields.cta = eventCta;
       gtag("event", "cta_click", fields);
     }
     try {
-      localStorage.setItem("bl_last_cta", JSON.stringify({
+      var stored = {
         position: position,
         page_path: pagePath,
         ts: Date.now()
-      }));
+      };
+      if (cta && slot && slot !== cta) stored.cta = slot;
+      localStorage.setItem("bl_last_cta", JSON.stringify(stored));
     } catch (err) {}
   }, { capture: true });
 
