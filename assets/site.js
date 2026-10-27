@@ -2400,10 +2400,10 @@
      It does not read location.search and does not send any page query param.
      The same click stores bl_last_cta for a later /booked/ page in another tab.
      The handler does not cancel the click. These links open in a new tab.
-     book_call_click also sends page_path. A data-cta used more than once is
-     numbered in DOM order (inline-1, inline-2) on the GA params only.
-     Href, data-cta, utm_campaign, and bl_last_cta.position stay unnumbered.
-     When a slot repeats, the numbered label is also stored as bl_last_cta.cta. */
+     book_call_click also sends page_path. cta_location, position, and cta
+     stay the raw data-cta or utm_campaign from main. When a data-cta value
+     repeats, the numbered label (inline-1, inline-2) is added as cta_slot
+     on those events and as bl_last_cta.cta_slot. A unique slot omits cta_slot. */
   function campaignOf(href) {
     var i = href.indexOf("?");
     if (i < 0) return "";
@@ -2492,8 +2492,8 @@
       anchor.setAttribute("href", addr + "?" + pairs.join("&") + hash);
     } catch (err) {}
   }
-  /* Same data-cta on more than one anchor becomes inline-1, inline-2, ...
-     A value that appears once is returned unchanged. */
+  /* inline-1, inline-2, ... when that data-cta is on more than one anchor.
+     A unique value returns "" so callers omit cta_slot. */
   function blCtaSlot(anchor) {
     var cta, all, n, idx, i, other;
     try {
@@ -2509,11 +2509,10 @@
         n += 1;
         if (other === anchor) idx = n;
       }
-      if (n < 2 || !idx) return cta;
+      if (n < 2 || !idx) return "";
       return cta + "-" + idx;
     } catch (err) {
-      try { return (anchor && anchor.getAttribute && anchor.getAttribute("data-cta")) || ""; }
-      catch (err2) { return ""; }
+      return "";
     }
   }
   function blQueryParts(href) {
@@ -2615,38 +2614,29 @@
     if (!a) return;
     var isCal = a.href.indexOf("calendly.com") > -1;
     var cta = a.getAttribute("data-cta");
-    var slot = cta || "";
+    var slot = "";
     try {
-      if (cta) {
-        var numbered = blCtaSlot(a);
-        if (numbered) slot = numbered;
-      }
+      if (cta) slot = blCtaSlot(a) || "";
     } catch (errSlot) {}
     if (typeof gtag === "function") {
       var clickParams = {
-        cta_location: cta ? (slot || cta) : "unlabeled",
+        cta_location: cta || "unlabeled",
         link_text: (a.textContent || "").trim().slice(0, 60)
       };
       if (isCal) {
         try { clickParams.page_path = location.pathname; }
         catch (errPath) {}
       }
+      if (slot) clickParams.cta_slot = slot;
       gtag("event", isCal ? "book_call_click" : "email_click", clickParams);
     }
     if (!isCal) return;
     var position = campaignOf(a.href) || "unknown";
     var pagePath = location.pathname;
-    var eventPosition = position;
-    var eventCta = cta;
-    try {
-      if (cta && slot && slot !== cta) {
-        eventPosition = slot;
-        eventCta = slot;
-      }
-    } catch (errNum) {}
     if (typeof gtag === "function") {
-      var fields = { position: eventPosition, page_path: pagePath };
-      if (cta) fields.cta = eventCta;
+      var fields = { position: position, page_path: pagePath };
+      if (cta) fields.cta = cta;
+      if (slot) fields.cta_slot = slot;
       gtag("event", "cta_click", fields);
     }
     try {
@@ -2655,7 +2645,7 @@
         page_path: pagePath,
         ts: Date.now()
       };
-      if (cta && slot && slot !== cta) stored.cta = slot;
+      if (slot) stored.cta_slot = slot;
       localStorage.setItem("bl_last_cta", JSON.stringify(stored));
     } catch (err) {}
   }, { capture: true });
