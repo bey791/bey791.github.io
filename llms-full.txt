@@ -12390,7 +12390,7 @@ Each firm below suits a different kind of buyer. Be Leaded is number four.
 - SalesRoads: priced per 4 week block, covering calling and email.
 - SalesHive: quoted SDR teams, with reps in the US or offshore.
 - CIENCE: every SDR seat is priced on its own, from $1,750 offshore or $3,500 in the US and Europe, plus a $2,000 monthly campaign team fee.
-- Be Leaded: we run Email, LinkedIn and cold calling, handle the replies and book the meeting. Programs start from $2,000 a month. Call minutes are billed at cost; the details are on cold calling services (https://www.beleaded.com/cold-calling-services/).
+- Be Leaded: we run Email and LinkedIn. Calling is quoted separately. We handle the replies and book the meeting. Programs start from $2,000 a month. Call minutes are billed at cost; the details are on cold calling services (https://www.beleaded.com/cold-calling-services/).
 - Belkins: monthly retainer packages called Growth, Growth Plus, For small business and Enterprise. Cold email and LinkedIn come with all of them except Enterprise.
 - Abstrakt Marketing Group: an outbound band on the homepage, which also names calling, email, and LinkedIn.
 - Martal Group: pilot first, then the fractional team. The page says Customize your pricing.
@@ -12426,7 +12426,7 @@ Opened October 20, 2026, CIENCE's pricing page (https://www.cience.com/pricing/)
 
 Be Leaded
 
-Email, LinkedIn and cold calling, all aimed at getting the meeting on your calendar.
+Email and LinkedIn, all aimed at getting the meeting on your calendar. Calling is quoted separately.
 
 On October 20, 2026 the Be Leaded pricing page (https://www.beleaded.com/pricing/) includes sending domains, inboxes, and warmup. It also includes list building, verification, and the sequences. LinkedIn runs beside email. Replies are carried through to a booking. A report goes out each week. Go live is about three weeks, after warmup and after you approve the opening sequence.
 
@@ -12434,7 +12434,7 @@ Programs start from $2,000 a month.
 
 Target up to 25,000 new contacts a month.
 
-A good fit if you hold a Leadium quote and want replies turned into booked meetings across Email, LinkedIn and cold calling. Call minutes are billed at cost, and cold calling services (https://www.beleaded.com/cold-calling-services/) explains how.
+A good fit if you hold a Leadium quote and want replies turned into booked meetings across Email and LinkedIn. Phone work is covered on cold calling services (https://www.beleaded.com/cold-calling-services/).
 
 Belkins
 
@@ -12471,7 +12471,7 @@ Leadium | Calling alone $3,500 per month. Multichannel $4,000 to $5,000 per mont
 SalesRoads | One SDR is $11,950 for 4 weeks. Two SDRs are $16,750. | Calling, plus email | Cancel anytime
 SalesHive | Quote only, for Starter, Growth, and Crush | Phone, or phone with email | Monthly, after written notice
 CIENCE | Campaign team at $2,000 monthly. The graph8 line is $499 monthly. Offshore seat from $1,750. US and Europe seat from $3,500. | Calls, email, and messages | Renews monthly, plus one setup charge
-Be Leaded | Programs start from $2,000 a month | Email, LinkedIn and cold calling. Phone detail lives on cold calling services (https://www.beleaded.com/cold-calling-services/). | Monthly program; call minutes billed at cost
+Be Leaded | Programs start from $2,000 a month | Email and LinkedIn. Calling is quoted separately. Phone detail lives on cold calling services (https://www.beleaded.com/cold-calling-services/). | Monthly program; call minutes billed at cost
 Belkins | Starter average begins at $5,000. Plan names: Growth, Growth Plus, For small business and Enterprise. | Cold email plus LinkedIn, both listed for Growth, for Growth Plus, and for the small business plan | Monthly retainer packages
 Abstrakt Marketing Group | Outbound band near $5,000 to near $7,000 per month | Calling, email, LinkedIn, direct mail | Term length absent on the homepage
 Martal Group | Customize your pricing | Email, LinkedIn, and calls | Pilot of 3 months, then a monthly fee. Higher tiers: pilot of 4 months, plus commission
@@ -12540,7 +12540,7 @@ On October 20, 2026 the Leadium guide shows $3,500 per month for calling by itse
 
 Where does Be Leaded fit against Leadium?
 
-Be Leaded books meetings from replies across Email, LinkedIn and cold calling (https://www.beleaded.com/lead-generation-services/). Programs start from $2,000 a month. Phone time is passed through as call minutes billed at cost, covered on the cold calling services page.
+Be Leaded books meetings from replies across Email and LinkedIn (https://www.beleaded.com/lead-generation-services/). Calling is quoted separately. Programs start from $2,000 a month. Phone time is passed through as call minutes billed at cost, covered on the cold calling services page.
 
 Why is Leadium's price in a guide and not on its pricing page?
 
