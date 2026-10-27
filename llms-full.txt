@@ -859,20 +859,6 @@ Cold email leaves from separate domains with SPF, DKIM and DMARC. Your company d
 
 As of September 2026, the infrastructure on our work page (https://www.beleaded.com/work/) has capacity for 400K+ emails a day, a 99% delivery rate, and 30+ client programs.
 
-## What happens on the 30-minute call
-
-This is where the written definition of a qualified meeting gets its first draft.
-
-- Who takes the meetings on your side, and whose calendar the invites should land on.
-
-- The titles, company types, and problem that make a meeting worth your seller's time. We write them down while we talk.
-
-- Which customers, open deals, and past no's we keep off the list from the first send.
-
-- Whether there are enough matching accounts to run a program at all. If there are not, we tell you then.
-
-When it is a fit, the scope and the fee follow after the call. Bring the seller who will take the meetings if you can.
-
 ## Outsourced appointment setting: what you hand over and what you keep
 
 Outsourced appointment setting is a split of jobs. Your sellers still sell. Our team runs the outreach that fills the calendar they already use.
@@ -989,8 +975,6 @@ Client names stay private unless a client agrees otherwise. These are engagement
 - Sending infrastructure scaled to 400K+ emails a day (https://www.beleaded.com/work/#eng-scale), with delivery at 99%. That is the capacity behind the programs, not a meeting tally.
 
 References are available. Ask on the call and we will connect you with a current client. The full set, including newsletter work that is not appointment setting, is on work (https://www.beleaded.com/work/).
-
-You own the list and every reply. If one of these looks like your market, book the call and tell us which one, so we can start from what already worked.
 
 ## Questions about appointment setting
 
