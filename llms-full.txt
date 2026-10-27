@@ -10508,7 +10508,7 @@ On this page
 10. FAQ (https://www.beleaded.com/guides/be-leaded-vs-belkins/#faq)
 
 ## Belkins pricing
-Belkins pricing, checked October 27, 2026, is published as plan names. The pricing page (https://belkins.io/pricing) lists Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). It does not print a dollar amount.
+Belkins pricing, checked October 27, 2026, is published as plan names. The pricing page (https://belkins.io/pricing) lists Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). Ask Belkins for the fee on the plan you want, in writing.
 The Belkins vs Callbox (https://belkins.io/blog/belkins-vs-callbox) post describes a six month agreement. Enterprise terms are custom.
 
 ## What the monthly program costs
@@ -10518,7 +10518,7 @@ Programs start from $2,000 a month. That fee covers sending domains, inboxes, wa
 Belkins facts come from Belkins' own pages, opened October 27, 2026. Be Leaded facts come from this site. Prices change, so confirm both on a call before you sign.
 Be Leaded and Belkins side by side. Belkins sources were opened October 27, 2026.
 |  | Belkins | Be Leaded |
-| Published price | None on its pricing page (https://belkins.io/pricing). | Line items on our pricing (https://www.beleaded.com/pricing/) page. See what the monthly program costs (https://www.beleaded.com/guides/be-leaded-vs-belkins/#fee). |
+| Published price | Plan names only. See its pricing page (https://belkins.io/pricing). | Line items on our pricing (https://www.beleaded.com/pricing/) page. See what the monthly program costs (https://www.beleaded.com/guides/be-leaded-vs-belkins/#fee). |
 | How it is sold | Monthly plans named Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). | One monthly program, scoped to the market, the channels, and the offers. |
 | Contract | Six month agreement, per the Belkins vs Callbox (https://belkins.io/blog/belkins-vs-callbox) post. Enterprise terms are custom. | Length of the engagement is written into the scope before signature. |
 | Channels | Set by plan. See the pricing page (https://belkins.io/pricing). | Email and LinkedIn. Calling is quoted separately. |
@@ -10546,7 +10546,6 @@ A midsize team comparing multichannel outbound can use the two lists below. On t
 ### Pick Belkins if
 - You want meeting projections written into the contract (https://belkins.io/blog/belkins-vs-callbox).
 - Brand size matters to your buying committee.
-- You would rather pay per appointment.
 
 ### Pick Be Leaded if
 - You want to read and approve every sequence before it sends.
@@ -10564,9 +10563,9 @@ A midsize team comparing multichannel outbound can use the two lists below. On t
 
 ## FAQ
 **Is Be Leaded cheaper than Belkins?**
-Programs start from $2,000 a month. The line items are on our pricing (https://www.beleaded.com/pricing/) page. Belkins prints no dollar amounts on its pricing page, so get both quotes in writing and set them side by side. Calling is quoted separately at Be Leaded, and ad spend and any voice minutes are passed through at cost.
+Programs start from $2,000 a month. The line items are on our pricing page. For Belkins, ask for a written quote on one of the plans named above, then set the two quotes side by side. Calling is quoted separately at Be Leaded, and ad spend and any voice minutes are passed through at cost.
 **Does Belkins publish its prices?**
-Not on its pricing page. As of October 27, 2026, belkins.io/pricing (https://belkins.io/pricing) lists Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). Dollar amounts are absent on that page.
+Not on its pricing page. As of October 27, 2026, belkins.io/pricing (https://belkins.io/pricing) lists Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). Ask Belkins for a written quote on the plan you want.
 **What contract does Belkins ask for?**
 Belkins' own Callbox comparison (https://belkins.io/blog/belkins-vs-callbox) describes a six month agreement with a three month checkpoint. Enterprise terms are custom. Be Leaded writes the term into the scope before signature.
 **Which channels does each firm run?**
