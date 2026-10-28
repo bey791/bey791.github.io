@@ -1335,6 +1335,8 @@ Lookalike audiences built from your customer list so Meta finds firms that resem
 
 The full platform list, including Google search and LinkedIn when they fit, lives on our paid media page (https://www.beleaded.com/paid-social-agency/). This page stays on Meta for distributors and wholesalers.
 
+For B2B teams that don't sell through distributors, see Meta Ads for B2B (https://www.beleaded.com/meta-ads-for-b2b/).
+
 ## Most Meta budgets leak after the click.
 
 A dealer form that sits until morning is a lost account. We treat the click and the follow up as one job.
@@ -1438,6 +1440,10 @@ Yes. When you want Meta beside outbound and newsletters in one plan, aimed at bo
 ### Paid media on Meta and Google
 Campaigns on Facebook, Instagram, Google and LinkedIn, with landing pages, lead capture and follow up by email, SMS and voice within minutes.
 See the program (https://www.beleaded.com/paid-social-agency/)
+
+### Meta for B2B teams
+The general B2B Meta track, for offers that are not a dealer line.
+See Meta for B2B teams (https://www.beleaded.com/meta-ads-for-b2b/)
 
 ### Demand generation
 Outbound, ads and newsletters in one plan aimed at booked calls.
