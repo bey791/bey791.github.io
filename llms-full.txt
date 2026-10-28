@@ -852,8 +852,6 @@ Sends, replies, meetings, and what we change next.
 - Anyone who needs a promised meeting count. We do not promise a number of demos.
 - Programs that need phone first. Calling is a separate scope.
 
-Email and LinkedIn. Calling is quoted separately.
-
 ## Questions about done for you cold email
 
 Ask anything else on the call.
