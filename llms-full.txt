@@ -1279,230 +1279,243 @@ URL: https://www.beleaded.com/google-ads-for-b2b/
 
 # Google Ads for B2B lead generation
 
-Be Leaded runs Google Ads for B2B lead generation. Search campaigns on the terms people use when they are ready to buy, with landing pages, lead forms, conversion tracking and follow up by email, text or voice within minutes. The ads bring the lead. The follow up books the meeting.
+Be Leaded builds Google search programs for B2B teams whose buyers already type a buying problem into the search box. We group keywords by intent, keep negatives fresh each week, ship a focused landing URL with consent, wire conversion tracking in the first build week, and start a reply path the same hour a form lands.
 
-Google Ads for B2B lead generation is the paid search track of our paid social and search (https://www.beleaded.com/paid-social-agency/) program. Search campaigns with tight match types and negative keywords maintained weekly, a short form or landing page with consent, and a reply within minutes. Meta covers social reach on Meta Ads for B2B and on the vertical page for Meta Ads for distributors. When search sits next to outbound and newsletters, that is demand generation (https://www.beleaded.com/demand-generation-agency/).
+Google Ads for B2B lead generation is the paid search track inside Meta Ads and Google Ads (https://www.beleaded.com/paid-social-agency/). High intent queries, match types kept tight, negatives reviewed weekly, a short capture form with consent, and a human or voice reply while the request is still warm. Social reach lives on Meta Ads for B2B (https://www.beleaded.com/meta-ads-for-b2b/) and on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/). Search next to outbound and newsletters lives under demand generation (https://www.beleaded.com/demand-generation-agency/).
 
-Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=google-ads-for-b2b)
-
-See what we run
-
+Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=google-ads-for-b2b)
+Browse the build
 Harborfield Software
 Sponsored
-
 Ops software for mid market teams. Request a 20 minute demo from a search for inventory planning tools.
 
 Search ad
-
 Request a demo
 Get the form
-
-- 0:00 Lead form submitted, consent box checked, conversion tracked
-- 0:04 Text: "Hi Jordan, it is Alex at Harborfield. Got your demo request. Tuesday or Thursday?"
-- 0:41 Voice agent calls, confirms role, company size and timing
+- 0:00 Demo request lands, consent visible, conversion event fires
+- 0:04 Text: "Hi Jordan, it is Alex at Harborfield. Got your demo request. Tuesday or Friday?"
+- 0:41 Voice agent dials, confirms title, headcount and preferred slot
 - 1:12 Demo booked with your AE, Thu 10:00 AM
+Sample search ad path. Names and brand are fictional.
 
-Example search ad and follow up chain. Brand and names are illustrative.
+## When paid search belongs in B2B
 
-## When Google Ads fits B2B
+Search shines once buyers are already looking. Meta and outbound fit when demand still needs to be created.
 
-Search works when people are already looking. Meta and outbound fit when you still need to create the demand.
+### Search is a strong match when
 
-### Search works well when
-
-- Buyers type the problem or the category into Google when they are ready to buy
-- Your offer can be explained in one screen on a landing page
-- Your team can take a call or a booking within the hour
-- You want B2B and local style offers that people already search for, the same cases named on our paid social and search page
+- Buyers type the problem or category into Google once they are ready to buy
+- Your offer fits one clear screen on a landing URL
+- Your group can pick up or lock a booking inside sixty minutes
+- You sell B2B or local style offers people already look up, the same cases named on ads on Meta, Google, and LinkedIn (https://www.beleaded.com/paid-social-agency/)
 
 ### Meta or outbound fit better when
 
-- Nobody is searching yet and you need reach first. That is Meta Ads for B2B or the distributor vertical on Meta Ads for distributors
+- Nobody is searching yet and you need reach first. That is Meta Ads for B2B (https://www.beleaded.com/meta-ads-for-b2b/) or the distributor vertical on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/)
 - You need a verified list and a first email before anyone raises a hand. That is B2B lead generation (https://www.beleaded.com/lead-generation-services/)
-- Job titles and named companies matter more than search terms. That is LinkedIn ads on paid social and search (https://www.beleaded.com/paid-social-agency/) and LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/)
+- Titles and company lists matter more than search queries. That is LinkedIn ads on ads on Meta, Google, and LinkedIn (https://www.beleaded.com/paid-social-agency/) and LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/). For LinkedIn Ads vs Meta Ads for B2B, see the comparison page
 - You want search, outbound and newsletters aimed at the same accounts. That is demand generation (https://www.beleaded.com/demand-generation-agency/)
 
 ## What we run on Google
 
-Search campaigns using the Google capabilities already on our paid social and search page, plus the landing page, tracking and follow up stack.
+Search builds that reuse the Google capabilities listed on our paid media for B2B teams (https://www.beleaded.com/paid-social-agency/) page, plus the landing URL, tracking and reply stack.
 
 ### Campaign structure
 
-Search campaigns grouped around the offers people search for, with ad groups that keep one intent per group so the ad and the landing page stay matched.
+Search campaigns grouped around the offers people look up, with ad groups that keep one intent per group so the creative and the landing URL stay matched.
 
 ### Keyword intent
 
-We bid on the terms people use when they are ready to buy. Research and comparison terms stay out of the core lead gen groups so spend stays on commercial intent.
+We bid on commercial queries buyers type when they are ready to buy. Research and comparison terms stay out of the core capture groups so spend stays on commercial intent.
 
-### Tight match types
+### Match type discipline
 
-Tight match types on the terms that earn meetings, reviewed against the search terms report so new queries get added or blocked fast.
+Tight match on the queries that earn conversations, reviewed against the search terms report so new queries get added or blocked fast.
 
-### Negative keywords weekly
+### Negatives each week
 
-Negative keywords maintained weekly so job seekers, free seekers and consumer queries do not burn the budget meant for B2B buyers.
+Negatives refreshed weekly so job seekers, free seekers and consumer queries do not burn the budget meant for B2B buyers.
 
-### Landing pages and forms
+### Landing URLs and forms
 
-Fast pages built for one offer, with consent in plain view and the role, company size and interest questions your sales team needs. Instant forms are not the Google path; the page and the form are.
+Fast pages for one offer, consent in plain view, and the role, company size and interest questions your sales team needs. Instant forms are not the Google path; the page and the form are.
 
-### Conversion tracking
+### Conversion wiring
 
-Tracking ships with the landing page and forms in week one. We track the form submit and the booked appointment so reporting can move from cost per lead to cost per booked appointment and per customer.
+Tracking ships with the landing URL and forms in week one. We tag the form submit and the booked conversation so reporting can move from cost per submit to cost per booked conversation and per customer.
 
 ### CRM handoff
 
-Leads route into your CRM or inbox with the form answers attached, so your team or our follow up can act while the request is still warm.
+Names route into your CRM or inbox with the form answers attached, so your team or our reply path can move while interest is still fresh.
 
-### Follow up in minutes
+### Same hour reply
 
-Every lead gets a text within minutes, a call from a voice agent or your team, and an email sequence if they go quiet. See AI voice follow up (https://www.beleaded.com/ai-voice-agents/) for how the call back works.
+Each new name gets a text quickly, a dial from a voice agent or your rep, and a short email path when someone goes quiet. Open AI voice follow up (https://www.beleaded.com/ai-voice-agents/) for how the return dial works. The full platform list, including Meta and LinkedIn when they fit, sits on paid social (https://www.beleaded.com/paid-social-agency/). This URL stays on Google search for general B2B lead capture.
 
-The full platform list, including Meta and LinkedIn when they fit, lives on paid social and search (https://www.beleaded.com/paid-social-agency/). This page stays on Google search for general B2B lead generation.
+## Where B2B search spend usually wastes
 
-## Most search budgets leak after the click.
+A ready to buy click that sits unanswered until morning rarely becomes a meeting. Keyword work and the reply path ship as one build.
 
-A high intent click that sits in a form until morning is a lost meeting. We treat the click and the follow up as one job.
+Stage
+Common failure
+Our build
+Keywords
+One broad pile, ignored until cost climbs and nobody reads the search terms report.
+Intent groups, tight match types, negatives reviewed every week, creative matched to each group.
+Capture
+A generic page with no consent line and no filter questions, so SMS and voice are blocked and sales cannot sort.
+One offer URL, consent in plain view, role and company size questions your reps already use.
+Reply
+Names pile in a sheet until someone has time. By then the buyer booked elsewhere.
+SMS and email fire quickly, a voice agent or your rep can call, quiet names enter a short sequence.
 
-### The keywords
+## What ships in the search build
 
-What usually happens
+Keywords, pages, forms, tracking and replies stay with one team so nothing drops between tabs.
 
-One broad list, left alone until cost per lead doubles and nobody reads the search terms.
+### Search campaign ops
 
-What we do
+Query themes buyers already type when they are ready to buy, match types kept tight, negatives refreshed each week.
 
-Tight match types, negative keywords maintained weekly, and groups split by intent so creative and pages stay matched.
+### Landing URLs and forms
 
-### The form
+Fast pages for one offer, consent language, and filter questions that unlock text and voice replies.
 
-What usually happens
+### Conversion wiring
 
-A generic page with no consent language and no qualifying questions, so the leads cannot be texted or called and sales cannot filter them.
+Form submits and booked conversations tagged from week one so weekly notes can show cost per submit and per booked conversation.
 
-What we do
+### Same hour reply path
 
-A short form or landing page with consent in plain view and the role, company size and interest questions your team already uses.
+SMS, email and AI voice tied to each new name, plus a short sequence when someone goes quiet.
 
-### The follow up
+### Meetings on the scoreboard
 
-What usually happens
+Cost per submit is only the start. We also show cost per booked conversation and per customer.
 
-Leads sit in a spreadsheet until someone has time. By then they have booked with someone else.
+### Path into demand gen
 
-What we do
+When search should sit beside outbound and newsletters, move up to demand generation (https://www.beleaded.com/demand-generation-agency/). List and email led programs also live on B2B lead generation (https://www.beleaded.com/lead-generation-services/).
 
-A text within minutes, a call from a voice agent or your team, and an email sequence for anyone who goes quiet. Leads land in your CRM or inbox first.
+## Build timeline
 
-## What you get
+Kickoff to live search traffic is about two weeks.
 
-Ads, pages, forms, tracking and follow up from one team, so nothing falls between them.
+Day 1
 
-### Google search campaign management
+### Scope call
 
-Search campaigns on the terms people use when they are ready to buy, with tight match types and negative keywords maintained weekly.
+Your offer, the queries buyers already make, budget, who owns new names, and which form fields qualify a conversation.
 
-### Landing pages and forms
+Week 1
 
-Fast pages built for one offer, with consent language and qualifying questions that let you follow up by text and voice.
+### Assemble
 
-### Conversion tracking
+Landing URL, forms, tracking, keyword groups, opening ads and the reply paths.
 
-Form submits and booked appointments tracked from week one, so weekly reporting can show cost per lead and cost per booked appointment.
+Week 2
 
-### Follow up in minutes
+### Go live
 
-SMS, email and AI voice follow up wired to every lead, plus a sequence for leads that go quiet.
+Campaigns turn on with several angles. Reply starts with the first submit.
 
-### Reporting on meetings
+Weekly
 
-Cost per lead is the start. We report cost per booked appointment and per customer, because those are the numbers that matter.
+### Tune
 
-### A path into demand gen
+Cost per submit and per booked conversation, search terms paused or added, negatives refreshed, next tests named.
 
-When you want search beside outbound and newsletters in one plan, move up to demand generation (https://www.beleaded.com/demand-generation-agency/). For Meta as the social track, see Meta Ads for B2B.
+## Who this search track suits
 
-## How it works
+### Good match
 
-From the first call to live campaigns in about two weeks.
+- B2B sellers whose offer fits one clear screen
+- Local and regional service firms where people already search for the job
+- Groups able to pick up or lock a booking inside sixty minutes
+- Plans that want Google as the search track next to Meta or outbound
 
-- Day 1 Strategy call. Your offer, the searches buyers already make, your budget, who takes the leads, and which form questions qualify a meeting.
-- Week 1 Build. Landing page, forms, tracking, keyword groups, first ads and the follow up sequences.
-- Week 2 Launch. Campaigns go live with several angles. Follow up starts with the first lead.
-- Every week Report and test. Cost per lead and per appointment, search terms paused or added, negatives refreshed, what we are testing next.
+### Poor match
 
-## Is it a fit?
+- Offers that need days of teaching before a buyer would raise a hand
+- Teams that want volume but have no one free to answer
+- Plans that must open on Meta or a professional network first. Open paid media for B2B teams (https://www.beleaded.com/paid-social-agency/) and we will choose the channel together
 
-### Works well for
+## Capacity already in production
 
-- B2B companies with an offer that can be explained in one screen
-- Local and regional service businesses where people already search for the job
-- Teams that can take a call or a booking within the hour
-- Programs that want Google as the paid search track next to Meta or outbound
+400K+
+Emails a day of sending capacity
+99%
+Delivery rate across programs
+30+
+Client programs
 
-### Not a fit for
-
-- Offers that need a long education before anyone would enquire
-- Anyone who wants leads but has nobody to follow up with them
-- Programs that need Meta or LinkedIn first. Start on paid social and search (https://www.beleaded.com/paid-social-agency/) and we will pick the platform on the call
-
-## Capacity behind the program
-
-- 400K+ Emails a day of sending capacity
-- 99% Delivery rate across programs
-- 30+ Client programs
-
-## Questions about Google Ads for B2B
+## Google search FAQs
 
 **What are Google Ads for B2B lead generation?**
 
-Google Ads for B2B lead generation are search campaigns aimed at people who already type a buying problem into Google. Be Leaded runs those campaigns with tight match types and negative keywords maintained weekly, builds the landing page and form, sets conversion tracking, and follows up with every lead by email, text or voice within minutes.
+Paid search aimed at people who already type a buying problem into Google. Be Leaded groups those queries by intent, keeps match tight and waste cut weekly, ships the landing URL and form, wires conversion tagging, and starts a reply by email, text or voice while the request is still warm.
 
-**How is this different from paid social and search?**
+**How is this different from the paid media hub?**
 
-Paid social and search (https://www.beleaded.com/paid-social-agency/) is the hub for Meta, Google and LinkedIn. This page stays on Google search for general B2B lead generation. The hub is where we pick the platform when Meta or LinkedIn should lead.
+The hub is where Meta, Google and a professional network sit together. This page is only Google search for general B2B lead capture.
 
-**How is this different from Meta Ads for B2B?**
+**How does this compare with the Meta B2B track?**
 
-Meta Ads for B2B is Facebook and Instagram for offers that fit one screen, with lookalikes and retargeting. Google is for people who are already searching. Many teams run both. Distribution firms can use the Meta vertical on Meta Ads for distributors.
+The Meta B2B track is Facebook and Instagram for offers that fit one screen, with lookalike seeds and site visitor pools. Google catches people who are already searching. Many teams run both.
 
-**Do you build the landing page and the form?**
+**Do you handle conversion tracking?**
 
-Yes. We build a short form or landing page with consent captured in plain view, so email, SMS and voice follow up are all allowed. Qualifying questions on the form match the checklist style we use for qualified meetings on outbound.
+Yes. Form submits and booked conversations get tagged in the first build week so weekly notes can show cost per submit and per booked conversation.
 
-**How does conversion tracking work?**
+**How do you keep lead quality usable for sales?**
 
-Tracking is part of week one build, next to the landing page and forms. We track form submits and booked appointments so weekly reporting can show cost per lead and cost per booked appointment, not only clicks.
+Role, company size and interest questions on the form, consent visible, and a reply path the same hour. We do not chase names with no reply plan.
 
-**How does the CRM handoff work?**
+**How soon is a program live?**
 
-Leads route into your CRM or inbox with the form answers attached. Your team, or our follow up stack, acts while the request is still warm. AI voice agents connect to your forms, calendar and CRM the same way they do on our AI voice page.
+Kickoff to live search traffic usually takes roughly fourteen days. The first week ships the page, forms, tracking, keyword groups, opening ads and reply paths. The second week turns spend on.
 
-**How soon do campaigns go live?**
+**How soon do submits arrive?**
 
-From the first call to live campaigns in about two weeks. Week one is the landing page, forms, tracking, keyword groups, first ads and the follow up sequences. Week two is launch.
-
-**How soon will we see leads?**
-
-Leads usually arrive within days of launch. Cost per lead settles over the first few weeks as the platform learns and we cut what does not work.
+Submits often start within days of launch. Cost per submit settles across the first few weeks as we cut waste and the system learns.
 
 ## Related
 
-Paid social and search (https://www.beleaded.com/paid-social-agency/)
+Related
 
-Meta, Google and LinkedIn ads with landing pages and follow up built in.
+### Meta Ads and Google Ads
+
+Meta, Google and LinkedIn ads with landing URLs, tracking and reply paths in one program.
 
 See paid social (https://www.beleaded.com/paid-social-agency/)
+Related
+
+### Meta Ads for B2B
+
+Facebook and Instagram for B2B offers that fit one screen, with CRM seeds and site visitor pools.
+
+See Meta for B2B (https://www.beleaded.com/meta-ads-for-b2b/)
+Related
+
+### Meta Ads for distributors
+
+Vertical Meta track for wholesale and distribution teams that need dealer and reseller interest.
+
+See Meta for distributors (https://www.beleaded.com/meta-ads-for-distributors/)
+Related
+
+### Demand generation
+
+Search beside outbound and newsletters aimed at the same accounts.
+
+See demand gen (https://www.beleaded.com/demand-generation-agency/)
 
 ## Tell us which searches you want to own.
 
-Thirty minutes with the founder. You will leave with a clear picture of how Google would run for your offer, what a campaign would look like, and whether this track fits your team.
+Thirty minutes with the founder. You leave clear on which queries to own, how the form should filter, and whether Google search belongs in your mix.
 
 Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=google-ads-for-b2b)
-
-Or email sales@beleaded.com
-
-Copy
+Or email sales@beleaded.com Copy
 
 ---
 
