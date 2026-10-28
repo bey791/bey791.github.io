@@ -1281,9 +1281,9 @@ URL: https://www.beleaded.com/google-ads-for-business-brokers/
 
 Be Leaded runs Google Ads for business brokers and M&A advisors who want inbound sellers. Search campaigns on seller intent phrases such as sell my business and business valuation, with a confidentiality minded valuation request form, screening, and follow up that books meetings for your firm. The ads bring the owner. The follow up books the valuation call.
 
-Google Ads for business brokers is the broker scoped paid search track under Google Ads for B2B lead generation (https://www.beleaded.com/google-ads-for-b2b/). Owners already looking for a valuation or a path to sell see your ad, land on a discreet form, and get a reply within minutes. It sits next to outbound owner outreach for brokers (https://www.beleaded.com/m-and-a-deal-flow/) for sellers you reach first, and next to buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) for listings you already have. The industry overview is on lead generation for business brokers and M&A (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
+Google Ads for business brokers is the broker scoped paid search track under Google Ads for B2B (https://www.beleaded.com/google-ads-for-b2b/). Owners already looking for a valuation or a path to sell see your ad, land on a discreet form, and get a reply within minutes. It sits next to outbound owner outreach for brokers (https://www.beleaded.com/m-and-a-deal-flow/) for sellers you reach first, and next to buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) for listings you already have. The industry overview is on lead generation for business brokers and M&A (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 
-Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=google-ads-for-business-brokers)
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=google-ads-for-business-brokers)
 
 See seller search (https://www.beleaded.com/google-ads-for-business-brokers/#what-we-run)
 
@@ -1349,7 +1349,7 @@ A short page for one offer: a confidential valuation request. No public listing 
 
 ### Event tagging for the desk
 
-Submit and booked desk call events ship in week one so the weekly readout can list cost per submit and cost per booked desk call.
+Submit and booked desk call events ship in the opening build week so the weekly readout can list cost per submit and cost per booked desk call.
 
 ### Handoff into your system
 
@@ -1377,7 +1377,7 @@ Buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) finds strategi
 
 ### Industry overview
 
-The full broker and advisor program picture, including valuation conversations booked from outreach, lives on lead generation for business brokers and M&A (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
+The full broker and advisor picture, including valuation talks booked from outreach, is on the M&A advisors and brokers industry page (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 
 ## Where broker search spend usually wastes
 
@@ -1421,7 +1421,7 @@ One seller offer URL, consent language, and size filters that keep tire kickers 
 
 ### Desk event tagging
 
-Submits and booked desk conversations tagged from week one for cost per submit and per booked desk call.
+Submits and booked desk conversations tagged from week one so the desk can track cost per submit and cost per booked valuation call.
 
 ### Desk reply path
 
@@ -1433,7 +1433,7 @@ We report cost per submit, cost per booked desk call and per engaged seller.
 
 ### Path into deal sourcing
 
-When Google should sit beside outbound to owners, move over to deal flow for brokers (https://www.beleaded.com/m-and-a-deal-flow/).
+When Google should sit beside outbound to owners, move over to finding owners who want to sell (https://www.beleaded.com/m-and-a-deal-flow/).
 
 ## Broker launch cadence
 
@@ -1442,13 +1442,13 @@ From the first desk call to live seller traffic is usually about fourteen days.
 - Day 1 Desk scope Your practice, the seller phrases that already convert, spend level, who receives new names, and which form fields earn a desk call.
 - Week 1 Build Valuation URL, forms, tagging, seller keyword groups, opening ads and the desk reply paths.
 - Week 2 Launch Campaigns turn on with several seller angles. Desk reply starts with the first submit.
-- Weekly Refine Cost per submit and per booked desk call, seller terms paused or added, waste blocks refreshed, next tests named.
+- Weekly Refine Desk metrics cover cost per submit and cost per booked valuation call, seller terms paused or added, waste blocks refreshed, next tests named.
 
 ## Who this broker search track suits
 
 ### Strong fit
 
-- Business brokers and M&A advisors who want inbound seller enquiries
+- Brokerage desks and M&A advisory teams that need inbound seller enquiries
 - Desks that can answer or book inside an hour
 - Firms whose valuation offer fits one clear screen
 - Plans that want Google as the seller search track next to outbound deal sourcing
@@ -1483,7 +1483,7 @@ The general B2B search page covers software and service offers. This page is for
 
 **Do you handle conversion tracking?**
 
-Yes. Submits and booked desk conversations get tagged during build week one so the weekly readout can list cost per submit and per booked desk call.
+Yes. Submits and booked desk conversations get tagged in the opening build week so the weekly readout can list cost per submit and per booked valuation call.
 
 **How do you keep seller quality usable for the desk?**
 
@@ -1527,9 +1527,11 @@ See buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/)
 
 A short founder call. You leave with a seller query shortlist, a form filter sketch, and a clear yes or no on whether seller search on Google is worth a trial for your desk.
 
-Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=google-ads-for-business-brokers)
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=google-ads-for-business-brokers)
 
 Or email sales@beleaded.com
+
+Brokers using Google Ads? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=google-ads-for-business-brokers)
 
 ---
 
