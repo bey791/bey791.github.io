@@ -13019,7 +13019,7 @@ We read what each company publishes on its own site about billing unit, channels
 Eight SalesRoads alternatives
 SalesHive
 Best if you want US based or offshore SDRs for calling and email, on a custom quote.
-Opened October 28, 2026, the SalesHive pricing page (https://saleshive.com/pricing/) names Starter (https://saleshive.com/pricing/), Growth (https://saleshive.com/pricing/), and Crush (https://saleshive.com/pricing/). All three are custom quoted. You can choose US based SDRs or offshore SDRs. Starter is calling only. Growth and Crush pair calling with email. The page states there are no setup fees. After outreach is underway, a month to month plan ends only with written notice.
+Opened October 28, 2026, the SalesHive pricing page (https://saleshive.com/pricing/) names Starter (https://saleshive.com/pricing/), Growth (https://saleshive.com/pricing/), and Crush (https://saleshive.com/pricing/). Each plan is custom quoted. You can choose US based SDRs or offshore SDRs. Starter (https://saleshive.com/pricing/) is calling only. Growth (https://saleshive.com/pricing/) and Crush (https://saleshive.com/pricing/) pair calling with email. The page states there are no setup fees. After outreach is underway, a month to month plan ends only with written notice.
 Leadium
 Best if you want phone, email, and LinkedIn on month to month contracts.
 Every Leadium contract is month to month, according to the pricing page (https://www.leadium.com/pricing) opened October 28, 2026. Its outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services) describes a calling only option and a multichannel option across phone, email, and LinkedIn. For a wider read, see Leadium pricing and alternatives (https://www.beleaded.com/guides/leadium-alternatives/).
@@ -13039,7 +13039,7 @@ Best if you want a phone led rep with in house management, for tech sellers.
 Opened October 28, 2026, the memoryBlue SDR as a service page (https://memoryblue.com/sdr-as-a-service/) describes dedicated SDRs who work phone, email, and LinkedIn. The page aims that offer at B2B technology companies. It does not publish a price.
 Martal Group
 Best if you want an onshore sales team that starts with a pilot.
-Opened October 28, 2026, the Martal Group pricing page (https://martal.ca/pricing/) labels the team onshore. Tier 1 outbound starts with a three month pilot. Tier 2 and Tier 3 start with a four month pilot. The page does not print a dollar figure. See Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/).
+Opened October 28, 2026, the Martal Group pricing page (https://martal.ca/pricing/) labels the team onshore. Tier 1 (https://martal.ca/pricing/) outbound starts with a three month pilot. Tier 2 (https://martal.ca/pricing/) and Tier 3 (https://martal.ca/pricing/) start with a four month pilot. The page does not print a dollar figure. See Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/).
 Belkins
 Best if you want named appointment setting plans.
 Opened October 28, 2026, the Belkins pricing page (https://belkins.io/pricing) lists monthly retainer plans. You will see Growth (https://belkins.io/pricing) on that screen, along with Growth Plus (https://belkins.io/pricing). For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing) are listed there too. Growth (https://belkins.io/pricing) includes cold email plus LinkedIn. Growth Plus (https://belkins.io/pricing) includes that pair too. For small business (https://belkins.io/pricing) includes the same pair. See Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/) and Be Leaded vs Belkins (https://www.beleaded.com/guides/be-leaded-vs-belkins/).
@@ -13055,7 +13055,7 @@ Leadium | Month to month quote | Phone, email, and LinkedIn | Month to month | Y
 CIENCE | Campaign team (https://www.cience.com/pricing/), graph8 (https://www.cience.com/pricing/) platform, and seats by region | Calls, email, and messages | Month to month | Yes (https://www.cience.com/pricing/)
 Be Leaded | Monthly program | Email and LinkedIn. Calling is quoted separately. | See pricing page (https://www.beleaded.com/pricing/) | Yes. Programs start from $2,000 a month. (https://www.beleaded.com/pricing/)
 memoryBlue | Not published | Phone, email, and LinkedIn | Not stated on the page | No (https://memoryblue.com/sdr-as-a-service/)
-Martal Group | Pilot, then a monthly subscription | Email, LinkedIn, and calls | Three month pilot on Tier 1 outbound. Four month pilot on Tier 2 and Tier 3. | No (https://martal.ca/pricing/)
+Martal Group | Pilot, then a monthly subscription | Email, LinkedIn, and calls | Three month pilot on Tier 1 (https://martal.ca/pricing/) outbound. Four month pilot on Tier 2 (https://martal.ca/pricing/) and Tier 3 (https://martal.ca/pricing/). | No (https://martal.ca/pricing/)
 Belkins | Monthly retainer | Cold email and LinkedIn | Monthly retainer plans | Yes (https://belkins.io/pricing)
 Callbox | Per campaign pod | Phone, email, LinkedIn, and web retargeting | No commitment required | Yes (https://www.callboxinc.com/lead-generation-pricing/)
 Holding a SalesRoads quote? On a 30 minute call we can map the email and LinkedIn program we would run for that same market.
@@ -13089,7 +13089,7 @@ Questions
 How much does SalesRoads cost?
 SalesRoads publishes its prices on its own pricing page (https://salesroads.com/pricing/), billed per four week engagement and set by how many SDRs are on the team. The price per rep falls as the team grows. Open salesroads.com/pricing (https://salesroads.com/pricing/) for the current figures.
 Is SalesRoads month to month?
-SalesRoads says there is no long term commitment and that you can cancel at any time. It also recommends running its full 12 week go to market lab before you judge results.
+SalesRoads states you can cancel at any time and lists no long term commitment. It also recommends running its full 12 week go to market lab before you judge results.
 How long does SalesRoads take to launch?
 SalesRoads says the team is live 15 business days after kickoff, and calling begins on the 16th business day.
 Does SalesRoads do LinkedIn outreach?
