@@ -1,39 +1,53 @@
-# Brief: Google Ads for business brokers (new commercial page)
+# Brief: Google Ads for business brokers (Ryan standard)
 
 Owner: Grayson (SEO). Build: Noah. Copy and head approval: Ethan. Gate and merge: Ryan.
-Written: October 28, 2026 PKT.
-Parent: `/google-ads-for-b2b/` (seo-pages). Hub: `/paid-social-agency/` (locked). Vertical siblings: `/m-and-a-deal-flow/`, `/m-and-a-buyer-outreach/`, `/industries/m-and-a-advisors-business-brokers/`.
+Written: October 28, 2026 (Asia/Karachi). Updated same day after shingle pass.
 
-## 0. Rules
+## Primary query
+`Google Ads for business brokers`
 
-Nolan copy rules: no dashes in visible prose; no guarantees; no client names; no phones; no competitor dollars; nothing about Israel. Title ≤60. Meta ≤160. Stats only 400K+ / 99% / 30+. No prices on page; chrome span `What a monthly program includes`. Companion: "Email and LinkedIn. Calling is quoted separately." Site claims only. No invented volumes, results, or ad costs. Example search phrases "sell my business" and "business valuation" are intent examples only, not volume claims. Locked: `/paid-social-agency/`, `/appointment-setting/`, `/cold-email-agency/`, `/guides/best-meeting-booking-company/`. Industry and deal-flow inbound: link only, no title or meta change.
+## Search volume
+no volume data
 
-## 1. The page
+Source check: GSC export `/workspace/beleaded-organic/export-oct17/Queries.csv` has no matching query. No Bing Webmaster volume used. Do not invent a number.
 
+## Top 5 SERP competitors (organic, commercial intent)
+| # | URL | Note |
+|---|-----|------|
+| 1 | https://teamcatalyst.biz/business-brokers | Google Ads management for business brokers |
+| 2 | https://extralargemarketing.com/industries/business-broker | Google Ads for business brokers, seller vs buyer split |
+| 3 | https://searchpod.com/business-broker-marketing | Business broker marketing agency, discreet campaigns |
+| 4 | https://dealmemo.com/10-lead-generation-tips-for-business-brokers/ | Lead gen tips including Google Ads for brokers |
+| 5 | https://buisnesgrow.com/business-broker-cost-per-lead-google-ads/ | Broker CPL and Google Ads tips |
+
+## Buyer questions
+1. What are Google Ads for business brokers?
+2. How is this different from general Google Ads for B2B?
+3. How do you keep seller quality usable for the desk?
+4. Do you handle conversion tracking for desk calls?
+5. How soon is a program live, and when do seller submits arrive?
+6. How does this sit next to outbound deal flow?
+
+## Search intent
+Commercial investigation, vertical. Broker or M&A advisor wants inbound seller enquiries from sell my business / valuation search, with confidential forms and fast desk reply, not buyer listing spam.
+
+## Page
 - URL: `https://www.beleaded.com/google-ads-for-business-brokers/`
 - Title (43): `Google Ads for Business Brokers | Be Leaded`
 - Meta (152): `Google Ads for business brokers: seller intent search on sell my business and valuation terms, confidential forms and follow up in minutes. Book a call.`
 - H1: `Google Ads for business brokers`
-- Primary: `Google Ads for business brokers`
 - Secondaries: `Google Ads for M&A advisors`, `seller intent Google Ads`, `business valuation ads`
-- utm_content=`google-ads-for-business-brokers`
+- Booking CTA: Calendly 30 min, `utm_source=beleaded&utm_medium=site&utm_content=google-ads-for-business-brokers`
+- data-hero-cta on hero Book link; data-end-cta on end cta-band
 
-## 1A. Differentiation
+## Body anchors (Ethan)
+Paid social hub: A2, A3, A6. Deal flow: B1, B2, B3 from `/workspace/beleaded-design/anchor-set.md`.
 
-Broker and M&A advisor vertical of Google Ads for B2B. Inbound sellers searching sell my business / business valuation → valuation request form → screening → meetings for the broker. Sits next to outbound deal flow and buyer outreach.
+## Chrome
+Header/footer match live `/paid-social-agency/`. Nav span: `What $2,000 a month includes`. Companion after fit: `Email and LinkedIn. Calling is quoted separately.`
 
-Required body links: `/google-ads-for-b2b/`, `/m-and-a-deal-flow/`, `/m-and-a-buyer-outreach/`, `/industries/m-and-a-advisors-business-brokers/`.
+## Shingle target
+Zero shared 8+ word runs vs hub, distributors, meta-ads-for-b2b, google-ads-for-b2b, linkedin-ads-vs-meta-ads, except allowed CTA close and 400K stat line.
 
-## 2. Claims sources
-
-- `/paid-social-agency/`: Google search ads; ready to buy terms; tight match types; negatives weekly; LPs; follow up within minutes; week one tracking; two weeks live; leads within days; cost per appointment reporting.
-- `/google-ads-for-b2b/`: parent paid search framing.
-- `/m-and-a-deal-flow/` and industry page: confidential seller conversations; valuation meetings; firm name posture; screening.
-- `/m-and-a-buyer-outreach/`: buy side separate track.
-- `/ai-voice-agents/` and lead gen checklist: form fields, CRM, voice follow up.
-
-## 3. Deliverables
-
-`index.html`, this brief, `patches/`. Not committed.
-Inbound applied on staged: google-ads-for-b2b Related; m-and-a-buyer-outreach Related; meta-ads-for-b2b already links parent Google page.
-Inbound as patch only (live, link only): industries/m-and-a-advisors-business-brokers Related; m-and-a-deal-flow Related.
+## Rules
+Nolan: no dashes in visible body prose; no guarantees; no client names; no phones; no competitor dollars; nothing about Israel. Example phrases sell my business / business valuation are intent examples only, not volume claims. FAQ HTML identical to FAQPage JSON-LD.

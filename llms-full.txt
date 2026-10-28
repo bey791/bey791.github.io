@@ -1281,18 +1281,17 @@ URL: https://www.beleaded.com/google-ads-for-business-brokers/
 
 Be Leaded runs Google Ads for business brokers and M&A advisors who want inbound sellers. Search campaigns on seller intent phrases such as sell my business and business valuation, with a confidentiality minded valuation request form, screening, and follow up that books meetings for your firm. The ads bring the owner. The follow up books the valuation call.
 
-Google Ads for business brokers is the broker scoped paid search track under Google Ads for B2B lead generation (https://www.beleaded.com/google-ads-for-b2b/). Owners already looking for a valuation or a path to sell see your ad, land on a discreet form, and get a reply within minutes. It sits next to outbound off market deal flow (https://www.beleaded.com/m-and-a-deal-flow/) for sellers you reach first, and next to buyer outreach for listings you already have. The industry overview is on lead generation for business brokers and M&A (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
+Google Ads for business brokers is the broker scoped paid search track under Google Ads for B2B lead generation (https://www.beleaded.com/google-ads-for-b2b/). Owners already looking for a valuation or a path to sell see your ad, land on a discreet form, and get a reply within minutes. It sits next to outbound owner outreach for brokers (https://www.beleaded.com/m-and-a-deal-flow/) for sellers you reach first, and next to buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) for listings you already have. The industry overview is on lead generation for business brokers and M&A (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 
-Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=google-ads-for-business-brokers)
+Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=google-ads-for-business-brokers)
 
-See what we run (https://www.beleaded.com/google-ads-for-business-brokers/#what-we-run)
+See seller search (https://www.beleaded.com/google-ads-for-business-brokers/#what-we-run)
 
 Northbridge Advisors
 
 Sponsored
 
 Thinking of a sale or a valuation? Request a confidential conversation with a broker who serves your region.
-
 Valuation request
 
 Request a valuation
@@ -1300,11 +1299,11 @@ Request a valuation
 Get the form
 
 - 0:00 Valuation form submitted, consent box checked, conversion tracked
-- 0:04 Text: "Hi Morgan, it is Alex at Northbridge. Got your valuation request. Tuesday or Wednesday?"
-- 0:41 Voice agent calls, confirms industry, region and timing
+- 0:04 Text: "Hi Morgan, it is Alex at Northbridge. Got your valuation request. Monday or Friday?"
+- 0:38 Voice agent calls, confirms industry, region and timing
 - 1:12 Valuation meeting booked with your advisor, Wed 9:00 AM
 
-Example search ad and follow up chain. Brand and names are illustrative.
+Sample seller enquiry path. Names and brand are fictional.
 
 ## Built for brokers who want inbound sellers
 
@@ -1330,33 +1329,39 @@ Meetings land on your calendar with region, industry and timing answers attached
 
 ## What we run for brokers
 
-Seller intent search using the Google setup on our B2B Google Ads page, scoped to valuation and sell side demand.
+Seller search scoped to valuation and sell side demand, using the Google toolkit listed on our paid media page (https://www.beleaded.com/paid-social-agency/), plus a discreet valuation form and desk reply stack.
 
-### Seller intent keywords
+### Sell side query map
 
-Search campaigns on seller intent phrases such as sell my business and business valuation, plus close variants owners use when they are ready to talk. Tight match types and negative keywords maintained weekly so buyer only and job seeker queries stay out.
+Themes such as sell my business, business valuation and find a broker, split so each ad group carries one seller motive and the landing URL matches that motive.
 
-### Geographic focus
+### Waste guards
 
-Campaigns aimed at the regions and metros your firm actually serves. Region is part of the form checklist, so advisors see where the owner sits before the meeting.
+Match kept narrow on the seller phrases that earn desk calls. Franchise, job seeker and tire kicker terms are blocked on a weekly review of the search terms report.
 
-### Confidentiality minded landing pages
+### Region focus
 
-A short page built for one offer: a confidential valuation request. No public listing details. Consent in plain view so email, SMS and voice follow up are allowed. The conversation stays discreet, the same way our outbound seller work opens confidential conversations in your firm name.
+Spend aimed at the metros your firm actually covers. Region is a form field so advisors see where the owner sits before the meeting.
 
-### Screening on the form
+### Discreet valuation page
 
-The valuation form asks the questions your team needs before a meeting: industry, company size or revenue band, region, and timing or stated interest. That matches the checklist style we use for qualified meetings on outbound.
+A short page for one offer: a confidential valuation request. No public listing details. Consent visible so SMS and voice are allowed.
 
-### Fast follow up and booked meetings
+### Event tagging for the desk
 
-Every lead gets a text within minutes, a call from a voice agent or your team, and an email sequence if they go quiet. The goal is a valuation meeting on your calendar, reported as a booked appointment.
+Submit and booked desk call events ship in week one so the weekly readout can list cost per submit and cost per booked desk call.
 
-### Conversion tracking and CRM handoff
+### Handoff into your system
 
-Tracking ships with the page and form in week one. Form submits and booked valuation meetings are tracked. Leads route into your CRM or inbox with the answers attached.
+Seller names land in your CRM or inbox with answers attached so the desk can act while the owner is still warm.
 
-The general B2B paid search page is Google Ads for B2B lead generation (https://www.beleaded.com/google-ads-for-b2b/). The multi platform hub is paid social and search (https://www.beleaded.com/paid-social-agency/).
+### Desk reply inside the hour
+
+Text, email and AI voice fire on each new seller name. Quiet owners enter a short sequence. See AI voice follow up (https://www.beleaded.com/ai-voice-agents/) for the callback flow.
+
+### Where this sits
+
+Choosing across Meta, Google and LinkedIn happens on our paid ads service (https://www.beleaded.com/paid-social-agency/). Here we stay on Google search for broker seller capture. Outbound to owners sits on deal flow for brokers (https://www.beleaded.com/m-and-a-deal-flow/).
 
 ## How it sits next to outbound
 
@@ -1364,156 +1369,167 @@ Paid search catches owners who already searched. Outbound reaches owners who hav
 
 ### Seller deal flow
 
-Off market deal flow (https://www.beleaded.com/m-and-a-deal-flow/) is outbound email and LinkedIn to owners who may be open to a sale, a recapitalization or a valuation, in your firm name. Google Ads is the inbound twin for owners who typed the search themselves.
+seller side outreach (https://www.beleaded.com/m-and-a-deal-flow/) is outbound email and LinkedIn to business owners thinking about selling, recapitalizing or getting their company valued, sent in your firm name. Google Ads is the inbound twin for owners who typed the search themselves.
 
 ### Buyer outreach
 
-Buyer outreach finds strategic acquirers, search funds and PE for listings you already have. It does not replace seller Google Ads. Run it beside the sell side track.
+Buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) finds strategic acquirers, search funds and PE for listings you already have. It does not replace seller Google Ads. Run it beside the sell side track.
 
 ### Industry overview
 
 The full broker and advisor program picture, including valuation conversations booked from outreach, lives on lead generation for business brokers and M&A (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 
-## Most broker ad budgets leak after the click.
+## Where broker search spend usually wastes
 
-An owner who asked for a valuation and waits until morning often calls the next firm. We treat the click and the follow up as one job.
+A seller who just searched for a valuation rarely waits until tomorrow. Seller keyword work and the desk reply path ship together.
 
-### The keywords
+Step
 
-What usually happens
+Typical miss
 
-Buyer and seller terms mixed in one campaign, so cheap buyer clicks crowd out valuation requests.
+Broker build
 
-What we do
+### Queries
 
-Seller intent groups on sell my business and valuation phrases, with negatives maintained weekly for buyer only and job seeker noise.
+One broad list mixing sell my business, franchise and job queries until cost climbs.
 
-### The form
+Seller intent groups, narrow match, weekly blocks on job seekers and tire kickers.
 
-What usually happens
+### Form
 
-A public homepage with no consent language and no screening, so the firm cannot text or call and advisors waste time on unfit enquiries.
+A generic valuation page with no consent line and no size filters, so SMS is blocked and junk slips in.
 
-What we do
+One seller offer URL, consent visible, revenue and industry questions your desk already uses.
 
-A confidentiality minded valuation page with consent in plain view and industry, size, region and timing questions before the meeting.
+### Desk reply
 
-### The follow up
+Enquiries sit in a shared inbox until a broker has time. By then they called another firm.
 
-What usually happens
+Text and email go out fast, a voice agent or your desk can dial, quiet owners enter a short sequence.
 
-Leads sit in a shared inbox until someone has time. By then the owner has booked with another broker.
+## Deliverables on the broker track
 
-What we do
+Everything from the seller click to the booked desk call stays with one team.
 
-A text within minutes, a call from a voice agent or your team, and an email sequence if they go quiet. Meetings land on the broker calendar.
+### Seller query ops
 
-## What you get
+Themes owners type when they want a valuation or a broker, waste cut on a weekly cadence.
 
-Search ads, a valuation page, tracking and follow up from one team.
+### Confidentiality minded pages
 
-### Google search campaign management
+One seller offer URL, consent language, and size filters that keep tire kickers out.
 
-Seller intent search with tight match types and negative keywords maintained weekly, scoped to the regions you serve.
+### Desk event tagging
 
-### Valuation landing page and form
+Submits and booked desk conversations tagged from week one for cost per submit and per booked desk call.
 
-A confidentiality minded page built for a valuation request, with consent and screening questions.
+### Desk reply path
 
-### Follow up in minutes
+SMS, email and AI voice on each new seller name, plus a short sequence when an owner goes quiet.
 
-SMS, email and AI voice follow up wired to every lead, aimed at a booked valuation meeting. See AI voice follow up (https://www.beleaded.com/ai-voice-agents/).
+### Desk scoreboard
 
-### Reporting on meetings
+We report cost per submit, cost per booked desk call and per engaged seller.
 
-Cost per lead is the start. We report cost per booked appointment, because that is the number that matters for a broker calendar.
+### Path into deal sourcing
 
-### A path into outbound seller work
+When Google should sit beside outbound to owners, move over to deal flow for brokers (https://www.beleaded.com/m-and-a-deal-flow/).
 
-When you want owners who have not searched yet, add off market deal flow (https://www.beleaded.com/m-and-a-deal-flow/). For buy side listings, add buyer outreach.
+## Broker launch cadence
 
-### A path into the hub
+From the first desk call to live seller traffic is usually about fourteen days.
 
-When Google should sit next to Meta or LinkedIn, start from paid social and search (https://www.beleaded.com/paid-social-agency/) or the general page for Google Ads for B2B (https://www.beleaded.com/google-ads-for-b2b/).
+- Day 1 Desk scope Your practice, the seller phrases that already convert, spend level, who receives new names, and which form fields earn a desk call.
+- Week 1 Build Valuation URL, forms, tagging, seller keyword groups, opening ads and the desk reply paths.
+- Week 2 Launch Campaigns turn on with several seller angles. Desk reply starts with the first submit.
+- Weekly Refine Cost per submit and per booked desk call, seller terms paused or added, waste blocks refreshed, next tests named.
 
-## How it works
+## Who this broker search track suits
 
-From the first call to live campaigns in about two weeks.
+### Strong fit
 
-- Day 1 Strategy call Your regions, industries, seller intent terms, who takes valuation meetings, and which form questions screen a lead.
-- Week 1 Build Valuation landing page, forms, tracking, keyword groups, first ads and the follow up sequences.
-- Week 2 Launch Campaigns go live. Follow up starts with the first valuation request.
-- Every week Report and test Cost per lead and per booked meeting, search terms paused or added, negatives refreshed.
+- Business brokers and M&A advisors who want inbound seller enquiries
+- Desks that can answer or book inside an hour
+- Firms whose valuation offer fits one clear screen
+- Plans that want Google as the seller search track next to outbound deal sourcing
 
-## Is it a fit?
+### Weak fit
 
-### Works well for
+- Shops that only want buyer traffic with no seller offer to show
+- Anyone who wants volume but has an empty reply bench
+- Plans that need Meta or a professional network as the first open. Use our paid media program (https://www.beleaded.com/paid-social-agency/) and we pick the channel during the intro conversation
 
-- Brokers and M&A advisors who want inbound valuation requests from sellers
-- Firms with clear regions and industries they serve
-- Teams that can take a valuation call or booking within the hour
-- Programs that already run outbound deal flow and want the inbound twin
+Ask on the call if you need phone coverage on a separate line.
 
-### Not a fit for
-
-- Anyone who wants buyer traffic only. Use listing sites and buyer outreach for that job
-- Anyone who wants leads but has nobody to follow up with them
-- Programs that need Meta or LinkedIn first. Start on paid social and search (https://www.beleaded.com/paid-social-agency/)
-
-## Capacity behind the program
+## Capacity we already run for clients
 
 - 400K+ Emails a day of sending capacity
 - 99% Delivery rate across programs
 - 30+ Client programs
 
-## Questions about Google Ads for business brokers
+## Broker search FAQs
 
 **What are Google Ads for business brokers?**
 
-Google Ads for business brokers are search campaigns aimed at owners who type seller intent phrases such as sell my business and business valuation. Be Leaded runs those campaigns with a confidentiality minded valuation form, screening questions, conversion tracking and follow up that books meetings for your firm within minutes of the lead.
+Paid search aimed at owners typing sell my business, business valuation or find a broker. We map those seller themes, cut waste each week, ship a discreet valuation URL and form, tag desk events, and start a desk reply by email, text or voice while interest is still fresh.
 
-**Which keywords do you target?**
+**How does this differ from the paid media hub?**
 
-Seller intent terms owners use when they are ready to talk about a sale or a valuation, including phrases such as sell my business and business valuation, scoped to the regions you serve. Negative keywords are maintained weekly so buyer only and job seeker queries stay out.
-
-**How do you keep the landing page confidential?**
-
-The page is built for a confidential valuation request. It does not publish listing details. Consent is captured in plain view so follow up by email, SMS and voice is allowed. That matches the discreet posture of our outbound seller conversations in your firm name.
-
-**How does screening work?**
-
-The form asks industry, company size or revenue band, region, and timing or stated interest before a meeting is booked. That mirrors the qualified meeting checklist style we use on outbound lead generation.
-
-**How does this sit next to deal flow and buyer outreach?**
-
-Off market deal flow (https://www.beleaded.com/m-and-a-deal-flow/) reaches sellers who have not searched yet. Google Ads catches sellers who already searched. Buyer outreach is the buy side track for active listings. Most firms run sell side inbound and outbound together, with buyer outreach as a separate program.
-
-**How soon do campaigns go live?**
-
-From the first call to live campaigns in about two weeks. Week one is the valuation page, forms, tracking, keyword groups, first ads and the follow up sequences. Week two is launch.
-
-**How soon will we see leads?**
-
-Leads usually arrive within days of launch. Cost per lead settles over the first few weeks as the platform learns and we cut what does not work.
+The hub houses Meta, Google and a professional network as one program. Here we cover Google search for broker and M&A seller capture alone.
 
 **How is this different from Google Ads for B2B?**
 
-Google Ads for B2B lead generation (https://www.beleaded.com/google-ads-for-b2b/) is the general paid search page. This page is scoped to brokers and M&A advisors who want inbound sellers and valuation meetings.
+The general B2B search page covers software and service offers. This page is for brokers and M&A advisors who need seller enquiries from Google.
+
+**Do you handle conversion tracking?**
+
+Yes. Submits and booked desk conversations get tagged during build week one so the weekly readout can list cost per submit and per booked desk call.
+
+**How do you keep seller quality usable for the desk?**
+
+Revenue, industry and timing fields on the form, consent visible, and a desk reply the same hour. We skip names that have no reply plan.
+
+**How fast can a program go live?**
+
+About fourteen days from kickoff to live seller traffic. The first week ships the valuation page, forms, tagging, keyword groups, opening ads and desk reply paths. Spend turns on in week two.
+
+**How soon do seller submits arrive?**
+
+Often within a few days of going live. Cost per submit settles over the opening weeks as waste is cut and learning kicks in.
 
 ## Related
 
-Google Ads for B2B (https://www.beleaded.com/google-ads-for-b2b/). The general paid search page for B2B lead generation.
-Off market deal flow (https://www.beleaded.com/m-and-a-deal-flow/). Outbound seller outreach for owners who have not searched yet.
+Related
+
+### Google Ads for B2B
+
+The general paid search page for B2B lead generation.
+
+See Google for B2B (https://www.beleaded.com/google-ads-for-b2b/)
+
+Related
+
+### Deal flow for brokers
+
+Outbound seller outreach for owners who have not searched yet.
+
+See deal flow (https://www.beleaded.com/m-and-a-deal-flow/)
+
+Related
+
+### Buyer outreach
+
+Buy side outreach for listings you already have.
+
+See buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/)
 
 ## Tell us which sellers you want to meet.
 
-Thirty minutes with the founder. You will leave with a clear picture of how Google would run for your brokerage, what a valuation campaign would look like, and whether this track fits next to your outbound work.
+A short founder call. You leave with a seller query shortlist, a form filter sketch, and a clear yes or no on whether seller search on Google is worth a trial for your desk.
 
-Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=google-ads-for-business-brokers)
+Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=google-ads-for-business-brokers)
 
 Or email sales@beleaded.com
-
-Need inbound sellers? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=google-ads-for-business-brokers)
 
 ---
 
