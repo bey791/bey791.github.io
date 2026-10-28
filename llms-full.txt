@@ -1721,7 +1721,7 @@ See how it works
 If the CIM is ready and the buyer file is thin, this is the track.
 
 ### Business brokers
-Main Street and lower middle market
+Main Street to lower middle market
 Listings where a wider buy side needs a systematic pass, not another referral ask.
 
 ### M&A advisors
@@ -1743,7 +1743,7 @@ Operators that buy in the same industry for customers, geography or capability. 
 Searchers with a thesis and a timeline. We match thesis to listing before a note goes out.
 
 ### PE groups
-Funds and platform companies looking for add on acquisitions in the size and sector of the deal.
+Funds and platform companies hunting for add on deals that fit the size and sector of the listing.
 
 Independent sponsors and family offices appear in our buyer education guide. They are not the targets of this outreach track. The working steps sit in how business brokers find buyers (https://www.beleaded.com/guides/how-business-brokers-find-buyers/).
 
@@ -1834,7 +1834,7 @@ The first note is blind. No company name, no address, no financials. A buyer who
 Seller outreach finds owners who may sell. Buyer outreach finds buyers for listings you already have. The two tracks sit beside each other. Read the seller program at off market deal flow for M&A advisors and business brokers (https://www.beleaded.com/m-and-a-deal-flow/).
 
 **How fast does a program go live?**
-Most programs go live in about three weeks. Warmup comes first, and you approve the first sequence before anything sends.
+Most programs go live in about three weeks. Inboxes warm up first, and nothing sends until you sign off on the opening sequence.
 
 **Who owns the list and the replies?**
 You own the list and every reply. When the program stops, the contacts and the threads stay with you.
@@ -1842,11 +1842,11 @@ You own the list and every reply. When the program stops, the contacts and the t
 ## Related
 
 ### Off market deal flow
-Seller side owner research for your mandate, confidential notes in the firm's name, and meetings with owners open to a sale or valuation.
+Seller side research for your mandate, with confidential notes sent under your firm's name and first calls with owners weighing an exit.
 See the program (https://www.beleaded.com/m-and-a-deal-flow/)
 
 ### How business brokers find buyers
-For listings already under a mandate, this covers the buyer file, the blind note, and the checks a broker runs before a memorandum goes out.
+For listings already under a mandate, the guide walks through building a buyer file, drafting a blind note, and vetting buyers before any memorandum is shared.
 Read the guide (https://www.beleaded.com/guides/how-business-brokers-find-buyers/)
 
 ### M&A advisors and business brokers
