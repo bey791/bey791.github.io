@@ -1,42 +1,58 @@
-# Brief: LinkedIn Ads vs Meta Ads for B2B (comparison page)
+# Brief: LinkedIn Ads vs Meta Ads for B2B (Ryan standard)
 
 Owner: Grayson (SEO). Build: Noah. Copy and head approval: Ethan. Gate and merge: Ryan.
-Written: October 28, 2026 PKT.
-Hub: `/paid-social-agency/` (locked). Siblings: `/meta-ads-for-b2b/`, `/meta-ads-for-distributors/`, `/google-ads-for-b2b/` (seo-pages); `/linkedin-lead-generation-agency/` (live outreach, not ads).
+Written: October 28, 2026 (Asia/Karachi). Updated same day after shingle pass.
 
-## 0. Rules
+## Primary query
+`LinkedIn Ads vs Meta Ads for B2B`
 
-Nolan copy rules: no dashes in visible prose; no guarantees; no client names; no phones; no competitor dollars; nothing about Israel. Title ≤60. Meta ≤160. Stats only 400K+ / 99% / 30+. No prices on page; chrome span `What a monthly program includes`. Companion: "Email and LinkedIn. Calling is quoted separately." Site claims only. **No cost figures, CPMs, or invented benchmarks.** Platform facts only from Meta or LinkedIn own docs, linked. Locked: `/paid-social-agency/`, `/appointment-setting/`, `/cold-email-agency/`, `/guides/best-meeting-booking-company/`.
+## Search volume
+no volume data
 
-## 1. The page
+Source check: GSC export `/workspace/beleaded-organic/export-oct17/Queries.csv` has no matching query. No Bing Webmaster volume used. Do not invent a number.
 
+## Top 5 SERP competitors (organic, commercial / comparison intent)
+| # | URL | Note |
+|---|-----|------|
+| 1 | https://searchlab.nl/en/compare/linkedin-ads-vs-meta-ads-b2b | LinkedIn Ads vs Meta Ads for B2B comparison |
+| 2 | https://linkedscope.com/blog/linkedin-ads-vs-meta-ads | LinkedIn Ads vs Meta Ads B2B comparison |
+| 3 | https://metadata.io/resources/blog/fb-ad-strategies | Meta Ads for B2B with LinkedIn comparison data |
+| 4 | https://intel.42agency.com/reports/b2b-paid-media-2026/ | B2B paid media benchmarks including Meta and LinkedIn |
+| 5 | https://metadata.io/benchmark/metadata-2026-benchmark-cmo.pdf | Metadata 2026 B2B ads benchmark PDF |
+
+## Buyer questions
+1. Which is better for B2B, LinkedIn Ads or Meta Ads?
+2. How does targeting differ (titles vs lookalikes)?
+3. Do you publish CPMs or cost per lead benchmarks?
+4. Can we run both platforms?
+5. Where does Google search fit?
+6. How soon is a program live, and how do you keep quality usable?
+
+## Search intent
+Commercial comparison. Buyer wants a clear pick between LinkedIn titles and Meta lookalikes/retargeting for B2B, plus when to run both, without unsourced CPM charts.
+
+## Page
 - URL: `https://www.beleaded.com/linkedin-ads-vs-meta-ads/`
 - Title (44): `LinkedIn Ads vs Meta Ads for B2B | Be Leaded`
 - Meta (148): `LinkedIn Ads vs Meta Ads for B2B: when job title targeting beats lookalikes and retargeting, how to screen leads, and when to run both. Book a call.`
 - H1: `LinkedIn Ads vs Meta Ads for B2B`
-- Primary: `LinkedIn Ads vs Meta Ads for B2B` (SERP shows this head on comparison pages; kept over shorter "LinkedIn vs Meta Ads" variants)
 - Secondaries: `LinkedIn Ads vs Facebook Ads for B2B`, `Meta vs LinkedIn for B2B advertising`
-- utm_content=`linkedin-ads-vs-meta-ads`
+- Booking CTA: Calendly 30 min, `utm_source=beleaded&utm_medium=site&utm_content=linkedin-ads-vs-meta-ads`
+- data-hero-cta on hero Book link; data-end-cta on end cta-band
 
-## 1A. Differentiation
+## Body anchors (Ethan)
+Paid social hub: descriptive A-set wording (A5/A7/A8 style). No banned hub or deal-flow phrases in body anchors.
 
-Answer-first comparison. Verdict → side by side table → targeting, offers, screening, creative, follow up/CRM → when both / Google / outbound. Not a substitute for Meta B2B, Google B2B, or LinkedIn outreach pages.
+## Chrome
+Header/footer match live `/paid-social-agency/`. Nav span: `What $2,000 a month includes`. Companion after fit: `Email and LinkedIn. Calling is quoted separately.`
 
-Required body links: `/meta-ads-for-b2b/`, `/meta-ads-for-distributors/`, `/google-ads-for-b2b/`, `/linkedin-lead-generation-agency/`, `/paid-social-agency/`.
+## Shingle target
+Zero shared 8+ word runs vs hub, distributors, meta-ads-for-b2b, Google Ads siblings, except allowed CTA close and 400K stat line. No invented CPMs or cost figures on page.
 
-Official docs cited:
-- LinkedIn targeting: https://www.linkedin.com/help/lms/answer/a417950
-- LinkedIn company lists: https://www.linkedin.com/help/lms/answer/a423102
-- Meta Lookalike Audiences: https://www.facebook.com/business/help/164749007013531
+## Official docs cited on page
+- LinkedIn targeting help
+- LinkedIn company lists help
+- Meta Lookalike Audiences help
 
-## 2. Claims sources
-
-- `/paid-social-agency/`: Meta instant forms/LPs, retargeting, lookalikes; LinkedIn sponsored content and lead gen forms aimed at job titles and companies; follow up within minutes; week one tracking; two weeks live; report appointments.
-- `/meta-ads-for-b2b/`: when Meta vs LinkedIn; lookalikes; retargeting; CRM; screening.
-- `/linkedin-lead-generation-agency/`: outreach vs ads distinction.
-- `/google-ads-for-b2b/`: search when buyers already looking.
-
-## 3. Deliverables
-
-`index.html`, this brief, `patches/`. Not committed.
-Inbound applied: seo-pages `meta-ads-for-b2b` (body + Related), `google-ads-for-b2b` (body + Related). Hub locked.
+## Rules
+Nolan: no dashes in visible body prose; no guarantees; no client names; no phones; no competitor dollars; nothing about Israel. FAQ HTML identical to FAQPage JSON-LD.
