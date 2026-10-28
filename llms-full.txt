@@ -1283,7 +1283,7 @@ Be Leaded runs Facebook and Instagram campaigns for B2B teams whose offer fits o
 
 Meta Ads for B2B means paid traffic on Facebook and Instagram aimed at buyers who will take a webinar seat, book a demo, request a free audit, download a guide, or start a low touch SaaS trial. Creative, audiences, forms and reply paths ship as one build. For the wider multi platform view see ads on Meta, Google, and LinkedIn (https://www.beleaded.com/paid-social-agency/). Wholesale and dealer work sits on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/).
 
-Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=meta-ads-for-b2b)
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=meta-ads-for-b2b)
 See which offers fit
 
 Book a demo
@@ -1433,7 +1433,7 @@ Typical fields: job role, company size band, industry, region, and a stated inte
 
 ### How do Meta leads reach our CRM and sales team?
 
-Each submit lands in HubSpot, Salesforce or the inbox you name, carrying role, size, industry and interest as fields. Your reps, or our reply stack, act while the request is still warm. Capture fields, calendar and CRM wire up the same pattern described on our AI voice page.
+Every new name lands in HubSpot, Salesforce, or your named inbox with role, size, industry, and interest attached. Your reps, or our reply stack, act while the request is still warm. Capture fields, calendar, and CRM follow the same pattern described on our AI voice page.
 
 ### When are B2B buyers on Meta the wrong fit?
 
@@ -1445,7 +1445,7 @@ This URL covers general B2B offers: demos, webinars, audits, guides and trials. 
 
 ### Where do multi platform paid programs live?
 
-Programs that mix Meta with search or a professional network sit on our paid media page. This URL stays on Facebook and Instagram for general B2B lead capture.
+Programs that combine Meta with search or a professional network sit on our paid media page. This URL stays on Facebook and Instagram for general B2B lead capture.
 
 ### How long until a Meta program is live?
 
@@ -1461,9 +1461,11 @@ Kickoff to live traffic is about two weeks. Week one ships the landing URL, capt
 
 A half hour with the founder. You leave knowing how your offer reads on Meta, which seeds to load, and whether this track belongs on your plan.
 
-Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=meta-ads-for-b2b)
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=meta-ads-for-b2b)
 
 Or email sales@beleaded.com
+
+Need Meta Ads for B2B? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=meta-ads-for-b2b)
 
 Copy
 ---
