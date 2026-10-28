@@ -33,7 +33,7 @@ The whole process, from 30,000 feet
 
 # Strangers in. Meetings out.
 
-Every line on this map is something we run for you: the research, the sending infrastructure, five channels, every reply and the booking. Your market on the left, your calendar on the right, Be Leaded in the middle.
+Every line on this map is something we run for you: the research, the sending infrastructure, five channels, every reply and the booking. Strangers in your market on the left, meetings on your calendar on the right, Be Leaded in the middle.
 
 Programs run for
 
@@ -5657,7 +5657,7 @@ Email scales with inboxes and domains, inside a low daily cap per inbox. LinkedI
 
 ### Cost
 
-Email's cost is data, domains, and the people who write and answer. LinkedIn's cost is time on real profiles, so each touch costs more and a senior conversation is easier to justify. Be Leaded prices either path as one monthly retainer. Email, LinkedIn and cold calling. See cold calling services. Programs start from $2,000 a month. One monthly retainer covers lists, sending, copy, reply handling, and booking. LinkedIn is often added to a cold email program rather than run alone, and the price reflects the channels you run. You get an exact number after a 30-minute call.
+Email's cost is data, domains, and the people who write and answer. LinkedIn's cost is time on real profiles, so each touch costs more and a senior conversation is easier to justify. Be Leaded prices either path as one monthly retainer. Email and LinkedIn. Calling is quoted separately. See cold calling services. Programs start from $2,000 a month. One monthly retainer covers lists, sending, copy, reply handling, and booking. LinkedIn is often added to a cold email program rather than run alone, and the price reflects the channels you run. You get an exact number after a 30-minute call.
 
 ### Deliverability and account risk
 
@@ -9349,7 +9349,7 @@ Start with the call your sellers can take, then the channel that firm's site act
 Name, price model, channels, and a fit line. Each cell is taken from that firm's own site. The date inside a cell is the day we opened that page.
 7 B2B appointment setting companies: price model, channels, and fit. Sources are linked in the sections below.
 | Name | Price model | Channels | Best for |
-| Belkins (https://belkins.io/appointment-setting) | Retainer packages. Read October 18, 2026. Starter average sits at $5,000 on the appointment URL. The pricing URL shows no currency. | Email plus LinkedIn on the base. Phone, messenger, ABM, and ads show up on larger packages. | Teams that want one packaged retainer and can confirm the starter. |
+| Belkins (https://belkins.io/appointment-setting) | Retainer packages. Read October 18, 2026. Starter average sits at $5,000 on the appointment URL. The plan names are published on belkins.io/pricing (https://belkins.io/pricing). | Email plus LinkedIn on the base. Phone, messenger, ABM, and ads show up on larger packages. | Teams that want one packaged retainer and can confirm the starter. |
 | CIENCE (https://www.cience.com/pricing/) | Read October 20, 2026. Public menu reads team at $2,000 each month and platform at $499 each month. Offshore seats start at $1,750. US and Europe start at $3,500. | graph8 covers mail and dials. Seats can be added. | Buyers who want the platform and the seats itemized. |
 | Martal Group (https://martal.ca/pricing/) | Read October 1, 2026. Rate card text is Customize your pricing. Monthly flat fee. Commission appears on higher tiers. | Mail, LinkedIn, and phone. | A fractional desk that can also run discovery. |
 | Leadium (https://www.leadium.com/pricing) | Read October 13, 2026. Month to month. The pricing URL has no currency. A companion article, not that URL, shows dial-only work at $3,500 per month and the mixed channel offer at $4,000 to $5,000. | Phone, mail, and LinkedIn. | A retainer that states it will not promise an outcome count. |
@@ -9386,7 +9386,7 @@ What we compared
 
 ## Belkins: best for packaged appointment volume
 Best for packaged appointment volume, if you want a yearly appointment tier and will confirm a starter Belkins lists from $5,000.
-Belkins packages appointment setting as retainers. The appointment setting page, opened October 18, 2026, shows a starter average of $5,000 beside a channel count of three (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). On October 18, 2026 the Belkins pricing page shows four plans and no dollar prices (belkins.io/pricing (https://belkins.io/pricing)). Growth is one. Growth Plus is another. For small business is a third heading. Enterprise is the fourth. Mail and LinkedIn sit inside Growth, inside Growth Plus, and inside the heading For small business. The intent based calling line is present for Growth and for Growth Plus, while For small business leaves that line off. Get the live quote from Belkins.
+Belkins packages appointment setting as retainers. The appointment setting page, opened October 18, 2026, shows a starter average of $5,000 beside a channel count of three (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The Belkins pricing page (belkins.io/pricing (https://belkins.io/pricing)) gives the plans by name, which is where buyers go to check the terms now in force. Growth is one. Growth Plus is another. For small business is a third heading. Enterprise is the fourth. Mail and LinkedIn sit inside Growth, inside Growth Plus, and inside the heading For small business. The intent based calling line is present for Growth and for Growth Plus, while For small business leaves that line off. Get the live quote from Belkins.
 Ask what a guaranteed appointment means in the contract: title, company size, show rate, and who owns a no-show. A yearly tier is a volume product. It fits when your offer is already stable enough to absorb that many conversations.
 
 ## CIENCE: best for a GTM system plus SDR seats
@@ -9417,7 +9417,7 @@ SalesRoads prices a team. One SDR at $11,950 per four weeks is a different produ
 
 ## Be Leaded: email and LinkedIn, with calling quoted separately
 Email and LinkedIn in one monthly fee. Programs start from $2,000 a month. Calling is quoted separately.
-Be Leaded publishes the fee on pricing (https://www.beleaded.com/pricing/). Most programs go live in about three weeks. Sending domains for this program stay off the company domain and carry SPF plus DKIM plus DMARC. Sequences wait for your approval. LinkedIn notes go out from profiles your team already owns, on a clock that follows the email. Replies are handled the same business day. Email, LinkedIn and cold calling. See cold calling services. The exact fee comes after a 30-minute call.
+Be Leaded publishes the fee on pricing (https://www.beleaded.com/pricing/). Most programs go live in about three weeks. Sending domains for this program stay off the company domain and carry SPF plus DKIM plus DMARC. Sequences wait for your approval. LinkedIn notes go out from profiles your team already owns, on a clock that follows the email. Replies are handled the same business day. Email and LinkedIn. Calling is quoted separately. See cold calling services. The exact fee comes after a 30-minute call.
 Publisher note. This guide is ours. The row is the published model, and it is not a rank. Your sellers take the call.
 
 ## Launch time and the first bill
@@ -9448,9 +9448,9 @@ This page does not crown a winner. Read the 7 rows for price model, channels, an
 **How much do appointment setting companies charge?**
 Use each firm's own site, and the date in the summary table. Belkins prints a $5,000 starter average, read October 18, 2026. CIENCE, opened October 18, 2026, prints a team line of $2,000 monthly and a platform line of $499 monthly, plus regional SDR seats from $1,750 to $3,500 monthly and a setup fee with no public dollar, per CIENCE's pricing page (https://www.cience.com/pricing). Cleverly's LinkedIn menu begins at $397 monthly. Leadium's companion article shows dial-only work at $3,500 per month and the mixed channel offer at $4,000 to $5,000. SalesRoads posts $11,950 for a single SDR across four weeks, with lines through six SDRs. Martal Group prints Customize your pricing and shows no currency. Programs start from $2,000 a month. Confirm each quote.
 **Should I pick Belkins, CIENCE, or Be Leaded?**
-Read the published model, not a rank. Belkins sells retainer packages and prints a $5,000 starter average on its appointment URL, read October 18, 2026. CIENCE itemizes a team line, a platform line, and regional seats. Be Leaded's channels on this page are Email, LinkedIn and cold calling. Programs start from $2,000 a month.
+Read the published model, not a rank. Belkins sells retainer packages and prints a $5,000 starter average on its appointment URL, read October 18, 2026. CIENCE itemizes a team line, a platform line, and regional seats. Be Leaded uses email and LinkedIn. Calling is quoted separately. Programs start from $2,000 a month.
 **What plan names does Belkins print?**
-On October 18, 2026 the Belkins pricing page shows four plans and no dollar prices (belkins.io/pricing (https://belkins.io/pricing)). Growth is one. Growth Plus is another. For small business is a third heading. Enterprise is the fourth.
+The Belkins pricing page (https://belkins.io/pricing) names its plans as follows, and current terms are on that page. Growth is one. Growth Plus is another. For small business is a third heading. Enterprise is the fourth.
 **Does Martal Group publish a monthly dollar fee?**
 No dollar retainer is printed on the Martal Group pricing page, which we reread on October 18, 2026 (martal.ca/pricing (https://martal.ca/pricing/)). The screen says Customize your pricing on Tier 1, on Tier 2, and on Tier 3. Outbound on Tier 1A is a flat monthly fee with a pilot of 3 months. Commission is added on the two higher tiers, and each of those tiers opens with a 4 month pilot.
 
@@ -9562,9 +9562,9 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
 ## Be Leaded: best if you want meetings from $2,000 a month
 
-      Best CIENCE alternative for meetings from $2,000 a month, without buying a platform license. Email, LinkedIn and cold calling.
+      Best CIENCE alternative for meetings from $2,000 a month, without buying a platform license.
 
-      Be Leaded is the fit when the quote should be one program, not a platform license plus seats. Programs start from $2,000 a month. That price is the retainer. Most programs go live in about three weeks. Target up to 25,000 new contacts a month. Email, LinkedIn and cold calling.
+      Be Leaded is the fit when the quote should be one program, not a platform license plus seats. Programs start from $2,000 a month. That price is the retainer. Most programs go live in about three weeks. Target up to 25,000 new contacts a month. Email and LinkedIn. Calling is quoted separately.
 
       Paid ads, SMS, and AI voice are separate programs you can add. Ad spend is paid to the platform. Voice minutes are billed at cost.
 
@@ -9606,7 +9606,7 @@ URL: https://www.beleaded.com/guides/cience-alternatives/
 
 - You want callers on a four-week retainer: SalesRoads.
 
-- You want Email, LinkedIn and cold calling, replies the same day, from $2,000 a month: Be Leaded. See cold calling services.
+- You want email and LinkedIn, replies the same day, from $2,000 a month: Be Leaded. Calling is quoted separately. See cold calling services.
 
       Score the final two on the same scorecard. If Be Leaded is the fit, read how the cold email program runs or the full-cycle page.
 
@@ -9742,7 +9742,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
       Best Martal alternative for high-personalization outbound. Programs start from $2,000 a month. Your team still closes.
 
-      Your sellers keep the close. Programs start from $2,000 a month. Your team still owns the sale. Most programs go live in about three weeks. Email, LinkedIn and cold calling. New contacts, not a seat license. Target up to 25,000 new contacts a month.
+      Your sellers keep the close. Programs start from $2,000 a month. Your team still owns the sale. Most programs go live in about three weeks. Email and LinkedIn. Calling is quoted separately. New contacts, not a seat license. Target up to 25,000 new contacts a month.
 
       Disclosure: Be Leaded publishes this page. We stop at the qualified meeting and we do not take a commission on deals your team closes.
 
@@ -9784,7 +9784,7 @@ URL: https://www.beleaded.com/guides/martal-group-alternatives/
 
 - You need a calling team on a four-week bill: SalesRoads.
 
-- You need Email, LinkedIn and cold calling from $2,000 a month and you will close: Be Leaded. See cold calling services.
+- You need email and LinkedIn from $2,000 a month and you will close: Be Leaded. Calling is quoted separately. See cold calling services.
 
       Score the final two on the same scorecard. If Be Leaded is the fit, read how the cold email program runs or the full-cycle page.
 
@@ -9873,7 +9873,7 @@ How to choose
 
 What our $2,000 a month includes, whose domain sends the mail, and how a qualified meeting is defined. The exact number comes after a 30-minute call.
 
-Updated September 30, 2026
+Updated October 21, 2026
 
 See what is included (https://www.beleaded.com/guides/cold-email-agency-pricing/)
 
@@ -9883,9 +9883,31 @@ How to choose
 
 How much appointment setting services cost: retainer, pay-per-meeting, and hybrid ranges, plus what a booked meeting has to include.
 
-Updated October 17, 2026
+Updated October 20, 2026
 
 See what it costs (https://www.beleaded.com/guides/appointment-setting-pricing/)
+
+## How to
+
+How to
+
+### How to get medical billing clients in the US
+
+How US and offshore billing firms pick one specialty, reach the office manager, and add referral partners. Programs start from $2,000 a month.
+
+Updated October 25, 2026
+
+Read the guide (https://www.beleaded.com/industries/medical-billing-rcm/)
+
+How to
+
+### Buyers for a listing a broker already holds
+
+Marketplaces, the firm's own buyer names, and confidential notes to acquirers who are not shopping those sites. Programs start from $2,000 a month.
+
+Updated October 21, 2026
+
+Read the guide (https://www.beleaded.com/guides/how-business-brokers-find-buyers/)
 
 ## Comparisons
 
@@ -9918,6 +9940,39 @@ Guide price beside eight firms, with channels and contract taken from each compa
 Updated October 20, 2026
 
 See the eight firms (https://www.beleaded.com/guides/leadium-alternatives/)
+
+Comparison
+
+### Callbox competitors and alternatives
+
+Ten lead generation agencies grouped by the job each one publishes, with price, billing unit and channels taken from each company's own site on October 18, 2026.
+
+Updated October 20, 2026
+
+See the ten agencies (https://www.beleaded.com/guides/callbox-alternatives/)
+
+Comparison
+
+### SalesHive alternatives in 2026
+
+A neutral read of SalesHive's published terms, plus eight agencies arranged by the work they sell. Prices come from each company's own site on October 18, 2026.
+
+Updated October 20, 2026
+
+See the eight agencies (https://www.beleaded.com/guides/saleshive-alternatives/)
+
+Comparison
+
+### Sopro alternatives in 2026: nine agencies
+
+Sopro's printed start price sits beside nine other prospecting firms. Channels and terms come from each company's own pages. Be Leaded is entry five.
+
+Updated October 20, 2026
+
+See the nine agencies (https://www.beleaded.com/guides/sopro-alternatives/)
+
+Comparison
+
 ### Cleverly alternatives in 2026
 
 Seven firms that sell LinkedIn outreach or a wider outbound mix. Each price in the guide was copied from a page that firm hosts. The check date is October 20, 2026.
@@ -9926,16 +9981,15 @@ Updated October 20, 2026
 
 Read the seven (https://www.beleaded.com/guides/cleverly-alternatives/)
 
-
 Comparison
 
-### Callbox competitors and alternatives
+### Best B2B lead generation agencies (2026)
 
-Ten lead generation agencies grouped by the job each one publishes, with price, billing unit and channels taken from each company's own site on October 18, 2026.
+Ten agencies compared, not a paid list: Belkins, CIENCE, Callbox, Martal Group, Be Leaded, Leadium, SalesHive, SalesRoads, Sopro and Cleverly, grouped by job, with prices from each company's own site.
 
 Updated October 18, 2026
 
-See the ten agencies (https://www.beleaded.com/guides/callbox-alternatives/)
+See the agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/)
 
 Comparison
 
@@ -9943,9 +9997,19 @@ Comparison
 
 When Belkins' packages are the wrong fit on budget, channels, contract, or personalization, and who else does that job.
 
-Updated October 1, 2026
+Updated October 20, 2026
 
 See Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/)
+
+Comparison
+
+### Belkins Pricing vs Be Leaded (2026): Terms
+
+Belkins plan names and the six month term from its own pages, set beside a monthly program on email and LinkedIn. Calling is quoted separately.
+
+Updated October 27, 2026
+
+Read the comparison (https://www.beleaded.com/guides/be-leaded-vs-belkins/)
 
 Comparison
 
@@ -9953,7 +10017,7 @@ Comparison
 
 Who to hire if you want meetings and do not want a GTM platform plus a separate SDR seat.
 
-Updated October 1, 2026
+Updated October 21, 2026
 
 See CIENCE alternatives (https://www.beleaded.com/guides/cience-alternatives/)
 
@@ -9963,7 +10027,7 @@ Comparison
 
 Who to hire if you want the meeting and your team will close, instead of a fractional sales team.
 
-Updated October 1, 2026
+Updated October 21, 2026
 
 See Martal alternatives (https://www.beleaded.com/guides/martal-group-alternatives/)
 
@@ -9986,16 +10050,6 @@ The three tests a meeting has to pass, and what the contract should say.
 Updated October 21, 2026
 
 Read the definition (https://www.beleaded.com/guides/best-meeting-booking-company/)
-
-Comparison
-
-### Best B2B lead generation agencies (2026)
-
-Ten agencies compared, not a paid list: Belkins, CIENCE, Callbox, Martal Group, Be Leaded, Leadium, SalesHive, SalesRoads, Sopro and Cleverly, grouped by job, with prices from each company's own site.
-
-Updated October 18, 2026
-
-See the agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/)
 
 Templates, warmup, and benchmarks (https://www.beleaded.com/blog/)
 
@@ -10258,6 +10312,227 @@ Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=bele
 
 ---
 
+URL: https://www.beleaded.com/guides/appointment-setting-pricing/
+
+- Home (https://www.beleaded.com/)
+
+- Buyer guides (https://www.beleaded.com/guides/)
+
+- Appointment setting pricing
+
+Guides
+
+# Appointment setting pricing: what a booked meeting costs
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 20, 2026.
+
+Appointment setting pricing is a monthly retainer, a fee per qualified meeting, a hybrid of the two, or a setup fee plus one of those. Be Leaded programs start from $2,000 a month. A booked meeting costs the fee in the contract when it matches your ICP, is on the calendar, and the person attends.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=guides-appointment-setting-pricing) See how pricing works (https://www.beleaded.com/pricing/) Skip to published prices (https://www.beleaded.com/guides/appointment-setting-pricing/#published)
+
+On this page
+1. Appointment setting services cost (https://www.beleaded.com/guides/appointment-setting-pricing/#services-cost)
+2. Pricing models (https://www.beleaded.com/guides/appointment-setting-pricing/#models)
+3. What drives cost (https://www.beleaded.com/guides/appointment-setting-pricing/#drivers)
+4. Published prices (https://www.beleaded.com/guides/appointment-setting-pricing/#published)
+5. Belkins (https://www.beleaded.com/guides/appointment-setting-pricing/#belkins)
+6. CIENCE (https://www.beleaded.com/guides/appointment-setting-pricing/#cience)
+7. Martal Group (https://www.beleaded.com/guides/appointment-setting-pricing/#martal)
+8. Leadium (https://www.beleaded.com/guides/appointment-setting-pricing/#leadium)
+9. Cleverly (https://www.beleaded.com/guides/appointment-setting-pricing/#cleverly)
+10. SalesRoads (https://www.beleaded.com/guides/appointment-setting-pricing/#salesroads)
+11. Be Leaded (https://www.beleaded.com/guides/appointment-setting-pricing/#be-leaded)
+12. How to compare (https://www.beleaded.com/guides/appointment-setting-pricing/#compare)
+13. FAQ (https://www.beleaded.com/guides/appointment-setting-pricing/#faq)
+14. Sources (https://www.beleaded.com/guides/appointment-setting-pricing/#sources)
+
+Appointment setting pricing is what you pay a firm to put sales meetings on your calendar. The cost of appointment setting services is not one public number. It changes with the model, the buyer you want, and the channels the firm runs.
+
+Pay per appointment pricing charges you for the meeting, not for the month. How much a booked meeting costs still depends on the definition in the contract. A positive reply is cheaper to produce than a meeting that fits your ICP and is attended. For the definition, read what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/). How a retainer is built is on the cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/) guide. How the work runs is on B2B appointment setting (https://www.beleaded.com/appointment-setting/).
+
+## How much do appointment setting services cost
+
+Appointment setting services cost depends on the model. There is no single market price. The ranges below are general market ranges across retainer, pay-per-meeting, and hybrid offers.
+
+Retainer. You pay a fixed fee each month for a defined program. In the market, a managed appointment setting retainer commonly sits in the low thousands of dollars a month. A narrow LinkedIn-only plan is often a few hundred dollars a month. A dedicated team that includes calling is often priced in the five figures per month or per four-week cycle. Be Leaded programs start from $2,000 a month. Every program includes targeting up to 25,000 new contacts a month. The exact number comes after a 30-minute call.
+
+Pay-per-meeting. You pay when a meeting matches a definition agreed in writing before launch. Firms that sell this way usually quote the fee on a call. A meeting that only has to be booked costs less to produce than a meeting that must fit your ICP and be attended. Compare pay-per-meeting prices only when those tests are the same.
+
+Hybrid. A retainer plus a fee when a meeting qualifies, or a flat fee plus a commission. You pay for the team to stay on the account, and you pay again for a result. Read which meetings trigger the extra fee. Some firms also charge a one-time setup fee before monthly work starts. Add that to the first month before you compare proposals.
+
+Published list prices from company sites are in the table further down. Confirm the current quote. If you are weighing this against a hire, see what an outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) costs next to in-house salary and ramp. How Be Leaded prices a program is on Be Leaded pricing (https://www.beleaded.com/pricing/). How the meetings get booked is on B2B appointment setting (https://www.beleaded.com/appointment-setting/).
+
+## Four ways firms price appointment setting
+
+### Monthly retainer
+
+You pay a fixed fee each month for a defined program. The fee should cover the list, the sending domains, the copy, reply handling, and the booking. If domains, data, or replies are extra, the monthly number is not the real cost.
+
+Be Leaded monthly programs start from $2,000 a month. Sending domains, inboxes, warmup, list building, verification, sequences, reply handling, and weekly reporting are included. The exact number comes after a 30-minute call. How Be Leaded prices is on the pricing (https://www.beleaded.com/pricing/) page.
+
+### Pay per qualified meeting
+
+You pay when a meeting matches a definition agreed in writing before launch. That is pay per appointment pricing when the appointment is the unit you buy.
+
+Cleverly points cold email to a pay per meeting ready lead model and does not list a dollar price for it. Checked October 1, 2026.
+
+### Hybrid
+
+A hybrid is a retainer plus a fee when a meeting qualifies, or a flat fee plus a commission. You pay for the team to stay on the account, and you pay again for a result.
+
+Martal Group higher tiers are a flat fee per month plus a sales commission. That commission is for closing, not only for a meeting on a calendar. Checked October 1, 2026.
+
+### Setup fees
+
+A setup fee is a one time charge before the monthly work starts. It often covers domains, data, or a system. It is not the retainer.
+
+CIENCE lists a one time GTM System Setup at $5,000, and a $1,000 one time fee per SDR, separate from monthly execution. Checked October 1, 2026. Add the setup line to the first month before you compare two proposals.
+
+## What drives the cost
+
+Three things move the price more than the logo on the proposal.
+
+ICP difficulty. A narrow list of buyers who are hard to reach takes more research and more attempts than a broad list. Market size also changes how many inboxes it takes to reach them at a safe pace.
+
+Channel mix. Email on separate sending domains is a different program from email plus LinkedIn, calling, and ads. Belkins lists cold email, LinkedIn, calling, messenger, and paid advertising inside packaged tiers, and our Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/) guide compares them. SalesRoads includes calling in the base program. Cleverly publishes prices for LinkedIn plans. The mix is part of the fee. Where a firm bills ad spend and voice minutes at cost, those sit on top of the fee. Be Leaded bills ad spend to the platform and voice minutes at cost.
+
+Qualification bar. Agree three tests before you compare a per meeting price. ICP fit means the title, company, and problem match the definition you agreed before launch. Booked means a real time is on your calendar, with context. Attended means the person shows up, and the contract says who owns a no show. A looser bar produces a lower unit cost and a weaker meeting. Be Leaded does not promise a meeting count before looking at the market.
+
+## Published prices, checked October 1, 2026
+
+The figures below are the public prices already stated on the best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/) guide. The definition those prices depend on is what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/). This page does not add new competitor prices. Confirm each quote with the firm. This page is not a paid ranking.
+
+Appointment setting prices already published on sibling guides.
+| Company | Model | Public price, checked October 1, 2026 |
+| Be Leaded | Monthly program | From $2,000 a month |
+| Belkins | Yearly appointment tiers, monthly retainer | The October 18, 2026 appointment card shows $5,000. Plan names are listed on belkins.io/pricing (https://belkins.io/pricing). |
+| CIENCE | Setup plus monthly execution and a platform license. SDR capacity is quoted separately. | Team fee $2,000 a month, platform fee $499 a month, SDRs from $1,750 to $3,500 a month per SDR depending on region, setup fee not priced publicly. |
+| Martal Group | Flat fee. Higher tiers add a sales commission. | No dollar retainer on their pricing page. |
+| Leadium | Month to month retainer. No appointment count guarantee. | Guide: $3,500 a month for calling, $4,000 to $5,000 a month for calling, email, and LinkedIn. Pricing page has no dollar amount. |
+| Cleverly | LinkedIn plans. Cold email priced per meeting ready lead, amount not on the FAQ. | $397, $697, and $997 a month on the LinkedIn page. |
+| SalesRoads | Four week retainer for a dedicated team. | $11,950, $16,750, or $23,500 per four weeks for 1, 2, or 3 SDRs. |
+
+## Belkins
+
+Best for packaged appointment volume, if you will confirm a starter Belkins lists from $5,000.
+
+Belkins' appointment setting page (https://belkins.io/appointment-setting), as read on October 18, 2026, listed an average starter of $5,000. In that October 18, 2026 read, the Belkins pricing page (https://belkins.io/pricing) lists Growth alongside Growth Plus, For small business, and Enterprise, each by name; check current terms there.
+
+## CIENCE
+
+Best for a GTM system plus optional SDR seats.
+
+Checked October 20, 2026. Campaign team is $2,000 a month. graph8 is $499 a month. Offshore SDRs start at $1,750. US and Europe start at $3,500. The setup fee is unpublished. cience.com/pricing (https://www.cience.com/pricing/). A performance bonus per SDR is listed there too, and the plan is month to month. The SDR services terms say the initial term is twelve months unless the order form says otherwise (SDR services terms (https://www.cience.com/sdr-services-terms/)). Add the lines you are buying before you compare CIENCE with one meeting fee.
+
+## Martal Group
+
+Best for a fractional sales team that can run discovery and, on higher tiers, closing.
+
+Martal Group does not publish a dollar retainer. Checked October 1, 2026 (martal.ca/pricing (https://martal.ca/pricing/)). Tier 1 outbound lead generation is a flat fee per month, with a 3 month pilot, then a monthly subscription. Tiers 2 and 3 are a flat fee per month plus a sales commission, with a 4 month pilot.
+
+## Leadium
+
+Best for a month to month retainer and no appointment count guarantee.
+
+Leadium pricing says contracts are month to month, that appointment setting typically launches in 7 to 10 days, and that Leadium does not guarantee appointment outcomes (leadium.com/pricing (https://www.leadium.com/pricing)). That page does not list a dollar price. The Leadium outbound pricing guide lists $3,500 a month for cold calling only and $4,000 to $5,000 a month for calling, email, and LinkedIn (Leadium outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services)).
+
+## Cleverly
+
+Best for LinkedIn plans from $397 a month.
+
+Cleverly FAQ says lead generation plans range from $397 a month to $997 a month. The same FAQ points cold email to a pay per meeting ready lead model and does not list a dollar price for it (cleverly.co/faq (https://www.cleverly.co/faq)). The LinkedIn pricing page shows three plans at $397, $697, and $997 a month (Cleverly LinkedIn pricing (https://www.cleverly.co/home-linkedin)). Treat the published dollars as LinkedIn plans unless a call prices email.
+
+## SalesRoads
+
+Best for a dedicated sales floor, billed every four weeks.
+
+SalesRoads lists one SDR at $11,950 per four weeks, two SDRs at $16,750 per four weeks, and three SDRs at $23,500 per four weeks (salesroads.com/pricing (https://salesroads.com/pricing/)). The program includes calling, personalized email, and email infrastructure on multiple domains and mailboxes. You can cancel at any time. A team launches in 15 business days, with calling on the 16th business day. SalesRoads prices a team, not a single meeting. One SDR at $11,950 per four weeks is a different product from a $2,000 monthly program.
+
+## Be Leaded
+
+Best for outbound and qualified meetings from $2,000 a month.
+
+Be Leaded (beleaded.com) is a US B2B outbound agency founded by Ahmad Khan. Programs start from $2,000 a month (pricing (https://www.beleaded.com/pricing/)). Every program includes targeting up to 25,000 new contacts a month. Most programs go live in about three weeks. Cold email goes out on separate sending domains with SPF, DKIM, and DMARC. You approve sequences before they send. Replies are handled the same business day, and qualified meetings land on your calendar. The exact fee comes after a 30-minute call. Be Leaded does not promise a meeting count before looking at the market.
+
+Disclosure: Be Leaded publishes this page. The work is described on B2B appointment setting (https://www.beleaded.com/appointment-setting/). Email and LinkedIn. Calling is quoted separately. See cold calling services (https://www.beleaded.com/cold-calling-services/). A LinkedIn only plan under $1,000 is a different shape.
+
+## How to compare two proposals
+
+Write the meeting definition first. Then ask four questions.
+
+- Are domains, data, and reply handling inside the monthly fee?
+
+- Is there a setup fee, and is it in the first month total?
+
+- Does a no show still count as a booked meeting?
+
+- Which channels are in the fee, and which are billed on top?
+
+If the choice is Be Leaded, start with B2B appointment setting (https://www.beleaded.com/appointment-setting/) and Be Leaded pricing (https://www.beleaded.com/pricing/). If the choice is outsourcing the SDR seat, see what an outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) costs against hiring in-house.
+
+## FAQ
+
+How much do appointment setting services cost?
+
+It depends on the model. A retainer for managed appointment setting commonly sits in the low thousands of dollars a month. Pay-per-meeting fees are usually quoted for a written definition of a qualified meeting. A hybrid adds a per-meeting fee or a commission on top of a retainer. LinkedIn-only plans are often a few hundred dollars a month, and a dedicated calling team is often in the five figures. Be Leaded programs start from $2,000 a month. Every program includes targeting up to 25,000 new contacts a month. You get an exact number after a 30-minute call.
+
+What pricing models do appointment setting services use?
+
+Retainer, pay-per-meeting, and hybrid. A retainer is a fixed monthly fee. Pay-per-meeting charges you when a meeting matches the written definition. A hybrid is a retainer plus a fee or commission when a meeting qualifies or a deal closes. Some firms also charge a one-time setup fee before the monthly work starts.
+
+How much does appointment setting cost?
+
+Appointment setting is priced as a monthly retainer, a fee per qualified meeting, a hybrid of the two, or a setup fee plus one of those. Be Leaded programs start from $2,000 a month. Every program includes targeting up to 25,000 new contacts a month. You get an exact number after a 30-minute call.
+
+What is pay per appointment pricing?
+
+You pay for appointments that match a definition agreed in writing before launch. Cleverly points cold email to a pay per meeting ready lead model and does not list a dollar price for it.
+
+How much does a booked meeting cost?
+
+There is no single public price for one booked meeting. The cost depends on the pricing model and on whether the contract requires ICP fit, a time on the calendar, and attendance. Programs start from $2,000 a month.
+
+What should the appointment setting fee include?
+
+The list, separate sending domains, copy you approve, reply handling, and the booking. At Be Leaded, cold email goes out on separate sending domains, most programs go live in about three weeks, and qualified meetings land on your calendar.
+
+What drives the cost of appointment setting?
+
+ICP difficulty, the channel mix, and the qualification bar. A meeting that only has to be booked costs less to produce than a meeting that must fit your ICP and be attended. Agree those tests in writing before you compare prices.
+
+## Related guides
+
+Related: B2B appointment setting (https://www.beleaded.com/appointment-setting/), Be Leaded pricing (https://www.beleaded.com/pricing/), what an outsourced SDR team costs versus hiring (https://www.beleaded.com/outsourced-sdr-team/), cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/), what counts as a qualified booked meeting (https://www.beleaded.com/guides/best-meeting-booking-company/), and best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
+
+See Sopro alternatives (https://www.beleaded.com/guides/sopro-alternatives/). See demand generation (https://www.beleaded.com/demand-generation-agency/).
+
+## Sources checked October 1, 2026
+
+- Belkins appointment setting (https://belkins.io/appointment-setting) and Belkins pricing (https://belkins.io/pricing)
+
+- CIENCE pricing (https://www.cience.com/pricing/), CIENCE homepage (https://www.cience.com/), and CIENCE SDR services terms (https://www.cience.com/sdr-services-terms/)
+
+- Martal Group pricing (https://martal.ca/pricing/)
+
+- Leadium pricing (https://www.leadium.com/pricing) and Leadium outbound pricing guide (https://www.leadium.com/blog/outbound-lead-generation-services)
+
+- Cleverly FAQ (https://www.cleverly.co/faq) and Cleverly LinkedIn pricing (https://www.cleverly.co/home-linkedin)
+
+- SalesRoads pricing (https://salesroads.com/pricing/)
+
+- Be Leaded pricing (https://www.beleaded.com/pricing/), B2B appointment setting (https://www.beleaded.com/appointment-setting/), cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/), the qualified meeting definition (https://www.beleaded.com/guides/best-meeting-booking-company/), best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/)
+
+Competitor facts above are the ones already published on those pages and on the appointment setting companies guide and the meeting booking company guide. Be Leaded claims on this page are the ones already published on beleaded.com.
+
+## Programs start from $2,000 a month.
+
+Thirty minutes with the founder. You will leave with a clear picture of your market, what a campaign would look like, and what it would cost.
+
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=guides-appointment-setting-pricing)
+
+Or email sales@beleaded.com
+
+---
+
 URL: https://www.beleaded.com/guides/belkins-alternatives/
 
 - Home (https://www.beleaded.com/)
@@ -10295,14 +10570,14 @@ On this page
 Belkins plus 7 alternatives. Currency comes from each firm's own page. A cell's date marks the read of that vendor's own page. A blank dollar means that page showed none.
 Belkins and 7 alternatives: price, channels, and contract. Dates sit in the price cells.
 | Name | Price | Channels | Contract |
-| Belkins (https://belkins.io/pricing) | Opened October 18, 2026. Appointment URL: starter average $5,000. Dollar amounts are absent on the pricing URL. | Every package lists cold email and LinkedIn. Growth and Growth Plus add calling and messenger. | Retainer packages by month. Enterprise is custom. |
+| Belkins (https://belkins.io/pricing) | Opened October 18, 2026. Appointment URL: starter average $5,000. Belkins lists plan names on its pricing page; see it for current terms. | Every package lists cold email and LinkedIn. Growth and Growth Plus add calling and messenger. | Retainer packages by month. Enterprise is custom. |
 | CIENCE (https://www.cience.com/pricing/) | Opened October 20, 2026. Team charge is $2,000 monthly. Platform charge is $499 monthly. Offshore seats start at $1,750. US and Europe start at $3,500. | graph8 runs mail and dials. SDR seats are optional. | The pricing URL says month to month. SDR terms say twelve months unless the order form differs (https://www.cience.com/sdr-services-terms/). |
 | Cleverly (https://www.cleverly.co/home-linkedin) | Opened October 13, 2026. Three LinkedIn prices on that page: $397, next $697, next $997, billed monthly. | Published plans are LinkedIn. Email sits outside those plans. | Productized monthly plans. |
 | Martal Group (https://martal.ca/pricing/) | Martal's pricing URL, last opened on October 1, 2026, says Customize your pricing and prints no retainer dollar. | Tier 1 scope lists email, LinkedIn, and calls. | Flat fee per month. Tier 1 names a 3 month pilot. |
 | SalesRoads (https://salesroads.com/pricing/) | Opened October 18, 2026. The pricing screen totals $11,950 for one SDR, $16,750 for two, and $23,500 for three. Each total covers four weeks. | The channel list names proactive outbound calling and personalized email prospecting. | The contract FAQ on that page says programs run without long-term commitments. |
 | Callbox (https://www.callboxinc.com/lead-generation-pricing/) | Opened October 20, 2026. One pod is an estimated quarterly investment of $16,000 to $32,000. The exact figure follows a consult. | Pricing FAQ names phone, email, and LinkedIn. | Subscription. No fixed minimum term is printed in that FAQ. |
 | Leadium (https://www.leadium.com/pricing) | Opened October 13, 2026. Pricing URL shows no currency. Their outbound article prices phone-only at $3,500 each month. The mixed offer there is $4,000 to $5,000. | The multichannel guide names phone, email, and LinkedIn. That is the published mix. | Month to month, as the pricing URL states. |
-| Be Leaded (https://www.beleaded.com/pricing/) | Publisher row. Programs start from $2,000 a month. Figure is set after the scoping conversation. | Email, LinkedIn and cold calling. | Monthly program. |
+| Be Leaded (https://www.beleaded.com/pricing/) | Publisher row. Programs start from $2,000 a month. Figure is set after the scoping conversation. | Email and LinkedIn. Calling is quoted separately. | Monthly program. |
 
 If you searched Belkins alternatives, Belkins alternative, companies like Belkins, or Belkins competitors, you already know the pattern: Belkins shows up on almost every cold email and appointment setting roundup. That is rational to question. This guide gives honest best-for slots so you can see when Belkins is the fit and when another shop is.
 Belkins shows up often because it sells appointment-setting packages. Teams still shop alternatives when the published price, channel list, or contract does not match the job. For the wider field, ten firms are compared in best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
@@ -10310,7 +10585,7 @@ We shortlist founders, Heads of Sales or Growth, and RevOps who are comparing tw
 
 ## Why people look for Belkins alternatives
 Most buyers are not dumping Belkins because the work is bad. They are checking fit before they sign, or they need a second quote. The common reasons, mirrored across top-ranking comparison pages in 2026:
-- Price floor. When we checked on October 18, 2026, Belkins' appointment setting page listed a starter averaging $5,000 (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing page from that read names four plans and prints no dollar prices (belkins.io/pricing (https://belkins.io/pricing)). Growth is one name. Growth Plus is the next. For small business is a separate heading. Enterprise is the last. Third-party Clutch data commonly places typical projects in the $10,000 to $49,999 band. Under that mid-market floor, buyers look elsewhere.
+- Price floor. When we checked on October 18, 2026, Belkins' appointment setting page listed a starter averaging $5,000 (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing page sets out the plans by name, so read it for the terms in force (belkins.io/pricing (https://belkins.io/pricing)). Growth is one name. Growth Plus is the next. For small business is a separate heading. Enterprise is the last. Third-party Clutch data commonly places typical projects in the $10,000 to $49,999 band. Under that mid-market floor, buyers look elsewhere.
 - Contract wording on the pricing page. Belkins calls the plans monthly retainer packages. The Enterprise block says contract terms are custom (belkins.io/pricing (https://belkins.io/pricing)).
 - Who delivers For small business. That same pricing page says partnering agencies in the Belkins ecosystem deliver it.
 - Channel mix. The glance table lists the channels each firm publishes. Read that row against the channel your buyers actually answer.
@@ -10335,14 +10610,14 @@ Competitor facts below come from each vendor's own site, Clutch profiles, or dat
 Be Leaded is listed first as the publisher of this guide. Other rows follow common shortlist peers that appear on top-ranking Belkins alternatives pages in 2026.
 Belkins alternatives compared on best-for niche, public price facts, channels, and contract shape (October 2026)
 | Agency | Best for | Public price facts | Primary channels | Contract shape | Notes |
-| Be Leaded | High-personalization DFY appointment setting. Email, LinkedIn and cold calling. | Programs start from $2,000 a month (retainer; ad spend and call minutes at cost) | Email, LinkedIn and cold calling | Monthly retainer programs | US; founder-led; separate sending domains |
+| Be Leaded | High-personalization DFY appointment setting. Email and LinkedIn. Calling is quoted separately. | Programs start from $2,000 a month (retainer; ad spend and call minutes at cost) | Email and LinkedIn. Calling is quoted separately. | Monthly retainer programs | US; founder-led; separate sending domains |
 | CIENCE | SDR-as-a-service plus graph8 data platform | Own site (Oct 2026): $5,000 GTM setup; $2,000/mo strategic execution; $499/mo platform; SDR seats from $1,500 offshore | Multichannel SDR + data platform | Month to month on published blocks | Denver. |
 | Cleverly | LinkedIn-first outreach on a smaller budget | Pricing page returned 404 when checked Oct 2026; Clutch common project size under $10,000 | LinkedIn-first (email/calling add-ons) | Productized tiers, now quote-led | Los Angeles. |
 | Martal Group | Fractional / outsourced sales with senior onshore reps | Quote-only on own site; Clutch common project $10,000 to $49,000; directories often cite roughly $4,000 to $10,000+/mo | Email, LinkedIn, phone, sales process | Retainer; multi-month pilots common | Oakville, Canada. |
 | SalesRoads | Calling plus personalized email, priced on a four-week invoice | 1 SDR $11,950. 2 SDRs $16,750. 3 SDRs $23,500. Each is four weeks (pricing (https://salesroads.com/pricing/), October 18, 2026). | Proactive outbound calling and personalized email prospecting | Contract FAQ: programs run without long-term commitments | Boca Raton. |
 | Callbox | Multi-region / multi-country appointment setting | Custom quote; Clutch common project $10,000 to $49,999 | Phone, email, LinkedIn, digital across regions | Subscription, scoped per campaign | Los Angeles roots; delivery across many countries |
 | Leadium | Flexible done-for-you outbound with list hygiene focus | Quote-only | Email, LinkedIn, phone, SMS | Flexible / often month-to-month | Las Vegas. |
-| Belkins | Packaged appointment volume for mid-market budgets | Starter average $5,000 on the appointment URL, opened October 18, 2026. Pricing URL shows no currency. | Email, LinkedIn, calling, ABM-style packages | Retainer packages by volume; multi-month terms common | Pricing URL prints no currency. |
+| Belkins | Packaged appointment volume for mid-market budgets | Starter average $5,000 on the appointment URL, opened October 18, 2026. Plans are listed by name at belkins.io/pricing. | Email, LinkedIn, calling, ABM-style packages | Retainer packages by volume; multi-month terms common | Named plans; current terms at belkins.io/pricing. |
 
 Public and third-party figures as of October 2026. Always confirm with each vendor. Be Leaded floor is published on beleaded.com. This is not a paid placement list. See also appointment setting (https://www.beleaded.com/appointment-setting/) and best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
 
@@ -10396,7 +10671,7 @@ For the guide dollars next to eight other published offers, see Leadium pricing 
 Belkins is the baseline on this page for teams that want an appointment-setting package. Founded in 2017, it describes done-for-you outbound across email, LinkedIn, and calling.
 
 ## Belkins pricing
-Opened October 18, 2026 on Belkins' own pages. The appointment URL prints a starter average of $5,000. The same screen names three channels (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing URL leaves the dollar field blank. It names four plans and prints no dollar prices (belkins.io/pricing (https://belkins.io/pricing)):
+Opened October 18, 2026 on Belkins' own pages. The appointment URL prints a starter average of $5,000. The same screen names three channels (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing page (https://belkins.io/pricing) names these plans and is where current terms live:
 - For small business. Cold email and LinkedIn. Calling is not included. Belkins says partner agencies in its ecosystem deliver this package.
 - Growth. Cold email, LinkedIn, intent calling, and a messenger seat. ABM and ads stay off this tier.
 - Growth Plus. Folds cold calling plus ABM and ads into the Growth channel list.
@@ -10409,7 +10684,7 @@ The two lines below are pull quotes printed on the public Clutch profile, read O
 Marketing Lead, IT Services Company. Review dated April 14, 2023. The review lists a project size of $10,000 to $49,999. clutch.co/profile/belkins (https://clutch.co/profile/belkins)
 "The team was collaborative, responsive, and open throughout the engagement, and the overall process was seamless."
 Senior Marketing Manager, Medical Technology Company. Review dated July 27, 2026. clutch.co/profile/belkins (https://clutch.co/profile/belkins)
-Published price facts, not a quality score: the appointment URL lists a starter average of $5,000, and the pricing URL prints no dollar. Belkins says partner agencies deliver the plan headed For small business. belkins.io/appointment-setting (https://belkins.io/appointment-setting) and belkins.io/pricing (https://belkins.io/pricing).
+Published price facts, not a quality score: the appointment URL lists a starter average of $5,000, and the pricing URL is the source for current plan terms. Belkins says partner agencies deliver the plan headed For small business. belkins.io/appointment-setting (https://belkins.io/appointment-setting) and belkins.io/pricing (https://belkins.io/pricing).
 Fair close: if you need Belkins-class volume and you have the budget, talk to them. This page is not an argument against that fit.
 For a deeper read on what retainers usually include, see our guide to cold email agency pricing (https://www.beleaded.com/guides/cold-email-agency-pricing/).
 
@@ -10421,7 +10696,7 @@ Each line is a fact from that firm's own site. Nothing here names a winner.
 - SalesRoads. The pricing page lists proactive outbound calling and personalized email prospecting, and the contract FAQ says programs have no long-term commitment (salesroads.com/pricing (https://salesroads.com/pricing/)).
 - Multi-country campaigns: Callbox
 - Fractional sales org, not just meetings: Martal
-- Belkins. The appointment URL lists a starter average of $5,000 (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing URL, read October 18, 2026, prints Growth along with Growth Plus, a heading written For small business, and Enterprise, and it prints no dollar amount.
+- Belkins. The appointment URL lists a starter average of $5,000 (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing URL, read October 18, 2026, prints Growth along with Growth Plus, a heading written For small business, and Enterprise, and the terms to rely on are the ones posted at belkins.io/pricing.
 
 ## Five diligence questions before you sign any Belkins alternative
 1. How do you define a qualified meeting, and what happens when a prospect cancels?
@@ -10437,11 +10712,11 @@ Infrastructure and reply handling stay with us; you stay focused on taking meeti
 
 ## FAQ
 **What are the best Belkins alternatives in 2026?**
-It depends on fit. Be Leaded suits high-personalization appointment setting. Email, LinkedIn and cold calling. Programs start from $2,000 a month. CIENCE suits buyers who want published SDR and platform pricing. Cleverly suits LinkedIn-first budgets. Martal suits full-funnel fractional sales. SalesRoads publishes calling and email on its pricing page. Callbox suits multi-country campaigns. Leadium suits flexible month-to-month outbound. Belkins remains strong when you want packaged mid-market appointment volume and will pay for it.
+It depends on fit. Be Leaded suits high-personalization appointment setting. Email and LinkedIn. Calling is quoted separately. Programs start from $2,000 a month. CIENCE suits buyers who want published SDR and platform pricing. Cleverly suits LinkedIn-first budgets. Martal suits full-funnel fractional sales. SalesRoads publishes calling and email on its pricing page. Callbox suits multi-country campaigns. Leadium suits flexible month-to-month outbound. Belkins remains strong when you want packaged mid-market appointment volume and will pay for it.
 **How does Belkins pricing compare to other cold email agencies?**
-When we checked on October 18, 2026, Belkins' appointment setting page listed a starter averaging $5,000 (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). The pricing page from that read names four plans and prints no dollar prices (belkins.io/pricing (https://belkins.io/pricing)). Growth is one name. Growth Plus is the next. For small business is a separate heading. Enterprise is the last. Clutch common project sizes often sit in the $10,000 to $49,999 band. CIENCE publishes setup and monthly blocks on its own pricing page. Cleverly is now quote-led after its pricing page came down. Be Leaded: Programs start from $2,000 a month. Always confirm current packages on a sales call.
+When we checked on October 18, 2026, Belkins' appointment setting page listed a starter averaging $5,000 (belkins.io/appointment-setting (https://belkins.io/appointment-setting)). Its pricing page (https://belkins.io/pricing) lists its plans by name and is the place to check current terms. Growth is one name. Growth Plus is the next. For small business is a separate heading. Enterprise is the last. Clutch common project sizes often sit in the $10,000 to $49,999 band. CIENCE publishes setup and monthly blocks on its own pricing page. Cleverly is now quote-led after its pricing page came down. Be Leaded: Programs start from $2,000 a month. Always confirm current packages on a sales call.
 **When should I choose Be Leaded instead of Belkins?**
-Choose Be Leaded when you want account-level personalization, separate-domain infrastructure, Email, LinkedIn and cold calling, human same-day reply handling, and meetings booked on your calendar, without an enterprise-only price floor. Choose Belkins when you specifically want their packaged appointment-volume model and mid-market brand fit. See cold calling services.
+Choose Be Leaded when you want account-level personalization, separate-domain infrastructure, email and LinkedIn outreach, human same-day reply handling, and meetings booked on your calendar, without an enterprise-only price floor. Calling is quoted separately. Choose Belkins when you specifically want their packaged appointment-volume model and mid-market brand fit. See cold calling services.
 **Are CIENCE, Cleverly, Martal, SalesRoads, Callbox, and Leadium good Belkins competitors?**
 Yes, for different jobs. CIENCE competes on published pricing and platform depth. Cleverly on LinkedIn entry price. Martal on fractional sales partnership. SalesRoads publishes calling together with email. Callbox on multi-region reach. Leadium on flexible DFY outbound. Compare channels, meeting definitions, and contract terms, not logos.
 **Will switching from Belkins (or another agency) hurt my domain reputation?**
@@ -10450,7 +10725,7 @@ It should not if the new partner sends from separate, warmed domains with SPF, D
 If the job is qualified meetings on the calendar rather than a full SDR platform, start with the best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/) guide and this Belkins alternatives table. Match meeting definition and reply handling before you compare logos.
 
 ## What to do next
-Shortlist two or three Belkins alternatives using the table above, run the five diligence questions, and score them on the same sheet as every other vendor. If high-personalization outbound from $2,000 a month sounds like the fit, book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-belkins-alternatives) or email sales@beleaded.com. Or start with pricing (https://www.beleaded.com/pricing/) and the how to choose the best cold email agency (https://www.beleaded.com/guides/best-cold-email-agency/) scorecard. Related reads: CIENCE alternatives (https://www.beleaded.com/guides/cience-alternatives/), Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/), best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/), and best company for cold email (https://www.beleaded.com/guides/best-company-for-cold-email/).
+Shortlist two or three Belkins alternatives using the table above, run the five diligence questions, and score them on the same sheet as every other vendor. If high-personalization outbound from $2,000 a month sounds like the fit, book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-belkins-alternatives) or email sales@beleaded.com. Or start with pricing (https://www.beleaded.com/pricing/) and the how to choose the best cold email agency (https://www.beleaded.com/guides/best-cold-email-agency/) scorecard. For a two firm read, see Be Leaded vs Belkins, side by side (https://www.beleaded.com/guides/be-leaded-vs-belkins/). Related reads: CIENCE alternatives (https://www.beleaded.com/guides/cience-alternatives/), Martal Group alternatives (https://www.beleaded.com/guides/martal-group-alternatives/), best appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/), and best company for cold email (https://www.beleaded.com/guides/best-company-for-cold-email/).
 
 ## Programs start from $2,000 a month.
 Thirty minutes with the founder. You’ll leave with a clear picture of your market, what a campaign would look like and what it would cost, whether Be Leaded is the right Belkins alternative for you or not.
@@ -10469,6 +10744,109 @@ Or email sales@beleaded.com
 
 See Sopro alternatives (https://www.beleaded.com/guides/sopro-alternatives/). See demand generation (https://www.beleaded.com/demand-generation-agency/).
 
+---
+
+URL: https://www.beleaded.com/guides/be-leaded-vs-belkins/
+
+- Home (https://www.beleaded.com/)
+- Buyer guides (https://www.beleaded.com/guides/)
+- Be Leaded vs Belkins
+
+Guides
+
+# Be Leaded vs Belkins: price, contract, and channels compared
+By Ahmad Khan (https://www.beleaded.com/about/), who founded Be Leaded. Updated October 27, 2026.
+Belkins sells four monthly retainer plans: Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). Be Leaded runs one monthly outbound program across email and LinkedIn, and calling is quoted on top. Pick Belkins for a packaged plan from a large firm. Pick Be Leaded for copy you approve, replies answered the same business day, and a list you keep.
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=guides-be-leaded-vs-belkins)
+Programs start from $2,000 a month
+See the side by side (https://www.beleaded.com/guides/be-leaded-vs-belkins/#at-a-glance)
+On this page
+1. Belkins pricing (https://www.beleaded.com/guides/be-leaded-vs-belkins/#price)
+2. What the monthly program costs (https://www.beleaded.com/guides/be-leaded-vs-belkins/#fee)
+3. At a glance (https://www.beleaded.com/guides/be-leaded-vs-belkins/#at-a-glance)
+4. Contract and commitment (https://www.beleaded.com/guides/be-leaded-vs-belkins/#contract)
+5. Channels (https://www.beleaded.com/guides/be-leaded-vs-belkins/#channels)
+6. Launch and volume (https://www.beleaded.com/guides/be-leaded-vs-belkins/#launch)
+7. Where Belkins is the better pick (https://www.beleaded.com/guides/be-leaded-vs-belkins/#belkins-wins)
+8. Who should pick which (https://www.beleaded.com/guides/be-leaded-vs-belkins/#who-picks)
+9. Questions to ask either firm (https://www.beleaded.com/guides/be-leaded-vs-belkins/#questions)
+10. FAQ (https://www.beleaded.com/guides/be-leaded-vs-belkins/#faq)
+
+## Belkins pricing
+Belkins pricing, checked October 27, 2026, is published as plan names. The pricing page (https://belkins.io/pricing) lists Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). Ask Belkins for the fee on the plan you want, in writing.
+The Belkins vs Callbox (https://belkins.io/blog/belkins-vs-callbox) post describes a six month agreement. Enterprise terms are custom.
+
+## What the monthly program costs
+Programs start from $2,000 a month. That fee covers sending domains, inboxes, warmup, list work, sequences, and a weekly report. The channels inside the fee are email and LinkedIn. Calling is quoted separately. Ad spend, and any voice minutes, are passed through at cost, on top of the fee. Line items sit on our pricing (https://www.beleaded.com/pricing/) page. The exact figure follows a 30-minute scoping call.
+
+## At a glance
+Belkins facts come from Belkins' own pages, opened October 27, 2026. Be Leaded facts come from this site. Prices change, so confirm both on a call before you sign.
+Be Leaded and Belkins side by side. Belkins sources were opened October 27, 2026.
+|  | Belkins | Be Leaded |
+| Published price | Plan names only. See its pricing page (https://belkins.io/pricing). | Line items on our pricing (https://www.beleaded.com/pricing/) page. See what the monthly program costs (https://www.beleaded.com/guides/be-leaded-vs-belkins/#fee). |
+| How it is sold | Monthly plans named Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). | One monthly program, scoped to the market, the channels, and the offers. |
+| Contract | Six month agreement, per the Belkins vs Callbox (https://belkins.io/blog/belkins-vs-callbox) post. Enterprise terms are custom. | Length of the engagement is written into the scope before signature. |
+| Channels | Set by plan. See the pricing page (https://belkins.io/pricing). | Email and LinkedIn. Calling is quoted separately. |
+| When you stop | Ask in writing before you sign. | You own the list and every reply. |
+
+## Contract and commitment
+The Belkins vs Callbox (https://belkins.io/blog/belkins-vs-callbox) post describes a six month agreement with a three month checkpoint, and meeting projections written into the contract. The lead generation pricing post (https://belkins.io/blog/lead-generation-pricing) says premium agencies like Belkins charge 6 to 12 months upfront. Enterprise contract terms are custom.
+Be Leaded writes the term into the scope before signature. We do not promise a number of demos. Ask both firms how a qualified meeting is defined, and what happens when the calendar and that definition disagree.
+
+## Channels
+Belkins sets channels by plan, and its pricing page (https://belkins.io/pricing) lists what each plan includes.
+Be Leaded runs email and LinkedIn. Calling is quoted separately. Copy waits for your approval before the first send. When a buyer says yes, the meeting goes on your calendar. How a meeting is qualified is on the B2B appointment setting (https://www.beleaded.com/appointment-setting/) page, and the sending setup is on the cold email agency (https://www.beleaded.com/cold-email-agency/) page.
+
+## Launch and volume
+Most programs go live in about three weeks. After that, warmup is finished first, and you sign off on the opening sequence before any mail leaves. Target up to 25,000 new contacts a month. Those names sit on domains kept apart from the company domain. Capacity is 400K+ emails a day, and the delivery rate across programs is 99%.
+
+## Where Belkins is the better pick
+Belkins is the safer choice in some cases, and we would rather say so.
+- You want a named plan from a large, long running firm.
+- You would rather pay per appointment.
+
+## Who should pick which
+A midsize team comparing multichannel outbound can use the two lists below. On the Be Leaded list the included channels are email and LinkedIn. Calling is quoted separately.
+
+### Pick Belkins if
+- You want meeting projections written into the contract (https://belkins.io/blog/belkins-vs-callbox).
+- Brand size matters to your buying committee.
+
+### Pick Be Leaded if
+- You want to read and approve every sequence before it sends.
+- You want a person to answer replies before that business day ends.
+- You want email and LinkedIn. Calling is quoted separately.
+- You want to keep the list and the reply threads when you stop. You own the list and every reply.
+- You are a small or midsize team.
+
+## Questions to ask either firm
+1. What is the monthly fee, the term, and the notice period, in writing?
+2. How is a qualified meeting defined, and who decides when one does not count?
+3. Which domains send the mail, and is the main domain ever used?
+4. Who reads and answers replies, and how fast?
+5. Who keeps the contact list and the reply threads when the work stops?
+
+## FAQ
+**Is Be Leaded cheaper than Belkins?**
+Programs start from $2,000 a month. The line items are on our pricing (https://www.beleaded.com/pricing/) page. For Belkins, ask for a written quote on one of the plans named above, then set the two quotes side by side. Calling is quoted separately at Be Leaded, and ad spend and any voice minutes are passed through at cost.
+**Does Belkins publish its prices?**
+Not as plan prices on its pricing page. As of October 27, 2026, belkins.io/pricing (https://belkins.io/pricing) lists Growth (https://belkins.io/pricing) and Growth Plus (https://belkins.io/pricing), along with For small business (https://belkins.io/pricing) and Enterprise (https://belkins.io/pricing). Ask Belkins for a written quote on the plan you want.
+**What contract does Belkins ask for?**
+Belkins' own Callbox comparison (https://belkins.io/blog/belkins-vs-callbox) describes a six month agreement with a three month checkpoint. Enterprise terms are custom. Be Leaded writes the term into the scope before signature.
+**Which channels does each firm run?**
+Belkins sets channels by plan, and its pricing page (https://belkins.io/pricing) lists what Growth and Growth Plus, along with For small business and Enterprise, each include. Be Leaded runs email and LinkedIn. Calling is quoted separately.
+**How fast does Be Leaded launch?**
+Most programs go live in about three weeks. Warmup comes first, and you approve the first sequence before anything sends.
+**Who keeps the list and the replies?**
+At Be Leaded, you own the list and every reply. Ask Belkins the same question in writing before you sign.
+
+## What to do next
+Run the five questions above with both firms and put the answers on one sheet. If copy you approve and a list you keep sound right, book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-be-leaded-vs-belkins) with the founder, or email sales@beleaded.com. For a wider set of firms, read Belkins alternatives (https://www.beleaded.com/guides/belkins-alternatives/). What a program includes is on the pricing (https://www.beleaded.com/pricing/) page.
+
+## Programs start from $2,000 a month.
+Half an hour with the founder. You leave knowing which buyers to chase, how month one would run, and what the fee would be, plus a straight read on Belkins versus Be Leaded.
+Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=guides-be-leaded-vs-belkins)
+Send a note instead. sales@beleaded.com
 ---
 
 URL: https://www.beleaded.com/guides/best-meeting-booking-company/
@@ -11116,7 +11494,7 @@ Belkins
 
       Grouped here for packaged yearly appointment tiers that include email and LinkedIn in every tier.
 
-      Opened on October 18, 2026, Belkins shows an average starter price from $5,000 on its appointment setting page (https://belkins.io/appointment-setting). The Belkins pricing page (https://belkins.io/pricing), opened October 18, 2026, sorts four named plans and prints no dollar prices. Growth comes first on that screen. Growth Plus is the following name. For small business is written as its own heading. Enterprise is the closing name. Intent based cold calling is included on Growth and on Growth Plus, and is absent from For small business. Cold email and LinkedIn are marked included on Growth, on Growth Plus, and on For small business. Ask Belkins how a guaranteed appointment is defined before you treat a tier as a like for like buy.
+      Opened on October 18, 2026, Belkins shows an average starter price from $5,000 on its appointment setting page (https://belkins.io/appointment-setting). The Belkins pricing page (https://belkins.io/pricing), opened October 18, 2026, lists those plans by name and is where the current terms are confirmed. Growth comes first on that screen. Growth Plus is the following name. For small business is written as its own heading. Enterprise is the closing name. Intent based cold calling is included on Growth and on Growth Plus, and is absent from For small business. Cold email and LinkedIn are marked included on Growth, on Growth Plus, and on For small business. Ask Belkins how a guaranteed appointment is defined before you treat a tier as a like for like buy.
 
 CIENCE
 
@@ -11485,7 +11863,7 @@ URL: https://www.beleaded.com/guides/saleshive-alternatives/
 
 ### Be Leaded
 
- Fits Email, LinkedIn and cold calling written for each account, with replies answered and meetings booked. This is position four of eight.
+ Fits outreach written for each account, with replies answered and meetings booked. This is position four of eight.
 
  The Be Leaded pricing page (https://www.beleaded.com/pricing/), read October 18, 2026, describes a monthly program that includes:
 
@@ -11507,7 +11885,7 @@ URL: https://www.beleaded.com/guides/saleshive-alternatives/
 
  Launch timing on that page is about three weeks, and only after warmup and an approved first sequence. The page also says there is no meeting guarantee.
 
- Where this fits: SalesHive buyers who mainly wanted meetings from Email, LinkedIn and cold calling. See cold calling services.
+ Where this fits: SalesHive buyers who mainly wanted meetings from email and LinkedIn. Calling is quoted separately. See cold calling services.
 
 ### Belkins
 
@@ -11566,7 +11944,7 @@ SalesHive alternatives compared on what each company published on its own site, 
 
  | Be Leaded
  | Programs start from $2,000 a month
- | Email, LinkedIn and cold calling.
+ | Email and LinkedIn. Calling is quoted separately.
  | Monthly program
 
  | Belkins
@@ -11647,7 +12025,7 @@ SalesHive alternatives compared on what each company published on its own site, 
 
 What are the best SalesHive alternatives?
 
- It depends on the job. SalesRoads and Abstrakt Marketing Group lead with phone. Leadium publishes a month to month retainer. CIENCE prices SDR seats line by line. Callbox runs multi country campaign pods. Be Leaded is listed here. Email, LinkedIn and cold calling. Reply handling and booking are included.
+ It depends on the job. SalesRoads and Abstrakt Marketing Group lead with phone. Leadium publishes a month to month retainer. CIENCE prices SDR seats line by line. Callbox runs multi country campaign pods. Be Leaded is listed here. Email and LinkedIn. Calling is quoted separately. Reply handling and booking are included.
 
 How much does SalesHive cost?
 
@@ -11663,7 +12041,7 @@ Which SalesHive alternatives publish a price?
 
 What does this page compare Be Leaded on?
 
- This page lists Be Leaded. The offer is appointment setting. Email, LinkedIn and cold calling. Replies are answered. Meetings are booked on your calendar.
+ This page lists Be Leaded. The offer is appointment setting. Email and LinkedIn. Calling is quoted separately. Replies are answered. Meetings are booked on your calendar.
 
 What should I check before switching from SalesHive?
 
@@ -11905,7 +12283,7 @@ memoryBlue's homepage (https://memoryblue.com/), read October 18, 2026, limits t
 
 ### Be Leaded
 
-Middle of the nine, at position five. Email, LinkedIn and cold calling. The same team answers and books. The site prints a dollar price.
+Middle of the nine, at position five. The same team answers and books. The site prints a dollar price.
 Be Leaded's pricing page (https://www.beleaded.com/pricing/) was read October 18, 2026. It describes a program billed by the month. The inclusions, restated here, are:
 - Sending domains and inboxes, warmup done before anything goes out
 - A list built first, then checked
@@ -11915,7 +12293,7 @@ Be Leaded's pricing page (https://www.beleaded.com/pricing/) was read October 18
 - A report written each week
 Programs start from $2,000 a month
 Target up to 25,000 new contacts a month
-Go-live sits near the three week mark once inboxes are warm and the first sequence has a yes. Email, LinkedIn and cold calling. See cold calling services. The wider offer is on the lead generation services (https://www.beleaded.com/lead-generation-services/) page.
+Go-live sits near the three week mark once inboxes are warm and the first sequence has a yes. Email and LinkedIn. Calling is quoted separately. See cold calling services. The wider offer is on the lead generation services (https://www.beleaded.com/lead-generation-services/) page.
 Recorded fit: you want the people who wrote the notes to answer them and place the meeting. Display ads, gifting, and intent tracking appear on Sopro's pricing page. They are not the channel list used for Be Leaded here.
 
 ### Operatix
@@ -11973,7 +12351,7 @@ Homepage does not state one |
 
 Be Leaded |
 Programs start from $2,000 a month |
-Email, LinkedIn and cold calling. |
+Email and LinkedIn. Calling is quoted separately. |
 Billed each month |
 
 Operatix |
@@ -12004,7 +12382,7 @@ Want the people who write the emails to be the same people who answer them and p
 Three paths show up when a vendor describes what happens after someone writes back. Path one: the agency qualifies the reply and books the time. Path two: the agency hands the positive reply to your side. Path three: the route changes with the plan you bought.
 A small team that has no SDR seat usually needs path one, so the reply is not waiting on someone already booked into other work. That is the job an outsourced sales development team (https://www.beleaded.com/outsourced-sdr-team/) covers. A team that already has an SDR often wants path two, so the handoff is warm and that SDR keeps the conversation.
 Firms are named here only when their own site states the path.
-Reply handling and booking are on Be Leaded's pricing page, inside the monthly program. This guide lists Be Leaded's channels as Email, LinkedIn and cold calling. Email steps live on our cold email agency (https://www.beleaded.com/cold-email-agency/) writeup. LinkedIn steps live on the LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/) writeup.
+Reply handling and booking are on Be Leaded's pricing page, inside the monthly program. This guide lists Be Leaded's channels as email and LinkedIn. Calling is quoted separately. Email steps live on our cold email agency (https://www.beleaded.com/cold-email-agency/) writeup. LinkedIn steps live on the LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/) writeup.
 Sopro's homepage puts direct email replies, phone calls, LinkedIn messages, web chat, and website conversions straight into your team's hands. That is path two, in Sopro's words.
 Cleverly's FAQ says a short follow-up runs once a connection is accepted, until the person responds, and then you take over, unless the plan is appointment setting, where a response handler takes it instead. That is path three.
 SalesBread's homepage says its team monitors the inbox, then emails you when a lead is ready. That hands the next step back to you.
@@ -12037,7 +12415,7 @@ Read what the monthly program covers (https://www.beleaded.com/pricing/)
 
 What are the best Sopro alternatives?
 
-It depends on the job you want handled. This guide names nine firms: Belkins, CIENCE, Callbox, memoryBlue, Be Leaded, Operatix, Cleverly, SalesBread, and Martal Group. Belkins and Callbox publish larger packaged programs, CIENCE prices SDR seats as separate lines, Cleverly and SalesBread publish LinkedIn work, Martal Group opens with a pilot, and Be Leaded's row includes replies and booking. Email, LinkedIn and cold calling. memoryBlue and Operatix do not publish a program fee. Their pricing pages open an ROI calculator, so ask for a written quote.
+It depends on the job you want handled. This guide names nine firms: Belkins, CIENCE, Callbox, memoryBlue, Be Leaded, Operatix, Cleverly, SalesBread, and Martal Group. Belkins and Callbox publish larger packaged programs, CIENCE prices SDR seats as separate lines, Cleverly and SalesBread publish LinkedIn work, Martal Group opens with a pilot, and Be Leaded's row includes replies and booking. Email and LinkedIn. Calling is quoted separately. memoryBlue and Operatix do not publish a program fee. Their pricing pages open an ROI calculator, so ask for a written quote.
 
 How much does Sopro cost?
 
@@ -12053,7 +12431,7 @@ On October 18, 2026 the dollar figures were: Be Leaded from $2,000 a month, Clev
 
 Does Be Leaded handle replies and book the meetings?
 
-Yes. Reply handling and booking sit inside every monthly program on the pricing page, along with domains, lists, sequences, LinkedIn, and a weekly report. Email, LinkedIn and cold calling.
+Yes. Reply handling and booking sit inside every monthly program on the pricing page, along with domains, lists, sequences, LinkedIn, and a weekly report. Email and LinkedIn. Calling is quoted separately.
 
 What should I keep when I switch from Sopro?
 
@@ -12180,7 +12558,7 @@ The same screen says there is no minimum contract, and it does not publish a tie
 
 Be Leaded
 
-Be Leaded is third of the seven. The channels this guide lists for Be Leaded are Email, LinkedIn and cold calling. Phone work for Be Leaded is written up on the cold calling services (https://www.beleaded.com/cold-calling-services/) page. A trial that is only LinkedIn, and that has to cost less than $1,000 a month, sits outside this row.
+Be Leaded is third of the seven. The channels this guide lists for Be Leaded are email and LinkedIn. Calling is quoted separately. Phone work for Be Leaded is written up on the cold calling services (https://www.beleaded.com/cold-calling-services/) page. A trial that is only LinkedIn, and that has to cost less than $1,000 a month, sits outside this row.
 
 Opened October 20, 2026, our pricing screen (https://www.beleaded.com/pricing/) lists sending domains and inboxes after warmup, a built list that then gets verified, sequences drafted around the market you actually sell to, LinkedIn running beside the email, replies worked until a time is booked, and a written report once a week.
 
@@ -12226,7 +12604,7 @@ Agency | Published price | LinkedIn and email | Contract
 Cleverly | $397 to $997 a month for lead generation plans; cold email per meeting ready lead | LinkedIn first, cold email offered | Month to month for cold email
 SalesBread | No dollar printed on the homepage | LinkedIn messages and warm email from your account | Month to month
 Sopro | Around £3K per month | Email and LinkedIn, plus display ads and gifting | No minimum contract
-Be Leaded | Programs start from $2,000 a month | Email, LinkedIn and cold calling. How the calling side works is set out on the cold calling services (https://www.beleaded.com/cold-calling-services/) page. | Monthly program; call minutes billed at cost
+Be Leaded | Programs start from $2,000 a month | Email and LinkedIn. Calling is quoted separately. How the calling side works is set out on the cold calling services (https://www.beleaded.com/cold-calling-services/) page. | Monthly program; call minutes billed at cost
 Leadium | $3,500 per month calling only; $4,000 to $5,000 per month when channels are combined | Phone, email, and LinkedIn on the wider fee | Month to month
 Belkins | Average starter price from $5,000 | Included mark for cold email and for LinkedIn across Growth, across Growth Plus, and across For small business | Monthly retainer packages; tiers labelled by yearly appointments
 CIENCE | On that CIENCE menu, campaign team is $2,000, graph8 is $499, the offshore seat starts at $1,750, and the US and Europe seat starts at $3,500 | Setup names email, phone, and LinkedIn | Month to month, one setup fee
@@ -12286,7 +12664,7 @@ Questions
 
 What are the best Cleverly alternatives?
 
-For manual LinkedIn on a short list, SalesBread. For Email, LinkedIn and cold calling, Be Leaded answers every reply and books the meeting. Read the phone channel on the cold calling services (https://www.beleaded.com/cold-calling-services/) page. For a bundle with display ads and gifting, Sopro. For phone plus email plus LinkedIn on a published retainer, Leadium. For monthly retainer packages with named tiers, Belkins is the match, and its plans are Growth together with Growth Plus, the heading For small business, and Enterprise.
+For manual LinkedIn on a short list, SalesBread. For email and LinkedIn, Be Leaded answers every reply and books the meeting. Calling is quoted separately. Read the phone channel on the cold calling services (https://www.beleaded.com/cold-calling-services/) page. For a bundle with display ads and gifting, Sopro. For phone plus email plus LinkedIn on a published retainer, Leadium. For monthly retainer packages with named tiers, Belkins is the match, and its plans are Growth together with Growth Plus, the heading For small business, and Enterprise.
 
 How much does Cleverly cost?
 
@@ -12302,7 +12680,7 @@ Sometimes. It fits best when buyers are active on LinkedIn and the list stays sm
 
 Does Be Leaded run LinkedIn outreach?
 
-Yes. Email, LinkedIn and cold calling, and each reply is carried through to a meeting on your calendar.
+Yes. We run email and LinkedIn, and each reply is carried through to a meeting on your calendar. Calling is quoted separately.
 
 The cold calling services (https://www.beleaded.com/cold-calling-services/) page covers the phone side, where call minutes billed at cost sit on top of the program.
 
@@ -12390,7 +12768,7 @@ Each firm below suits a different kind of buyer. Be Leaded is number four.
 - SalesRoads: priced per 4 week block, covering calling and email.
 - SalesHive: quoted SDR teams, with reps in the US or offshore.
 - CIENCE: every SDR seat is priced on its own, from $1,750 offshore or $3,500 in the US and Europe, plus a $2,000 monthly campaign team fee.
-- Be Leaded: we run Email, LinkedIn and cold calling, handle the replies and book the meeting. Programs start from $2,000 a month. Call minutes are billed at cost; the details are on cold calling services (https://www.beleaded.com/cold-calling-services/).
+- Be Leaded: we run Email and LinkedIn. Calling is quoted separately. We handle the replies and book the meeting. Programs start from $2,000 a month. Call minutes are billed at cost; the details are on cold calling services (https://www.beleaded.com/cold-calling-services/).
 - Belkins: monthly retainer packages called Growth, Growth Plus, For small business and Enterprise. Cold email and LinkedIn come with all of them except Enterprise.
 - Abstrakt Marketing Group: an outbound band on the homepage, which also names calling, email, and LinkedIn.
 - Martal Group: pilot first, then the fractional team. The page says Customize your pricing.
@@ -12426,7 +12804,7 @@ Opened October 20, 2026, CIENCE's pricing page (https://www.cience.com/pricing/)
 
 Be Leaded
 
-Email, LinkedIn and cold calling, all aimed at getting the meeting on your calendar.
+Email and LinkedIn, all aimed at getting the meeting on your calendar. Calling is quoted separately.
 
 On October 20, 2026 the Be Leaded pricing page (https://www.beleaded.com/pricing/) includes sending domains, inboxes, and warmup. It also includes list building, verification, and the sequences. LinkedIn runs beside email. Replies are carried through to a booking. A report goes out each week. Go live is about three weeks, after warmup and after you approve the opening sequence.
 
@@ -12434,7 +12812,7 @@ Programs start from $2,000 a month.
 
 Target up to 25,000 new contacts a month.
 
-A good fit if you hold a Leadium quote and want replies turned into booked meetings across Email, LinkedIn and cold calling. Call minutes are billed at cost, and cold calling services (https://www.beleaded.com/cold-calling-services/) explains how.
+A good fit if you hold a Leadium quote and want replies turned into booked meetings across Email and LinkedIn. Phone work is covered on cold calling services (https://www.beleaded.com/cold-calling-services/).
 
 Belkins
 
@@ -12471,7 +12849,7 @@ Leadium | Calling alone $3,500 per month. Multichannel $4,000 to $5,000 per mont
 SalesRoads | One SDR is $11,950 for 4 weeks. Two SDRs are $16,750. | Calling, plus email | Cancel anytime
 SalesHive | Quote only, for Starter, Growth, and Crush | Phone, or phone with email | Monthly, after written notice
 CIENCE | Campaign team at $2,000 monthly. The graph8 line is $499 monthly. Offshore seat from $1,750. US and Europe seat from $3,500. | Calls, email, and messages | Renews monthly, plus one setup charge
-Be Leaded | Programs start from $2,000 a month | Email, LinkedIn and cold calling. Phone detail lives on cold calling services (https://www.beleaded.com/cold-calling-services/). | Monthly program; call minutes billed at cost
+Be Leaded | Programs start from $2,000 a month | Email and LinkedIn. Calling is quoted separately. Phone detail lives on cold calling services (https://www.beleaded.com/cold-calling-services/). | Monthly program; call minutes billed at cost
 Belkins | Starter average begins at $5,000. Plan names: Growth, Growth Plus, For small business and Enterprise. | Cold email plus LinkedIn, both listed for Growth, for Growth Plus, and for the small business plan | Monthly retainer packages
 Abstrakt Marketing Group | Outbound band near $5,000 to near $7,000 per month | Calling, email, LinkedIn, direct mail | Term length absent on the homepage
 Martal Group | Customize your pricing | Email, LinkedIn, and calls | Pilot of 3 months, then a monthly fee. Higher tiers: pilot of 4 months, plus commission
@@ -12540,7 +12918,7 @@ On October 20, 2026 the Leadium guide shows $3,500 per month for calling by itse
 
 Where does Be Leaded fit against Leadium?
 
-Be Leaded books meetings from replies across Email, LinkedIn and cold calling (https://www.beleaded.com/lead-generation-services/). Programs start from $2,000 a month. Phone time is passed through as call minutes billed at cost, covered on the cold calling services page.
+Be Leaded books meetings from replies across Email and LinkedIn (https://www.beleaded.com/lead-generation-services/). Calling is quoted separately. Programs start from $2,000 a month. Phone time is passed through as call minutes billed at cost, covered on the cold calling services page.
 
 Why is Leadium's price in a guide and not on its pricing page?
 
@@ -12671,9 +13049,9 @@ Company, published price, channels, contract, and the page we opened. The check 
  | SalesRoads | One representative is listed at $11,950 across four weeks. Two representatives are listed at $16,750 across four weeks. | On the SalesRoads pricing URL the first route is labeled proactive outbound calling. The second route on that same URL is labeled personalized email prospecting. | No long-term commitment. The buyer can cancel at any time. | Pricing (https://salesroads.com/pricing/). October 21, 2026. |
  | memoryBlue | No public price. | Phone, email, and LinkedIn. | No minimum term printed on the SDR as a service page. | SDR as a service (https://memoryblue.com/sdr-as-a-service/). October 21, 2026. |
  | Martal Group | No public price. | Tier 1A writes email, LinkedIn, and phone into the scope. | Tier 1A: flat fee per month, a pilot lasting three months, followed by a subscription billed each month. Tiers 2 and 3: monthly flat fee, commission on top, pilot lasting four months. | Pricing (https://martal.ca/pricing/). October 21, 2026. |
- | Be Leaded | Programs start from $2,000 a month. | Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/) | Monthly program. Most programs go live in about three weeks. | Pricing (https://www.beleaded.com/pricing/). October 21, 2026. |
+ | Be Leaded | Programs start from $2,000 a month. | Email and LinkedIn. Calling (https://www.beleaded.com/cold-calling-services/) is quoted separately. | Monthly program. Most programs go live in about three weeks. | Pricing (https://www.beleaded.com/pricing/). October 21, 2026. |
  | Callbox | Quarterly estimate for one pod: $16,000 to $32,000. Exact figure after a consultation. | A multi-channel outreach cadence inside the pod. | Flexible contract options. No minimum term printed. The page says to ask for the length. | Lead generation pricing (https://www.callboxinc.com/lead-generation-pricing/). October 21, 2026. |
- | Belkins | Starter average from $5,000 on the appointment setting page. The pricing page prints no dollar. | Cold email and LinkedIn on the three named packages. Intent-based cold calling on Growth and Growth Plus. | Monthly retainer packages. No minimum length printed on the three package grid. Enterprise leaves the contract language to a custom agreement. | Pricing (https://belkins.io/pricing) and appointment setting (https://belkins.io/appointment-setting). October 21, 2026. |
+ | Belkins | Starter average from $5,000 on the appointment setting page. Current plan names are at belkins.io/pricing (https://belkins.io/pricing). | Cold email and LinkedIn on the three named packages. Intent-based cold calling on Growth and Growth Plus. | Monthly retainer packages. No minimum length printed on the three package grid. Enterprise leaves the contract language to a custom agreement. | Pricing (https://belkins.io/pricing) and appointment setting (https://belkins.io/appointment-setting). October 21, 2026. |
  | Leadium | Pricing page prints no program dollar. The firm's guide lists a calling-only figure of $3,500 a month and a wider mix at $4,000 to $5,000 a month. | Outbound email, cold calling, and LinkedIn prospecting, as named on the pricing page. | All contracts are month-to-month, per the pricing page. | Pricing (https://www.leadium.com/pricing) and outbound guide (https://www.leadium.com/blog/outbound-lead-generation-services). October 21, 2026. |
  | SalesHive | No public price. Starter, Growth, and Crush are quoted to the buyer. No dollar is printed. | Starter uses the phone alone. Growth and Crush add email beside the phone. US based roster or offshore roster. | Month to month. No setup fee. After sending starts, written notice ends outreach and billing when the next billing month closes. Annual plans are a longer commitment at a lower monthly rate, with no dollar printed. | Pricing (https://saleshive.com/pricing/). October 21, 2026. |
 
@@ -12735,7 +13113,7 @@ The pilot length is the clause to read twice. More on that contract shape sits o
 
 Be Leaded publishes this page. This entry is fifth of nine. The row belongs to the publisher. Placement here is not a score.
 
-This row covers Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
+This row covers email and LinkedIn. Calling (https://www.beleaded.com/cold-calling-services/) is quoted separately.
 
 Programs start from $2,000 a month. Target up to 25,000 new contacts a month.
 
@@ -12753,7 +13131,7 @@ How that pod price sits next to other models is on Callbox alternatives (https:/
 
 ## Belkins
 
-Opened October 21, 2026, the Belkins pricing page (https://belkins.io/pricing) tells buyers to explore monthly retainer packages. The grid names Growth, Growth Plus, and For small business, with cold email and LinkedIn on every column. Intent-based cold calling is marked on Growth and on Growth Plus. The For small business column leaves intent-based cold calling off that package. A separate Enterprise block leaves the contract language to a custom agreement. The grid prints neither a dollar nor a minimum length.
+Opened October 21, 2026, the Belkins pricing page (https://belkins.io/pricing) tells buyers to explore monthly retainer packages. The grid names Growth, Growth Plus, and For small business, with cold email and LinkedIn on every column. Intent-based cold calling is marked on Growth and on Growth Plus. The For small business column leaves intent-based cold calling off that package. A separate Enterprise block leaves the contract language to a custom agreement. Minimum length is absent from that grid.
 
 On the Belkins appointment setting (https://belkins.io/appointment-setting) URL, opened that same day, the only price printed is a starter average of $5,000. That is the figure recorded in the table.
 
@@ -12831,7 +13209,7 @@ This page does not crown one. Match the billing shape. Belkins sells monthly ret
 
 How much do outsourced SDR companies charge?
 
-Take the figures from the table, checked October 21, 2026. On its appointment setting page, Belkins prints a starter average from $5,000, and monthly retainer packages with no dollar on the pricing screen. CIENCE prints $2,000 a month for the campaign team, $499 a month for graph8, offshore seats from $1,750 a month, and US and Europe seats from $3,500 a month. Callbox's quarterly estimate for a single pod runs from $16,000 to $32,000. Leadium's guide shows a calling-only figure of $3,500 a month and a wider mix at $4,000 to $5,000 a month. SalesRoads prints $11,950 and $16,750 on four week engagements for one and two representatives. Martal Group, SalesHive, and memoryBlue have no public price. For Be Leaded: Programs start from $2,000 a month. Both the outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) page and the pricing (https://www.beleaded.com/pricing/) page explain what that covers.
+Take the figures from the table, checked October 21, 2026. Belkins prints a starter average from $5,000 on its appointment setting page, and belkins.io/pricing (https://belkins.io/pricing) lists Enterprise, Growth, Growth Plus, and For small business by name. Confirm terms there before you compare. CIENCE prints $2,000 a month for the campaign team, $499 a month for graph8, offshore seats from $1,750 a month, and US and Europe seats from $3,500 a month. Callbox's quarterly estimate for a single pod runs from $16,000 to $32,000. Leadium's guide shows a calling-only figure of $3,500 a month and a wider mix at $4,000 to $5,000 a month. SalesRoads prints $11,950 and $16,750 on four week engagements for one and two representatives. Martal Group, SalesHive, and memoryBlue have no public price. For Be Leaded: Programs start from $2,000 a month. Both the outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) page and the pricing (https://www.beleaded.com/pricing/) page explain what that covers.
 
 US based or offshore SDRs?
 
@@ -13089,7 +13467,7 @@ Agency, main channels, published price, and the page that holds the figure. The 
  | Directive | Content, paid media on LinkedIn, Google, Meta, and programmatic, plus SEO and account based marketing. | No public price. | Demand generation (https://directiveconsulting.com/services/b2b-demand-generation-agency/). October 21, 2026. |
  | Powered by Search | Paid media, organic demand, and RevOps. Google, LinkedIn, and Meta are named on the pricing page. | From $5,000 a month for paid media, $7,500 for organic and $6,000 for RevOps (lowest figures shown; billing term not stated). Fixed-fee audits and sprints also listed. | Pricing (https://www.poweredbysearch.com/pricing/). October 21, 2026. |
  | Ironpaper | Targeted advertising, content, conversion work, and nurturing. | No public price. | Demand generation (https://www.ironpaper.com/demand-generation/). October 21, 2026. |
- | Be Leaded | Email, LinkedIn and cold calling. Calling is quoted as its own fee. | Programs start from $2,000 a month. | Pricing (https://www.beleaded.com/pricing/). October 21, 2026. |
+ | Be Leaded | Email and LinkedIn. Calling is quoted separately. | Programs start from $2,000 a month. | Pricing (https://www.beleaded.com/pricing/). October 21, 2026. |
  | Gripped | Paid search, paid social, SEO, and content. The full tier adds paid media management. | From £3,500 a month plus project fees. From £7,500 a month. From £15,000 a month. Paid media budgets are not in the retainer. | Pricing (https://gripped.io/pricing/). October 21, 2026. |
  | Sopro | Email, LinkedIn, display ads, and gifting. | Around $3.8K per month. No minimum contract. | Pricing (https://sopro.io/pricing/). October 21, 2026. |
  | Callbox | A multi channel cadence. The same page names phone, email, LinkedIn, and web retargeting. | Per pod, $16,000 to $32,000 a quarter as an estimate. The final number follows a consult. | Lead generation pricing (https://www.callboxinc.com/lead-generation-pricing/). October 21, 2026. |
@@ -13153,7 +13531,7 @@ Be Leaded publishes this page. The entry is number five. It is the publisher's r
 
 Be Leaded runs demand gen as a single program: outbound to the buyers you name, with paid social and newsletters keeping the offer in front of them, measured on booked calls. (https://www.beleaded.com/demand-generation-agency/)
 
-Our team runs Email, LinkedIn and cold calling (https://www.beleaded.com/cold-calling-services/).
+Our team runs email and LinkedIn. Calling (https://www.beleaded.com/cold-calling-services/) is quoted separately.
 
 Cold calling is available alongside that program, as its own fee.
 
