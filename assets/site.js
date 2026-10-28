@@ -2424,72 +2424,44 @@
     catch (err) {}
     return String(key || "").toLowerCase();
   }
-  function blSubjectAlreadyTagged(value, suffix, encodedSuffix) {
-    var decoded;
-    if (!value) return false;
-    if (encodedSuffix && value.length >= encodedSuffix.length && value.slice(-encodedSuffix.length) === encodedSuffix) return true;
-    decoded = value;
-    try { decoded = decodeURIComponent(value.replace(/\+/g, " ")); }
-    catch (err) {
-      try { decoded = decodeURIComponent(value); }
-      catch (err2) { return false; }
+  /* Pure href transform. A mailto with no subject param (query key, any case)
+     gains subject=Website inquiry (pathname). An existing subject is returned
+     unchanged. body, cc, and bcc are not rewritten; the new param is appended
+     with & when a ? query is already present, otherwise ?. A fragment stays
+     after the query. */
+  function blMailHrefWithDefaultSubject(href, pathname) {
+    var raw, hashAt, hash, main, qAt, query, pairs, i, key, subject;
+    raw = String(href || "");
+    if (!/^mailto:/i.test(raw)) return raw;
+    hash = "";
+    hashAt = raw.indexOf("#");
+    main = raw;
+    if (hashAt >= 0) {
+      hash = raw.slice(hashAt);
+      main = raw.slice(0, hashAt);
     }
-    return decoded.length >= suffix.length && decoded.slice(-suffix.length) === suffix;
+    qAt = main.indexOf("?");
+    query = qAt >= 0 ? main.slice(qAt + 1) : "";
+    pairs = query ? query.split("&") : [];
+    for (i = 0; i < pairs.length; i++) {
+      key = pairs[i].split("=")[0];
+      try { key = decodeURIComponent(key.replace(/\+/g, " ")); }
+      catch (err) {}
+      if (String(key || "").toLowerCase() === "subject") return raw;
+    }
+    subject = "subject=" + encodeURIComponent("Website inquiry (" + pathname + ")");
+    return main + (qAt >= 0 ? "&" : "?") + subject + hash;
   }
-  /* Click time, after the /match/ builder has written its subject. An existing
-     subject (Match request, Partner application) keeps its text and gains the
-     path. A bare sales mailto gets Website inquiry (pathname). Body is kept.
-     A second click does not append the path again. */
+  /* Click time. Does not cancel the click; the browser follows the href
+     after this capture listener updates it. */
   function blTagMailSubject(anchor) {
+    var raw, next;
     try {
-      var raw, hashAt, hash, main, qAt, addr, query, pairs, i, found, parts, current;
-      var suffix, encodedSuffix, inquiry, built, bodyVal, hasBody, key;
       if (!anchor || !anchor.getAttribute) return;
       raw = anchor.getAttribute("href") || "";
-      if (!/^mailto:sales@beleaded\.com(?:\?|#|$)/i.test(raw)) return;
-      hash = "";
-      hashAt = raw.indexOf("#");
-      main = raw;
-      if (hashAt >= 0) {
-        hash = raw.slice(hashAt);
-        main = raw.slice(0, hashAt);
-      }
-      qAt = main.indexOf("?");
-      addr = qAt >= 0 ? main.slice(0, qAt) : main;
-      query = qAt >= 0 ? main.slice(qAt + 1) : "";
-      pairs = query ? query.split("&") : [];
-      suffix = " (" + location.pathname + ")";
-      encodedSuffix = encodeURIComponent(suffix);
-      inquiry = encodeURIComponent("Website inquiry (" + location.pathname + ")");
-      found = -1;
-      for (i = 0; i < pairs.length; i++) {
-        if (blMailParamKey(pairs[i]) === "subject") { found = i; break; }
-      }
-      if (found < 0) {
-        built = "mailto:sales@beleaded.com?subject=" + inquiry;
-        hasBody = false;
-        bodyVal = "";
-        for (i = 0; i < pairs.length; i++) {
-          key = blMailParamKey(pairs[i]);
-          if (key !== "body") continue;
-          hasBody = true;
-          bodyVal = pairs[i].split("=").slice(1).join("=");
-          break;
-        }
-        if (hasBody) built += "&body=" + bodyVal;
-        anchor.setAttribute("href", built + hash);
-        return;
-      }
-      parts = pairs[found].split("=");
-      current = parts.slice(1).join("=");
-      if (!current) {
-        pairs[found] = parts[0] + "=" + inquiry;
-      } else if (!blSubjectAlreadyTagged(current, suffix, encodedSuffix)) {
-        pairs[found] = parts[0] + "=" + current + encodedSuffix;
-      } else {
-        return;
-      }
-      anchor.setAttribute("href", addr + "?" + pairs.join("&") + hash);
+      if (!/^mailto:/i.test(raw)) return;
+      next = blMailHrefWithDefaultSubject(raw, location.pathname);
+      if (next !== raw) anchor.setAttribute("href", next);
     } catch (err) {}
   }
   /* inline-1, inline-2, ... when that data-cta is on more than one anchor.
@@ -2606,7 +2578,11 @@
   document.addEventListener("click", function (e) {
     try {
       var mail = e.target && e.target.closest && e.target.closest("a");
-      if (mail) blTagMailSubject(mail);
+      var href;
+      if (!mail || !mail.getAttribute) return;
+      href = mail.getAttribute("href") || "";
+      if (!/^mailto:/i.test(href)) return;
+      blTagMailSubject(mail);
     } catch (err) {}
   }, { capture: true });
   document.addEventListener("click", function (e) {
