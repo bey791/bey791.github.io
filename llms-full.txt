@@ -14,7 +14,7 @@ Source: https://www.beleaded.com/ . Updated 2026-10-25.
 
 ## Canonical hubs
 
-- [Home](https://www.beleaded.com/): US B2B marketing agency founded by Ahmad Khan. Cold email and appointment setting, LinkedIn, paid social and search, newsletters, AI voice, and M&A deal flow. Programs start from $2,000 a month.
+- [Home](https://www.beleaded.com/): Be Leaded is a US B2B marketing agency founded by Ahmad Khan. Cold email and appointment setting, LinkedIn, paid social and search, newsletters, AI voice, and M&A deal flow. Programs start from $2,000 a month.
 - [Guides hub / blog](https://www.beleaded.com/blog/): Cold email, lead generation and email marketing guides: templates, subject lines, warmup, deliverability, LinkedIn outreach, newsletters and SMS.
 
 ---
