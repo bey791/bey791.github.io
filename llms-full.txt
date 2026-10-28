@@ -12,6 +12,10 @@ Source: https://www.beleaded.com/ . Updated 2026-10-25.
 - Employees: 11 to 50
 - Headquarters: Be Leaded Group LLC, 30 N Gould St #69992, Sheridan, WY 82801, USA
 
+## Canonical hubs
+
+- [Home](https://www.beleaded.com/): US B2B marketing agency founded by Ahmad Khan. Cold email and appointment setting, LinkedIn, paid social and search, newsletters, AI voice, and M&A deal flow. Programs start from $2,000 a month.
+- [Guides hub / blog](https://www.beleaded.com/blog/): Cold email, lead generation and email marketing guides: templates, subject lines, warmup, deliverability, LinkedIn outreach, newsletters and SMS.
 
 ---
 
