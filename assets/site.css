@@ -505,7 +505,12 @@ h3{font-family:var(--text);font-weight:600;font-size:1.2rem;line-height:1.3;lett
 .table thead th{font-size:13px;font-weight:600;color:var(--ink-3);background:var(--paper-2)}
 .table tbody th{font-weight:600;width:24%}
 .table tr:last-child td,.table tr:last-child th{border-bottom:0}
-.table .hl{background:color-mix(in srgb,var(--lime) 22%,var(--card))}
+/* .hl is the hero underline (nowrap, position relative, ::before bar).
+   Tables reuse .hl for the row tint only. Neutralize the hero bits so
+   columns share width and the message can wrap. .table-wrap keeps
+   overflow-x:auto, and .table keeps min-width:640px. */
+.table .hl{background:color-mix(in srgb,var(--lime) 22%,var(--card));position:static;white-space:normal}
+.table .hl::before{content:none}
 .table .num{font-variant-numeric:tabular-nums}
 
 /* ---------- FAQ ---------- */
@@ -685,6 +690,21 @@ h3{font-family:var(--text);font-weight:600;font-size:1.2rem;line-height:1.3;lett
     align-items:center;
     min-height:24px;
   }
+}
+/* Guides is 19 links. From 1001px the last track is 2fr so a 28px column
+   gap has room: the old 184px track wrapped links to 4 lines and broke
+   words. At 390px the same list stays within 2 lines, so small screens
+   get two columns as well. display:block lets columns replace the grid.
+   The li margin replaces the 10px grid gap. The 24px tap target above
+   is unchanged. */
+@media (min-width:1001px){
+  .foot-top{grid-template-columns:minmax(0,1.4fr) repeat(3,minmax(0,1fr)) minmax(0,2fr)}
+  .foot-top > .foot-col:last-child ul{display:block;columns:2;column-gap:28px}
+  .foot-top > .foot-col:last-child li{break-inside:avoid;margin-bottom:10px}
+}
+@media (max-width:1000px){
+  .foot-top > .foot-col:last-child ul{display:block;columns:2;column-gap:28px}
+  .foot-top > .foot-col:last-child li{break-inside:avoid;margin-bottom:10px}
 }
 
 /* ---------- SPA preview only ---------- */
