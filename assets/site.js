@@ -2608,14 +2608,81 @@
       }
     } catch (err) {}
   }
+  /* Page slug for utm_content. Matches the HTML convention: / -> home,
+     /blog/foo/ -> blog-foo. Used only when a Calendly href lacks utm_content. */
+  function blPageContentSlug() {
+    var path;
+    try { path = String(location.pathname || ""); }
+    catch (err) { path = ""; }
+    path = path.replace(/^\/+|\/+$/g, "").replace(/\//g, "-").toLowerCase();
+    path = path.replace(/[^a-z0-9-]/g, "");
+    if (path.length > 60) path = path.slice(0, 60);
+    return path || "home";
+  }
+  function blUtmValue(href, name) {
+    var parsed, p, key;
+    parsed = blQueryParts(href || "");
+    if (!parsed) return "";
+    for (p = 0; p < parsed.parts.length; p++) {
+      key = blMailParamKey(parsed.parts[p]);
+      if (key === name) return blParamDecoded(parsed.parts[p]);
+    }
+    return "";
+  }
+  /* Fill missing UTMs on Calendly anchors only. Existing keys stay byte-identical.
+     Defaults match the site: beleaded / site / inline / page slug. */
+  function blEnsureCalendlyUtms() {
+    try {
+      var links, i, raw, parsed, have, next, p, key, slug, changed, attr;
+      links = document.querySelectorAll('a[href*="calendly.com/ahmad-beleaded"]');
+      slug = "";
+      for (i = 0; i < links.length; i++) {
+        attr = links[i].getAttribute("href") || "";
+        raw = attr;
+        parsed = blQueryParts(raw);
+        if (!parsed) {
+          raw = links[i].href || "";
+          parsed = blQueryParts(raw);
+        }
+        if (!parsed) continue;
+        have = {};
+        for (p = 0; p < parsed.parts.length; p++) {
+          key = blMailParamKey(parsed.parts[p]);
+          if (key) have[key] = true;
+        }
+        if (have.utm_content && have.utm_source && have.utm_medium && have.utm_campaign) continue;
+        if (!slug) slug = blPageContentSlug();
+        changed = false;
+        next = parsed.head + "?";
+        for (p = 0; p < parsed.parts.length; p++) {
+          if (p) next += "&";
+          next += parsed.parts[p];
+        }
+        if (!parsed.parts.length) {
+          next = parsed.head + "?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=" + encodeURIComponent(slug);
+          changed = true;
+        } else {
+          if (!have.utm_source) { next += "&utm_source=beleaded"; changed = true; }
+          if (!have.utm_medium) { next += "&utm_medium=site"; changed = true; }
+          if (!have.utm_campaign) { next += "&utm_campaign=inline"; changed = true; }
+          if (!have.utm_content) { next += "&utm_content=" + encodeURIComponent(slug); changed = true; }
+        }
+        if (!changed) continue;
+        next += parsed.hash;
+        if (next !== attr) links[i].setAttribute("href", next);
+      }
+    } catch (err) {}
+  }
   function blArm404() {
     try {
       if (document.readyState === "loading") {
         document.addEventListener("DOMContentLoaded", function () {
           try { blRewrite404Content(); } catch (err) {}
+          try { blEnsureCalendlyUtms(); } catch (err3) {}
         });
       } else {
         blRewrite404Content();
+        blEnsureCalendlyUtms();
       }
     } catch (err2) {}
   }
@@ -2643,6 +2710,12 @@
       if (isCal) {
         try { clickParams.page_path = location.pathname; }
         catch (errPath) {}
+        try { clickParams.link_url = a.href; }
+        catch (errUrl) {}
+        try {
+          clickParams.utm_content = blUtmValue(a.getAttribute("href") || a.href, "utm_content") || blPageContentSlug();
+        } catch (errUtm) {}
+        clickParams.transport_type = "beacon";
       }
       if (slot) clickParams.cta_slot = slot;
       gtag("event", isCal ? "book_call_click" : "email_click", clickParams);
