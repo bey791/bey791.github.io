@@ -1181,12 +1181,15 @@ html.has-cursor input[type="text"],html.has-cursor textarea,html.has-cursor sele
 html.cur-on .cur,html.cur-on .cur-ring{opacity:1}
 .cur{width:8px;height:8px;background:var(--ink)}
 .cur.dark{background:var(--lime)}
-.cur-ring{width:36px;height:36px;border:1.5px solid color-mix(in srgb,var(--ink) 55%,transparent);display:grid;place-items:center;transition:width .28s var(--ease),height .28s var(--ease),background-color .28s,border-color .28s,opacity .3s}
-.cur-ring.dark{border-color:color-mix(in srgb,var(--lime) 70%,transparent)}
-.cur-ring.on{width:58px;height:58px;background:color-mix(in srgb,var(--lime) 38%,transparent);border-color:var(--lime-3)}
-.cur-ring.on.dark{background:color-mix(in srgb,var(--lime) 22%,transparent)}
-.cur-ring.lbl{width:76px;height:76px;background:var(--lime);border-color:var(--lime)}
-.cur-ring.down{scale:.82}
+.cur-ring{width:36px;height:36px;display:grid;place-items:center;transition:width .28s var(--ease),height .28s var(--ease),opacity .3s}
+.cur-viz{position:absolute;inset:0;border-radius:50%;border:1.5px solid color-mix(in srgb,var(--ink) 55%,transparent);display:grid;place-items:center;transition:background-color .28s,border-color .28s,scale .14s var(--ease)}
+.cur-ring.dark .cur-viz{border-color:color-mix(in srgb,var(--lime) 70%,transparent)}
+.cur-ring.on{width:58px;height:58px}
+.cur-ring.on .cur-viz{background:color-mix(in srgb,var(--lime) 38%,transparent);border-color:var(--lime-3)}
+.cur-ring.on.dark .cur-viz{background:color-mix(in srgb,var(--lime) 22%,transparent)}
+.cur-ring.lbl{width:76px;height:76px}
+.cur-ring.lbl .cur-viz{background:var(--lime);border-color:var(--lime)}
+.cur-ring.down .cur-viz{scale:.82}
 .cur-label{font-size:12.5px;font-weight:600;color:var(--on-lime);opacity:0;transition:opacity .2s;white-space:nowrap}
 .cur-ring.lbl .cur-label{opacity:1}
 

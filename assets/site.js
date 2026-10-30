@@ -760,7 +760,9 @@
     if (reduce || isSmall() || !window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
     var dot = document.createElement("div"); dot.className = "cur";
     var ring = document.createElement("div"); ring.className = "cur-ring";
-    var label = document.createElement("span"); label.className = "cur-label"; ring.appendChild(label);
+    var viz = document.createElement("div"); viz.className = "cur-viz";
+    var label = document.createElement("span"); label.className = "cur-label";
+    viz.appendChild(label); ring.appendChild(viz);
     document.body.appendChild(dot); document.body.appendChild(ring);
     root.classList.add("has-cursor");
     var x = -100, y = -100, rx = -100, ry = -100, raf = 0, seen = false;
