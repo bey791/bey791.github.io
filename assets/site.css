@@ -288,7 +288,7 @@ h3{font-family:var(--text);font-weight:600;font-size:1.2rem;line-height:1.3;lett
 .booked-label{font-weight:700}
 .rot-cap{margin-top:14px;font-size:13px;color:var(--ink-3)}
 .motion .slide.active .pill{animation:tick .45s var(--ease) both}
-.motion .slide.active .pill:nth-child(1){animation-delay:.45s}
+.motion .slide.active .pill:nth-child(1){animation-delay:.1s}
 .motion .slide.active .pill:nth-child(2){animation-delay:.75s}
 .motion .slide.active .pill:nth-child(3){animation-delay:1.05s}
 .motion .slide.active .pill:nth-child(4){animation-delay:1.45s}
@@ -834,7 +834,7 @@ a.nl-img{display:block;text-decoration:none}
 .hero-copy>*:nth-child(2){animation-delay:.08s}
 .hero-copy>*:nth-child(3){animation-delay:.18s}
 .hero-copy>*:nth-child(4){animation-delay:.26s}
-.hero-copy>*:nth-child(5){animation-delay:.34s}
+.hero-copy>*:nth-child(5){animation-delay:.17s}
 .hero-copy h1>.hero-kicker{display:flex;width:100%;align-items:center;font-family:var(--text);font-weight:600;font-size:14px;letter-spacing:.01em;line-height:1.4;color:var(--signal)}
 .hero-map .hero-copy>*{animation-duration:.4s}
 .hero-map .hl::before{animation-duration:.35s;animation-delay:.275s}
@@ -883,13 +883,13 @@ a.nl-img{display:block;text-decoration:none}
 .motion .slide .reply,.motion .slide .booked{opacity:0}
 .motion .slide.active .reply{animation:none}
 .motion .slide.active .booked{animation:none}
-.motion .slide.active.typed .reply{animation:rise .7s var(--ease) both;opacity:1}
-.motion .slide.active.typed .booked{animation:land .8s cubic-bezier(.2,.9,.25,1.15) .9s both;opacity:1}
-.motion .slide.active .pill{animation-delay:.2s}
-.motion .slide.active .pill:nth-child(2){animation-delay:.45s}
-.motion .slide.active .pill:nth-child(3){animation-delay:.7s}
-.motion .slide.active .pill:nth-child(4){animation-delay:1s}
-.motion .rot-tab.run .bar{animation-duration:13s}
+.motion .slide.active.typed .reply{animation:rise .35s var(--ease) both;opacity:1}
+.motion .slide.active.typed .booked{animation:land .4s cubic-bezier(.2,.9,.25,1.15) .45s both;opacity:1}
+.motion .slide.active .pill{animation-delay:.1s}
+.motion .slide.active .pill:nth-child(2){animation-delay:.225s}
+.motion .slide.active .pill:nth-child(3){animation-delay:.35s}
+.motion .slide.active .pill:nth-child(4){animation-delay:.5s}
+.motion .rot-tab.run .bar{animation-duration:6.5s}
 .rot-cap{text-align:center}
 @media (max-width:960px){.rot-tabs{justify-content:center}}
 
