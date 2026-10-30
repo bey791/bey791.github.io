@@ -663,12 +663,13 @@ h3{font-family:var(--text);font-weight:600;font-size:1.2rem;line-height:1.3;lett
 
 /* ---------- Footer ---------- */
 .site-footer{background:var(--night);color:var(--night-ink);position:relative;overflow:hidden}
-.foot-top{display:grid;grid-template-columns:minmax(0,1.4fr) repeat(4,minmax(0,1fr));gap:32px;padding-block:72px 48px}
+.foot-top{display:grid;grid-template-columns:minmax(0,1.3fr) repeat(3,minmax(0,1fr)) minmax(0,1.65fr);gap:32px;padding-block:72px 48px}
 .foot-brand{display:grid;gap:18px;align-content:start}
 .foot-brand .logo{height:28px;color:var(--night-ink)}
 .foot-brand p{font-size:15px;line-height:1.55;color:var(--night-ink-2);max-width:40ch}
 .foot-h{font-size:14px;font-weight:600;color:var(--night-ink);margin-bottom:14px}
 .foot-col ul{display:grid;gap:10px}
+.foot-col:last-of-type ul{grid-template-columns:1fr 1fr;column-gap:16px;row-gap:10px}
 .foot-col a{font-size:15px;color:var(--night-ink-2);text-decoration:none}
 .foot-col a:hover{color:var(--lime)}
 .foot-share{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px;padding-bottom:28px}
@@ -678,8 +679,16 @@ h3{font-family:var(--text);font-weight:600;font-size:1.2rem;line-height:1.3;lett
 .foot-bottom{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px 24px;padding-block:22px 30px;border-top:1px solid var(--night-line);font-size:13.5px;color:var(--night-ink-2)}
 .foot-bottom a{color:var(--night-ink-2)}
 .foot-word{font-family:var(--display);font-weight:650;letter-spacing:-.06em;line-height:.8;font-size:clamp(4rem,2rem + 13vw,15rem);color:var(--night-2);white-space:nowrap;margin-top:8px;margin-bottom:-.12em;user-select:none;pointer-events:none}
-@media (max-width:1000px){.foot-top{grid-template-columns:1fr 1fr}.foot-brand{grid-column:1/-1}}
-@media (max-width:480px){.foot-top{grid-template-columns:1fr}}
+@media (max-width:1000px){
+  .foot-top{grid-template-columns:1fr 1fr}
+  .foot-brand{grid-column:1/-1}
+  .foot-col:last-of-type{grid-column:1/-1}
+}
+@media (max-width:480px){
+  .foot-top{grid-template-columns:1fr}
+  .foot-col:last-of-type{grid-column:auto}
+  .foot-col:last-of-type ul{column-gap:12px}
+}
 /* Footer link tap targets. Applies only under the 1020px mobile breakpoint, so 1021px and up stay on the rules above. */
 @media (max-width:1020px){
   .site-footer .foot-brand a,
@@ -690,21 +699,6 @@ h3{font-family:var(--text);font-weight:600;font-size:1.2rem;line-height:1.3;lett
     align-items:center;
     min-height:24px;
   }
-}
-/* Guides is 19 links. From 1001px the last track is 2fr so a 28px column
-   gap has room: the old 184px track wrapped links to 4 lines and broke
-   words. At 390px the same list stays within 2 lines, so small screens
-   get two columns as well. display:block lets columns replace the grid.
-   The li margin replaces the 10px grid gap. The 24px tap target above
-   is unchanged. */
-@media (min-width:1001px){
-  .foot-top{grid-template-columns:minmax(0,1.4fr) repeat(3,minmax(0,1fr)) minmax(0,2fr)}
-  .foot-top > .foot-col:last-child ul{display:block;columns:2;column-gap:28px}
-  .foot-top > .foot-col:last-child li{break-inside:avoid;margin-bottom:10px}
-}
-@media (max-width:1000px){
-  .foot-top > .foot-col:last-child ul{display:block;columns:2;column-gap:28px}
-  .foot-top > .foot-col:last-child li{break-inside:avoid;margin-bottom:10px}
 }
 
 /* ---------- SPA preview only ---------- */
