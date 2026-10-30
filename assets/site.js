@@ -763,7 +763,7 @@
     var label = document.createElement("span"); label.className = "cur-label"; ring.appendChild(label);
     document.body.appendChild(dot); document.body.appendChild(ring);
     root.classList.add("has-cursor");
-    var x = -100, y = -100, rx = -100, ry = -100, raf = 0;
+    var x = -100, y = -100, rx = -100, ry = -100, raf = 0, seen = false;
     function loop() {
       raf = 0; rx += (x - rx) * 0.34; ry += (y - ry) * 0.34;
       dot.style.transform = "translate(" + x + "px," + y + "px)";
@@ -772,7 +772,15 @@
     }
     document.addEventListener("pointermove", function (e) {
       if (window.blCur) return;
-      x = e.clientX; y = e.clientY; root.classList.add("cur-on");
+      if (!seen) {
+        x = e.clientX; y = e.clientY; rx = e.clientX; ry = e.clientY;
+        dot.style.transform = "translate(" + x + "px," + y + "px)";
+        ring.style.transform = "translate(" + rx.toFixed(1) + "px," + ry.toFixed(1) + "px)";
+        seen = true;
+      } else {
+        x = e.clientX; y = e.clientY;
+      }
+      root.classList.add("cur-on");
       var t = e.target;
       var hot = t.closest ? t.closest("a, button, [role=tab], summary, label.sw, input[type=range], [data-cursor]") : null;
       var lab = "";
@@ -787,9 +795,16 @@
     document.addEventListener("pointerdown", function () { ring.classList.add("down"); });
     document.addEventListener("pointerup", function () { ring.classList.remove("down"); });
     document.documentElement.addEventListener("mouseleave", function () { root.classList.remove("cur-on"); });
-    document.documentElement.addEventListener("mouseenter", function () {
+    document.documentElement.addEventListener("mouseenter", function (e) {
       if (window.blCur) return;
+      if (!seen) return;
+      x = e.clientX; y = e.clientY; rx = e.clientX; ry = e.clientY;
+      dot.style.transform = "translate(" + x + "px," + y + "px)";
+      ring.style.transform = "translate(" + rx.toFixed(1) + "px," + ry.toFixed(1) + "px)";
       root.classList.add("cur-on");
+    });
+    window.addEventListener("pageshow", function (event) {
+      if (event.persisted) { seen = false; root.classList.remove("cur-on"); }
     });
   }
 
