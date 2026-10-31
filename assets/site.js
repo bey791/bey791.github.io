@@ -2420,7 +2420,12 @@
      book_call_click also sends page_path. cta_location, position, and cta
      stay the raw data-cta or utm_campaign from main. When a data-cta value
      repeats, the numbered label (inline-1, inline-2) is added as cta_slot
-     on those events and as bl_last_cta.cta_slot. A unique slot omits cta_slot. */
+     on those events and as bl_last_cta.cta_slot. A unique slot omits cta_slot.
+     book_call_click also sends link_mode. landing_page and first_referrer
+     come from bl_ft when that record exists. audience is sent when
+     data-audience is set. bl_last_cta stores cta, link_mode, landing_page,
+     first_referrer, and audience the same way. position and page_path stay
+     as they are. */
   function campaignOf(href) {
     var i = href.indexOf("?");
     if (i < 0) return "";
@@ -2673,16 +2678,143 @@
       }
     } catch (err) {}
   }
+  /* First touch. bl_ft is written once and kept for 30 days. A still-valid
+     record is never overwritten. A missing record, bad JSON, or a timestamp
+     older than 30 days is written again. utm_source, utm_medium, and
+     utm_campaign are stored only when the landing URL has them. */
+  var blFtMaxAge = 30 * 24 * 60 * 60 * 1000;
+  var blTermPassHadFt = false;
+  function blFirstReferrerHost() {
+    var ref, node, host;
+    try { ref = document.referrer || ""; }
+    catch (err) { return "direct"; }
+    if (!ref || ref.indexOf("://") < 0) return "direct";
+    try {
+      node = document.createElement("a");
+      node.href = ref;
+      host = node.hostname || "";
+      /* Junk that is not a URL resolves against this page. The host has to
+         appear in the referrer string or the referrer is unparseable. */
+      if (!host || ref.toLowerCase().indexOf(String(host).toLowerCase()) < 0) return "direct";
+      return host;
+    } catch (err2) {
+      return "direct";
+    }
+  }
+  function blReadFirstTouch() {
+    var raw, parsed;
+    try { raw = localStorage.getItem("bl_ft"); }
+    catch (err) { return null; }
+    if (!raw) return null;
+    try { parsed = JSON.parse(raw); }
+    catch (err2) { return null; }
+    if (!parsed || typeof parsed !== "object") return null;
+    if (typeof parsed.ts !== "number" || parsed.ts !== parsed.ts) return null;
+    if (Date.now() - parsed.ts > blFtMaxAge) return null;
+    return parsed;
+  }
+  function blCaptureFirstTouch() {
+    var existing, rec, source, medium, campaign;
+    try { existing = blReadFirstTouch(); }
+    catch (err) { existing = null; }
+    if (existing) return existing;
+    try {
+      rec = {
+        landing_page: location.pathname,
+        first_referrer: blFirstReferrerHost()
+      };
+      source = blQueryParam("utm_source");
+      medium = blQueryParam("utm_medium");
+      campaign = blQueryParam("utm_campaign");
+      if (source) rec.utm_source = source;
+      if (medium) rec.utm_medium = medium;
+      if (campaign) rec.utm_campaign = campaign;
+      rec.ts = Date.now();
+      try { localStorage.setItem("bl_ft", JSON.stringify(rec)); }
+      catch (err2) {}
+      return rec;
+    } catch (err3) {
+      return null;
+    }
+  }
+  /* Exact pathname match. These five pages keep GA4 params only. */
+  function blTermPageExcepted() {
+    var path = "";
+    try { path = location.pathname; }
+    catch (err) { return false; }
+    return path === "/" ||
+      path === "/cold-email-agency/" ||
+      path === "/appointment-setting/" ||
+      path === "/guides/best-meeting-booking-company/" ||
+      path === "/paid-social-agency/";
+  }
+  /* utm_term is the first referrer host. Direct, a missing bl_ft, and the
+     five excepted pathnames are left alone. An existing utm_term stays.
+     Other query keys stay byte-identical. */
+  function blAppendCalendlyUtmTerm() {
+    var ft, host, links, i, attr, raw, parsed, next, base, hashAt, p, key, hasTerm;
+    try {
+      if (blTermPageExcepted()) return;
+      ft = blReadFirstTouch();
+      if (!ft || !ft.first_referrer || ft.first_referrer === "direct") return;
+      host = encodeURIComponent(String(ft.first_referrer));
+      links = document.querySelectorAll('a[href*="calendly.com/ahmad-beleaded"]');
+      for (i = 0; i < links.length; i++) {
+        attr = links[i].getAttribute("href") || "";
+        raw = attr;
+        parsed = blQueryParts(raw);
+        if (!parsed) {
+          raw = links[i].href || "";
+          parsed = blQueryParts(raw);
+        }
+        if (parsed) {
+          hasTerm = false;
+          for (p = 0; p < parsed.parts.length; p++) {
+            key = blMailParamKey(parsed.parts[p]);
+            if (key === "utm_term") hasTerm = true;
+          }
+          if (hasTerm) continue;
+          if (!parsed.parts.length) next = parsed.head + "?utm_term=" + host;
+          else next = parsed.head + "?" + parsed.parts.join("&") + "&utm_term=" + host;
+          next += parsed.hash;
+        } else {
+          base = attr.indexOf("calendly.com/ahmad-beleaded") > -1 ? attr : (links[i].href || "");
+          if (!base) continue;
+          hashAt = base.indexOf("#");
+          if (hashAt >= 0) next = base.slice(0, hashAt) + "?utm_term=" + host + base.slice(hashAt);
+          else next = base + "?utm_term=" + host;
+        }
+        if (next !== attr) links[i].setAttribute("href", next);
+      }
+    } catch (err) {}
+  }
+  function blRunCalendlyTermPass() {
+    var ft = null;
+    try { ft = blReadFirstTouch(); }
+    catch (err) { ft = null; }
+    blTermPassHadFt = !!(ft && ft.first_referrer);
+    blAppendCalendlyUtmTerm();
+  }
+  /* Plain left click is the popup path. A modifier, another button, or a
+     failed popup script opens a new tab instead. */
+  function blCalLinkMode(e) {
+    if (e && (e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey)) return "new_tab";
+    if (blBad) return "new_tab";
+    return "popup";
+  }
+  blCaptureFirstTouch();
   function blArm404() {
     try {
       if (document.readyState === "loading") {
         document.addEventListener("DOMContentLoaded", function () {
           try { blRewrite404Content(); } catch (err) {}
           try { blEnsureCalendlyUtms(); } catch (err3) {}
+          try { blRunCalendlyTermPass(); } catch (err4) {}
         });
       } else {
         blRewrite404Content();
         blEnsureCalendlyUtms();
+        blRunCalendlyTermPass();
       }
     } catch (err2) {}
   }
@@ -2696,18 +2828,31 @@
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest('a[href*="calendly.com/ahmad-beleaded"], a[href^="mailto:"]');
     if (!a) return;
+    if (!blTermPassHadFt) {
+      try {
+        var ftLate = blReadFirstTouch();
+        if (ftLate && ftLate.first_referrer) {
+          blAppendCalendlyUtmTerm();
+          blTermPassHadFt = true;
+        }
+      } catch (errLate) {}
+    }
     var isCal = a.href.indexOf("calendly.com") > -1;
     var cta = a.getAttribute("data-cta");
     var slot = "";
+    var linkMode = "";
     try {
       if (cta) slot = blCtaSlot(a) || "";
     } catch (errSlot) {}
+    if (isCal) linkMode = blCalLinkMode(e);
     if (typeof gtag === "function") {
       var clickParams = {
         cta_location: cta || "unlabeled",
         link_text: (a.textContent || "").trim().slice(0, 60)
       };
       if (isCal) {
+        var ftClick = null;
+        var audience = "";
         try { clickParams.page_path = location.pathname; }
         catch (errPath) {}
         try { clickParams.link_url = a.href; }
@@ -2716,6 +2861,14 @@
           clickParams.utm_content = blUtmValue(a.getAttribute("href") || a.href, "utm_content") || blPageContentSlug();
         } catch (errUtm) {}
         clickParams.transport_type = "beacon";
+        clickParams.link_mode = linkMode;
+        try { ftClick = blReadFirstTouch(); }
+        catch (errFt) { ftClick = null; }
+        if (ftClick && ftClick.landing_page) clickParams.landing_page = ftClick.landing_page;
+        if (ftClick && ftClick.first_referrer) clickParams.first_referrer = ftClick.first_referrer;
+        try { audience = a.getAttribute("data-audience") || ""; }
+        catch (errAud) { audience = ""; }
+        if (audience) clickParams.audience = audience;
       }
       if (slot) clickParams.cta_slot = slot;
       gtag("event", isCal ? "book_call_click" : "email_click", clickParams);
@@ -2735,7 +2888,18 @@
         page_path: pagePath,
         ts: Date.now()
       };
+      var ftStored = null;
+      var audStored = "";
       if (slot) stored.cta_slot = slot;
+      if (cta) stored.cta = cta;
+      stored.link_mode = linkMode;
+      try { ftStored = blReadFirstTouch(); }
+      catch (errFtStore) { ftStored = null; }
+      if (ftStored && ftStored.landing_page) stored.landing_page = ftStored.landing_page;
+      if (ftStored && ftStored.first_referrer) stored.first_referrer = ftStored.first_referrer;
+      try { audStored = a.getAttribute("data-audience") || ""; }
+      catch (errAudStore) { audStored = ""; }
+      if (audStored) stored.audience = audStored;
       localStorage.setItem("bl_last_cta", JSON.stringify(stored));
     } catch (err) {}
   }, { capture: true });
