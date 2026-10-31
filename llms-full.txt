@@ -13636,17 +13636,6 @@ Hand the outbound piece to a partner when referrals are lumpy, when nobody owns 
 
 ## Questions brokers ask about getting leads
 
-
-## Related
-
-Confidential owner outreach for brokers and advisors: M&A deal flow (https://www.beleaded.com/m-and-a-deal-flow/). 
- Service page for the same audience: M&A advisors and business brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/). 
- Deep tactics for owner timing and data: owner research for advisors and buyers (https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/). 
- Buy side of an active listing: the buyer sourcing guide (https://www.beleaded.com/guides/how-business-brokers-find-buyers/). 
- Other buyer guides live in our guides index (https://www.beleaded.com/guides/).
-
-## Questions brokers ask about getting leads
-
 ### How do business brokers get leads?
 Business brokers get leads from CPA, attorney and banker referrals, listing sites, networking, direct mail, SEO and valuation offers, and outbound email or calling to owners who have not listed yet. Referrals convert well but arrive in waves. Controllable volume usually comes from owner outreach. Done for you seller deal flow covers that outbound piece.
 
@@ -13664,6 +13653,14 @@ A done for you track that reaches owners who may sell or want an exit valuation 
 
 ### How is getting seller leads different from finding buyers?
 Seller leads create the mandate. Finding buyers fills a listing you already have. The buyer sourcing guide covers that side of the work.
+
+## Related
+
+Confidential owner outreach for brokers and advisors: M&A deal flow (https://www.beleaded.com/m-and-a-deal-flow/). 
+ Service page for the same audience: M&A advisors and business brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/). 
+ Deep tactics for owner timing and data: owner research for advisors and buyers (https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/). 
+ Buy side of an active listing: the buyer sourcing guide (https://www.beleaded.com/guides/how-business-brokers-find-buyers/). 
+ Other buyer guides live in our guides index (https://www.beleaded.com/guides/).
 
 Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=how-business-brokers-get-leads)
 
