@@ -4707,7 +4707,7 @@ Across 30-plus client programs, the order is placement, list, ask, then volume. 
 
 If placement is clean and the ask is one question, a low rate is usually the offer or the market. Read the noes. If they do not recognize the problem, change the segment or the offer and hold it still. A low rate on a new domain is not a verdict on the copy: finish warmup, then judge the words.
 
-If the team will not keep the definition, the suppression list, and the weekly read, a cold email program can run the file, the inboxes, and the replies. You still approve who counts as a fit, and you still approve the lines. Scope starts on a call. We do not name a reply rate before the market is clear, because the honest number depends on the offer and the buyers. Appointment setting is the same motion when the outcome you want is a qualified meeting on the calendar.
+If the team will not keep the definition, the suppression list, and the weekly read, a cold email program can run the file, the inboxes, and the replies. If the gap is people rather than process, outsourced SDRs (https://www.beleaded.com/outsourced-sdr-team/) can work the replies and follow-ups too. You still approve who counts as a fit, and you still approve the lines. Scope starts on a call. We do not name a reply rate before the market is clear, because the honest number depends on the offer and the buyers. Appointment setting is the same motion when the outcome you want is a qualified meeting on the calendar.
 
 ## FAQ
 
@@ -6457,7 +6457,7 @@ Email carries the volume. LinkedIn carries the name. Never send both the same da
 
 ## How a program runs this
 
-A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send 400K+ emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28.
+A follow-up cannot save a first email that never lands. We send from separate domains with SPF, DKIM and DMARC, warmed first. A program takes about three weeks to launch. Infrastructure can send 400K+ emails a day at a 99% delivery rate. That is for more of the right people, not for touches past day 28. If nobody on your team has the hours to send touch 4 on day 11, an outsourced sales development team (https://www.beleaded.com/outsourced-sdr-team/) can run the full cadence.
 
 We run 30-plus client programs from the US and judge replies and meetings, not opens. The bands are in the cold email benchmarks guide. If you are hiring, use the cold email agency scorecard, including whether follow-ups are written or just bumps. Programs start from $2,000 a month, scoped on the cold email program page.
 
@@ -7457,7 +7457,7 @@ Start from the number of prospects you want to reach each month and the number o
 
 Divide the daily figure by 35 emails per inbox, then by two or three inboxes per domain.
 
-Replies and bounces remove people from the sequence, so real send counts run 15% to 25% under these figures. Even so, the table makes the point: reaching tens of thousands of prospects a month is an infrastructure job, not a copy job. It's why our sending infrastructure (https://www.beleaded.com/cold-email-agency/) is built to carry more than 400,000 emails a day across many domains, and why no single inbox in it sends more than a few dozen.
+Replies and bounces remove people from the sequence, so real send counts run 15% to 25% under these figures. Even so, the table makes the point: reaching tens of thousands of prospects a month is an infrastructure job, not a copy job. It's why our sending infrastructure (https://www.beleaded.com/cold-email-agency/) is built to carry more than 400,000 emails a day across many domains, and why no single inbox in it sends more than a few dozen. When you compare outside firms, ask each one how many inboxes and domains it runs per client. The B2B lead generation agencies we compared (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/) are a good starting list.
 
 ## Ramp, don't switch on
 
@@ -7758,7 +7758,7 @@ No link, no pitch, one question. The reply tells you whether there's a conversat
 
 ## Timing LinkedIn with email
 
-LinkedIn works best as the second channel in a sequence, so the prospect sees a familiar name when the email arrives.
+LinkedIn works best as the second channel in a sequence, so the prospect sees a familiar name when the email arrives. LinkedIn and Meta ads aimed at the same titles can warm them up before the first note, and our B2B paid social program (https://www.beleaded.com/paid-social-agency/) runs that side.
 
 | Day | Channel | Touch |
 | 1 | Email | First email, one question |
@@ -7932,7 +7932,7 @@ Paid search produces leads within days. Cold email and LinkedIn take two to four
 
 **Should we hire an agency or do it in-house?**
 
-An agency is faster to start and brings the infrastructure and data. In-house makes sense once a channel is proven and the volume justifies a full-time person. Many companies prove the channel with a B2B lead generation agency (https://www.beleaded.com/lead-generation-services/) first. Ten of them are compared side by side in best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
+An agency is faster to start and brings the infrastructure and data. In-house makes sense once a channel is proven and the volume justifies a full-time person. If the gap is reps rather than a channel, an outsourced SDR service (https://www.beleaded.com/outsourced-sdr-team/) covers prospecting and follow-up without a full-time hire. Many companies prove the channel with a B2B lead generation agency (https://www.beleaded.com/lead-generation-services/) first. Ten of them are compared side by side in best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
 
 ## Sources
 
