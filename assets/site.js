@@ -2748,9 +2748,25 @@
       path === "/guides/best-meeting-booking-company/" ||
       path === "/paid-social-agency/";
   }
+  /* Nav slot: data-cta nav, utm_campaign nav, or an anchor inside header or nav.
+     The href rewrite leaves those links alone on every page. */
+  function blNavSlotLink(anchor) {
+    var href, campaign;
+    try {
+      if (!anchor || !anchor.getAttribute) return false;
+      if (anchor.closest && anchor.closest("header, nav")) return true;
+      if (anchor.getAttribute("data-cta") === "nav") return true;
+      href = anchor.getAttribute("href") || "";
+      campaign = campaignOf(href);
+      if (campaign !== "nav" && anchor.href) campaign = campaignOf(anchor.href);
+      return campaign === "nav";
+    } catch (err) {
+      return false;
+    }
+  }
   /* utm_term is the first referrer host. Direct, a missing bl_ft, and the
-     five excepted pathnames are left alone. An existing utm_term stays.
-     Other query keys stay byte-identical. */
+     five excepted pathnames are left alone. Nav slot links are left alone.
+     An existing utm_term stays. Other query keys stay byte-identical. */
   function blAppendCalendlyUtmTerm() {
     var ft, host, links, i, attr, raw, parsed, next, base, hashAt, p, key, hasTerm;
     try {
@@ -2760,6 +2776,7 @@
       host = encodeURIComponent(String(ft.first_referrer));
       links = document.querySelectorAll('a[href*="calendly.com/ahmad-beleaded"]');
       for (i = 0; i < links.length; i++) {
+        if (blNavSlotLink(links[i])) continue;
         attr = links[i].getAttribute("href") || "";
         raw = attr;
         parsed = blQueryParts(raw);
