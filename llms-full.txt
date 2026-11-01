@@ -8831,6 +8831,10 @@ It depends on your stage. An agency is faster to start and includes infrastructu
 
 Emails sent, bounces, replies, meetings booked and what's changing next. Every reply should be visible to you in full.
 
+**What should be written in the contract before you sign?**
+
+Name who owns the sending domains and mailboxes, how a qualified meeting is defined, when sends pause on bounce or complaint spikes, who owns the data and copy on exit, and the notice period. Ask for those five points in writing. Verbal promises on volume or meetings do not replace them.
+
 ## Sources
 
 - The Bridge Group, SDR Models, Motions and Metrics: 2025 Research Report
