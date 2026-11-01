@@ -4834,6 +4834,8 @@ Be Leaded runs this diagnosis on infrastructure with capacity for 400,000+ email
 
   What is the difference between spam and a bounce?Spam, or junk, means the server accepted the message and filed it as unwanted. A bounce means the server refused the message. Google documents unauthenticated mail being rejected with a 5.7.26 error. A refusal points to authentication, policy, or a blocklist. Spam placement can also come from volume, complaints, or the content.
 
+  What Google Postmaster spam rate should make me pause cold email?Stop that inbox when Postmaster Tools shows the spam rate climbing toward 0.3%, or when domain reputation falls. Clean the list and consent trail first. Retest with messages you own at Gmail, Yahoo, and Outlook.com, then restart at a low daily volume. Yahoo also expects a complaint rate under 0.3%.
+
 ## Sources
 
 - Google, Email sender guidelines
