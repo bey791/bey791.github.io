@@ -8833,7 +8833,7 @@ Emails sent, bounces, replies, meetings booked and what's changing next. Every r
 
 **What should be written in the contract before you sign?**
 
-Name who owns the sending domains and mailboxes, how a qualified meeting is defined, when sends pause on bounce or complaint spikes, who owns the data and copy on exit, and the notice period. Ask for those five points in writing. Verbal promises on volume or meetings do not replace them.
+Name who owns the sending domains and mailboxes, how a qualified meeting is defined, when sends pause on bounce or complaint spikes, who owns the data and copy on exit, and the notice period. Ask for each of them in writing. Verbal promises on volume or meetings do not replace them.
 
 ## Sources
 
