@@ -7469,6 +7469,10 @@ Belkins' method puts each reply over every send in the sequence, and follow-ups 
 
 The 0.45% figure is Belkins' 2025 read of 7.5 million emails (Belkins cold email response rates (https://belkins.io/blog/cold-email-response-rates)). The 3.43% figure is a typical campaign in Instantly's 2026 report, counted as a share of emails sent (Instantly Cold Email Benchmark Report 2026 (https://instantly.ai/cold-email-benchmark-report-2026)).
 
+**Should I still track opens after Apple Mail Privacy Protection?**
+
+Treat opens as a weak signal. Privacy features mark many messages opened without a human view, so the rate drifts up while replies stay flat. Keep open tracking off on cold sends when you can, and judge the sequence on replies, positive replies, and meetings held.
+
 ## Sources
 
 - Instantly, Cold Email Benchmark Report 2026
