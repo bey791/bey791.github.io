@@ -4448,7 +4448,7 @@ Lead generation
 
 # Hire an SDR or outsource? What the 2025 benchmarks show
 
-By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026. 7 min read.
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated November 5, 2026. 7 min read.
 
 A new SDR takes 3.0 months on average to ramp, earns a median $80,000 on target, stays 1.9 years, and 40% of SDR seats turned over in 2024. Those are The Bridge Group's figures from a survey of 351 B2B companies, published February 6, 2025. Here is what each number covers and what it leaves out.
 
@@ -5953,7 +5953,7 @@ Cold email
 
 # How to book more SaaS demos with cold email
 
-By Ahmad Khan, founder of Be Leaded. Updated October 20, 2026. 9 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026. 9 min read.
 
 Want demos booked for your AEs instead? Book a 30-minute call.
 
@@ -7021,7 +7021,7 @@ Deliverability
 
 # SPF, DKIM and DMARC setup for cold email
 
-By Ahmad Khan, founder of Be Leaded. Updated October 18, 2026. 10 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026. 10 min read.
 
 Want this set up on your domains for you?
 
@@ -7285,7 +7285,7 @@ Deliverability
 
 # How to warm up an email domain: the 21-day schedule we use
 
-By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026. 4 min read.
 
 The short answer: Warming up an email domain means sending a small, rising volume of real-looking email from a new inbox for two to three weeks so mailbox providers learn it's legitimate before it carries cold volume. Set up SPF, DKIM and DMARC first, start at 5 to 10 emails a day, add a few each day, keep warmup running at a low level after launch, and never let a new inbox send more than about 30 to 50 cold emails a day. The full schedule is below.
 
