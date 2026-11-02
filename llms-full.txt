@@ -2893,7 +2893,6 @@ Professional services
 # Lead generation for professional services firms
 
 People hire firms they already know. We put your partners in front of the right companies on LinkedIn and by email with something useful, not a pitch, then keep a newsletter going so you're the firm they think of when the need arrives.
-A close cousin is deal-side work for advisors. See outreach for M&A advisors and brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/) when the buyer is a business owner or a mandate, not a professional services client.
 
 Programs start from $2,000 a month
 
@@ -2969,6 +2968,8 @@ Yes. We write issues that answer the questions clients ask in the first meeting,
 **How do you handle professional rules on solicitation?**
 
 We follow your firm's guidance and your state's rules on marketing, and we'll flag anything in the copy that needs a compliance look before it sends.
+
+A close cousin is deal-side work for advisors. See outreach for M&A advisors and brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/) when the buyer is a business owner or a mandate, not a professional services client.
 
 ## Tell us who you want to meet.
 
