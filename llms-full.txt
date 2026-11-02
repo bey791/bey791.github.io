@@ -3448,7 +3448,7 @@ Cybersecurity
 
 # Cybersecurity lead generation for vendors who need CISO meetings
 
-Cybersecurity lead generation means reaching CISOs, SecOps, GRC and IT leaders with credible outbound and booking meetings your sales team will take. Be Leaded runs cold email, LinkedIn outreach, cold calling and meeting booking for security vendors. You set the ICP. Our human team handles list building, copy, replies and the calendar.
+Cybersecurity lead generation means reaching CISOs, SecOps, GRC and IT leaders with credible outbound and booking meetings your sales team will take. Be Leaded runs cold email, LinkedIn outreach, cold calling and meeting booking for security vendors. You set the ICP. Our team handles list building, copy, replies and the calendar.
 
  Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=industries-cybersecurity)
  See pricing (https://www.beleaded.com/pricing/)
@@ -3502,7 +3502,7 @@ We avoid hype and invented threat theater. Security buyers tune those out. Your 
 
 ## How a Be Leaded program runs
 
-Operators on Be Leaded's human team own delivery. Tools help with research and sending. People own list quality, copy, replies and booking.
+Tools help with research and sending. People own list quality, copy, replies and booking.
 
 - **ICP in writing.** Titles, size, industries, exclusions and what counts as a qualified meeting.
 
@@ -3514,7 +3514,7 @@ Operators on Be Leaded's human team own delivery. Tools help with research and s
 
 - **Meeting booking.** Qualify replies, propose times and hand your AE a held meeting with context.
 
-Sending capacity for active work sits at 400K+ Emails a day of sending capacity. Delivery rate across programs is about 99 percent. More than thirty Client programs run with our human team. Your contact file and reply threads stay yours.
+Sending capacity for active work sits at 400K+ Emails a day of sending capacity. Delivery rate across programs is about 99 percent. More than thirty client programs run with our team. Your contact file and reply threads stay yours.
 
 Related delivery pages: cold email agency (https://www.beleaded.com/cold-email-agency/), LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/), appointment setting (https://www.beleaded.com/appointment-setting/) and outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/).
 
@@ -3536,15 +3536,12 @@ Often SecOps, GRC, IT directors and procurement share budget or influence. You d
 
 **Which channels does Be Leaded run for cyber vendors?**
 
-Cold email, LinkedIn outreach, cold calling and meeting booking. The human team writes copy, handles replies and sets the calendar hold. You approve the ICP and meeting definition before anything sends, and every reply thread stays visible to your team.
+Cold email, LinkedIn outreach, cold calling and meeting booking. The team writes copy, handles replies and sets the calendar hold. You approve the ICP and meeting definition before anything sends, and every reply thread stays visible to your team.
 
 **How is this different from a generic B2B SaaS outbound program?**
 
 Security buyers expect precise scope, proof and low hype. Messaging stays concrete about the problem, the environment and the next step. Lists and copy follow security seats and audit timing. For horizontal software demos that are not security-led, see our B2B SaaS page.
 
-**Do AI agents run the client delivery?**
-
-No. Be Leaded's human operators run research, copy, outreach, reply handling and booking. Tools support the work. People own the program. Agents are not the delivery team for client outreach, reply screening or calendar holds on your live client programs.
 
 **Is this page for MSPs booking local owners?**
 
