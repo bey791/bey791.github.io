@@ -3514,7 +3514,7 @@ Tools help with research and sending. People own list quality, copy, replies and
 
 - **Meeting booking.** Qualify replies, propose times and hand your AE a held meeting with context.
 
-Security buyers check every claim, so here is ours. The sending side is built for 400K+ emails a day. Delivery holds at 99% on average. More than 30 client programs run on the same setup. You own the list and every reply.
+Security buyers check every claim, so we keep ours plain. Your reports show what was sent, who replied and which meetings were booked. You own the list and every reply.
 
 Related delivery pages: cold email agency (https://www.beleaded.com/cold-email-agency/), LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/), appointment setting (https://www.beleaded.com/appointment-setting/) and outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/).
 
