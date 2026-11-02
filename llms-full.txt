@@ -5990,7 +5990,7 @@ Reply rate, positive reply rate, demos booked, and show rate, every week. Keep d
 
 **Should a SaaS company hire a cold email agency or build the program in house?**
 
-Build it in house if someone will own the list, the inboxes, and same-day booking. Hire when account executives should be on demos. Programs start from $2,000 a month.
+Build it in house if someone will own the list, the inboxes, and same-day booking. Hire when account executives should be on demos. Programs start from $2,000 a month. If Belkins is on the list, Belkins vs Be Leaded on contract terms (https://www.beleaded.com/guides/be-leaded-vs-belkins/) compares the two.
 
 **What counts as a qualified SaaS demo?**
 
@@ -7062,7 +7062,7 @@ When placement drops, sample a live header again. A DNS edit, a rotated selector
 
   Does BIMI help cold email land in the inbox?No. BIMI can show a logo. It does not repair a failing SPF, DKIM, or DMARC check. Gmail shows the logo only when DMARC is at quarantine or reject with pct=100 and a mark certificate is published, which is the wrong first step for a new cold email domain.
 
-  Should I authenticate before email warmup?Yes. Warmup builds sending history. It does not publish DNS. Confirm SPF, DKIM, and DMARC pass on a test to a mailbox you control, then start the warmup schedule. If you change a record during warmup, test again before you raise volume.
+  Should I authenticate before email warmup?Yes. Warmup builds sending history. It does not publish DNS. Confirm SPF, DKIM, and DMARC pass on a test to a mailbox you control, then start the warmup schedule. If you change a record during warmup, test again before you raise volume. When an agency runs the domains, ask it to show these checks passing before launch; how to choose a cold email agency (https://www.beleaded.com/guides/choosing-a-cold-email-agency/) lists that question.
 
 ## Sources
 
@@ -7199,7 +7199,7 @@ Start at 5 to 10 a day and rise to 30 to 40 by the third week. After launch, kee
 
 **Can I warm up my main company domain?**
 
-You can, but you shouldn't send cold email from it. If the domain's reputation drops, every invoice, support reply and internal email your company sends suffers. Use separate sending domains.
+You can, but you shouldn't send cold email from it. If the domain's reputation drops, every invoice, support reply and internal email your company sends suffers. Use separate sending domains. If a vendor will set up the domains for you, what to ask before hiring a cold email agency (https://www.beleaded.com/guides/choosing-a-cold-email-agency/) covers the domain questions.
 
 **Should I stop warmup after it's done?**
 
