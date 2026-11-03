@@ -13320,7 +13320,6 @@ On this page
 - When a switch makes sense (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-switch)
 - Alternatives by the job (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-alts)
 - When email-first fits (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-email)
-- What Be Leaded publishes on capacity (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-proof)
 - Questions (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-faq)
 - Related (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-related)
 - Sources (https://www.beleaded.com/guides/memoryblue-alternatives/#h-mb-sources)
@@ -13381,8 +13380,6 @@ Be Leaded runs done-for-you outbound that books meetings on your calendar. Email
 ## When an email-first meetings program fits
 
 Choose email-first when your buyers reply in writing, your offer is clear in a short sequence and you want a cancel-friendly calendar fill without staffing a full phone bench. Keep a dedicated calling team when live conversations are the main path to a qualified meeting in your market, or when you are using the vendor as a tryout for a future hire. Many teams run both shapes in different segments. The wrong move is forcing one model to do the other's job.
-
-## What Be Leaded publishes on capacity
 
 ### Book meetings after you switch
 
