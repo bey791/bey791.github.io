@@ -396,7 +396,7 @@ Most clients start with one and add a second once the first is producing. Start 
 | Paid social and search | Local services and B2B offers people search for | Leads followed up within minutes, reported by cost per appointment | $2,000 a month plus ad spend |
 | Newsletters, email and SMS | Brands and B2B companies with a list to work | Newsletters people open, plus lifecycle email and SMS | $2,000 a month |
 | AI voice follow-up | Anyone getting inbound leads who can't call back in five minutes | Every lead called within a minute and booked | $2,000 a month plus usage |
-| Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale or valuation | $2,000 a month |
+| Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale (https://www.beleaded.com/guides/how-business-brokers-get-leads/) or valuation | $2,000 a month |
 | Cold calling services | B2B teams that want phone outreach alongside email and LinkedIn | Qualified calls booked on your calendar | $2,000 a month |
 | Demand generation | B2B companies that want outbound, paid social and newsletters in one plan | Booked calls from one plan | $2,000 a month |
 
@@ -3764,7 +3764,7 @@ M&A advisory and business brokerage
 
 #### The brief
 
-Advisors and brokers wanted more owner conversations than referrals could supply, without a single email that would embarrass the firm in front of an owner.
+Advisors and brokers wanted more owner conversations (https://www.beleaded.com/guides/how-business-brokers-get-leads/) than referrals could supply, without a single email that would embarrass the firm in front of an owner.
 
 #### What we built
 
@@ -8418,7 +8418,7 @@ Replies fall into four groups: curious, not now, angry, and serious. Only the la
 
 ## What a program produces
 
-Owner outreach replies at lower rates than B2B cold email because the ask is bigger, but the replies are worth far more. A realistic expectation for a well-researched list is a handful of owner conversations a month per mandate, growing as the "not now" pile matures. This is the process behind our off-market deal flow program for M&A advisors, business brokers and buyers. We start the conversations. Your team runs the deal.
+Owner outreach (https://www.beleaded.com/guides/how-business-brokers-get-leads/) replies at lower rates than B2B cold email because the ask is bigger, but the replies are worth far more. A realistic expectation for a well-researched list is a handful of owner conversations a month per mandate, growing as the "not now" pile matures. This is the process behind our off-market deal flow program for M&A advisors, business brokers and buyers. We start the conversations. Your team runs the deal.
 
 ## FAQ
 
@@ -12520,7 +12520,7 @@ Related: https://www.beleaded.com/lead-generation-services/ https://www.beleaded
 
 ---
 
-Advisors and brokers who need business owners reached on a mandate should start with off-market deal flow (https://www.beleaded.com/m-and-a-deal-flow/), which is built for confidential owner outreach.
+Advisors and brokers who need business owners reached on a mandate (https://www.beleaded.com/guides/how-business-brokers-get-leads/) should start with off-market deal flow (https://www.beleaded.com/m-and-a-deal-flow/), which is built for confidential owner outreach.
 
 
 URL: https://www.beleaded.com/demand-generation-agency/
