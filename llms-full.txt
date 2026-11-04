@@ -8,6 +8,7 @@ Source: https://www.beleaded.com/ . Updated 2026-10-25.
 
 - Clutch profile: https://clutch.co/profile/be-leaded
 - Company LinkedIn: https://www.linkedin.com/company/beleaded
+- Agency Field Guide profile: https://agencyfieldguide.com/agency/be-leaded
 - Founded: 2023
 - Employees: 11 to 50
 - Headquarters: Be Leaded Group LLC, 30 N Gould St #69992, Sheridan, WY 82801, USA
