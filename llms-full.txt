@@ -2040,6 +2040,10 @@ Read the guide (https://www.beleaded.com/guides/how-business-brokers-find-buyers
 Industry page for advisors and brokers, with this buyer track as an optional second program.
 See the page (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/)
 
+### Where broker mandates come from
+For the seller side of the business, this guide maps how brokers find owners ready to list.
+Read the guide (https://www.beleaded.com/guides/how-business-brokers-get-leads/)
+
 ## Tell us which listings need buyers.
 
 Thirty minutes with the founder. You leave knowing how the buy side looks for your listings, what a campaign would look like, and whether this track fits your firm.
@@ -2113,7 +2117,7 @@ Not on the list?
 
 ## We've run programs in a dozen more.
 
-Consumer brands, retail, apparel, automotive, building materials, advertising, education and more. If your buyer can be named and reached, the approach is the same.
+Consumer brands, retail, apparel, automotive, building materials, advertising, education and more. If your buyer can be named and reached, the approach is the same. Distributors and wholesalers buying ads have a page of their own: Meta ads for distributors and wholesalers (https://www.beleaded.com/meta-ads-for-distributors/).
 
 - A clear buyer and a deal worth a conversation
 - Someone on your side to take the meetings
@@ -11754,7 +11758,7 @@ Is an agency better than hiring an SDR?
 A firm can begin sooner because the list, the sending setup, and the tools come with the program. Hiring fits after outbound is already working and someone on your side can run the seat.
 
 Do you do inbound lead generation?
-Our core is outbound. For ads and landing pages see paid social.
+Our core is outbound. For ads and landing pages see paid social, and for wholesale and distribution brands see Meta ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/).
 
 What is outsourced lead generation?
 Outsourced lead generation means our team runs the list, the writing, and the replies, while you keep the buyer definition and the meetings. The founder joins the first call. You approve a list sample, the copy, and which calendar receives the booking.
