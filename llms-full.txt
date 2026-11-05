@@ -1289,7 +1289,7 @@ Updated November 15, 2026
 
 Be Leaded builds Google search programs for B2B teams whose buyers already type a buying problem into the search box. We group keywords by intent, keep negatives fresh each week, ship a focused landing URL with consent, wire conversion tracking in the first build week, and start a reply path the same hour a form lands.
 
-Google Ads for B2B lead generation is the paid search track inside Meta Ads and Google Ads (https://www.beleaded.com/paid-social-agency/). High intent queries, match types kept tight, negatives reviewed weekly, a short capture form with consent, and a human or voice reply while the request is still warm. Social reach lives on Meta Ads for B2B (https://www.beleaded.com/meta-ads-for-b2b/) and on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/). Search next to outbound and newsletters lives under demand generation (https://www.beleaded.com/demand-generation-agency/).
+Google Ads for B2B lead generation is the paid search track inside Meta Ads and Google Ads (https://www.beleaded.com/paid-social-agency/). High intent queries, match types kept tight, negatives reviewed weekly, a short capture form with consent, and a human or voice reply while the request is still warm. Social reach lives on Meta Ads for B2B and on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/). Search next to outbound and newsletters lives under demand generation (https://www.beleaded.com/demand-generation-agency/).
 
 Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=hero&utm_content=google-ads-for-b2b)
 Browse the build
@@ -1319,7 +1319,7 @@ Search shines once buyers are already looking. Meta and outbound fit when demand
 
 ### Meta or outbound fit better when
 
-- Nobody is searching yet and you need reach first. That is Meta Ads for B2B (https://www.beleaded.com/meta-ads-for-b2b/) or the distributor vertical on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/)
+- Nobody is searching yet and you need reach first. That is Meta Ads for B2B or the distributor vertical on Meta Ads for distributors (https://www.beleaded.com/meta-ads-for-distributors/)
 - You need a verified list and a first email before anyone raises a hand. That is B2B lead generation (https://www.beleaded.com/lead-generation-services/)
 - Titles and company lists matter more than search queries. That is LinkedIn ads on our paid media service (https://www.beleaded.com/paid-social-agency/) and LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/). For LinkedIn Ads vs Meta Ads for B2B, see the comparison page
 - You want search, outbound and newsletters aimed at the same accounts. That is demand generation (https://www.beleaded.com/demand-generation-agency/)
@@ -1502,7 +1502,7 @@ Related
 
 Facebook and Instagram for B2B offers that fit one screen, with CRM seeds and site visitor pools.
 
-See Meta for B2B (https://www.beleaded.com/meta-ads-for-b2b/)
+See Meta for B2B
 Related
 
 ### Meta Ads for distributors
