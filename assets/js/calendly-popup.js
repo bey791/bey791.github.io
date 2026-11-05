@@ -442,11 +442,13 @@ document.addEventListener("keydown", function (e) {
    bl_last_cta is JSON. position is sent only when that JSON parses and
    position is a non-empty string of 32 characters or fewer.
    An empty string, a bad value, or a missing position sends unknown.
-   The event payload is exactly position and page_path. page_path is location.pathname.
+   page_path is location.pathname.
+   cta_slot, link_mode, landing_page, first_referrer, and audience are added
+   only when that same JSON has a non-empty string for them.
    Invitee fields from the Calendly message are never read or sent. */
 var bookMeetingSent = false;
 window.addEventListener("message", function (event) {
-  var data, position, stored, parsed;
+  var data, position, stored, parsed, meeting, extraKeys, extraI, extraKey, extraVal;
   if (!beleadedHost()) return;
   if (!event || event.origin !== "https://calendly.com") return;
   data = event.data;
@@ -454,14 +456,26 @@ window.addEventListener("message", function (event) {
   if (bookMeetingSent) return;
   bookMeetingSent = true;
   position = "unknown";
+  parsed = null;
   try {
     stored = window.localStorage.getItem("bl_last_cta");
     if (stored) {
       parsed = JSON.parse(stored);
       if (parsed && typeof parsed.position === "string" && parsed.position && parsed.position.length <= 32) position = parsed.position;
     }
-  } catch (err) {}
-  if (typeof gtag === "function") gtag("event", "book_meeting", { position: position, page_path: location.pathname });
+  } catch (err) {
+    parsed = null;
+  }
+  meeting = { position: position, page_path: location.pathname };
+  extraKeys = ["cta_slot", "link_mode", "landing_page", "first_referrer", "audience"];
+  if (parsed) {
+    for (extraI = 0; extraI < extraKeys.length; extraI++) {
+      extraKey = extraKeys[extraI];
+      extraVal = parsed[extraKey];
+      if (typeof extraVal === "string" && extraVal) meeting[extraKey] = extraVal;
+    }
+  }
+  if (typeof gtag === "function") gtag("event", "book_meeting", meeting);
 });
 
   window.blCalendlyPreload = function (anchor) {
