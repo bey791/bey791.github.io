@@ -396,7 +396,7 @@ Most clients start with one and add a second once the first is producing. Start 
 | Paid social and search | Local services and B2B offers people search for | Leads followed up within minutes, reported by cost per appointment | $2,000 a month plus ad spend |
 | Newsletters, email and SMS | Brands and B2B companies with a list to work | Newsletters people open, plus lifecycle email and SMS | $2,000 a month |
 | AI voice follow-up | Anyone getting inbound leads who can't call back in five minutes | Every lead called within a minute and booked | $2,000 a month plus usage |
-| Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale or valuation | $2,000 a month |
+| Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale (https://www.beleaded.com/guides/how-business-brokers-get-leads/) or valuation | $2,000 a month |
 | Cold calling services | B2B teams that want phone outreach alongside email and LinkedIn | Qualified calls booked on your calendar | $2,000 a month |
 | Demand generation | B2B companies that want outbound, paid social and newsletters in one plan | Booked calls from one plan | $2,000 a month |
 
@@ -3732,7 +3732,7 @@ URL: https://www.beleaded.com/work/
 
 Client names stay private unless a client agrees otherwise. Below is what each engagement asked for, what we built and where it landed, with the numbers we're able to publish.
 
-Ahmad Khan updated this page on October 20, 2026.
+Ahmad Khan updated this page on November 5, 2026.
 
 References available. Ask on the call and we'll connect you with a current client.
 
@@ -3764,7 +3764,7 @@ M&A advisory and business brokerage
 
 #### The brief
 
-Advisors and brokers wanted more owner conversations than referrals could supply, without a single email that would embarrass the firm in front of an owner.
+Advisors and brokers wanted more owner conversations (https://www.beleaded.com/guides/how-business-brokers-get-leads/) than referrals could supply, without a single email that would embarrass the firm in front of an owner.
 
 #### What we built
 
@@ -8338,7 +8338,7 @@ M&A deal flow
 
 # How to find business owners who might sell: off-market deal sourcing for advisors and buyers
 
-By Ahmad Khan, founder of Be Leaded. Updated September 24, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026. 4 min read.
 
 The short answer: Owners who might sell rarely announce it. You find them by building a list of companies that fit your mandate, prioritizing the ones showing timing signals (long tenure, no named successor, a first general manager hire, a second location, a recent partner exit), and approaching the owner personally with a short, respectful note that offers a confidential conversation rather than a buyer. Done well, a sourcing program produces a steady flow of owner conversations, and the best ones never reach a listing.
 
@@ -8418,7 +8418,7 @@ Replies fall into four groups: curious, not now, angry, and serious. Only the la
 
 ## What a program produces
 
-Owner outreach replies at lower rates than B2B cold email because the ask is bigger, but the replies are worth far more. A realistic expectation for a well-researched list is a handful of owner conversations a month per mandate, growing as the "not now" pile matures. This is the process behind our off-market deal flow program for M&A advisors, business brokers and buyers. We start the conversations. Your team runs the deal.
+Owner outreach (https://www.beleaded.com/guides/how-business-brokers-get-leads/) replies at lower rates than B2B cold email because the ask is bigger, but the replies are worth far more. A realistic expectation for a well-researched list is a handful of owner conversations a month per mandate, growing as the "not now" pile matures. This is the process behind our off-market deal flow program for M&A advisors, business brokers and buyers. We start the conversations. Your team runs the deal.
 
 ## FAQ
 
@@ -12523,7 +12523,7 @@ Related: https://www.beleaded.com/lead-generation-services/ https://www.beleaded
 
 ---
 
-Advisors and brokers who need business owners reached on a mandate should start with off-market deal flow (https://www.beleaded.com/m-and-a-deal-flow/), which is built for confidential owner outreach.
+Advisors and brokers who need business owners reached on a mandate (https://www.beleaded.com/guides/how-business-brokers-get-leads/) should start with off-market deal flow (https://www.beleaded.com/m-and-a-deal-flow/), which is built for confidential owner outreach.
 
 
 URL: https://www.beleaded.com/demand-generation-agency/
