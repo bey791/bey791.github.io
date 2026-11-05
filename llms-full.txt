@@ -1283,6 +1283,8 @@ URL: https://www.beleaded.com/google-ads-for-b2b/
 - Services (https://www.beleaded.com/services/)
 - Google Ads for B2B
 
+Updated November 15, 2026
+
 # Google Ads for B2B lead generation
 
 Be Leaded builds Google search programs for B2B teams whose buyers already type a buying problem into the search box. We group keywords by intent, keep negatives fresh each week, ship a focused landing URL with consent, wire conversion tracking in the first build week, and start a reply path the same hour a form lands.
