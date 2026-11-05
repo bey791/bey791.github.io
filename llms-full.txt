@@ -1742,7 +1742,7 @@ Be Leaded finds owners of privately held companies who may be open to a sale, a 
 
 ## The best deals are rarely listed.
 
-Many owners of solid businesses never put them on the market. When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you. The broker and advisor page for the same program is lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
+Many owners of solid businesses never put them on the market (https://www.beleaded.com/guides/how-business-brokers-get-leads/). When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you. The broker and advisor page for the same program is lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
 
 ### The list
 
@@ -3060,7 +3060,7 @@ Example. Names and companies are illustrative.
 
 Listing sites show businesses an owner has already decided to market. The company you want, with a founder still running it, usually is not there.
 
-Most firms live on referrals, and referrals come in waves. A few good months, then a quiet quarter.
+Most firms live on referrals (https://www.beleaded.com/guides/how-business-brokers-get-leads/), and referrals come in waves. A few good months, then a quiet quarter.
 
 An inbound form introduces you after the owner has often talked to another firm. The earlier conversation is the one that frames value and what the owner will consider. Waiting for that form means you meet people who have already started a process.
 
@@ -14234,7 +14234,7 @@ Three questions, in order, before you book time or send the memorandum.
 A reply that fails fit, funds, or timing gets a short close, not a management meeting. Screen replies before you spend time, and your hours stay on the buyers who can act.
 ## Run it yourself, or add a track
 Run it yourself when someone at the firm will keep the profile tight, refresh the rows, write the blind note, and answer on the same business day. The file stays yours. So does every reply.
-Add a track when the brokers are already in seller meetings and nobody owns the buyer file. Seller outreach does not have to stop. Buyer outreach can sit beside it as an optional track that reaches strategic acquirers, search funds and PE groups for your active listings. Read that program at buyer outreach for business brokers (https://www.beleaded.com/m-and-a-buyer-outreach/). The same track is named on the page for advisors and business brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
+Add a track when the brokers are already in seller meetings and nobody owns the buyer file. Seller outreach (https://www.beleaded.com/guides/how-business-brokers-get-leads/) does not have to stop. Buyer outreach can sit beside it as an optional track that reaches strategic acquirers, search funds and PE groups for your active listings. Read that program at buyer outreach for business brokers (https://www.beleaded.com/m-and-a-buyer-outreach/). The same track is named on the page for advisors and business brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 The first touch is a written note in the firm's voice, by email or LinkedIn, not a call center. You approve the lines before they send. Most programs go live in about three weeks.
 400K+
 Emails a day of sending capacity
