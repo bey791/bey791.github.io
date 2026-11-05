@@ -9080,9 +9080,9 @@ URL: https://www.beleaded.com/cold-email-deliverability/
 
 # Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
 
-By Ahmad Khan, founder of Be Leaded. Updated October 14, 2026.
+By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026.
 
-The short answer: authenticate every sending domain with SPF, DKIM and DMARC, keep your spam complaint rate under 0.1% and never let it reach 0.3%, give every recipient an easy way to opt out, send from separate domains warmed for two to three weeks, verify every address before it goes out, and keep daily volume per inbox low. Gmail and Yahoo have required this of bulk senders since February 2024. Microsoft began rejecting non-compliant mail to Outlook.com addresses on May 5, 2025, and Gmail began rejecting non-compliant traffic in November 2025.
+The short answer: authenticate every sending domain with SPF, DKIM and DMARC, keep your spam complaint rate under 0.1% and never let it reach 0.3%, give every recipient an easy way to opt out, send from separate domains warmed for two to three weeks, verify every address before it goes out, and keep daily volume per inbox low (https://www.beleaded.com/blog/how-many-cold-emails-per-day/). Gmail and Yahoo have required this of bulk senders since February 2024. Microsoft began rejecting non-compliant mail to Outlook.com addresses on May 5, 2025, and Gmail began rejecting non-compliant traffic in November 2025.
 
 - The rules at a glance
 - Does this apply to cold email?
@@ -14423,7 +14423,7 @@ Guides
 
 # Best demand generation agencies in 2026, grouped by the job
 
-By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026. 15 min read.
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated November 5, 2026. 15 min read.
 
 Nine agencies are here because of the job each one prints on its own site. Be Leaded publishes this page, and the publisher is fifth. Every price below was read on that agency's site on October 21, 2026. A list written by someone else is not a source.
 
@@ -14592,7 +14592,7 @@ The Sopro pricing page (https://sopro.io/pricing/), checked on October 21, 2026,
 
 ## Callbox
 
-Callbox's lead generation pricing page (https://www.callboxinc.com/lead-generation-pricing/), opened October 21, 2026, bills by the campaign pod. One pod is shown as a quarterly estimate between $16,000 and $32,000, with the final number waiting on a consultation. The pod line calls the work a multi channel outreach cadence. Further down, it lists web retargeting along with phone, email, and LinkedIn.
+Callbox's lead generation pricing page (https://www.callboxinc.com/lead-generation-pricing/), opened October 21, 2026, bills by the campaign pod (https://www.beleaded.com/guides/callbox-alternatives/). One pod is shown as a quarterly estimate between $16,000 and $32,000, with the final number waiting on a consultation. The pod line calls the work a multi channel outreach cadence. Further down, it lists web retargeting along with phone, email, and LinkedIn.
 
 The contract answer says the options are flexible. A shortest term is not printed. An ad account rule, an audience rule, and a pixel rule are not printed.
 
