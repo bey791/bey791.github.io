@@ -1465,7 +1465,7 @@ URL: https://www.beleaded.com/meta-ads-for-b2b/
 - Services (https://www.beleaded.com/services/)
 - Meta Ads for B2B
 
-# Meta Ads for B2B lead generation
+# Meta Ads for B2B
 
 Be Leaded runs Facebook and Instagram campaigns for B2B teams whose offer fits one clear screen. We seed audiences from your CRM, retarget site visitors, put qualifying fields on the form, and move every submit into your CRM while a reply path starts the same hour.
 
@@ -1479,6 +1479,8 @@ Book a demo
 ## Which B2B offers suit Meta
 
 Meta rewards a single, concrete next step. The offers below convert because the promise is short enough to read on a phone.
+
+Facebook ads for B2B carry these offers, and Instagram runs in the same ad account.
 
 ### Webinar seats
 
@@ -1533,7 +1535,7 @@ Field. Example prompt. Why it helps.
 
 ## CRM handoff and the sales reply
 
-A form fill that sits overnight is a cold lead by morning. Routing and reply are part of the same build as the ads.
+A form fill that sits overnight is a cold lead by morning. Be Leaded is a B2B Meta advertising agency, so routing and reply stay in that same build.
 
 ### Into your CRM
 
