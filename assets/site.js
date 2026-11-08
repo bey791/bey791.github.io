@@ -6,10 +6,10 @@
   var reduce = !!(reduceMq && reduceMq.matches);
   var motion = "IntersectionObserver" in window;
   var scrollDriven = !!(window.CSS && CSS.supports && CSS.supports("animation-timeline: view()"));
-  /* Reduced motion holds canvas and marquee loops. Small screens yield canvas frames while a finger is scrolling and leave CSS loops running. */
+  /* Reduced motion holds canvas and marquee loops. Scroll does not. */
   function isSmall() { return !!(smallMq && smallMq.matches); }
   function holdMotion() { return reduce; }
-  var scrolling = false, scrollTimer = 0, canvasResumes = [];
+  var canvasResumes = [];
   function resumeCanvases() { canvasResumes.forEach(function (fn) { fn(); }); }
   root.classList.add("js");
   if (motion) root.classList.add("motion");
@@ -28,15 +28,6 @@
   var bar = document.querySelector(".progress span");
   var ticking = false;
   function onScroll() {
-    if (isSmall()) {
-      scrolling = true;
-      clearTimeout(scrollTimer);
-      scrollTimer = setTimeout(function () {
-        scrolling = false;
-        resumeCanvases();
-        settleReveals();
-      }, 180);
-    }
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(function () {
@@ -716,17 +707,40 @@
       if (!cv) return;
       var ctx = cv.getContext("2d"); if (!ctx) return;
       var W = 0, H = 0, dots = [], mx = -9999, my = -9999, t0 = performance.now(), raf = 0, visible = false, ripples = [], lastAmb = 0;
+      var dotGap = 0;
+      function buildDots(gap) {
+        var next = [], y, x;
+        for (y = gap / 2; y < H; y += gap) for (x = gap / 2; x < W; x += gap) next.push({ x: x, y: y, o: Math.random() * 6.283 });
+        return next;
+      }
       function size() {
         var dpr = Math.min(2, window.devicePixelRatio || 1);
-        var r = hero.getBoundingClientRect(); W = r.width; H = r.height;
+        var rect = hero.getBoundingClientRect();
+        var nW = rect.width, nH = rect.height;
+        if (nW < 1 || nH < 1) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1) return;
+        var widthChanged = !W || Math.abs(nW - W) > 1;
+        W = nW; H = nH;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr);
         ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-        dots = []; var gap = W < 700 ? 22 : 26;
-        for (var y = gap / 2; y < H; y += gap) for (var x = gap / 2; x < W; x += gap) dots.push({ x: x, y: y, o: Math.random() * 6.283 });
+        var gap = isSmall() ? 32 : (W < 700 ? 22 : 26);
+        if (widthChanged || !dots.length || gap !== dotGap) {
+          dots = buildDots(gap);
+          dotGap = gap;
+          return;
+        }
+        var kept = [], maxY = -1, i, x, y;
+        for (i = 0; i < dots.length; i++) {
+          if (dots[i].y < H) { kept.push(dots[i]); if (dots[i].y > maxY) maxY = dots[i].y; }
+        }
+        for (y = maxY < 0 ? gap / 2 : maxY + gap; y < H; y += gap) {
+          for (x = gap / 2; x < W; x += gap) kept.push({ x: x, y: y, o: Math.random() * 6.283 });
+        }
+        dots = kept;
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var t = (now - t0) / 1000;
         if (now - lastAmb > 5200) { lastAmb = now; ripples.push({ x: W * (0.15 + Math.random() * 0.7), y: H * (0.2 + Math.random() * 0.6), t: now }); }
@@ -747,10 +761,10 @@
           ctx.beginPath(); ctx.arc(d.x, d.y - k * 10, r, 0, 6.283);
           ctx.fillStyle = "rgba(" + cr + "," + cg + "," + cb + "," + a.toFixed(3) + ")"; ctx.fill();
         }
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) raf = requestAnimationFrame(frame); }
-      canvasResumes.push(function () { if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
+      function start() { if (!raf && visible && !holdMotion()) raf = requestAnimationFrame(frame); }
+      canvasResumes.push(function () { if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
       var io = new IntersectionObserver(function (en) {
         visible = en.some(function (x) { return x.isIntersecting; });
         if (visible && !holdMotion()) { if (!W) size(); start(); }
@@ -979,8 +993,11 @@
       var stageT = [];
       function size() {
         var dpr = Math.min(2, window.devicePixelRatio || 1);
-        var r = j.getBoundingClientRect(); W = r.width; H = r.height;
-        if (!W || !H) return;
+        var r = j.getBoundingClientRect();
+        var nW = r.width, nH = r.height;
+        if (!nW || !nH) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1) return;
+        W = nW; H = nH;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
         len = ref.getTotalLength(); pts = [];
         var N = 600, sx = W / 1200, sy = H / 360;
@@ -997,7 +1014,7 @@
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         acc += dt * 26; while (acc > 1) { spawn(); acc -= 1; }
@@ -1047,10 +1064,10 @@
           var pu = pulses[q]; pu.t += dt; if (pu.t > 1.2) { pulses.splice(q, 1); continue; }
           ctx.beginPath(); ctx.arc(end[0], end[1], 30 + pu.t * 70, 0, 6.283); ctx.strokeStyle = "rgba(166,226,58," + ((1 - pu.t / 1.2) * 0.7).toFixed(3) + ")"; ctx.lineWidth = 2; ctx.stroke();
         }
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
-      canvasResumes.push(function () { if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
+      function start() { if (!raf && visible && !holdMotion()) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      canvasResumes.push(function () { if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
       new IntersectionObserver(function (en) { visible = en.some(function (x) { return x.isIntersecting; }); if (visible) { if (!pts.length && !holdMotion()) size(); start(); } }, { threshold: 0.05 }).observe(j);
       window.addEventListener("resize", function () { if (visible) size(); });
       j.addEventListener("pointermove", function (e) { var r = j.getBoundingClientRect(); mx = e.clientX - r.left; my = e.clientY - r.top; });
@@ -1161,11 +1178,17 @@
       }
 
       /* ---- camera ---- */
+      var laidDpr = 0;
       function size() {
         var dpr = Math.min(dprCap, window.devicePixelRatio || 1);
-        var r = stage.getBoundingClientRect(); W = r.width; H = r.height;
-        if (!W || !H) return;
+        var r = stage.getBoundingClientRect();
+        var nW = r.width, nH = r.height;
+        if (!nW || !nH) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1 && dpr === laidDpr) return;
+        var widthChanged = !W || Math.abs(nW - W) > 1;
+        W = nW; H = nH; laidDpr = dpr;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        if (!widthChanged && mode) return;
         var nm = W < 700 ? "m" : (W < 1100 ? "t" : "d");
         if (nm !== mode) { mode = nm; build(); packets = []; stage.setAttribute("data-mode", mode); }
         var topH = 0;
@@ -1537,7 +1560,7 @@
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
@@ -1545,9 +1568,9 @@
         if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 2 : 1; size(); } }
         update(dt, t);
         if (quality === 0) { skip = !skip; if (!skip) render(t); } else render(t);
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      function start() { if (!raf && visible && !holdMotion()) { last = performance.now(); raf = requestAnimationFrame(frame); } }
       function once() { if (holdMotion() && W) { render(0); } }
 
       /* ---- interaction ---- */
@@ -1659,7 +1682,7 @@
       io.observe(stage);
       canvasResumes.push(function () {
         if (!visible) return;
-        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
         start();
       });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
@@ -1813,11 +1836,25 @@
       };
 
       /* ---- layout ---- */
+      var laidDpr = 0;
       function size() {
-        dpr = Math.min(dprCap, window.devicePixelRatio || 1);
-        var r = stage.getBoundingClientRect(); W = r.width; H = r.height;
-        if (!W || !H) return;
+        var nextDpr = Math.min(dprCap, window.devicePixelRatio || 1);
+        var r = stage.getBoundingClientRect();
+        var nW = r.width, nH = r.height;
+        if (!nW || !nH) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1 && nextDpr === laidDpr) return;
+        var widthChanged = !W || Math.abs(nW - W) > 1;
+        W = nW; H = nH; dpr = nextDpr; laidDpr = nextDpr;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        if (!widthChanged && mode && field.length) {
+          if (baseCv) {
+            baseCv.width = cv.width; baseCv.height = cv.height;
+            bctx = baseCv.getContext("2d");
+            bctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+            markDirty();
+          }
+          return;
+        }
         mode = W < 700 ? "m" : (W < 1100 ? "t" : "d");
         stage.setAttribute("data-mode", mode);
         var L = LAYOUT[mode];
@@ -2183,7 +2220,7 @@
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
@@ -2197,9 +2234,9 @@
           var hudText = hover ? ("focus: " + (hover.isHub ? "be leaded" : hover.isField ? "your market" : hover.lab.toLowerCase())) : (mx >= 0 && fine ? "cursor x " + Math.round(mx) + " y " + Math.round(my) : "cursor idle");
           if (hudText !== lastHud) { lastHud = hudText; hud.textContent = hudText; }
         }
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      function start() { if (!raf && visible && !holdMotion()) { last = performance.now(); raf = requestAnimationFrame(frame); } }
       function once() { if (holdMotion() && W) render(0); }
 
       /* ---- interaction ---- */
@@ -2257,7 +2294,7 @@
       io.observe(stage);
       canvasResumes.push(function () {
         if (!visible) return;
-        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
         start();
       });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
