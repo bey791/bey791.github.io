@@ -1721,7 +1721,18 @@
       var TWO = Math.PI * 2;
       var W = 0, H = 0, mode = "", k = 1, hub = [0, 0], R = 96, t0 = 0, last = 0, raf = 0, visible = false, sceneT = 0, hudT = 0;
       var nodes = {}, order = [], edges = [], field = [], traces = [], pulses = [], sweeps = [], gridPat = null, gather = [];
-      var main = ctx, baseCv = null, bctx = null, baseDirty = true, baseDrawAt = 0, pace = false, glowSprite = null, dpr = 1;
+      var main = ctx, baseCv = null, bctx = null, baseDirty = true, pace = false, paceBand = null, glowSprite = null, dpr = 1;
+      function visibleBand() {
+        var r = stage.getBoundingClientRect();
+        var top = Math.max(0, -r.top);
+        var bot = Math.min(H || r.height, window.innerHeight - r.top);
+        if (!(bot > top + 8)) return null;
+        return [Math.max(0, top - 48), Math.min(H || r.height, bot + 72)];
+      }
+      function inBand(y, pad) {
+        if (!paceBand) return true;
+        return y >= paceBand[0] - pad && y <= paceBand[1] + pad;
+      }
       var quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = quality === 1 ? 1 : 1.75, frameAcc = 0, frameN = 0, qT = 0, skip = false;
       function markDirty() { baseDirty = true; }
       var mx = -1, my = -1, hover = null, pinned = null, pointerT = -1e9, outAcc = 0, replyQueue = [], lastSweep = 0, tiltX = 0, tiltY = 0, lastTx = "", lastTy = "", lastHud = "";
@@ -1986,7 +1997,7 @@
       function hubPhases() { var b = nodes.hub.boot; return [ease(clamp(b / 0.6, 0, 1)), ease(clamp((b - 0.2) / 0.6, 0, 1)), ease(clamp((b - 0.4) / 0.6, 0, 1))]; }
       /* static parts: drawn into the base layer only when something changes */
       function drawHubBase() {
-        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0) return;
+        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0 || !inBand(y, (n.r || 80) + 16)) return;
         var hot = hover === n || pinned === n, ph = hubPhases();
         ring(x, y, R, INK, 0.55, 1.1, -Math.PI / 2, -Math.PI / 2 + TWO * ph[0]);
         ring(x, y, R * 0.74, INK, 0.35, 1, -Math.PI / 2, -Math.PI / 2 + TWO * ph[1], [3 * k, 5 * k]);
@@ -1995,7 +2006,7 @@
         if (hot) ring(x, y, R + 6 * k, LIME3, 0.9, 1.6);
       }
       function drawHubLive(t) {
-        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0) return;
+        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0 || !inBand(y, (n.r || 80) + 16)) return;
         var hot = hover === n || pinned === n, ph = hubPhases();
         // ticks, batched into two paths
         var rot = holdMotion() ? 0 : t * 0.12, lim = Math.floor((pace ? 24 : 72) * ph[0]);
@@ -2016,7 +2027,7 @@
         glow(x, y, R * 0.42, (0.16 + pu * 0.12 + n.hot * 0.35) * ph[2]);
       }
       function drawNodeBase(n) {
-        if (n.isHub || n.isField || n.hidden) return;
+        if (n.isHub || n.isField || n.hidden || !inBand(n.y, 48)) return;
         var b = n.boot; if (b <= 0) return;
         var hot = hover === n || pinned === n;
         var e = ease(b) * (focus && focus !== n.cl && !hot ? 0.42 : 1), r = n.r * ease(b);
@@ -2028,13 +2039,14 @@
         label(n, hot, e);
       }
       function drawNodeLive(n) {
-        if (n.isHub || n.isField || n.hidden || n.boot <= 0 || n.hot <= 0.05) return;
+        if (n.isHub || n.isField || n.hidden || n.boot <= 0 || n.hot <= 0.05 || !inBand(n.y, 36)) return;
         var r = n.r * ease(n.boot);
         glow(n.x, n.y, r + 14 * k, n.hot * 0.5);
         dot(n.x, n.y, Math.max(0, r - 3 * k), LIME3, n.hot);
       }
       function drawFieldBase() {
         var f = nodes.field, b = f.boot; if (b <= 0) return;
+        if (paceBand && (f.y + (f.ry || 0) + 36 < paceBand[0] || f.y - (f.ry || 0) - 36 > paceBand[1])) return;
         var hot = hover === f || pinned === f;
         ctx.setLineDash([3, 6]);
         ctx.beginPath(); ctx.ellipse(f.x, f.y, f.rx + 22 * k, f.ry + 22 * k, 0, 0, TWO); ctx.strokeStyle = rgba(hot ? LIME3 : INK, hot ? 0.8 : 0.22 * b); ctx.lineWidth = 1; ctx.stroke();
@@ -2050,7 +2062,7 @@
         var f = nodes.field, b = f.boot; if (b <= 0) return;
         var idle = [[], [], []], touched = [], replied = [], met = [], booting = b < 1;
         for (var i = 0; i < field.length; i++) {
-          var d = field[i], vis = clamp(b * 1.3 - d.o, 0, 1); if (vis <= 0) continue;
+          var d = field[i], vis = clamp(b * 1.3 - d.o, 0, 1); if (vis <= 0 || !inBand(d.y, 10)) continue;
           var sw = 0;
           for (var s = 0; s < sweeps.length; s++) { var dr = Math.abs(d.d - sweeps[s].r); if (dr < 26) sw = Math.max(sw, (1 - dr / 26) * (1 - sweeps[s].t)); }
           if (d.s === 0) {
@@ -2072,6 +2084,7 @@
       }
       function drawEdgeBase(e) {
         if (e.a.hidden || e.b.hidden) return;
+        if (!inBand(e.a.y, 50) && !inBand(e.b.y, 50)) return;
         var b = Math.min(e.a.boot, e.b.boot); if (b <= 0) return;
         var hd = edgeDim(e), hot = hd[0], dim = hd[1], loop = e.kind === "loop";
         curve(e, 0, ease(b), hot ? LIME3 : INK, (loop ? 0.3 : (e.kind === "spoke" ? 0.42 : 0.5)) * dim * (hot ? 2 : 1), hot ? 1.8 : (loop ? 1 : 1.2), loop ? [4 * k, 6 * k] : null);
@@ -2079,6 +2092,7 @@
       }
       function drawEdgeLive(e) {
         if (!e.pk.length || e.a.hidden || e.b.hidden) return;
+        if (!inBand(e.a.y, 40) && !inBand(e.b.y, 40)) return;
         var dim = edgeDim(e)[1];
         for (var i = 0; i < e.pk.length; i++) {
           var p = e.pk[i], pos = bez(e, p.t);
@@ -2088,6 +2102,7 @@
         }
       }
       function drawTrace(tr) {
+        if (tr.from && tr.to && !inBand(tr.from.y, 24) && !inBand(tr.to.y, 24)) return;
         var a = tr.life > 0 ? 1 - tr.life / 1.4 : 1; if (a <= 0) return;
         if (focus && focus !== "market" && focus !== "channels" && focus !== "conv") a *= 0.4;
         var out = tr.kind === "out", rgb = out ? INK : LIME3;
@@ -2096,25 +2111,44 @@
       }
       function renderBase() {
         ctx = bctx;
-        ctx.clearRect(0, 0, W, H);
-        if (gridPat) { ctx.save(); ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.fillStyle = gridPat; ctx.fillRect(0, 0, baseCv.width, baseCv.height); ctx.restore(); }
+        var band = paceBand;
+        if (band) {
+          ctx.save();
+          ctx.beginPath();
+          ctx.rect(0, band[0], W, Math.max(1, band[1] - band[0]));
+          ctx.clip();
+          ctx.clearRect(0, band[0], W, band[1] - band[0]);
+        } else ctx.clearRect(0, 0, W, H);
+        if (gridPat) {
+          ctx.save();
+          ctx.setTransform(1, 0, 0, 1, 0, 0);
+          ctx.fillStyle = gridPat;
+          if (band) ctx.fillRect(0, Math.floor(band[0] * dpr), baseCv.width, Math.ceil((band[1] - band[0]) * dpr) + 1);
+          else ctx.fillRect(0, 0, baseCv.width, baseCv.height);
+          ctx.restore();
+        }
         drawFieldBase();
-        if (focus) { var fcn = clusterCenter(focus); if (fcn) glow(fcn[0], fcn[1], fcn[2], 0.16); }
+        if (focus) { var fcn = clusterCenter(focus); if (fcn && inBand(fcn[1], fcn[2] || 40)) glow(fcn[0], fcn[1], fcn[2], 0.16); }
         for (var i = 0; i < edges.length; i++) drawEdgeBase(edges[i]);
         drawHubBase();
         for (var j = 0; j < order.length; j++) drawNodeBase(nodes[order[j]]);
-        ctx = main; baseDirty = false;
+        if (band) ctx.restore();
+        ctx = main;
+        if (!band) baseDirty = false;
       }
       function render(t) {
         if (!baseCv) return;
         pace = scrollBusy();
-        if (baseDirty) {
-          var nowMs = performance.now();
-          /* Boot keeps the base dirty. While scrolling, reuse it for a few frames instead of redrawing every trace curve. */
-          if (!pace || nowMs - baseDrawAt > 140) { renderBase(); baseDrawAt = nowMs; }
-        }
+        paceBand = pace ? visibleBand() : null;
+        if (baseDirty && !paceBand) renderBase();
         ctx = main;
-        ctx.clearRect(0, 0, W, H);
+        if (paceBand) {
+          ctx.save();
+          ctx.beginPath();
+          ctx.rect(0, paceBand[0], W, Math.max(1, paceBand[1] - paceBand[0]));
+          ctx.clip();
+          ctx.clearRect(0, paceBand[0], W, paceBand[1] - paceBand[0]);
+        } else ctx.clearRect(0, 0, W, H);
         for (var s = 0; s < sweeps.length; s++) { var sw = sweeps[s]; ring(hub[0], hub[1], sw.r, LIME3, (1 - sw.t) * 0.35, 1.5); }
         drawFieldLive();
         for (var i = 0; i < edges.length; i++) drawEdgeLive(edges[i]);
@@ -2123,6 +2157,7 @@
         for (var j = 0; j < order.length; j++) drawNodeLive(nodes[order[j]]);
         for (var p = pulses.length - 1; p >= 0; p--) { var pu = pulses[p]; ring(pu.x, pu.y, 8 + pu.t * 40 * k, LIME3, (1 - pu.t) * 0.8, 1.4); }
         if (mx >= 0 && fine && !hover) { ring(mx, my, 10, INK, 0.35, 1); ctx.beginPath(); ctx.moveTo(mx - 16, my); ctx.lineTo(mx - 12, my); ctx.moveTo(mx + 12, my); ctx.lineTo(mx + 16, my); ctx.moveTo(mx, my - 16); ctx.lineTo(mx, my - 12); ctx.moveTo(mx, my + 12); ctx.lineTo(mx, my + 16); ctx.strokeStyle = rgba(INK, 0.5); ctx.lineWidth = 1; ctx.stroke(); }
+        if (paceBand) ctx.restore();
       }
 
       /* ---- state ---- */
