@@ -12,7 +12,7 @@
   var canvasResumes = [];
   function resumeCanvases() { canvasResumes.forEach(function (fn) { fn(); }); }
   /* Small-screen scroll still paints. This only marks the gesture so the map can pace expensive layers. */
-  var scrollMark = 0;
+  var scrollMark = 0, calmPaint = 0;
   function scrollBusy() { return isSmall() && (performance.now() - scrollMark) < 220; }
   root.classList.add("js");
   if (motion) root.classList.add("motion");
@@ -31,7 +31,14 @@
   var bar = document.querySelector(".progress span");
   var ticking = false;
   function onScroll() {
-    if (isSmall()) scrollMark = performance.now();
+    if (isSmall()) {
+      scrollMark = performance.now();
+      /* One still paint after the gesture. Reduced motion never starts a frame loop. */
+      if (holdMotion()) {
+        clearTimeout(calmPaint);
+        calmPaint = setTimeout(resumeCanvases, 280);
+      }
+    }
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(function () {
@@ -1722,13 +1729,6 @@
       var W = 0, H = 0, mode = "", k = 1, hub = [0, 0], R = 96, t0 = 0, last = 0, raf = 0, visible = false, sceneT = 0, hudT = 0;
       var nodes = {}, order = [], edges = [], field = [], traces = [], pulses = [], sweeps = [], gridPat = null, gather = [];
       var main = ctx, baseCv = null, bctx = null, baseDirty = true, pace = false, paceBand = null, glowSprite = null, dpr = 1;
-      function visibleBand() {
-        var r = stage.getBoundingClientRect();
-        var top = Math.max(0, -r.top);
-        var bot = Math.min(H || r.height, window.innerHeight - r.top);
-        if (!(bot > top + 8)) return null;
-        return [Math.max(0, top - 48), Math.min(H || r.height, bot + 72)];
-      }
       function inBand(y, pad) {
         if (!paceBand) return true;
         return y >= paceBand[0] - pad && y <= paceBand[1] + pad;
@@ -2111,44 +2111,24 @@
       }
       function renderBase() {
         ctx = bctx;
-        var band = paceBand;
-        if (band) {
-          ctx.save();
-          ctx.beginPath();
-          ctx.rect(0, band[0], W, Math.max(1, band[1] - band[0]));
-          ctx.clip();
-          ctx.clearRect(0, band[0], W, band[1] - band[0]);
-        } else ctx.clearRect(0, 0, W, H);
-        if (gridPat) {
-          ctx.save();
-          ctx.setTransform(1, 0, 0, 1, 0, 0);
-          ctx.fillStyle = gridPat;
-          if (band) ctx.fillRect(0, Math.floor(band[0] * dpr), baseCv.width, Math.ceil((band[1] - band[0]) * dpr) + 1);
-          else ctx.fillRect(0, 0, baseCv.width, baseCv.height);
-          ctx.restore();
-        }
+        ctx.clearRect(0, 0, W, H);
+        if (gridPat) { ctx.save(); ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.fillStyle = gridPat; ctx.fillRect(0, 0, baseCv.width, baseCv.height); ctx.restore(); }
         drawFieldBase();
-        if (focus) { var fcn = clusterCenter(focus); if (fcn && inBand(fcn[1], fcn[2] || 40)) glow(fcn[0], fcn[1], fcn[2], 0.16); }
+        if (focus) { var fcn = clusterCenter(focus); if (fcn) glow(fcn[0], fcn[1], fcn[2], 0.16); }
         for (var i = 0; i < edges.length; i++) drawEdgeBase(edges[i]);
         drawHubBase();
         for (var j = 0; j < order.length; j++) drawNodeBase(nodes[order[j]]);
-        if (band) ctx.restore();
         ctx = main;
-        if (!band) baseDirty = false;
+        baseDirty = false;
       }
       function render(t) {
         if (!baseCv) return;
-        pace = scrollBusy();
-        paceBand = pace ? visibleBand() : null;
-        if (baseDirty && !paceBand) renderBase();
+        /* Reduced motion is one still frame: never clip it, and never skip the base. */
+        pace = holdMotion() ? false : scrollBusy();
+        paceBand = null;
+        if (baseDirty && !pace) renderBase();
         ctx = main;
-        if (paceBand) {
-          ctx.save();
-          ctx.beginPath();
-          ctx.rect(0, paceBand[0], W, Math.max(1, paceBand[1] - paceBand[0]));
-          ctx.clip();
-          ctx.clearRect(0, paceBand[0], W, paceBand[1] - paceBand[0]);
-        } else ctx.clearRect(0, 0, W, H);
+        ctx.clearRect(0, 0, W, H);
         for (var s = 0; s < sweeps.length; s++) { var sw = sweeps[s]; ring(hub[0], hub[1], sw.r, LIME3, (1 - sw.t) * 0.35, 1.5); }
         drawFieldLive();
         for (var i = 0; i < edges.length; i++) drawEdgeLive(edges[i]);
@@ -2157,7 +2137,6 @@
         for (var j = 0; j < order.length; j++) drawNodeLive(nodes[order[j]]);
         for (var p = pulses.length - 1; p >= 0; p--) { var pu = pulses[p]; ring(pu.x, pu.y, 8 + pu.t * 40 * k, LIME3, (1 - pu.t) * 0.8, 1.4); }
         if (mx >= 0 && fine && !hover) { ring(mx, my, 10, INK, 0.35, 1); ctx.beginPath(); ctx.moveTo(mx - 16, my); ctx.lineTo(mx - 12, my); ctx.moveTo(mx + 12, my); ctx.lineTo(mx + 16, my); ctx.moveTo(mx, my - 16); ctx.lineTo(mx, my - 12); ctx.moveTo(mx, my + 12); ctx.lineTo(mx, my + 16); ctx.strokeStyle = rgba(INK, 0.5); ctx.lineWidth = 1; ctx.stroke(); }
-        if (paceBand) ctx.restore();
       }
 
       /* ---- state ---- */
@@ -2345,7 +2324,7 @@
       io.observe(stage);
       canvasResumes.push(function () {
         if (!visible) return;
-        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } if (W) render(0); return; }
         start();
       });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
