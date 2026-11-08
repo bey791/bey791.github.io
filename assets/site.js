@@ -6,7 +6,7 @@
   var reduce = !!(reduceMq && reduceMq.matches);
   var motion = "IntersectionObserver" in window;
   var scrollDriven = !!(window.CSS && CSS.supports && CSS.supports("animation-timeline: view()"));
-  /* Reduced motion holds canvas and marquee loops. Small screens keep those loops and only pause them while a finger is scrolling. */
+  /* Reduced motion holds canvas and marquee loops. Small screens yield canvas frames while a finger is scrolling and leave CSS loops running. */
   function isSmall() { return !!(smallMq && smallMq.matches); }
   function holdMotion() { return reduce; }
   var scrolling = false, scrollTimer = 0, canvasResumes = [];
@@ -30,12 +30,11 @@
   function onScroll() {
     if (isSmall()) {
       scrolling = true;
-      root.classList.add("is-scrolling");
       clearTimeout(scrollTimer);
       scrollTimer = setTimeout(function () {
         scrolling = false;
-        root.classList.remove("is-scrolling");
         resumeCanvases();
+        settleReveals();
       }, 180);
     }
     if (ticking) return;
@@ -49,6 +48,7 @@
         bar.style.transform = "scaleX(" + (max > 0 ? Math.min(1, y / max) : 0) + ")";
       }
       runScrollHandlers();
+      settleReveals();
       ticking = false;
     });
   }
@@ -215,9 +215,28 @@
   })();
 
   /* ---------------- Reveal (never hides anything already on screen) ---------------- */
+  function finishReveal(el) {
+    if (!el) return;
+    if (!el.classList.contains("in")) el.classList.add("in");
+    if (revealIO) revealIO.unobserve(el);
+  }
+  /* A fast fling can cross a reveal between observer callbacks, and an interruption can drop the .in class. Scan the document, not a one-shot list, so anything already on screen or scrolled past finishes at full opacity. */
+  function settleReveals() {
+    if (!isSmall()) return;
+    var nodes = document.querySelectorAll(".pre:not(.in)");
+    if (!nodes.length) return;
+    var vh = window.innerHeight || 0;
+    var i, el, r;
+    for (i = 0; i < nodes.length; i++) {
+      el = nodes[i];
+      r = el.getBoundingClientRect();
+      if (r.width === 0 && r.height === 0) continue;
+      if (r.bottom <= 0 || (r.top < vh && r.bottom > 0)) finishReveal(el);
+    }
+  }
   var revealIO = motion ? new IntersectionObserver(function (entries) {
     entries.forEach(function (en) {
-      if (en.isIntersecting) { en.target.classList.add("in"); revealIO.unobserve(en.target); }
+      if (en.isIntersecting) finishReveal(en.target);
     });
   }, { rootMargin: "0px 0px -8% 0px", threshold: 0.12 }) : null;
 
@@ -259,7 +278,7 @@
       else if (el.hasAttribute("data-split")) { el.setAttribute("data-reveal", ""); }
       if (reduce) el.classList.add("fade");
       el.classList.add("pre");
-      revealIO.observe(el);
+      if (revealIO) revealIO.observe(el);
     });
   }
 
@@ -859,7 +878,10 @@
       if (wrap) { wrap.addEventListener("pointerenter", function () { paused = true; }); wrap.addEventListener("pointerleave", function () { paused = false; }); }
       function tick() {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) { track.style.transform = ""; return; }
+        if (!visible || holdMotion()) {
+          if (holdMotion()) { track.classList.remove("js-marq"); track.style.transform = ""; }
+          return;
+        }
         var y = window.scrollY || 0; vel = vel * 0.88 + (y - lastY) * 0.12; lastY = y;
         if (half > 0) {
           var speed = (paused ? 0.15 : 0.8) + Math.max(-7, Math.min(7, vel * 0.3));
@@ -869,12 +891,12 @@
         raf = requestAnimationFrame(tick);
       }
       function start() {
-        if (raf || !visible || holdMotion() || scrolling) return;
+        if (raf || !visible || holdMotion()) return;
         track.classList.add("js-marq");
         raf = requestAnimationFrame(tick);
       }
       canvasResumes.push(function () {
-        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } track.classList.remove("js-marq"); track.style.transform = ""; return; }
+        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } track.classList.remove("js-marq"); track.style.transform = ""; return; }
         start();
       });
       new IntersectionObserver(function (en) { visible = en.some(function (e) { return e.isIntersecting; }); if (visible) start(); }).observe(track);
