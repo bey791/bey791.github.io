@@ -5455,7 +5455,7 @@ Cold email
 
 # How to personalize cold emails at scale
 
-By Ahmad Khan, founder of Be Leaded. Updated October 9, 2026. 10 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 8, 2026. 10 min read.
 
 The short answer: Personalize cold email at scale by storing one current trigger and the exact first line on every row, with a one or two minute research cap, before the sequence starts. A first name and a company name are mail merge. A trigger the buyer would still recognize is personalization. If that line is empty, the row does not send.
 
@@ -5575,7 +5575,7 @@ Enrichment tables. Clay, and the same pattern elsewhere, can pull a job post, a 
 
 CRM fields. Customer, open opportunity, last reply, and do-not-contact are blocks, in Salesforce or whatever CRM the team already runs. They stop the row before upload. A current customer should never get a cold opener about their own company. Keep suppression outside the sequencer so the next export cannot ignore it. What belongs on that list is in the lead list guide.
 
-Snippets. Map one token to the personalization line in Instantly, Smartlead, Saleshandy, or Apollo. The rest of the email is the approved template. Turn off any fallback that becomes "I noticed your work at the company" when the column is blank. If the token would render empty, the row stays out. Which tool fits warmup, data, and the CRM is in the cold email software comparison.
+Snippets. Map one token to the personalization line in Instantly, Smartlead, Saleshandy (https://www.beleaded.com/guides/saleshandy-alternatives/), or Apollo. The rest of the email is the approved template. Turn off any fallback that becomes "I noticed your work at the company" when the column is blank. If the token would render empty, the row stays out. Which tool fits warmup, data, and the CRM is in the cold email software comparison.
 
 AI can sort accounts and fill the source cell. A person still checks the words that ship, at least on a sample, which is what the manual-edit gap and the survey on synthetic copy are for.
 
@@ -7480,7 +7480,7 @@ Deliverability
 
 # How to warm up an email domain: the 21-day schedule we use
 
-By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 8, 2026. 4 min read.
 
 The short answer: Warming up an email domain means sending a small, rising volume of real-looking email from a new inbox for two to three weeks so mailbox providers learn it's legitimate before it carries cold volume. Set up SPF, DKIM and DMARC first, start at 5 to 10 emails a day, add a few each day, keep warmup running at a low level after launch, and never let a new inbox send more than about 30 to 50 cold emails a day. The full schedule is below.
 
@@ -7523,7 +7523,7 @@ Two things people get wrong. First, they switch warmup off at launch. Keep it ru
 
 ## Warmup tools
 
-Every major cold email platform includes a warmup network: Saleshandy, Instantly and Smartlead all do. They exchange emails between customer inboxes, open them, reply and rescue them from spam. In our programs Saleshandy's warmup has been the most reliable of the three, which is one reason it's our default for new domains. The tool matters less than the discipline of leaving it on.
+Every major cold email platform includes a warmup network: Saleshandy (https://www.beleaded.com/guides/saleshandy-alternatives/), Instantly and Smartlead all do. They exchange emails between customer inboxes, open them, reply and rescue them from spam. In our programs Saleshandy's warmup has been the most reliable of the three, which is one reason it's our default for new domains. The tool matters less than the discipline of leaving it on.
 
 ## What to watch during warmup
 
