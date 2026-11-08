@@ -1133,7 +1133,7 @@ a.nl-img{display:block;text-decoration:none}
 .rot-tab:not([aria-selected="true"]){padding-right:14px}
 
 /* Reduced motion: keep fades and content, drop the big movements */
-.reduce .aura-a,.reduce .aura-b,.reduce .hero-mark,.reduce .marquee-track,.reduce .wave i,.reduce .mini-wave i,.reduce .call-dot,.reduce .live-dot::after,.reduce .hero-glow{animation:none!important}
+.reduce .aura-a,.reduce .aura-b,.reduce .hero-mark,.reduce .marquee-track,.reduce .wave i,.reduce .mini-wave i,.reduce .call-dot,.reduce .call-dot::after,.reduce .sm-led::after,.reduce .sys-led::after,.reduce .live-dot::after,.reduce .hero-glow{animation:none!important}
 .reduce .hero-glow,.reduce .hero-dots{display:none}
 .reduce .hero-copy>*,.reduce .rotator{animation-duration:.4s}
 .reduce .hl::before{animation:none;transform:skewX(-6deg) scaleX(1)}
@@ -1148,7 +1148,7 @@ a.nl-img{display:block;text-decoration:none}
 .reduce .nl:hover .nl-img img{transform:none}
 @keyframes fadeOnly{from{opacity:0}}
 @media (prefers-reduced-motion: reduce){
-  .aura-a,.aura-b,.hero-mark,.marquee-track,.wave i,.mini-wave i,.call-dot,.live-dot::after,.hero-glow,.caret,.typing span,.bar-t i,.env,.scanning .scan-line{animation:none!important}
+  .aura-a,.aura-b,.hero-mark,.marquee-track,.wave i,.mini-wave i,.call-dot,.call-dot::after,.sm-led::after,.sys-led::after,.live-dot::after,.hero-glow,.caret,.typing span,.bar-t i,.env,.scanning .scan-line{animation:none!important}
   .hero-glow,.hero-dots{display:none}
   .hero-copy>*,.rotator{animation:none;opacity:1}
   .hl::before{animation:none;transform:skewX(-6deg) scaleX(1)}
@@ -1844,12 +1844,22 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
   .cta-row .btn{width:100%;white-space:normal;text-align:center}
 }
 
-/* Phones and small tablets: solid header (blur flickers over a live canvas), flat map, pause CSS motion only while the finger is scrolling. */
+/* Phones and small tablets: solid header (blur flickers over a live canvas) and a flat map.
+   CSS loops keep running during scroll. Aura stays a static radial gradient (no per-frame blur)
+   and only the large drifting layers are promoted. */
 @media (max-width:768px){
   .site-header{background:var(--paper);-webkit-backdrop-filter:none;backdrop-filter:none}
   .map-plane{transform:none;transition:none;transform-style:flat}
   .btn,.mail,.hero-glow,.map-plane{will-change:auto}
-  html.is-scrolling .aura-a,html.is-scrolling .aura-b,html.is-scrolling .hero-mark,html.is-scrolling .marquee-track,html.is-scrolling .wave i,html.is-scrolling .mini-wave i,html.is-scrolling .call-dot,html.is-scrolling .live-dot::after,html.is-scrolling .hero-glow,html.is-scrolling .caret,html.is-scrolling .typing span,html.is-scrolling .bar-t i,html.is-scrolling .hero-copy>*,html.is-scrolling .rotator,html.is-scrolling .hl::before{animation-play-state:paused}
+  .aura-a,.aura-b,.hero-mark,.marquee-track{will-change:transform}
+  .call-dot,.sm.on .sm-led,.sys-led{animation:none;position:relative}
+  .call-dot::after,.sm.on .sm-led::after,.sys-led::after{content:"";position:absolute;inset:-3px;border-radius:inherit;border:2px solid color-mix(in srgb,var(--lime) 45%,transparent);animation:ping 1.6s ease-out infinite;pointer-events:none}
+  .sm.on .sm-led::after{animation-duration:2.2s}
+  .sys-led::after{animation-duration:2s}
+}
+@media (max-width:768px) and (prefers-reduced-motion: reduce){
+  .aura-a,.aura-b,.hero-mark,.marquee-track{will-change:auto}
+  .call-dot::after,.sm.on .sm-led::after,.sys-led::after{animation:none!important;content:none}
 }
 
 /* Tap targets on phones and coarse pointers. Desktop layout stays on the rules above. */
