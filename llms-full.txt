@@ -5455,7 +5455,7 @@ Cold email
 
 # How to personalize cold emails at scale
 
-By Ahmad Khan, founder of Be Leaded. Updated November 8, 2026. 10 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 9, 2026. 10 min read.
 
 The short answer: Personalize cold email at scale by storing one current trigger and the exact first line on every row, with a one or two minute research cap, before the sequence starts. A first name and a company name are mail merge. A trigger the buyer would still recognize is personalization. If that line is empty, the row does not send.
 
@@ -7480,7 +7480,7 @@ Deliverability
 
 # How to warm up an email domain: the 21-day schedule we use
 
-By Ahmad Khan, founder of Be Leaded. Updated November 8, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 9, 2026. 4 min read.
 
 The short answer: Warming up an email domain means sending a small, rising volume of real-looking email from a new inbox for two to three weeks so mailbox providers learn it's legitimate before it carries cold volume. Set up SPF, DKIM and DMARC first, start at 5 to 10 emails a day, add a few each day, keep warmup running at a low level after launch, and never let a new inbox send more than about 30 to 50 cold emails a day. The full schedule is below.
 
