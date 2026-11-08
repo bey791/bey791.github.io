@@ -11,6 +11,9 @@
   function holdMotion() { return reduce; }
   var canvasResumes = [];
   function resumeCanvases() { canvasResumes.forEach(function (fn) { fn(); }); }
+  /* Small-screen scroll still paints. This only marks the gesture so the map can pace expensive layers. */
+  var scrollMark = 0;
+  function scrollBusy() { return isSmall() && (performance.now() - scrollMark) < 220; }
   root.classList.add("js");
   if (motion) root.classList.add("motion");
   if (reduce) root.classList.add("reduce");
@@ -28,6 +31,7 @@
   var bar = document.querySelector(".progress span");
   var ticking = false;
   function onScroll() {
+    if (isSmall()) scrollMark = performance.now();
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(function () {
@@ -1198,6 +1202,13 @@
         else if (mode === "t") { f = Math.min(W * 1.15, avail * 2.05); cx = W / 2; cy = avail * 0.55; basePitch = 0.62; D = 1500; }
         else { f = W * 1.62; cx = W / 2; cy = avail * 0.5; basePitch = 1.08; D = 1500; }
         if (!running) pitch = tPitch = basePitch;
+        placeTerms();
+      }
+      function placeTerms() {
+        if (!W || !inP) return;
+        var ti = proj(inP[0], 0, inP[2]), to = proj(outP[0], 0, outP[2]);
+        if (ti && termIn) termIn.style.transform = "translate(" + Math.round(ti[0]) + "px," + Math.round(ti[1]) + "px)";
+        if (to && termOut) termOut.style.transform = "translate(" + Math.round(to[0]) + "px," + Math.round(to[1]) + "px)";
       }
       function proj(x, y, z) {
         var X = x - T[0], Y = y - T[1], Z = z - T[2];
@@ -1549,9 +1560,7 @@
         drawPackets(t);
         var fp = (quality > 0 && !explore) ? drawProbe() : null;
         flush();
-        var ti = proj(inP[0], 0, inP[2]), to = proj(outP[0], 0, outP[2]);
-        if (ti && termIn) termIn.style.transform = "translate(" + Math.round(ti[0]) + "px," + Math.round(ti[1]) + "px)";
-        if (to && termOut) termOut.style.transform = "translate(" + Math.round(to[0]) + "px," + Math.round(to[1]) + "px)";
+        placeTerms();
         if (t - hudT > 0.12) {
           hudT = t;
           if (hudCam) hudCam.textContent = "cam " + (yaw * 57.3).toFixed(1) + "° / " + (pitch * 57.3).toFixed(1) + "°";
@@ -1712,7 +1721,7 @@
       var TWO = Math.PI * 2;
       var W = 0, H = 0, mode = "", k = 1, hub = [0, 0], R = 96, t0 = 0, last = 0, raf = 0, visible = false, sceneT = 0, hudT = 0;
       var nodes = {}, order = [], edges = [], field = [], traces = [], pulses = [], sweeps = [], gridPat = null, gather = [];
-      var main = ctx, baseCv = null, bctx = null, baseDirty = true, glowSprite = null, dpr = 1;
+      var main = ctx, baseCv = null, bctx = null, baseDirty = true, baseDrawAt = 0, pace = false, glowSprite = null, dpr = 1;
       var quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = quality === 1 ? 1 : 1.75, frameAcc = 0, frameN = 0, qT = 0, skip = false;
       function markDirty() { baseDirty = true; }
       var mx = -1, my = -1, hover = null, pinned = null, pointerT = -1e9, outAcc = 0, replyQueue = [], lastSweep = 0, tiltX = 0, tiltY = 0, lastTx = "", lastTy = "", lastHud = "";
@@ -1758,9 +1767,10 @@
           TOUR.forEach(function (step) { addSizer(step.title, step.text); });
         }
         if ("IntersectionObserver" in window) {
+          /* The tour panel sits under the map on phones. Watch the map stage so the clock starts while the map is on screen, and pauses when that stage leaves. */
           new IntersectionObserver(function (en) {
             tourInView = en.some(function (x) { return x.isIntersecting; });
-          }, { threshold: 0 }).observe(tourEl);
+          }, { threshold: 0 }).observe(stage);
         } else tourInView = true;
       }
       function clamp(v, a, b) { return v < a ? a : (v > b ? b : v); }
@@ -1937,7 +1947,7 @@
       }
       function curve(e, t0_, t1_, rgb, alpha, width, dash) {
         if (t1_ <= t0_) return;
-        var n = Math.max(4, Math.round((t1_ - t0_) * 36));
+        var n = Math.max(4, Math.round((t1_ - t0_) * (pace ? 12 : 36)));
         ctx.beginPath();
         for (var i = 0; i <= n; i++) { var p = bez(e, t0_ + (t1_ - t0_) * i / n); if (i === 0) ctx.moveTo(p[0], p[1]); else ctx.lineTo(p[0], p[1]); }
         if (dash) ctx.setLineDash(dash);
@@ -1958,7 +1968,7 @@
       function dots(list, r, rgb, a) { if (!list.length) return; ctx.fillStyle = rgba(rgb, a); ctx.beginPath(); for (var i = 0; i < list.length; i++) { var d = list[i]; ctx.moveTo(d.x + r, d.y); ctx.arc(d.x, d.y, r, 0, TWO); } ctx.fill(); }
       function ring(x, y, r, rgb, a, w, a0, a1, dash) { ctx.beginPath(); ctx.arc(x, y, r, a0 || 0, a1 === undefined ? TWO : a1); if (dash) ctx.setLineDash(dash); ctx.strokeStyle = rgba(rgb, a); ctx.lineWidth = w || 1; ctx.stroke(); if (dash) ctx.setLineDash([]); }
       function glow(x, y, r, a) {
-        if (quality < 1 && ctx === main) return;
+        if (pace || (quality < 1 && ctx === main)) return;
         if (!glowSprite) { glowSprite = document.createElement("canvas"); glowSprite.width = glowSprite.height = 64; var g = glowSprite.getContext("2d"), gr = g.createRadialGradient(32, 32, 0, 32, 32, 32); gr.addColorStop(0, "rgba(199,251,109,1)"); gr.addColorStop(1, "rgba(199,251,109,0)"); g.fillStyle = gr; g.fillRect(0, 0, 64, 64); }
         if (a <= 0.005 || r <= 0) return;
         ctx.globalAlpha = clamp(a, 0, 1); ctx.drawImage(glowSprite, x - r, y - r, r * 2, r * 2); ctx.globalAlpha = 1;
@@ -1988,7 +1998,7 @@
         var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0) return;
         var hot = hover === n || pinned === n, ph = hubPhases();
         // ticks, batched into two paths
-        var rot = holdMotion() ? 0 : t * 0.12, lim = Math.floor(72 * ph[0]);
+        var rot = holdMotion() ? 0 : t * 0.12, lim = Math.floor((pace ? 24 : 72) * ph[0]);
         for (var pass = 0; pass < 2; pass++) {
           ctx.beginPath();
           for (var i = 0; i < lim; i++) { var big = i % 6 === 0; if ((pass === 0) !== big) continue; var a = i / 72 * TWO + rot, r0 = R - (big ? 9 : 5) * k; ctx.moveTo(x + Math.cos(a) * r0, y + Math.sin(a) * r0); ctx.lineTo(x + Math.cos(a) * (R - 1), y + Math.sin(a) * (R - 1)); }
@@ -2044,7 +2054,7 @@
           var sw = 0;
           for (var s = 0; s < sweeps.length; s++) { var dr = Math.abs(d.d - sweeps[s].r); if (dr < 26) sw = Math.max(sw, (1 - dr / 26) * (1 - sweeps[s].t)); }
           if (d.s === 0) {
-            if (sw > 0.03 || booting) dot(d.x, d.y, (1.6 + sw * 1.6) * k, INK, (0.28 + sw * 0.6) * vis);
+            if (!pace && (sw > 0.03 || booting)) dot(d.x, d.y, (1.6 + sw * 1.6) * k, INK, (0.28 + sw * 0.6) * vis);
             else idle[vis > 0.85 ? 2 : (vis > 0.55 ? 1 : 0)].push(d);
           }
           else if (d.s === 1) touched.push(d); else if (d.s === 2) replied.push(d); else met.push(d);
@@ -2097,7 +2107,12 @@
       }
       function render(t) {
         if (!baseCv) return;
-        if (baseDirty) renderBase();
+        pace = scrollBusy();
+        if (baseDirty) {
+          var nowMs = performance.now();
+          /* Boot keeps the base dirty. While scrolling, reuse it for a few frames instead of redrawing every trace curve. */
+          if (!pace || nowMs - baseDrawAt > 140) { renderBase(); baseDrawAt = nowMs; }
+        }
         ctx = main;
         ctx.clearRect(0, 0, W, H);
         for (var s = 0; s < sweeps.length; s++) { var sw = sweeps[s]; ring(hub[0], hub[1], sw.r, LIME3, (1 - sw.t) * 0.35, 1.5); }
@@ -2209,7 +2224,7 @@
         // radar sweep from the hub
         if (clusterOn.hub && t - lastSweep > 7) { lastSweep = t; sweeps.push({ r: R, t: 0 }); }
         for (var sx = sweeps.length - 1; sx >= 0; sx--) { var sw = sweeps[sx]; sw.t += dt / 2.6; sw.r = R + sw.t * Math.max(W, H) * 0.75; if (sw.t >= 1) sweeps.splice(sx, 1); }
-        var cap = quality > 1 ? 60 : (quality === 1 ? 30 : 16);
+        var cap = pace ? (quality > 1 ? 24 : 8) : (quality > 1 ? 60 : (quality === 1 ? 30 : 16));
         if (traces.length > cap) traces.splice(0, traces.length - cap);
         // tilt
         if (plane && !isSmall()) {
@@ -2226,6 +2241,7 @@
         var t = (now - t0) / 1000;
         frameAcc += dt; frameN++;
         if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 1.75 : 1; size(); } }
+        pace = scrollBusy();
         update(dt, t);
         var slow = quality === 0 || (t - pointerT > 8 && tourStep >= TOUR.length - 1);
         if (slow) { skip = !skip; if (!skip) render(t); } else render(t);
