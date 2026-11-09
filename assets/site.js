@@ -1740,6 +1740,71 @@
       var tourTitle = map.querySelector("[data-tour-title]"), tourText = map.querySelector("[data-tour-text]"), tourBar = map.querySelector("[data-tour-bar]"), tourPlay = map.querySelector("[data-tour-play]");
       var STEP = 2.8, tourStep = -1, tourAuto = true, tourT = 0, tourClock = 0, tourInView = false, focus = null, clusterOn = {}, over = false, zoom = 1;
       function tourHeld() { return reduce || document.hidden || !tourInView; }
+      /* The fixed mobile book bar covers the bottom of the viewport. A plain intersection check treats the sliver of the stage above that bar as on screen (about 20 to 50px at scroll 0 on a 390x664 phone), so the top chips stay active over the bar. Measure the bar only while it is visible and fixed. Hidden, or not fixed (desktop), counts as 0. */
+      function bookBarOcclusion() {
+        var el = document.querySelector("a.book-bar");
+        if (!el || el.hidden) return 0;
+        var cs = window.getComputedStyle(el);
+        if (!cs || cs.display === "none" || cs.visibility === "hidden" || cs.position !== "fixed") return 0;
+        var rect = el.getBoundingClientRect();
+        var vh = window.innerHeight || document.documentElement.clientHeight || 0;
+        if (rect.height <= 0 || rect.bottom <= 0 || rect.top >= vh) return 0;
+        return Math.min(rect.height, vh);
+      }
+      function stageVisibleAboveBar() {
+        var rect = stage.getBoundingClientRect();
+        var vh = window.innerHeight || document.documentElement.clientHeight || 0;
+        var limit = vh - bookBarOcclusion();
+        var top = rect.top > 0 ? rect.top : 0;
+        var bot = rect.bottom < limit ? rect.bottom : limit;
+        var vis = bot - top;
+        return { vis: vis > 0 ? vis : 0, h: rect.height };
+      }
+      /* Top chips sit on the stage's top edge and are about 77px tall. Keep the tour and those chips inactive unless the readable band above the bar is at least 80px and at least 10% of the stage height. The gate is the larger of the two, so a short peek cannot count as on screen. */
+      function stageTourOnScreen() {
+        var band = stageVisibleAboveBar();
+        if (!(band.h > 0)) return false;
+        var need = band.h * 0.1;
+        if (need < 80) need = 80;
+        return band.vis >= need;
+      }
+      function gateMapChips(on) {
+        var key, chip, head;
+        for (key in chips) {
+          if (!Object.prototype.hasOwnProperty.call(chips, key)) continue;
+          chip = chips[key];
+          if (!chip) continue;
+          if (on) {
+            chip.inert = false;
+            chip.style.pointerEvents = "";
+            if (clusterOn[key]) {
+              if (chip._cT === undefined) chip._cT = 0;
+              chip.classList.add("on");
+            }
+          } else {
+            chip.classList.remove("on");
+            chip.classList.remove("is-focus");
+            if (chip.classList.contains("open")) {
+              chip.classList.remove("open");
+              head = chip.querySelector(".mc-head");
+              if (head) head.setAttribute("aria-expanded", "false");
+            }
+            chip.inert = true;
+            chip.style.pointerEvents = "none";
+          }
+        }
+      }
+      function syncTourView() {
+        var on = stageTourOnScreen();
+        var changed = on !== tourInView;
+        tourInView = on;
+        gateMapChips(on);
+        if (on && changed) applyFocus();
+      }
+      function syncTourViewSoon() {
+        syncTourView();
+        requestAnimationFrame(syncTourView);
+      }
       var TOUR = [
         { key: "market", title: "Your market", text: "1,000 accounts that match your buyer: title, size, industry, region, signals. Every one researched before it enters the system." },
         { key: "research", title: "Research", text: "List, verify, enrich. Addresses are checked before a single send, and every person gets a line written for them. Bounces stay under 2%." },
@@ -1777,13 +1842,17 @@
           addSizer(tourTitle.textContent, tourText.textContent);
           TOUR.forEach(function (step) { addSizer(step.title, step.text); });
         }
-        if ("IntersectionObserver" in window) {
-          /* The tour panel sits under the map on phones. Watch the map stage so the clock starts while the map is on screen, and pauses when that stage leaves. */
-          new IntersectionObserver(function (en) {
-            tourInView = en.some(function (x) { return x.isIntersecting; });
-          }, { threshold: 0 }).observe(stage);
-        } else tourInView = true;
       }
+      /* Tour clock follows the stage band above the book bar, not a zero threshold intersection. Scroll, resize, anchor jumps, and history restore all remeasure, so a jump back to scroll 0 drops the chips instead of leaving them active. */
+      scrollHandlers.push(syncTourView);
+      window.addEventListener("hashchange", syncTourViewSoon);
+      window.addEventListener("popstate", syncTourViewSoon);
+      window.addEventListener("pageshow", syncTourViewSoon);
+      window.addEventListener("orientationchange", syncTourViewSoon);
+      if (window.visualViewport) window.visualViewport.addEventListener("resize", syncTourViewSoon);
+      var bookBarEl = document.querySelector("a.book-bar");
+      if (bookBarEl && window.MutationObserver) new MutationObserver(syncTourView).observe(bookBarEl, { attributes: true, attributeFilter: ["hidden"] });
+      syncTourView();
       function clamp(v, a, b) { return v < a ? a : (v > b ? b : v); }
       function ease(u) { return 1 - Math.pow(1 - u, 3); }
       function fmt(n) { return Math.round(n).toLocaleString("en-US"); }
@@ -2144,7 +2213,7 @@
       function bootCluster(key) {
         if (!key || clusterOn[key]) return;
         clusterOn[key] = true;
-        var c = chips[key]; if (c && !c.classList.contains("on")) { c.classList.add("on"); c._cT = 0; }
+        var c = chips[key]; if (c && tourInView && !c.classList.contains("on")) { c.classList.add("on"); c._cT = 0; }
       }
       function clusterCenter(key) {
         if (key === "market") return [nodes.field.x, nodes.field.y, Math.max(nodes.field.rx, nodes.field.ry) * 1.1];
@@ -2155,7 +2224,7 @@
       }
       function applyFocus() {
         markDirty();
-        Object.keys(chips).forEach(function (key) { chips[key].classList.toggle("is-focus", focus === key); });
+        Object.keys(chips).forEach(function (key) { chips[key].classList.toggle("is-focus", tourInView && focus === key); });
         if (!plane) return;
         var c = focus ? clusterCenter(focus) : null;
         if (c && W && H) { plane.style.setProperty("--ox", (c[0] / W * 100).toFixed(1) + "%"); plane.style.setProperty("--oy", (c[1] / H * 100).toFixed(1) + "%"); }
@@ -2329,18 +2398,20 @@
       });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
       function runReduced() {
+        syncTourView();
         if (!running) {
           running = true; sceneT = 9; tourAuto = false;
           Object.keys(CLUSTERS).forEach(bootCluster);
           Object.keys(nodes).forEach(function (key) { nodes[key].boot = 1; });
           goStep(TOUR.length - 1, false);
-          Object.keys(CLUSTERS).forEach(function (key) { var c = chips[key]; if (c) { c.classList.add("on"); var st = c.querySelector("[data-mc-stat]"); if (st) st.textContent = CLUSTERS[key].text(CLUSTERS[key].n); } });
+          Object.keys(CLUSTERS).forEach(function (key) { var c = chips[key]; if (c && tourInView) { c.classList.add("on"); var st = c.querySelector("[data-mc-stat]"); if (st) st.textContent = CLUSTERS[key].text(CLUSTERS[key].n); } });
           var chs = ["Email", "LinkedIn", "Ads", "Email", "SMS", "Email", "Voice", "LinkedIn"];
           for (var i = 0; i < 8; i++) { var tr = makeTrace(nodes[chs[i]], field[(i * 17) % field.length], "out", true); tr.t = 1; traces.push(tr); field[(i * 17) % field.length].s = 1; }
           for (var j = 0; j < 3; j++) { var d = field[(j * 41 + 5) % field.length]; d.s = 2; var tr2 = makeTrace(d, nodes.Replies, "reply", false); tr2.t = 1; traces.push(tr2); }
           field[9].s = 3;
         }
         markDirty(); render(0);
+        syncTourView();
       }
     });
   }
