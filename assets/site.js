@@ -1740,62 +1740,89 @@
       var tourTitle = map.querySelector("[data-tour-title]"), tourText = map.querySelector("[data-tour-text]"), tourBar = map.querySelector("[data-tour-bar]"), tourPlay = map.querySelector("[data-tour-play]");
       var STEP = 2.8, tourStep = -1, tourAuto = true, tourT = 0, tourClock = 0, tourInView = false, focus = null, clusterOn = {}, over = false, zoom = 1;
       function tourHeld() { return reduce || document.hidden || !tourInView; }
-      /* The fixed mobile book bar covers the bottom of the viewport. A plain intersection check treats the sliver of the stage above that bar as on screen (about 20 to 50px at scroll 0 on a 390x664 phone), so the top chips stay active over the bar. Measure the bar only while it is visible and fixed. Hidden, or not fixed (desktop), counts as 0. */
-      function bookBarOcclusion() {
-        var el = document.querySelector("a.book-bar");
-        if (!el || el.hidden) return 0;
-        var cs = window.getComputedStyle(el);
-        if (!cs || cs.display === "none" || cs.visibility === "hidden" || cs.position !== "fixed") return 0;
-        var rect = el.getBoundingClientRect();
+      /* One geometry pass per turn. The scroll handler and the bar's mutation record can both call in during the same frame; the second pass reuses this snapshot so it does not force another layout. Chip rects are read only while the bar is visible, and only after the bar rect, before any class writes. */
+      var tourGeom = null;
+      var chipUnderBar = {};
+      function readTourGeom() {
+        if (tourGeom) return tourGeom;
         var vh = window.innerHeight || document.documentElement.clientHeight || 0;
-        if (rect.height <= 0 || rect.bottom <= 0 || rect.top >= vh) return 0;
-        return Math.min(rect.height, vh);
-      }
-      function stageVisibleAboveBar() {
-        var rect = stage.getBoundingClientRect();
-        var vh = window.innerHeight || document.documentElement.clientHeight || 0;
-        var limit = vh - bookBarOcclusion();
-        var top = rect.top > 0 ? rect.top : 0;
-        var bot = rect.bottom < limit ? rect.bottom : limit;
+        var el = bookBarEl;
+        var barRect = null;
+        var cover = 0;
+        if (el && !el.hidden) {
+          var cs = window.getComputedStyle(el);
+          if (cs && cs.display !== "none" && cs.visibility !== "hidden" && cs.position === "fixed") {
+            var br = el.getBoundingClientRect();
+            if (br.height > 0 && br.bottom > 0 && br.top < vh) {
+              barRect = br;
+              cover = br.height < vh ? br.height : vh;
+            }
+          }
+        }
+        var sr = stage.getBoundingClientRect();
+        var limit = vh - cover;
+        var top = sr.top > 0 ? sr.top : 0;
+        var bot = sr.bottom < limit ? sr.bottom : limit;
         var vis = bot - top;
-        return { vis: vis > 0 ? vis : 0, h: rect.height };
+        if (vis < 0) vis = 0;
+        /* 80px clears the top-row chips (about 77px, sitting on the stage's top edge). 10% of the stage height does the same when the stage is short. The gate is the larger of the two. */
+        var stageOn = false;
+        if (sr.height > 0) {
+          var need = sr.height * 0.1;
+          if (need < 80) need = 80;
+          stageOn = vis >= need;
+        }
+        var under = {};
+        /* Chip boxes are only needed when the stage gate is open and the bar is on screen. A closed gate already clears every chip, and desktop has no bar, so those frames skip the extra reads. */
+        if (barRect && stageOn) {
+          var key, chip, cr;
+          for (key in chips) {
+            if (!Object.prototype.hasOwnProperty.call(chips, key)) continue;
+            chip = chips[key];
+            if (!chip) continue;
+            cr = chip.getBoundingClientRect();
+            under[key] = cr.bottom > barRect.top && cr.top < barRect.bottom && cr.right > barRect.left && cr.left < barRect.right;
+          }
+        }
+        chipUnderBar = under;
+        tourGeom = { stageOn: stageOn };
+        queueMicrotask(function () { tourGeom = null; });
+        return tourGeom;
       }
-      /* Top chips sit on the stage's top edge and are about 77px tall. Keep the tour and those chips inactive unless the readable band above the bar is at least 80px and at least 10% of the stage height. The gate is the larger of the two, so a short peek cannot count as on screen. */
-      function stageTourOnScreen() {
-        var band = stageVisibleAboveBar();
-        if (!(band.h > 0)) return false;
-        var need = band.h * 0.1;
-        if (need < 80) need = 80;
-        return band.vis >= need;
+      function hideMapChip(chip) {
+        var head;
+        if (chip.classList.contains("on")) chip.classList.remove("on");
+        if (chip.classList.contains("is-focus")) chip.classList.remove("is-focus");
+        if (chip.classList.contains("open")) {
+          chip.classList.remove("open");
+          head = chip.querySelector(".mc-head");
+          if (head) head.setAttribute("aria-expanded", "false");
+        }
+        if (!chip.inert) chip.inert = true;
+        if (chip.style.pointerEvents !== "none") chip.style.pointerEvents = "none";
       }
-      function gateMapChips(on) {
-        var key, chip, head;
+      function gateMapChips(stageOn) {
+        var key, chip;
         for (key in chips) {
           if (!Object.prototype.hasOwnProperty.call(chips, key)) continue;
           chip = chips[key];
           if (!chip) continue;
-          if (on) {
-            chip.inert = false;
-            chip.style.pointerEvents = "";
-            if (clusterOn[key]) {
-              if (chip._cT === undefined) chip._cT = 0;
-              chip.classList.add("on");
-            }
-          } else {
-            chip.classList.remove("on");
-            chip.classList.remove("is-focus");
-            if (chip.classList.contains("open")) {
-              chip.classList.remove("open");
-              head = chip.querySelector(".mc-head");
-              if (head) head.setAttribute("aria-expanded", "false");
-            }
-            chip.inert = true;
-            chip.style.pointerEvents = "none";
+          if (!stageOn) { hideMapChip(chip); continue; }
+          /* The stage gate is unchanged. A chip that touches the visible call bar only loses .on. */
+          if (chipUnderBar[key]) {
+            if (chip.classList.contains("on")) chip.classList.remove("on");
+            continue;
+          }
+          if (chip.inert) chip.inert = false;
+          if (chip.style.pointerEvents) chip.style.pointerEvents = "";
+          if (clusterOn[key]) {
+            if (chip._cT === undefined) chip._cT = 0;
+            if (!chip.classList.contains("on")) chip.classList.add("on");
           }
         }
       }
       function syncTourView() {
-        var on = stageTourOnScreen();
+        var on = readTourGeom().stageOn;
         var changed = on !== tourInView;
         tourInView = on;
         gateMapChips(on);
