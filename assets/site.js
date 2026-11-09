@@ -6,11 +6,14 @@
   var reduce = !!(reduceMq && reduceMq.matches);
   var motion = "IntersectionObserver" in window;
   var scrollDriven = !!(window.CSS && CSS.supports && CSS.supports("animation-timeline: view()"));
-  /* Reduced motion holds canvas and marquee loops. Small screens yield canvas frames while a finger is scrolling and leave CSS loops running. */
+  /* Reduced motion holds canvas and marquee loops. Scroll does not. */
   function isSmall() { return !!(smallMq && smallMq.matches); }
   function holdMotion() { return reduce; }
-  var scrolling = false, scrollTimer = 0, canvasResumes = [];
+  var canvasResumes = [];
   function resumeCanvases() { canvasResumes.forEach(function (fn) { fn(); }); }
+  /* Small-screen scroll still paints. This only marks the gesture so the map can pace expensive layers. */
+  var scrollMark = 0, calmPaint = 0;
+  function scrollBusy() { return isSmall() && (performance.now() - scrollMark) < 220; }
   root.classList.add("js");
   if (motion) root.classList.add("motion");
   if (reduce) root.classList.add("reduce");
@@ -29,13 +32,12 @@
   var ticking = false;
   function onScroll() {
     if (isSmall()) {
-      scrolling = true;
-      clearTimeout(scrollTimer);
-      scrollTimer = setTimeout(function () {
-        scrolling = false;
-        resumeCanvases();
-        settleReveals();
-      }, 180);
+      scrollMark = performance.now();
+      /* One still paint after the gesture. Reduced motion never starts a frame loop. */
+      if (holdMotion()) {
+        clearTimeout(calmPaint);
+        calmPaint = setTimeout(resumeCanvases, 280);
+      }
     }
     if (ticking) return;
     ticking = true;
@@ -716,17 +718,40 @@
       if (!cv) return;
       var ctx = cv.getContext("2d"); if (!ctx) return;
       var W = 0, H = 0, dots = [], mx = -9999, my = -9999, t0 = performance.now(), raf = 0, visible = false, ripples = [], lastAmb = 0;
+      var dotGap = 0;
+      function buildDots(gap) {
+        var next = [], y, x;
+        for (y = gap / 2; y < H; y += gap) for (x = gap / 2; x < W; x += gap) next.push({ x: x, y: y, o: Math.random() * 6.283 });
+        return next;
+      }
       function size() {
         var dpr = Math.min(2, window.devicePixelRatio || 1);
-        var r = hero.getBoundingClientRect(); W = r.width; H = r.height;
+        var rect = hero.getBoundingClientRect();
+        var nW = rect.width, nH = rect.height;
+        if (nW < 1 || nH < 1) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1) return;
+        var widthChanged = !W || Math.abs(nW - W) > 1;
+        W = nW; H = nH;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr);
         ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-        dots = []; var gap = W < 700 ? 22 : 26;
-        for (var y = gap / 2; y < H; y += gap) for (var x = gap / 2; x < W; x += gap) dots.push({ x: x, y: y, o: Math.random() * 6.283 });
+        var gap = isSmall() ? 32 : (W < 700 ? 22 : 26);
+        if (widthChanged || !dots.length || gap !== dotGap) {
+          dots = buildDots(gap);
+          dotGap = gap;
+          return;
+        }
+        var kept = [], maxY = -1, i, x, y;
+        for (i = 0; i < dots.length; i++) {
+          if (dots[i].y < H) { kept.push(dots[i]); if (dots[i].y > maxY) maxY = dots[i].y; }
+        }
+        for (y = maxY < 0 ? gap / 2 : maxY + gap; y < H; y += gap) {
+          for (x = gap / 2; x < W; x += gap) kept.push({ x: x, y: y, o: Math.random() * 6.283 });
+        }
+        dots = kept;
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var t = (now - t0) / 1000;
         if (now - lastAmb > 5200) { lastAmb = now; ripples.push({ x: W * (0.15 + Math.random() * 0.7), y: H * (0.2 + Math.random() * 0.6), t: now }); }
@@ -747,10 +772,10 @@
           ctx.beginPath(); ctx.arc(d.x, d.y - k * 10, r, 0, 6.283);
           ctx.fillStyle = "rgba(" + cr + "," + cg + "," + cb + "," + a.toFixed(3) + ")"; ctx.fill();
         }
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) raf = requestAnimationFrame(frame); }
-      canvasResumes.push(function () { if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
+      function start() { if (!raf && visible && !holdMotion()) raf = requestAnimationFrame(frame); }
+      canvasResumes.push(function () { if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
       var io = new IntersectionObserver(function (en) {
         visible = en.some(function (x) { return x.isIntersecting; });
         if (visible && !holdMotion()) { if (!W) size(); start(); }
@@ -979,8 +1004,11 @@
       var stageT = [];
       function size() {
         var dpr = Math.min(2, window.devicePixelRatio || 1);
-        var r = j.getBoundingClientRect(); W = r.width; H = r.height;
-        if (!W || !H) return;
+        var r = j.getBoundingClientRect();
+        var nW = r.width, nH = r.height;
+        if (!nW || !nH) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1) return;
+        W = nW; H = nH;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
         len = ref.getTotalLength(); pts = [];
         var N = 600, sx = W / 1200, sy = H / 360;
@@ -997,7 +1025,7 @@
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         acc += dt * 26; while (acc > 1) { spawn(); acc -= 1; }
@@ -1047,10 +1075,10 @@
           var pu = pulses[q]; pu.t += dt; if (pu.t > 1.2) { pulses.splice(q, 1); continue; }
           ctx.beginPath(); ctx.arc(end[0], end[1], 30 + pu.t * 70, 0, 6.283); ctx.strokeStyle = "rgba(166,226,58," + ((1 - pu.t / 1.2) * 0.7).toFixed(3) + ")"; ctx.lineWidth = 2; ctx.stroke();
         }
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
-      canvasResumes.push(function () { if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
+      function start() { if (!raf && visible && !holdMotion()) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      canvasResumes.push(function () { if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; } start(); });
       new IntersectionObserver(function (en) { visible = en.some(function (x) { return x.isIntersecting; }); if (visible) { if (!pts.length && !holdMotion()) size(); start(); } }, { threshold: 0.05 }).observe(j);
       window.addEventListener("resize", function () { if (visible) size(); });
       j.addEventListener("pointermove", function (e) { var r = j.getBoundingClientRect(); mx = e.clientX - r.left; my = e.clientY - r.top; });
@@ -1161,11 +1189,17 @@
       }
 
       /* ---- camera ---- */
+      var laidDpr = 0;
       function size() {
         var dpr = Math.min(dprCap, window.devicePixelRatio || 1);
-        var r = stage.getBoundingClientRect(); W = r.width; H = r.height;
-        if (!W || !H) return;
+        var r = stage.getBoundingClientRect();
+        var nW = r.width, nH = r.height;
+        if (!nW || !nH) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1 && dpr === laidDpr) return;
+        var widthChanged = !W || Math.abs(nW - W) > 1;
+        W = nW; H = nH; laidDpr = dpr;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        if (!widthChanged && mode) return;
         var nm = W < 700 ? "m" : (W < 1100 ? "t" : "d");
         if (nm !== mode) { mode = nm; build(); packets = []; stage.setAttribute("data-mode", mode); }
         var topH = 0;
@@ -1175,6 +1209,13 @@
         else if (mode === "t") { f = Math.min(W * 1.15, avail * 2.05); cx = W / 2; cy = avail * 0.55; basePitch = 0.62; D = 1500; }
         else { f = W * 1.62; cx = W / 2; cy = avail * 0.5; basePitch = 1.08; D = 1500; }
         if (!running) pitch = tPitch = basePitch;
+        placeTerms();
+      }
+      function placeTerms() {
+        if (!W || !inP) return;
+        var ti = proj(inP[0], 0, inP[2]), to = proj(outP[0], 0, outP[2]);
+        if (ti && termIn) termIn.style.transform = "translate(" + Math.round(ti[0]) + "px," + Math.round(ti[1]) + "px)";
+        if (to && termOut) termOut.style.transform = "translate(" + Math.round(to[0]) + "px," + Math.round(to[1]) + "px)";
       }
       function proj(x, y, z) {
         var X = x - T[0], Y = y - T[1], Z = z - T[2];
@@ -1526,9 +1567,7 @@
         drawPackets(t);
         var fp = (quality > 0 && !explore) ? drawProbe() : null;
         flush();
-        var ti = proj(inP[0], 0, inP[2]), to = proj(outP[0], 0, outP[2]);
-        if (ti && termIn) termIn.style.transform = "translate(" + Math.round(ti[0]) + "px," + Math.round(ti[1]) + "px)";
-        if (to && termOut) termOut.style.transform = "translate(" + Math.round(to[0]) + "px," + Math.round(to[1]) + "px)";
+        placeTerms();
         if (t - hudT > 0.12) {
           hudT = t;
           if (hudCam) hudCam.textContent = "cam " + (yaw * 57.3).toFixed(1) + "° / " + (pitch * 57.3).toFixed(1) + "°";
@@ -1537,7 +1576,7 @@
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
@@ -1545,9 +1584,9 @@
         if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 2 : 1; size(); } }
         update(dt, t);
         if (quality === 0) { skip = !skip; if (!skip) render(t); } else render(t);
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      function start() { if (!raf && visible && !holdMotion()) { last = performance.now(); raf = requestAnimationFrame(frame); } }
       function once() { if (holdMotion() && W) { render(0); } }
 
       /* ---- interaction ---- */
@@ -1659,7 +1698,7 @@
       io.observe(stage);
       canvasResumes.push(function () {
         if (!visible) return;
-        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
         start();
       });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
@@ -1689,7 +1728,11 @@
       var TWO = Math.PI * 2;
       var W = 0, H = 0, mode = "", k = 1, hub = [0, 0], R = 96, t0 = 0, last = 0, raf = 0, visible = false, sceneT = 0, hudT = 0;
       var nodes = {}, order = [], edges = [], field = [], traces = [], pulses = [], sweeps = [], gridPat = null, gather = [];
-      var main = ctx, baseCv = null, bctx = null, baseDirty = true, glowSprite = null, dpr = 1;
+      var main = ctx, baseCv = null, bctx = null, baseDirty = true, pace = false, paceBand = null, glowSprite = null, dpr = 1;
+      function inBand(y, pad) {
+        if (!paceBand) return true;
+        return y >= paceBand[0] - pad && y <= paceBand[1] + pad;
+      }
       var quality = (window.matchMedia("(max-width: 700px)").matches || (navigator.hardwareConcurrency || 8) <= 4 || (navigator.deviceMemory || 8) <= 4) ? 1 : 2, dprCap = quality === 1 ? 1 : 1.75, frameAcc = 0, frameN = 0, qT = 0, skip = false;
       function markDirty() { baseDirty = true; }
       var mx = -1, my = -1, hover = null, pinned = null, pointerT = -1e9, outAcc = 0, replyQueue = [], lastSweep = 0, tiltX = 0, tiltY = 0, lastTx = "", lastTy = "", lastHud = "";
@@ -1697,6 +1740,98 @@
       var tourTitle = map.querySelector("[data-tour-title]"), tourText = map.querySelector("[data-tour-text]"), tourBar = map.querySelector("[data-tour-bar]"), tourPlay = map.querySelector("[data-tour-play]");
       var STEP = 2.8, tourStep = -1, tourAuto = true, tourT = 0, tourClock = 0, tourInView = false, focus = null, clusterOn = {}, over = false, zoom = 1;
       function tourHeld() { return reduce || document.hidden || !tourInView; }
+      /* One geometry pass per turn. The scroll handler and the bar's mutation record can both call in during the same frame; the second pass reuses this snapshot so it does not force another layout. Chip rects are read only while the bar is visible, and only after the bar rect, before any class writes. */
+      var tourGeom = null;
+      var chipUnderBar = {};
+      function readTourGeom() {
+        if (tourGeom) return tourGeom;
+        var vh = window.innerHeight || document.documentElement.clientHeight || 0;
+        var el = bookBarEl;
+        var barRect = null;
+        var cover = 0;
+        if (el && !el.hidden) {
+          var cs = window.getComputedStyle(el);
+          if (cs && cs.display !== "none" && cs.visibility !== "hidden" && cs.position === "fixed") {
+            var br = el.getBoundingClientRect();
+            if (br.height > 0 && br.bottom > 0 && br.top < vh) {
+              barRect = br;
+              cover = br.height < vh ? br.height : vh;
+            }
+          }
+        }
+        var sr = stage.getBoundingClientRect();
+        var limit = vh - cover;
+        var top = sr.top > 0 ? sr.top : 0;
+        var bot = sr.bottom < limit ? sr.bottom : limit;
+        var vis = bot - top;
+        if (vis < 0) vis = 0;
+        /* 80px clears the top-row chips (about 77px, sitting on the stage's top edge). 10% of the stage height does the same when the stage is short. The gate is the larger of the two. */
+        var stageOn = false;
+        if (sr.height > 0) {
+          var need = sr.height * 0.1;
+          if (need < 80) need = 80;
+          stageOn = vis >= need;
+        }
+        var under = {};
+        /* Chip boxes are only needed when the stage gate is open and the bar is on screen. A closed gate already clears every chip, and desktop has no bar, so those frames skip the extra reads. */
+        if (barRect && stageOn) {
+          var key, chip, cr;
+          for (key in chips) {
+            if (!Object.prototype.hasOwnProperty.call(chips, key)) continue;
+            chip = chips[key];
+            if (!chip) continue;
+            cr = chip.getBoundingClientRect();
+            under[key] = cr.bottom > barRect.top && cr.top < barRect.bottom && cr.right > barRect.left && cr.left < barRect.right;
+          }
+        }
+        chipUnderBar = under;
+        tourGeom = { stageOn: stageOn };
+        queueMicrotask(function () { tourGeom = null; });
+        return tourGeom;
+      }
+      function hideMapChip(chip) {
+        var head;
+        if (chip.classList.contains("on")) chip.classList.remove("on");
+        if (chip.classList.contains("is-focus")) chip.classList.remove("is-focus");
+        if (chip.classList.contains("open")) {
+          chip.classList.remove("open");
+          head = chip.querySelector(".mc-head");
+          if (head) head.setAttribute("aria-expanded", "false");
+        }
+        if (!chip.inert) chip.inert = true;
+        if (chip.style.pointerEvents !== "none") chip.style.pointerEvents = "none";
+      }
+      function gateMapChips(stageOn) {
+        var key, chip;
+        for (key in chips) {
+          if (!Object.prototype.hasOwnProperty.call(chips, key)) continue;
+          chip = chips[key];
+          if (!chip) continue;
+          if (!stageOn) { hideMapChip(chip); continue; }
+          /* The stage gate is unchanged. A chip that touches the visible call bar only loses .on. */
+          if (chipUnderBar[key]) {
+            if (chip.classList.contains("on")) chip.classList.remove("on");
+            continue;
+          }
+          if (chip.inert) chip.inert = false;
+          if (chip.style.pointerEvents) chip.style.pointerEvents = "";
+          if (clusterOn[key]) {
+            if (chip._cT === undefined) chip._cT = 0;
+            if (!chip.classList.contains("on")) chip.classList.add("on");
+          }
+        }
+      }
+      function syncTourView() {
+        var on = readTourGeom().stageOn;
+        var changed = on !== tourInView;
+        tourInView = on;
+        gateMapChips(on);
+        if (on && changed) applyFocus();
+      }
+      function syncTourViewSoon() {
+        syncTourView();
+        requestAnimationFrame(syncTourView);
+      }
       var TOUR = [
         { key: "market", title: "Your market", text: "1,000 accounts that match your buyer: title, size, industry, region, signals. Every one researched before it enters the system." },
         { key: "research", title: "Research", text: "List, verify, enrich. Addresses are checked before a single send, and every person gets a line written for them. Bounces stay under 2%." },
@@ -1734,12 +1869,17 @@
           addSizer(tourTitle.textContent, tourText.textContent);
           TOUR.forEach(function (step) { addSizer(step.title, step.text); });
         }
-        if ("IntersectionObserver" in window) {
-          new IntersectionObserver(function (en) {
-            tourInView = en.some(function (x) { return x.isIntersecting; });
-          }, { threshold: 0 }).observe(tourEl);
-        } else tourInView = true;
       }
+      /* Tour clock follows the stage band above the book bar, not a zero threshold intersection. Scroll, resize, anchor jumps, and history restore all remeasure, so a jump back to scroll 0 drops the chips instead of leaving them active. */
+      scrollHandlers.push(syncTourView);
+      window.addEventListener("hashchange", syncTourViewSoon);
+      window.addEventListener("popstate", syncTourViewSoon);
+      window.addEventListener("pageshow", syncTourViewSoon);
+      window.addEventListener("orientationchange", syncTourViewSoon);
+      if (window.visualViewport) window.visualViewport.addEventListener("resize", syncTourViewSoon);
+      var bookBarEl = document.querySelector("a.book-bar");
+      if (bookBarEl && window.MutationObserver) new MutationObserver(syncTourView).observe(bookBarEl, { attributes: true, attributeFilter: ["hidden"] });
+      syncTourView();
       function clamp(v, a, b) { return v < a ? a : (v > b ? b : v); }
       function ease(u) { return 1 - Math.pow(1 - u, 3); }
       function fmt(n) { return Math.round(n).toLocaleString("en-US"); }
@@ -1813,11 +1953,25 @@
       };
 
       /* ---- layout ---- */
+      var laidDpr = 0;
       function size() {
-        dpr = Math.min(dprCap, window.devicePixelRatio || 1);
-        var r = stage.getBoundingClientRect(); W = r.width; H = r.height;
-        if (!W || !H) return;
+        var nextDpr = Math.min(dprCap, window.devicePixelRatio || 1);
+        var r = stage.getBoundingClientRect();
+        var nW = r.width, nH = r.height;
+        if (!nW || !nH) return;
+        if (W && Math.abs(nW - W) <= 1 && Math.abs(nH - H) <= 1 && nextDpr === laidDpr) return;
+        var widthChanged = !W || Math.abs(nW - W) > 1;
+        W = nW; H = nH; dpr = nextDpr; laidDpr = nextDpr;
         cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        if (!widthChanged && mode && field.length) {
+          if (baseCv) {
+            baseCv.width = cv.width; baseCv.height = cv.height;
+            bctx = baseCv.getContext("2d");
+            bctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+            markDirty();
+          }
+          return;
+        }
         mode = W < 700 ? "m" : (W < 1100 ? "t" : "d");
         stage.setAttribute("data-mode", mode);
         var L = LAYOUT[mode];
@@ -1900,7 +2054,7 @@
       }
       function curve(e, t0_, t1_, rgb, alpha, width, dash) {
         if (t1_ <= t0_) return;
-        var n = Math.max(4, Math.round((t1_ - t0_) * 36));
+        var n = Math.max(4, Math.round((t1_ - t0_) * (pace ? 12 : 36)));
         ctx.beginPath();
         for (var i = 0; i <= n; i++) { var p = bez(e, t0_ + (t1_ - t0_) * i / n); if (i === 0) ctx.moveTo(p[0], p[1]); else ctx.lineTo(p[0], p[1]); }
         if (dash) ctx.setLineDash(dash);
@@ -1921,7 +2075,7 @@
       function dots(list, r, rgb, a) { if (!list.length) return; ctx.fillStyle = rgba(rgb, a); ctx.beginPath(); for (var i = 0; i < list.length; i++) { var d = list[i]; ctx.moveTo(d.x + r, d.y); ctx.arc(d.x, d.y, r, 0, TWO); } ctx.fill(); }
       function ring(x, y, r, rgb, a, w, a0, a1, dash) { ctx.beginPath(); ctx.arc(x, y, r, a0 || 0, a1 === undefined ? TWO : a1); if (dash) ctx.setLineDash(dash); ctx.strokeStyle = rgba(rgb, a); ctx.lineWidth = w || 1; ctx.stroke(); if (dash) ctx.setLineDash([]); }
       function glow(x, y, r, a) {
-        if (quality < 1 && ctx === main) return;
+        if (pace || (quality < 1 && ctx === main)) return;
         if (!glowSprite) { glowSprite = document.createElement("canvas"); glowSprite.width = glowSprite.height = 64; var g = glowSprite.getContext("2d"), gr = g.createRadialGradient(32, 32, 0, 32, 32, 32); gr.addColorStop(0, "rgba(199,251,109,1)"); gr.addColorStop(1, "rgba(199,251,109,0)"); g.fillStyle = gr; g.fillRect(0, 0, 64, 64); }
         if (a <= 0.005 || r <= 0) return;
         ctx.globalAlpha = clamp(a, 0, 1); ctx.drawImage(glowSprite, x - r, y - r, r * 2, r * 2); ctx.globalAlpha = 1;
@@ -1939,7 +2093,7 @@
       function hubPhases() { var b = nodes.hub.boot; return [ease(clamp(b / 0.6, 0, 1)), ease(clamp((b - 0.2) / 0.6, 0, 1)), ease(clamp((b - 0.4) / 0.6, 0, 1))]; }
       /* static parts: drawn into the base layer only when something changes */
       function drawHubBase() {
-        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0) return;
+        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0 || !inBand(y, (n.r || 80) + 16)) return;
         var hot = hover === n || pinned === n, ph = hubPhases();
         ring(x, y, R, INK, 0.55, 1.1, -Math.PI / 2, -Math.PI / 2 + TWO * ph[0]);
         ring(x, y, R * 0.74, INK, 0.35, 1, -Math.PI / 2, -Math.PI / 2 + TWO * ph[1], [3 * k, 5 * k]);
@@ -1948,10 +2102,10 @@
         if (hot) ring(x, y, R + 6 * k, LIME3, 0.9, 1.6);
       }
       function drawHubLive(t) {
-        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0) return;
+        var n = nodes.hub, x = n.x, y = n.y; if (n.boot <= 0 || !inBand(y, (n.r || 80) + 16)) return;
         var hot = hover === n || pinned === n, ph = hubPhases();
         // ticks, batched into two paths
-        var rot = holdMotion() ? 0 : t * 0.12, lim = Math.floor(72 * ph[0]);
+        var rot = holdMotion() ? 0 : t * 0.12, lim = Math.floor((pace ? 24 : 72) * ph[0]);
         for (var pass = 0; pass < 2; pass++) {
           ctx.beginPath();
           for (var i = 0; i < lim; i++) { var big = i % 6 === 0; if ((pass === 0) !== big) continue; var a = i / 72 * TWO + rot, r0 = R - (big ? 9 : 5) * k; ctx.moveTo(x + Math.cos(a) * r0, y + Math.sin(a) * r0); ctx.lineTo(x + Math.cos(a) * (R - 1), y + Math.sin(a) * (R - 1)); }
@@ -1969,7 +2123,7 @@
         glow(x, y, R * 0.42, (0.16 + pu * 0.12 + n.hot * 0.35) * ph[2]);
       }
       function drawNodeBase(n) {
-        if (n.isHub || n.isField || n.hidden) return;
+        if (n.isHub || n.isField || n.hidden || !inBand(n.y, 48)) return;
         var b = n.boot; if (b <= 0) return;
         var hot = hover === n || pinned === n;
         var e = ease(b) * (focus && focus !== n.cl && !hot ? 0.42 : 1), r = n.r * ease(b);
@@ -1981,13 +2135,14 @@
         label(n, hot, e);
       }
       function drawNodeLive(n) {
-        if (n.isHub || n.isField || n.hidden || n.boot <= 0 || n.hot <= 0.05) return;
+        if (n.isHub || n.isField || n.hidden || n.boot <= 0 || n.hot <= 0.05 || !inBand(n.y, 36)) return;
         var r = n.r * ease(n.boot);
         glow(n.x, n.y, r + 14 * k, n.hot * 0.5);
         dot(n.x, n.y, Math.max(0, r - 3 * k), LIME3, n.hot);
       }
       function drawFieldBase() {
         var f = nodes.field, b = f.boot; if (b <= 0) return;
+        if (paceBand && (f.y + (f.ry || 0) + 36 < paceBand[0] || f.y - (f.ry || 0) - 36 > paceBand[1])) return;
         var hot = hover === f || pinned === f;
         ctx.setLineDash([3, 6]);
         ctx.beginPath(); ctx.ellipse(f.x, f.y, f.rx + 22 * k, f.ry + 22 * k, 0, 0, TWO); ctx.strokeStyle = rgba(hot ? LIME3 : INK, hot ? 0.8 : 0.22 * b); ctx.lineWidth = 1; ctx.stroke();
@@ -2003,11 +2158,11 @@
         var f = nodes.field, b = f.boot; if (b <= 0) return;
         var idle = [[], [], []], touched = [], replied = [], met = [], booting = b < 1;
         for (var i = 0; i < field.length; i++) {
-          var d = field[i], vis = clamp(b * 1.3 - d.o, 0, 1); if (vis <= 0) continue;
+          var d = field[i], vis = clamp(b * 1.3 - d.o, 0, 1); if (vis <= 0 || !inBand(d.y, 10)) continue;
           var sw = 0;
           for (var s = 0; s < sweeps.length; s++) { var dr = Math.abs(d.d - sweeps[s].r); if (dr < 26) sw = Math.max(sw, (1 - dr / 26) * (1 - sweeps[s].t)); }
           if (d.s === 0) {
-            if (sw > 0.03 || booting) dot(d.x, d.y, (1.6 + sw * 1.6) * k, INK, (0.28 + sw * 0.6) * vis);
+            if (!pace && (sw > 0.03 || booting)) dot(d.x, d.y, (1.6 + sw * 1.6) * k, INK, (0.28 + sw * 0.6) * vis);
             else idle[vis > 0.85 ? 2 : (vis > 0.55 ? 1 : 0)].push(d);
           }
           else if (d.s === 1) touched.push(d); else if (d.s === 2) replied.push(d); else met.push(d);
@@ -2025,6 +2180,7 @@
       }
       function drawEdgeBase(e) {
         if (e.a.hidden || e.b.hidden) return;
+        if (!inBand(e.a.y, 50) && !inBand(e.b.y, 50)) return;
         var b = Math.min(e.a.boot, e.b.boot); if (b <= 0) return;
         var hd = edgeDim(e), hot = hd[0], dim = hd[1], loop = e.kind === "loop";
         curve(e, 0, ease(b), hot ? LIME3 : INK, (loop ? 0.3 : (e.kind === "spoke" ? 0.42 : 0.5)) * dim * (hot ? 2 : 1), hot ? 1.8 : (loop ? 1 : 1.2), loop ? [4 * k, 6 * k] : null);
@@ -2032,6 +2188,7 @@
       }
       function drawEdgeLive(e) {
         if (!e.pk.length || e.a.hidden || e.b.hidden) return;
+        if (!inBand(e.a.y, 40) && !inBand(e.b.y, 40)) return;
         var dim = edgeDim(e)[1];
         for (var i = 0; i < e.pk.length; i++) {
           var p = e.pk[i], pos = bez(e, p.t);
@@ -2041,6 +2198,7 @@
         }
       }
       function drawTrace(tr) {
+        if (tr.from && tr.to && !inBand(tr.from.y, 24) && !inBand(tr.to.y, 24)) return;
         var a = tr.life > 0 ? 1 - tr.life / 1.4 : 1; if (a <= 0) return;
         if (focus && focus !== "market" && focus !== "channels" && focus !== "conv") a *= 0.4;
         var out = tr.kind === "out", rgb = out ? INK : LIME3;
@@ -2056,11 +2214,15 @@
         for (var i = 0; i < edges.length; i++) drawEdgeBase(edges[i]);
         drawHubBase();
         for (var j = 0; j < order.length; j++) drawNodeBase(nodes[order[j]]);
-        ctx = main; baseDirty = false;
+        ctx = main;
+        baseDirty = false;
       }
       function render(t) {
         if (!baseCv) return;
-        if (baseDirty) renderBase();
+        /* Reduced motion is one still frame: never clip it, and never skip the base. */
+        pace = holdMotion() ? false : scrollBusy();
+        paceBand = null;
+        if (baseDirty && !pace) renderBase();
         ctx = main;
         ctx.clearRect(0, 0, W, H);
         for (var s = 0; s < sweeps.length; s++) { var sw = sweeps[s]; ring(hub[0], hub[1], sw.r, LIME3, (1 - sw.t) * 0.35, 1.5); }
@@ -2078,7 +2240,7 @@
       function bootCluster(key) {
         if (!key || clusterOn[key]) return;
         clusterOn[key] = true;
-        var c = chips[key]; if (c && !c.classList.contains("on")) { c.classList.add("on"); c._cT = 0; }
+        var c = chips[key]; if (c && tourInView && !c.classList.contains("on")) { c.classList.add("on"); c._cT = 0; }
       }
       function clusterCenter(key) {
         if (key === "market") return [nodes.field.x, nodes.field.y, Math.max(nodes.field.rx, nodes.field.ry) * 1.1];
@@ -2089,7 +2251,7 @@
       }
       function applyFocus() {
         markDirty();
-        Object.keys(chips).forEach(function (key) { chips[key].classList.toggle("is-focus", focus === key); });
+        Object.keys(chips).forEach(function (key) { chips[key].classList.toggle("is-focus", tourInView && focus === key); });
         if (!plane) return;
         var c = focus ? clusterCenter(focus) : null;
         if (c && W && H) { plane.style.setProperty("--ox", (c[0] / W * 100).toFixed(1) + "%"); plane.style.setProperty("--oy", (c[1] / H * 100).toFixed(1) + "%"); }
@@ -2172,7 +2334,7 @@
         // radar sweep from the hub
         if (clusterOn.hub && t - lastSweep > 7) { lastSweep = t; sweeps.push({ r: R, t: 0 }); }
         for (var sx = sweeps.length - 1; sx >= 0; sx--) { var sw = sweeps[sx]; sw.t += dt / 2.6; sw.r = R + sw.t * Math.max(W, H) * 0.75; if (sw.t >= 1) sweeps.splice(sx, 1); }
-        var cap = quality > 1 ? 60 : (quality === 1 ? 30 : 16);
+        var cap = pace ? (quality > 1 ? 24 : 8) : (quality > 1 ? 60 : (quality === 1 ? 30 : 16));
         if (traces.length > cap) traces.splice(0, traces.length - cap);
         // tilt
         if (plane && !isSmall()) {
@@ -2183,12 +2345,13 @@
       }
       function frame(now) {
         raf = 0;
-        if (!visible || holdMotion() || scrolling) return;
+        if (!visible || holdMotion()) return;
         if (now < inputHold) { raf = requestAnimationFrame(frame); return; }
         var dt = Math.min(0.05, (now - last) / 1000 || 0.016); last = now;
         var t = (now - t0) / 1000;
         frameAcc += dt; frameN++;
         if (frameN >= 45) { var avg = frameAcc / frameN; frameAcc = 0; frameN = 0; if (avg > 0.034 && quality > 0 && t - qT > 3) { quality--; qT = t; dprCap = quality > 1 ? 1.75 : 1; size(); } }
+        pace = scrollBusy();
         update(dt, t);
         var slow = quality === 0 || (t - pointerT > 8 && tourStep >= TOUR.length - 1);
         if (slow) { skip = !skip; if (!skip) render(t); } else render(t);
@@ -2197,9 +2360,9 @@
           var hudText = hover ? ("focus: " + (hover.isHub ? "be leaded" : hover.isField ? "your market" : hover.lab.toLowerCase())) : (mx >= 0 && fine ? "cursor x " + Math.round(mx) + " y " + Math.round(my) : "cursor idle");
           if (hudText !== lastHud) { lastHud = hudText; hud.textContent = hudText; }
         }
-        if (!holdMotion() && !scrolling) raf = requestAnimationFrame(frame);
+        if (!holdMotion()) raf = requestAnimationFrame(frame);
       }
-      function start() { if (!raf && visible && !holdMotion() && !scrolling) { last = performance.now(); raf = requestAnimationFrame(frame); } }
+      function start() { if (!raf && visible && !holdMotion()) { last = performance.now(); raf = requestAnimationFrame(frame); } }
       function once() { if (holdMotion() && W) render(0); }
 
       /* ---- interaction ---- */
@@ -2257,23 +2420,25 @@
       io.observe(stage);
       canvasResumes.push(function () {
         if (!visible) return;
-        if (holdMotion() || scrolling) { if (raf) { cancelAnimationFrame(raf); raf = 0; } return; }
+        if (holdMotion()) { if (raf) { cancelAnimationFrame(raf); raf = 0; } if (W) render(0); return; }
         start();
       });
       window.addEventListener("resize", function () { if (W) { size(); once(); } });
       function runReduced() {
+        syncTourView();
         if (!running) {
           running = true; sceneT = 9; tourAuto = false;
           Object.keys(CLUSTERS).forEach(bootCluster);
           Object.keys(nodes).forEach(function (key) { nodes[key].boot = 1; });
           goStep(TOUR.length - 1, false);
-          Object.keys(CLUSTERS).forEach(function (key) { var c = chips[key]; if (c) { c.classList.add("on"); var st = c.querySelector("[data-mc-stat]"); if (st) st.textContent = CLUSTERS[key].text(CLUSTERS[key].n); } });
+          Object.keys(CLUSTERS).forEach(function (key) { var c = chips[key]; if (c && tourInView) { c.classList.add("on"); var st = c.querySelector("[data-mc-stat]"); if (st) st.textContent = CLUSTERS[key].text(CLUSTERS[key].n); } });
           var chs = ["Email", "LinkedIn", "Ads", "Email", "SMS", "Email", "Voice", "LinkedIn"];
           for (var i = 0; i < 8; i++) { var tr = makeTrace(nodes[chs[i]], field[(i * 17) % field.length], "out", true); tr.t = 1; traces.push(tr); field[(i * 17) % field.length].s = 1; }
           for (var j = 0; j < 3; j++) { var d = field[(j * 41 + 5) % field.length]; d.s = 2; var tr2 = makeTrace(d, nodes.Replies, "reply", false); tr2.t = 1; traces.push(tr2); }
           field[9].s = 3;
         }
         markDirty(); render(0);
+        syncTourView();
       }
     });
   }
