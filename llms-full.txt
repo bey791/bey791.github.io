@@ -15207,7 +15207,7 @@ Sorted A to Z by company name. Placement in the grid is not a score. The fee col
 
 | Refine Labs (#refine-labs) | Monthly paid media management with a multi-month minimum | LinkedIn, Google, YouTube, Meta, connected TV and out-of-home | B2B technology companies at Series B and beyond that want paid social inside a demand program |
 
-| Sculpt (#sculpt) | Ongoing paid social campaign management | LinkedIn, Meta, TikTok, Google and Reddit, with organic social available from the same team | B2B brands that want paid and organic social under one specialist team |
+| Sculpt (#sculpt) | Ongoing paid social campaign management | LinkedIn, Meta, YouTube, TikTok and Reddit, with organic social available from the same team | B2B brands that want paid and organic social under one specialist team |
 
 ## Agency notes
 
@@ -15253,6 +15253,8 @@ Fits: B2B teams that want LinkedIn-first paid social, with other channels routed
 
 Source: Impactable LinkedIn Ads page (https://impactable.com/linkedin-ads-agency)
 
+Source: Impactable pricing (https://impactable.com/pricing)
+
 ### KlientBoost
 
 KlientBoost describes itself as an outcome marketing agency. Its LinkedIn Ads service page is written for B2B companies and covers demand generation, demand capture and retargeting across LinkedIn ad types. The wider services and B2B pages also name Facebook Ads and paid search. The firm is not exclusively a B2B shop; the services page also describes ecommerce work. A single public rate card was not stated on the pages checked.
@@ -15260,6 +15262,10 @@ KlientBoost describes itself as an outcome marketing agency. Its LinkedIn Ads se
 Fits: Teams that want LinkedIn or Meta ads inside a wider performance program, and who are comfortable with an agency that also serves other business types.
 
 Source: KlientBoost LinkedIn Ads page (https://www.klientboost.com/services/linkedin-ads-agency/)
+
+Source: KlientBoost site (https://www.klientboost.com/)
+
+Source: KlientBoost Facebook Ads page (https://www.klientboost.com/services/facebook-ads-agency/)
 
 ### Powered by Search
 
@@ -15276,6 +15282,8 @@ Refine Labs describes itself as a B2B demand generation agency for technology co
 Fits: B2B technology companies at Series B and beyond that want paid social inside a demand program.
 
 Source: Refine Labs site (https://www.refinelabs.com/)
+
+Source: Refine Labs pricing (https://www.refinelabs.com/pricing)
 
 ### Sculpt
 
@@ -15298,8 +15306,6 @@ This guide answers "which B2B paid social agencies should I compare?" It is not 
 - Best B2B lead generation agencies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/) compares outbound and appointment-setting firms, not paid social agencies.
 
 - Best demand generation agencies (https://www.beleaded.com/guides/best-demand-generation-agencies/) covers a wider demand brief. Demand generation (https://www.beleaded.com/demand-generation-agency/) is Be Leaded's own plan that joins outbound, paid social and newsletters.
-
-Open drafts for other vertical paid social pages (for example CPG, retail or fashion) are service pages too, not comparison lists. Meta-specific or LinkedIn-versus-Meta explainers, if they ship later, would still be different from this agency comparison.
 
 ## What you should compare
 
