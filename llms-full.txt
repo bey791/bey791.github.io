@@ -15251,6 +15251,73 @@ Month to month? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30mi
 
 ---
 
+URL: https://www.beleaded.com/nonprofit-paid-social-agency/
+
+Published: 2026-11-11
+Updated: 2026-11-11
+
+- Home (https://www.beleaded.com/)
+- Services (https://www.beleaded.com/services/)
+- Nonprofit paid social agency
+
+# Paid social for nonprofits: donor and recurring giving campaigns
+
+By Ahmad Khan, founder of Be Leaded. Published November 11, 2026. Updated November 11, 2026.
+
+Planning paid social for your fundraising? Nonprofit paid social usually means Facebook and Instagram through Meta. We also talk through whether YouTube, TikTok or LinkedIn suit your supporters. Start with a scoping conversation about gifts and recurring donors, not likes. We talk through your donation journey, what you want to measure and whether we are the right fit before any proposal.
+
+Discuss your fundraising campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=nonprofit-paid-social-agency)
+
+## One-time gifts and monthly giving are different asks
+
+A first gift from someone new to your cause and a monthly pledge from a supporter who already knows you need different messages, audiences and landing pages. In the conversation we clarify which ask each campaign would make, so one-time appeals do not crowd out recurring giving or the other way round.
+
+## The donation page matters as much as the ad
+
+Much of the result depends on what happens after the click. Useful questions to bring: how many steps your donation page takes on a phone, how easy it is to choose monthly giving and whether the page matches the appeal that sent people there. Your team decides what, if anything, changes.
+
+## Measure gifts, not engagement
+
+Reactions and shares are not donations. We would agree what counts as a result, such as a completed gift, a new monthly donor or a pledge sign-up, and talk through what your donation platform can report. Some platforms connect to ad reporting more fully than others, so this is worth checking before anyone discusses numbers. What a campaign is told to aim for matters too. A campaign optimized for email sign-ups can bring in many names and few gifts, so we talk through which action your ads should be optimized for. If your cause relates to health, Meta may limit which donation page events it accepts from your site, which changes what can be measured and optimized. We also ask who reads the results, such as your board or a funder, so the reporting answers the questions they will ask.
+
+## Supporter data: ask before you upload
+
+Supporter lists can help reach people who already care about your cause. Before any list is used for ads, we ask whether your consent covers advertising use, how opted out supporters are excluded and whether any field touches health, financial or other sensitive details. Your team stays in control of donor records and makes the call on what can be used.
+
+## Cause ads and Meta's social issue rules
+
+If an ad talks about a topic Meta treats as a social issue in your country, Meta asks the person running the ad to complete authorization and the ad to carry a "Paid for by" disclaimer. This depends on what the ad says, not on being a nonprofit, and these ads stay in Meta's public Ad Library for seven years. Since October 2025 Meta does not run ads about social issues in the European Union at all. We ask which of your appeals touch these topics and whether your team already has authorization in place.
+
+## Your calendar, not a standard season
+
+Fundraising calendars differ. We ask about your own appeals, events and reporting deadlines rather than assuming a standard giving season. If you are planning a GivingTuesday or year-end appeal, raise it early, because ads, matching landing pages and any platform authorization take time to put in place.
+
+## Common questions
+
+Do Google Ad Grants cover Facebook or Instagram ads?
+No. Google Ad Grants is a Google search program for eligible nonprofits. Facebook and Instagram ads are paid separately, so we talk through how search and social would work together for your appeals.
+
+Can you work on sensitive causes?
+Often, yes, but some topics bring extra platform rules on ad wording and on what your website can share with Meta. We check those for your cause before anyone plans a campaign.
+
+Will this work with our donation platform and CRM?
+It depends on the platform. Some pass completed gifts back to ad reporting more fully than others. Tell us which tools you use and we check what can be measured before discussing any numbers.
+
+We fundraise in Europe. Does that change anything?
+Yes. Meta no longer runs ads about social issues in the European Union, and its built-in fundraising tools ended in the European Economic Area in 2024, so donations need to go through your own donation page.
+
+## What to bring to the conversation
+
+Your fundraising goal, the gift types you want (one-time, monthly or both), audience and geography, donation platform, current advertising and any supporter data you hold with consent.
+
+If there is a fit, scope and pricing are discussed after the conversation. Ad spend is agreed separately.
+
+Discuss your fundraising campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=nonprofit-paid-social-agency)
+
+For our wider services, see our paid social services (https://www.beleaded.com/paid-social-agency/) page.
+
+---
+
 URL: https://www.beleaded.com/pharma-paid-social-agency/
 
 Published: 2026-11-09
