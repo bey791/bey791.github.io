@@ -1441,6 +1441,7 @@ input[type="range"].rng:focus-visible{outline:3px solid var(--signal);outline-of
 .sys-labels{position:absolute;inset:0;margin:0;padding:0;list-style:none;pointer-events:none;z-index:4}
 .sm{position:absolute;left:0;top:0;translate:-50% -100%;transform-origin:50% 100%;width:156px;display:grid;justify-items:center;gap:3px;text-align:center;pointer-events:auto;opacity:0;transition:opacity .5s ease}
 .sm.on,.sm-term{opacity:1}
+.sys-stage:not([data-mode]) .sm-term{opacity:0}
 .sm-head{display:inline-flex;align-items:center;gap:8px;padding:6px 10px 6px 8px;border-radius:999px;background:color-mix(in srgb,var(--card) 88%,transparent);border:1px solid var(--line-2);color:var(--ink);font:inherit;cursor:pointer;transition:background-color .25s,border-color .25s,color .25s,box-shadow .25s}
 .sm-n{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.06em;color:var(--signal);padding:2px 5px;border-radius:6px;background:color-mix(in srgb,var(--lime) 45%,transparent)}
 .sm-name{font-size:13px;font-weight:600;letter-spacing:.01em}
