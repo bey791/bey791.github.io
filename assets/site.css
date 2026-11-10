@@ -1874,8 +1874,8 @@ body.nav-open .site-header{position:fixed;top:env(safe-area-inset-top,0px);left:
 /* Primary book CTA: button, then the Jasper/Ava note. Not used on nav or the sticky bar. */
 .cta-primary{display:flex;flex-direction:column;align-items:flex-start;max-width:100%;min-width:0}
 .cta-note,.cta-card p.cta-note{margin:9px 0 0;font-size:13.5px;line-height:1.45;font-weight:400;letter-spacing:0;color:var(--ink-3);max-width:42ch}
-.cta-row:has(.cta-primary .cta-note){align-items:flex-start}
-.cta-row:has(.cta-primary .cta-note)>.btn,.cta-row:has(.cta-primary .cta-note)>.link,.cta-row:has(.cta-primary .cta-note)>.email-line{margin-top:16px}
+.cta-row:has(.cta-primary){align-items:flex-start}
+.cta-row:has(.cta-primary)>.btn,.cta-row:has(.cta-primary)>.link,.cta-row:has(.cta-primary)>.email-line{margin-top:16px}
 .cta-card .cta-primary{align-items:center}
 .cta-card p.cta-note{margin-inline:auto;text-align:center}
 .contact-card .cta-note,.site-footer .cta-note{color:var(--night-ink-2)}
