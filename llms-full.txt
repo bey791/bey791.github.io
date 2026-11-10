@@ -5734,7 +5734,7 @@ Lead generation
 
 # How to build a B2B lead list
 
-By Ahmad Khan, founder of Be Leaded. Updated October 8, 2026. 9 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 12, 2026. 9 min read.
 
 The short answer: Build a B2B lead list by writing the ICP and one trigger, finding one decision-maker per company, and verifying the email. Then remove duplicates and anyone you must not mail, and size what remains to one campaign. A database export is raw material. The rows that survive are the list.
 
@@ -5964,7 +5964,7 @@ Book a 30-minute call
 
 ## Keep reading
 
-### B2B lead generation strategies that work in 2026, ranked by cost per meeting
+### B2B lead generation strategies that work in 2026, compared on cost per meeting
 
 Nine B2B lead generation strategies compared on time to first meeting, cost and team effort: cold email, LinkedIn, paid ads, referrals, events and content.
 
