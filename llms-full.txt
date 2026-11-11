@@ -1472,7 +1472,7 @@ Updated: 2026-11-13
 
 # Facebook and Instagram ads for personal injury law firms
 
-Be Leaded runs Meta lead ads and landing pages for personal injury case types. People looking for an injury lawyer reach a form or a short page, and each lead is sent straight to your intake team. We measure the work by qualified intakes and signed cases as your firm reports them, not by raw lead count.
+Be Leaded runs Meta lead ads and landing pages for personal injury case types. People looking for an injury lawyer reach a form or a short page, and each lead is sent to your intake staff. We measure the work by qualified intakes and signed cases as your firm reports them, not by raw lead count.
 
 Facebook and Instagram ads for personal injury firms, built and run for you. We make the ads, build the landing page or lead form, set up fast intake follow-up and send a weekly report. Your firm owns the ad account and approves everything before it runs. We judge the work by what your intake team reports back, with signed cases first and cost per lead second.
 
@@ -1481,7 +1481,7 @@ Facebook and Instagram ads for personal injury firms, built and run for you. We 
 Your firm decides which cases it wants, what counts as a qualified intake and whether a case is signed. Your counsel approves every ad, form and page. Your intake team talks to the people who respond. We are not a law firm and we give no legal advice.
 
 - Ad creative for the case types you choose, such as auto accidents, trucking, slip and fall and workplace injury
-- A landing page or lead form built for one case type at a time, with consent language for call and text follow-up
+- A landing page or lead form built for one case type at a time, with consent language for your intake team's call and text follow-up
 - Targeting by state and practice area only
 - Intake setup: a short first-contact script, the qualification steps your team uses and a handoff the moment a form comes in
 - Tracking of qualified intakes and signed cases as your firm reports them, so we can see which ads bring cases and not just clicks
@@ -1495,9 +1495,9 @@ We build separate campaigns for the case types your firm already wants, such as 
 
 ## How intake works after a form comes in
 
-When someone fills in a form, your intake team is alerted by text and email at once, and we track how long each lead waits for a first reply. Your intake team does the follow-up. We never call or text leads. We never pass a firm's leads to anyone. We set up instant delivery of each lead to your intake team or CRM.
+When someone fills in a form, your intake team is alerted by text and email, and we track how long each lead waits for a first reply. Your intake team does the follow-up. We never call or text leads. We never pass a firm's leads to anyone. We set up delivery of each lead straight to your intake team or CRM.
 
-The form stays neutral. It asks for contact details, state, case type and the best time to call. Qualification happens on the firm's intake call.
+The form stays neutral. It asks for contact details, state, case type and the best time to call. Case type choices name the practice area only. Qualification happens on the firm's intake call.
 
 ## Advertising rules we write to
 
@@ -1554,10 +1554,10 @@ Not a fit when:
 ## Questions
 
 Do Facebook ads work for personal injury lawyers?
-Yes when a firm wants inquiries from people looking for an injury lawyer and can follow up the same day. We measure the work by qualified intakes and signed cases as your firm reports them. We cannot promise any result, number of leads or number of signed cases.
+They can bring inquiries from people looking for an injury lawyer when a firm can follow up the same day, and results differ by firm, state and case type. We measure the work by qualified intakes and signed cases as your firm reports them. We cannot promise any result, number of leads or number of signed cases.
 
 Who follows up after someone fills in a form?
-Your intake team does the follow-up. We set up instant delivery of each lead to your intake team or CRM and alert them by text and email. We never call or text leads and we never pass a firm's leads to anyone.
+Your intake team does the follow-up. We set up delivery of each lead straight to your intake team or CRM and alert them by text and email. We never call or text leads and we never pass a firm's leads to anyone.
 
 Are legal services a Meta Special Ad Category?
 Meta does not list legal services as a Special Ad Category. Meta's advertising standards still apply to every law firm ad, and Meta can reject or remove any ad.
@@ -1581,7 +1581,7 @@ We are a marketing service, not a law firm or a lawyer referral service, and we 
 
 ## Sources
 
-Primary pages used for the advertising rules on this URL. Recheck them on ship day, because the lists can change.
+Primary pages used for the advertising rules on this URL. These pages can change, so check them again before you rely on them.
 
 - ABA Model Rule 7.1 (https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_1_communication_concerning_a_lawyer_s_services/)
 - ABA Model Rule 7.2 (https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_2_advertising/)
