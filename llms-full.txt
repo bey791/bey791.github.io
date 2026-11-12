@@ -1592,7 +1592,7 @@ The order can flex when a state filing takes longer or when the firm wants a sec
 
 Signed cases are a measure the firm reports. Sending that status back into Meta is optional and it is not a promise that more matters will be signed.
 
-After intake closes a file, the firm already knows which inquiries became signed matters and which did not. That status can be uploaded to Meta as an offline event or a similar conversion so later delivery can lean toward people who look more like those who signed, rather than people who only opened the form. The firm owns that record. We do not decide who is signed and we do not add a status the firm has not confirmed.
+After intake closes a file, the firm already knows which inquiries became signed matters and which did not. That status can be uploaded to Meta as an offline event or a similar conversion so later delivery can lean toward people who look more like those who signed, rather than people who only opened the form. The firm owns that record and controls what is sent. We do not send client health details or case facts with that status. We do not decide who is signed and we do not add a status the firm has not confirmed.
 
 Setup depends on how the firm logs matters today. Some teams export a weekly list. Others connect a practice management tool when it can send a completed-event safely. Either path is a measurement choice, not a promise about results. If the firm cannot share signed status, we can still report on qualified intakes and on how quickly the staff responded. The weekly review simply has less to work with.
 
@@ -1643,7 +1643,7 @@ Do you give legal advice on advertising rules?
 We are a marketing service, not a law firm or a lawyer referral service, and we give no legal advice. The ABA Model Rules of Professional Conduct 7.1 to 7.3 are a useful reference, and your state's own rules are the ones that apply. Your counsel confirms what applies to your firm.
 
 Should a personal injury firm send signed matters back to Meta?
-It can help measurement when the firm can share an accurate list of which inquiries became signed matters. That status can be uploaded as an offline event or a similar conversion so later delivery can lean toward people who look more like those who signed. It is a measurement path, not a promise that more matters will be signed. If the firm cannot share signed status, reporting can still cover qualified intakes and response times.
+It can help measurement when the firm can share which inquiries became signed matters. That status can be uploaded as an offline event or a similar conversion so later delivery can lean toward people who look more like those who signed. The firm controls what is sent, and the upload does not include client health details or case facts. It is a measurement path, not a promise that more matters will be signed. If the firm cannot share signed status, reporting can still cover qualified intakes and response times.
 
 When should a firm run these ads itself instead of hiring help?
 When the firm already has someone who can build Meta campaigns, write ads counsel will approve, watch new inquiries every day and sit in a weekly review of wait times and signed matters. Hiring help fits when the firm wants the ads, forms, tracking and weekly review handled for it, still in the firm's own account, with counsel approving every ad and intake handling every follow-up. We do not argue that every firm must outsource.
