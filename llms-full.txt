@@ -1466,7 +1466,7 @@ Distributors? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?
 URL: https://www.beleaded.com/facebook-ads-for-personal-injury-lawyers/
 
 Published: 2026-11-12
-Updated: 2026-11-12
+Updated: 2026-11-13
 
 - Home (https://www.beleaded.com/)
 - Services (https://www.beleaded.com/services/)
@@ -1553,6 +1553,77 @@ Not a fit when:
 - Firms that cannot follow up on new inquiries the same day
 - Anyone looking for a lawyer referral service or a promise of a set number of cases
 
+## How the media budget is decided
+
+The amount your firm spends with Meta is set around the work the intake team can handle, not around a published starter figure on this page.
+
+Media spend sits in the firm's own ad account and is paid by the firm to Meta. Our fee is a separate conversation after the call. We do not list a starter package, a cost per inquiry or a cost per signed matter here, because those figures change with the market, the case types and how quickly your staff can respond.
+
+What usually shapes the first media amount is the number of states you want to cover, how many case types you want live at once and how many new inquiries your intake line can take without letting people wait. A firm that can only work a small set of new matters each week should not buy more reach than its staff can follow up the same day. A firm that already answers quickly may be able to support a wider set of markets, still one case type at a time until intake is steady.
+
+Competition in a county or metro also matters. Some personal injury practice areas draw more competing ads than others, and the same media amount will not behave the same way in every market. Creative testing adds another layer: still images, short video and form copy all need room to be tried, kept or stopped. We would rather start with an amount the firm can keep in place through the first weeks of review than force a large opening buy and then cut it when intake is still being tested.
+
+On the weekly call we look at wait times, qualified intakes and which ads are worth keeping. The media amount can go up, stay the same or come down after that review. Nothing on this page is a quote. If you want to talk through what your states and case types would need, bring that list to the call.
+
+## Creative and video choices
+
+Ads for this work name the firm and the service. They do not narrate a viewer's crash or claim to know that the person watching is hurt.
+
+Most programs use a mix of still images, short video and a lead form in the feed or a page on the firm's site. The right mix depends on what counsel will approve and on where the firm wants the inquiry to land. A form in the feed can be simpler for the person filling it in. A page on the firm's site can hold more about the practice, so long as it stays readable on a phone and does not invent case results.
+
+Hooks and opening lines stay at the service level. A useful hook names the firm, the state or region and the invitation to request a review. It does not open with a wreck, a hospital bed or a dollar figure. Video can start with the firm name on screen and a spoken invitation to contact intake. It should not reconstruct an accident or speak as if the viewer has already been injured.
+
+The written hook stays on that service-level pattern. It leads with the firm's name, the area the firm serves and a clear invitation to request a review from intake. It does not add a crash scene, a hospital setting or a dollar figure, and it does not claim to know that the person watching is hurt.
+
+A short video can follow the same pattern. It can open with the practice name on screen and a spoken invitation to contact intake. The spoken lines stay on the firm's services. They do not describe the viewer's injuries, name a recovery or show a dramatized crash. Counsel reviews every still, caption and cut before anything is submitted to Meta. If a bar filing is required in your state, that step happens before the ad is asked to run.
+
+## How a campaign is structured
+
+This is the structure of the advertising work itself. It sits alongside the pilot steps on this page and does not replace your counsel review or add a go-live date.
+
+1. Agree the case types, the states or counties and what your intake team will treat as a qualified inquiry.
+2. Confirm the firm's Meta ad account, the place leads will be delivered and the events you want to record, including signed matter status if the firm can share it.
+3. Draft the ads, the form or page and the consent language, then send that packet to counsel.
+4. Complete any bar or advertising filing your state requires, then wait for counsel approval. Nothing is submitted to Meta until that approval is in hand.
+5. Start with one region and a tight set of case types so intake quality can be read clearly.
+6. Review the work each week: how long people waited, which inquiries were qualified, which ads to keep and which to stop.
+
+The order can flex when a state filing takes longer or when the firm wants a second case type held back. What does not flex is counsel approval before launch and same-day follow-up by the firm's own staff. We do not publish a calendar that promises when ads will be live, because that date is set by your review and by any filing your jurisdiction requires.
+
+## Sending signed matters back to Meta
+
+Signed cases are a measure the firm reports. Sending that status back into Meta is optional and it is not a promise that more matters will be signed.
+
+After intake closes a file, the firm already knows which inquiries became signed matters and which did not. That status can be uploaded to Meta as an offline event or a similar conversion so later delivery can lean toward people who look more like those who signed, rather than people who only opened the form. The firm owns that record and controls what is sent. We do not send client health details or case facts with that status. We do not decide who is signed and we do not add a status the firm has not confirmed.
+
+Setup depends on how the firm logs matters today. Some teams export a weekly list. Others connect a practice management tool when it can send a completed-event safely. Either path is a measurement choice, not a promise about results. If the firm cannot share signed status, we can still report on qualified intakes and on how quickly the staff responded. The weekly review simply has less to work with.
+
+This path also has limits. The quality of the signal is only as good as the firm's own coding of each matter. Delayed updates, mixed case types in one event or a list that includes unsigned inquiries will blur what Meta can learn. We would rather have a smaller, accurate set of signed events than a large, messy one.
+
+## Common mistakes in personal injury ads
+
+Most of the problems we see are about wording, mixing too much into one campaign or letting inquiries wait.
+
+- Writing as if the ad already knows the viewer is injured, rather than speaking to people who are looking for an injury lawyer.
+- Putting settlement amounts, case results or client stories in the creative when counsel has not supplied compliant wording.
+- Running many case types and several states inside a single campaign, which makes it hard to see what is working.
+- Buying a shared list of injury inquiries and treating those contacts as exclusive to the firm.
+- Letting new form fills sit while intake is in court or off the desk, so people go cold before anyone calls.
+- Submitting ads to Meta before counsel has signed off, or skipping a filing the state requires.
+- Judging the work only on a cheap form fill, with no view of wait time or of which inquiries the firm actually wanted.
+
+None of these are presented as a score against other firms. They are the points we walk through on the call so the first campaign is built to avoid them.
+
+## When a firm should keep this work in house
+
+Not every personal injury practice needs an outside team to run Meta ads. The right choice depends on who can already do the work inside the firm.
+
+Keeping the work in house makes sense when the firm already has someone who can build campaigns in Meta, write ads that counsel will approve, watch the inbox every day and sit in a weekly review of wait times and signed matters. That person needs time, not only access to the ad account. If they are already covering intake or trial work, the advertising will slip.
+
+Hiring help is a better fit when the firm wants the ads, forms, tracking and weekly review handled for it, still inside the firm's own account, with counsel in charge of approval and intake in charge of every call and text. We do not argue that every firm must outsource. We also do not take over follow-up. The comparison is about capacity and review, not about a claim that one path always wins on signed cases.
+
+If you already run this work yourself and only want a second look at structure or creative, say that on the call. If you want the program built and reviewed with you, bring the states, case types and a plain account of how intake works today.
+
 ## Questions
 
 Do Facebook ads work for personal injury lawyers?
@@ -1572,6 +1643,12 @@ Your firm owns the ad account and approves everything before it runs. Scope and 
 
 Do you give legal advice on advertising rules?
 We are a marketing service, not a law firm or a lawyer referral service, and we give no legal advice. The ABA Model Rules of Professional Conduct 7.1 to 7.3 are a useful reference, and your state's own rules are the ones that apply. Your counsel confirms what applies to your firm.
+
+Should a personal injury firm send signed matters back to Meta?
+It can help measurement when the firm can share which inquiries became signed matters. That status can be uploaded as an offline event or a similar conversion so later delivery can lean toward people who look more like those who signed. The firm controls what is sent, and the upload does not include client health details or case facts. It is a measurement path, not a promise that more matters will be signed. If the firm cannot share signed status, reporting can still cover qualified intakes and response times.
+
+When should a firm run these ads itself instead of hiring help?
+When the firm already has someone who can build Meta campaigns, write ads counsel will approve, watch new inquiries every day and sit in a weekly review of wait times and signed matters. Hiring help fits when the firm wants the ads, forms, tracking and weekly review handled for it, still in the firm's own account, with counsel approving every ad and intake handling every follow-up. We do not argue that every firm must outsource.
 
 ## Related
 
