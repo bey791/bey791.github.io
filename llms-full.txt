@@ -16010,7 +16010,7 @@ Updated: 2026-11-13
 
 By Ahmad Khan, founder of Be Leaded. Published November 11, 2026. Updated November 13, 2026.
 
-Planning paid social for your fundraising? Nonprofit paid social usually means Facebook and Instagram through Meta. We also talk through whether YouTube, TikTok or LinkedIn suit your supporters. Start with a scoping conversation about gifts and recurring donors, not likes. We talk through your donation journey, what you want to measure and whether we are the right fit before any proposal.
+A nonprofit paid social agency plans and runs paid ads to bring in one-time gifts and monthly donors, not likes or shares. That work is usually on Facebook and Instagram through Meta, with YouTube, TikTok or LinkedIn used when they fit your supporters, and it also covers the donation page, consented supporter lists and Meta's rules for ads about social issues, elections or politics. Be Leaded starts with a scoping conversation on your gift types, donation journey and measurement before any proposal.
 
 Discuss your fundraising campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=nonprofit-paid-social-agency)
 
@@ -16064,7 +16064,7 @@ We talk through how the two would work together for your appeals rather than tre
 
 Year-end and GivingTuesday work best when they are built from your own calendar, not from a generic seasonal template. The earlier section on this page already asks you to flag those dates with enough lead time for creative, the matching pages and any platform authorization. This section is the planning checklist we walk through so those pieces are actually in place.
 
-First, lock the ask. Decide whether the appeal is a one-time gift, a monthly gift, an event tied to the season or a list invite that supports a later ask. Write the appeal in language your board and counsel already accept. Second, confirm the donation or sign-up page on a phone: the amount options, the monthly toggle if you use one, the load time and the thank-you or confirmation state that will count as the success event. Third, confirm tracking for that event in your donation platform or CRM, including UTMs on the paid links. Fourth, check whether the appeal is a social issue, election or cause ad under Meta's rules and whether your team already has authorization. If authorization is still needed, start it before creative is finalized, because that step is outside our control.
+First, lock the ask. Decide whether the appeal is a one-time gift, a monthly gift, an event tied to the season or a list invite that supports a later ask. Write the appeal in language your board and counsel already accept. Second, confirm the donation or sign-up page on a phone: the amount options, the monthly toggle if you use one, the load time and the thank-you or confirmation state that will count as the success event. Third, confirm tracking for that event in your donation platform or CRM, including UTMs on the paid links. Fourth, check whether the appeal is about social issues, elections or politics under Meta's rules and whether your team already has authorization. If authorization is still needed, start it before creative is finalized, because that step is outside our control.
 
 Fifth, agree who watches results during the appeal. Someone on your side should be able to see completed gifts or sign-ups, reply to questions from supporters and pause or adjust a creative if a page breaks. We can review the ads with you on a regular cadence, but we cannot be the inbox for donor questions. Sixth, plan the quiet after the spike: a thank-you path, a decision about whether monthly giving is offered to one-time donors and a simple record of what to keep or drop next time. None of this is a promise about the size of the appeal. It is the work that has to happen so the ads have a real place to send people.
 
@@ -16089,7 +16089,7 @@ How should we plan paid social around a year-end appeal?
 Build the appeal from your own calendar. Lock the ask, confirm the donation or sign-up page on a phone, confirm tracking for the success event, check whether Meta authorization is needed and agree who will watch results and donor questions during the appeal. Flag the dates with enough lead time for creative, the matching pages and any authorization. This is planning work, not a promise about the size of the appeal.
 
 Does every nonprofit ad need Meta social issue authorization?
-No. Authorization applies when the ad is about social issues, elections or politics, or when Meta treats the creative as a cause ad. Many program or event ads do not need it. We check your specific appeal rather than assuming every nonprofit ad requires authorization.
+No. Authorization applies when the ad is about social issues, elections or politics. Meta can disapprove an ad it places in that category if authorization and a Paid for by disclaimer are missing. Many program or event ads do not need it. We check your specific appeal rather than assuming every nonprofit ad requires authorization.
 
 ## What to bring to the conversation
 
