@@ -2049,7 +2049,7 @@ Owner outreach for search fund deal sourcing
 
 Owner outreach for searchers: a mandate you set, notes sent in your name and meetings with owners who ask to talk. We do not advise on the deal.
 
-Search fund deal sourcing, on this page, means reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. This URL explains that motion from a searcher's point of view. It does not add a new service line, a case history or a promised number of conversations.
+Search fund deal sourcing, on this page, means reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. This guide explains that motion from a searcher's point of view. It is not a new service, a case history or a promise of a set number of conversations.
 
 ## What this page is
 Searchers often want conversations with owners who have not put a company on the market. The work that gets those conversations started already exists on /m-and-a-deal-flow/. That writeup is the source of truth for the offer. This page does not replace it, and it does not announce a product only for search funds.
