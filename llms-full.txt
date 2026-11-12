@@ -16358,7 +16358,7 @@ Rules Meta applies to the ads:
 - Ads for cosmetic procedures are limited to people 18 or older under Meta's Health and Wellness standard. Meta lists dental products such as teeth whitening products as an exception to that age floor. When an offer is a cosmetic procedure, we apply the adult setting. Your practice and Meta's review decide how a given offer is classified.
 - The same Health and Wellness standard bars copy that attacks a person's appearance or hygiene, and it bars a promise of a set result in a set time without a qualifier in a health or cosmetic context.
 - Lead forms are tightly limited. Ours collect contact details and one scheduling question only. Symptoms, medical history and insurance are left to your practice.
-- Clinical detail stays out of audiences, pixels and form fields. Campaigns are written to sit inside Meta's advertising policies. Approval by Meta is never guaranteed.
+- Clinical detail stays out of audiences, pixels and form fields. Campaigns are written to sit inside Meta's advertising policies. Meta reviews every ad, and approval is never certain.
 
 ## What Meta and HIPAA restrict
 Two different sets of limits shape this work, and they should not be collapsed into one. Meta's advertising standards, including its personal attributes rule and its Health and Wellness standard, already linked in the sources below, restrict how an ad may speak to the person who sees it, who may be shown an ad for a cosmetic procedure and what a lead form may ask. That is why copy on this program names a service and does not address the viewer's mouth, pain or looks. It is also why forms stay limited to contact details and one scheduling question, and why treatment details stay out of audiences, pixels and event fields.
@@ -16388,7 +16388,7 @@ A match if:
 Not a match if:
 - Offices that want creative submitted to Meta without a dentist reviewing treatment claims
 - Teams that cannot reach new inquiries on the day they arrive
-- Anyone who wants a guaranteed patient count or a fixed cost for each seated visit
+- Anyone who wants a promised patient count or a fixed cost for each seated visit
 
 This URL is for Facebook and Instagram ads only. For text and email programs for dental and med spa practices, use that industry page at /industries/dental-med-spa/.
 
