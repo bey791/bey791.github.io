@@ -2605,9 +2605,9 @@
      The same click stores bl_last_cta for a later /booked/ page in another tab.
      The handler does not cancel the click. These links open in a new tab.
      book_call_click also sends page_path. cta_location, position, and cta
-     stay the raw data-cta or utm_campaign from main. When a data-cta value
-     repeats, the numbered label (inline-1, inline-2) is added as cta_slot
-     on those events and as bl_last_cta.cta_slot. A unique slot omits cta_slot.
+     stay the raw data-cta or utm_campaign from main. cta_slot is that same
+     data-cta value on every booking click, taken from the link or the
+     closest ancestor that has data-cta. bl_last_cta.cta_slot stores it too.
      book_call_click also sends link_mode. landing_page and first_referrer
      come from bl_ft when that record exists. audience is sent when
      data-audience is set. bl_last_cta stores cta, link_mode, landing_page,
@@ -2701,25 +2701,17 @@
       anchor.setAttribute("href", addr + "?" + pairs.join("&") + hash);
     } catch (err) {}
   }
-  /* inline-1, inline-2, ... when that data-cta is on more than one anchor.
-     A unique value returns "" so callers omit cta_slot. */
+  /* The link's data-cta, or the closest ancestor that has one.
+     An empty result means the click has no slot label. */
   function blCtaSlot(anchor) {
-    var cta, all, n, idx, i, other;
+    var el, cta;
     try {
-      if (!anchor || !anchor.getAttribute) return "";
-      cta = anchor.getAttribute("data-cta");
-      if (!cta) return "";
-      all = document.querySelectorAll("a[data-cta]");
-      n = 0;
-      idx = 0;
-      for (i = 0; i < all.length; i++) {
-        other = all[i];
-        if (!other.getAttribute || other.getAttribute("data-cta") !== cta) continue;
-        n += 1;
-        if (other === anchor) idx = n;
-      }
-      if (n < 2 || !idx) return "";
-      return cta + "-" + idx;
+      if (!anchor) return "";
+      el = anchor;
+      if (anchor.closest) el = anchor.closest("[data-cta]") || anchor;
+      if (!el.getAttribute) return "";
+      cta = el.getAttribute("data-cta");
+      return cta || "";
     } catch (err) {
       return "";
     }
@@ -3042,11 +3034,12 @@
       } catch (errLate) {}
     }
     var isCal = a.href.indexOf("calendly.com") > -1;
-    var cta = a.getAttribute("data-cta");
+    var cta = "";
     var slot = "";
     var linkMode = "";
     try {
-      if (cta) slot = blCtaSlot(a) || "";
+      slot = blCtaSlot(a) || "";
+      cta = slot;
     } catch (errSlot) {}
     if (isCal) linkMode = blCalLinkMode(e);
     if (typeof gtag === "function") {
