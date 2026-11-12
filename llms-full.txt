@@ -16077,7 +16077,7 @@ Month to month? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30mi
 URL: https://www.beleaded.com/nonprofit-paid-social-agency/
 
 Published: 2026-11-11
-Updated: 2026-11-11
+Updated: 2026-11-13
 
 - Home (https://www.beleaded.com/)
 - Services (https://www.beleaded.com/services/)
@@ -16085,9 +16085,9 @@ Updated: 2026-11-11
 
 # Paid social for nonprofits: donor and recurring giving campaigns
 
-By Ahmad Khan, founder of Be Leaded. Published November 11, 2026. Updated November 11, 2026.
+By Ahmad Khan, founder of Be Leaded. Published November 11, 2026. Updated November 13, 2026.
 
-Planning paid social for your fundraising? Nonprofit paid social usually means Facebook and Instagram through Meta. We also talk through whether YouTube, TikTok or LinkedIn suit your supporters. Start with a scoping conversation about gifts and recurring donors, not likes. We talk through your donation journey, what you want to measure and whether we are the right fit before any proposal.
+A nonprofit paid social agency plans and runs paid ads to bring in one-time gifts and monthly donors. That work is usually on Facebook and Instagram through Meta, with YouTube, TikTok or LinkedIn used when they fit your supporters, and it also covers the donation page, consented supporter lists and Meta's rules for ads about social issues, elections or politics. Be Leaded starts with a scoping conversation on your gift types, donation journey and measurement before any proposal.
 
 Discuss your fundraising campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=nonprofit-paid-social-agency)
 
@@ -16115,6 +16115,36 @@ If an ad talks about a topic Meta treats as a social issue in your country, Meta
 
 Fundraising calendars differ. We ask about your own appeals, events and reporting deadlines rather than assuming a standard giving season. If you are planning a GivingTuesday or year-end appeal, raise it early, because ads, matching landing pages and any platform authorization take time to put in place.
 
+## What paid social can ask for
+
+Paid social for a nonprofit is not limited to a single gift ask. A campaign can invite a one-time gift, a monthly gift, a volunteer sign-up, a registration for an event or a subscription to your email list. Each of those is a different request and should have its own landing path and its own success event. Mixing a volunteer form into a donation campaign, or sending event registrants to a general homepage, makes the results harder to read and often weaker for the person who clicked.
+
+One-time and monthly giving still need separate creative and separate thank-you paths, as the earlier section on this page explains. Volunteer and event campaigns should send people to a form that confirms the role or the date, not to a donation page that happens to mention the event in passing. List-growth campaigns should ask only for the data you will actually use and should state how you will write to that person. We do not treat every click as a donor. We agree the intended action before ads are drafted.
+
+Some organizations want more than one of these running in the same season. That can be done when each campaign has a clear job and when your team can follow up on gifts, shifts and RSVPs without mixing the lists. If capacity is tight, it is better to run one ask well than to launch four weak ones at once. The scoping conversation is the place to pick the first job.
+
+## CRM and donation platform tracking
+
+Ad reporting is only useful when a completed action on your side can be seen next to the campaign that prompted it. For gifts, that usually means a completed donation on your donation platform or a new monthly donor record in your CRM. For volunteers and events, it means a confirmed sign-up rather than a page view. We look at which of your tools can pass those events into Meta when the platform allows it, and we record the gap when a tool cannot.
+
+The technical path varies. Some donation platforms can send a completed-gift event through a pixel or a server-side connection. Others need a manual export or a middle tool. We do not assume a connection exists until we have checked the platform you actually use. UTMs on every paid link still help your own reports, even when a live event feed is not available. Your organization owns the supporter records. We do not upload a list unless you have a documented, lawful basis and a clear purpose for that use, which the earlier data section on this page already covers.
+
+Health-related and other sensitive causes can limit what a website is allowed to share with Meta. That limit is about the topic and the data, not about how popular the cause is. We flag it before anyone plans a campaign. Tracking is set up to measure the actions you care about. It is not a claim that gifts, volunteers or registrations will rise by a set amount.
+
+## Google Ad Grants and paid social
+
+Google Ad Grants does not pay for Facebook or Instagram ads. The Grants program is a Google search benefit for eligible nonprofits. Paid social is billed on its own, in your ad account, under a budget you agree for that work. The two can sit next to each other. Search can meet people who are already looking for your cause or for a way to give. Social can reach people who may not be searching today, including supporters you already have permission to speak to and people who match the audiences you are allowed to build.
+
+We talk through how the two would work together for your appeals rather than treating paid social as a replacement for Grants or the other way around. If you already have a Grants program, bring a plain account of what it covers so the social campaigns do not copy the same ask in a way that confuses supporters. If you do not have Grants, that does not block a paid social conversation. It simply means search is outside the first scope unless you want to raise it later.
+
+## Planning a year-end or calendar appeal
+
+Year-end and GivingTuesday work best when they are built from your own calendar, not from a generic seasonal template. The earlier section on this page already asks you to flag those dates with enough lead time for creative, the matching pages and any platform authorization. This section is the planning checklist we walk through so those pieces are actually in place.
+
+First, lock the ask. Decide whether the appeal is a one-time gift, a monthly gift, an event tied to the season or a list invite that supports a later ask. Write the appeal in language your board and counsel already accept. Second, confirm the donation or sign-up page on a phone: the amount options, the monthly toggle if you use one, the load time and the thank-you or confirmation state that will count as the success event. Third, confirm tracking for that event in your donation platform or CRM, including UTMs on the paid links. Fourth, check whether the appeal is about social issues, elections or politics under Meta's rules and whether your team already has authorization. If authorization is still needed, start it before creative is finalized, because that step is outside our control.
+
+Fifth, agree who watches results during the appeal. Someone on your side should be able to see completed gifts or sign-ups, reply to questions from supporters and pause or adjust a creative if a page breaks. We can review the ads with you on a regular cadence, but we cannot be the inbox for donor questions. Sixth, plan the quiet after the spike: a thank-you path, a decision about whether monthly giving is offered to one-time donors and a simple record of what to keep or drop next time. None of this is a promise about the size of the appeal. It is the work that has to happen so the ads have a real place to send people.
+
 ## Common questions
 
 Do Google Ad Grants cover Facebook or Instagram ads?
@@ -16128,6 +16158,15 @@ It depends on the platform. Some pass completed gifts back to ad reporting more 
 
 We fundraise in Europe. Does that change anything?
 Yes. Meta no longer runs ads about social issues in the European Union, and its built-in fundraising tools ended in the European Economic Area in 2024, so donations need to go through your own donation page.
+
+Can paid social support volunteers, events or list growth, not only gifts?
+Yes. A campaign can invite a one-time gift, a monthly gift, a volunteer sign-up, a registration for an event or a subscription to your email list. Each request should have its own landing path and its own success event. We agree the intended action before ads are drafted.
+
+How should we plan paid social around a year-end appeal?
+Build the appeal from your own calendar. Lock the ask, confirm the donation or sign-up page on a phone, confirm tracking for the success event, check whether Meta authorization is needed and agree who will watch results and donor questions during the appeal. Flag the dates with enough lead time for creative, the matching pages and any authorization. This is planning work, not a promise about the size of the appeal.
+
+Does every nonprofit ad need Meta social issue authorization?
+No. Authorization applies when the ad is about social issues, elections or politics. Meta can disapprove an ad it places in that category if authorization and a Paid for by disclaimer are missing. Many program or event ads do not need it. We check your specific appeal rather than assuming every nonprofit ad requires authorization.
 
 ## What to bring to the conversation
 
@@ -16341,3 +16380,77 @@ Discuss your pharma campaign (https://calendly.com/ahmad-beleaded/30min?utm_sour
 The wider program across platforms is described on our paid social and search (https://www.beleaded.com/paid-social-agency/) page.
 
 Pharma campaign? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=pharma-paid-social-agency)
+
+---
+
+URL: https://www.beleaded.com/cpg-paid-social-agency/
+
+Published: 2026-11-13
+Updated: 2026-11-13
+
+- Home (https://www.beleaded.com/)
+- Services (https://www.beleaded.com/services/)
+- CPG paid social agency
+
+# Paid social for CPG brands: direct and retail sales
+
+By Ahmad Khan, founder of Be Leaded. Published November 13, 2026. Updated November 13, 2026.
+
+CPG paid social usually means Facebook and Instagram through Meta. We also talk through TikTok, Pinterest or YouTube where your shoppers spend time. Talk through paid social for your own checkout, retail distribution or both, with product availability and the evidence you can measure at the center. Plan your next campaign around the way customers actually buy.
+
+Discuss your CPG growth plan (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=cpg-paid-social-agency)
+
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+## Where should the sale happen?
+
+An ad that sends people to your own checkout and an ad that encourages them to buy at a retailer are different campaigns. Direct campaigns can connect many clicks to orders on your site. Retail campaigns aim to get shoppers to pick your product on a shelf or retailer site, where the purchase usually happens out of view of the ad platform. In the conversation we clarify which path each campaign would support. Some retailers share their product catalog with brands through Meta's Collaborative Ads, which lets a brand send shoppers straight to that retailer's site or app and see the sales the retailer's own tracking reports. Not every retailer offers this, so we ask which of yours do.
+
+## Availability comes before spend
+
+Ads should not push products people cannot buy. We ask which products are in stock on your site, which retailers carry them and in which areas, because patchy availability changes what a campaign should do. If your product is in some stores but not others, we talk through keeping ads to the areas around stores that actually carry it, so spend follows your distribution.
+
+## Product claims need support
+
+Claims about what a product does, especially health or nutrition benefits, need proper support before they run. Your team decides which claims are approved, and any creative discussed would stay inside them. The same applies to creator and customer videos used in ads. A paid relationship needs a clear disclosure, and a creator's claim about your product needs the same support as your own.
+
+## Be honest about measurement
+
+Sales on your own site are easier to connect to ads, but not completely: consent choices, browser privacy limits and attribution settings mean some orders go unseen, and a tracked order does not prove the ad caused it. Retail sales are harder still. Without sales data from a retailer or a measurement partner, ad reporting will not show which store purchases came from ads. We would agree which signals matter for you, such as site orders, store locator clicks, retailer link clicks or your own sales trends, and what each can and cannot show. The most direct way to see whether ads changed sales is a lift test, where a control group does not see the ads. It needs enough spend and sales to read clearly, so we talk through whether one fits your plan or whether simpler signals are the honest choice for now. If your products relate to health, such as supplements or personal care, Meta may limit which purchase events your site can share, which affects what campaigns can optimize for. We check this before planning a sales campaign.
+
+## Channels beyond Meta
+
+Facebook and Instagram are the usual starting point, and they are not the only channels we talk through. TikTok often fits when a product can be shown in a short video, including how a creator would describe it inside your approved claims. Pinterest often fits when people are planning a purchase or saving a recipe. YouTube often fits when a longer walk-through or a pre-roll ad can explain the product before someone chooses where to buy it.
+
+## How an engagement runs
+
+Work starts with the scoping conversation, covering the purchase path, product availability, the claims your team has approved and what you want the first campaign to do. If there is a fit, we set out a proposal for the channels, the campaign's job, the creative needed and how results will be reported. Your team reviews the proposal before any ads are built and reviews the ads before anything is published. Once ads are running, we share the signals we agreed to watch, and changes to creative, audiences or spend are proposed and approved before they go out.
+
+## Common questions
+
+Can you show which store sales came from our ads?
+Not from ad reporting alone. That needs sales data from the retailer or a measurement partner, or a lift test. We talk through which of those you have access to.
+
+We already run ads on Amazon or Walmart. Does paid social replace that?
+No. Retailer ad networks are a separate channel. Tell us what you run there and we talk through how social would sit next to it.
+
+Do you work with brands that sell both online and in stores?
+Yes. That is the main reason this conversation starts with where each sale happens.
+
+Can you plan ads around a product launch or a seasonal campaign?
+Yes. Bring the launch or season, where the products will be sold and which claims are already approved. We plan the ads so the message and the stock line up, and we do not name a go-live date until your team has approved the creative and confirmed that the product is available where the ads will mention it.
+
+Who owns the ad creative and UGC after the engagement?
+Work we produce for your ads is intended to stay with your brand when the engagement ends. Creator or customer videos follow the usage rights agreed with the person who made them. We will put our intended terms in the proposal and the contract. Please confirm those terms in the signed agreement, because this page states our intent and is not a substitute for the contract.
+
+## Bring one growth decision to the call
+
+Are you trying to win first purchases, bring back repeat buyers, grow orders on your site, support a retail launch or reach shoppers where your products are stocked? Bring that priority, your product range, where it sells, the claims your team has approved and any sales data you already receive. The conversation starts with the purchase path, the evidence available to judge performance and whether we are the right fit.
+
+If there is a fit, scope and pricing are discussed after the conversation. Ad spend is agreed separately.
+
+Discuss your CPG growth plan (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=cpg-paid-social-agency)
+
+For our wider services, see our paid social services (https://www.beleaded.com/paid-social-agency/) page.
+
+CPG brand? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=cpg-paid-social-agency)
