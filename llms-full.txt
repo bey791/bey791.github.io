@@ -16276,9 +16276,9 @@ H1: Facebook and Instagram ads for dental practices
 Dates: 2026-11-14 (package target ship day; Noah restamps at merge if the day changes).
 
 ## Lead
-Be Leaded plans Meta campaigns on Facebook and Instagram for dental offices seeking more people actually sitting in a chair. Work is split by treatment type. Each inquiry goes to your front desk. Booked consults and seated visits, as your office records them, are measures only, never promises.
+Be Leaded plans Meta campaigns on Facebook and Instagram for dental offices seeking more people actually sitting in a chair. Work is split by treatment type. Each inquiry goes to your front desk.
 
-Dental practices use this program to run Facebook and Instagram campaigns without building the ads in house. We produce the creative, set up the lead form or a short page and send each inquiry to your front desk. Your practice owns the ad account, and a dentist signs off on every ad before launch. Your front desk makes the first contact. We never contact patients. Booked consults and seated visits, as your office records them, are measures only, never promises.
+Your practice owns the ad account, and a dentist signs off on every ad before launch.
 
 ## What the program includes
 Your practice owns the ad account, picks the consult types and decides when a visit counts as booked or seated. A dentist at the practice signs off on every ad before anything is submitted to Meta. Ads also have to follow the practice's state dental board rules. Be Leaded is a marketing vendor, not a clinic, and we offer no clinical advice.
@@ -16374,7 +16374,7 @@ Book a 30-minute call: https://calendly.com/ahmad-beleaded/30min?utm_source=bele
 The go-live date depends on how long your practice takes to review the ads, so this page does not name a launch window.
 
 1. Call. The first conversation: Offices, consult types, how the front desk books visits and who at the practice signs off on ads. The conversation lasts 30 minutes.
-2. Setup. Account and assets: An ad account your practice owns, tracking, a lead form or short page, and the alert and reminder path your desk will use.
+2. Setup. Account and assets: An ad account your practice owns, tracking, a lead form or short page and the alert and reminder path your desk will use.
 3. Review. Practice sign-off: A dentist at the practice signs off on every ad, form and page. Ads also have to follow the practice's state dental board rules. If your state board requires a disclaimer or limits how an offer may be described, that wording is settled before anything is submitted.
 4. Launch. One offer first: A single office or area and one or two consult types, so you can see what books and who attends before the work expands.
 5. Report. Each week's review: Each week we look at booked consults and seated visits with you and decide what to change.
