@@ -2054,6 +2054,8 @@ Search fund deal sourcing, on this page, means reaching owners of private compan
 ## What this page is
 Searchers often want conversations with owners who have not put a company on the market. The work that gets those conversations started already exists on /m-and-a-deal-flow/. That writeup is the source of truth for the offer. This page does not replace it, and it does not announce a product only for search funds.
 
+The work described here is the published owner outreach program, read from a searcher's side. It is not a marketplace of listed deals, and it is not a promise that a deal will close. Be Leaded already publishes that program for advisors, brokers and buy-side readers, including searchers. It is built around a mandate you approve, a researched list of matching owners, mail and LinkedIn sent under your name and a meeting booked only when an owner asks for one and fits the mandate. After a meeting is set, your search handles valuation, diligence and any offer. We do not advise on those steps.
+
 ## Why searchers look for help with sourcing
 A search still has to cover a wide set of owners, keep raising or stewarding capital and sit in every conversation that matters. Proprietary outreach takes time to research, write and follow. The published program can carry the research, the sending and the booking, so the searcher can stay on the mandate and on the calls that get set.
 
