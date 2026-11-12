@@ -16077,7 +16077,7 @@ Updated: 2026-11-12
 
 By Ahmad Khan, founder of Be Leaded. Published November 9, 2026. Updated November 12, 2026.
 
-We run paid social for pharmaceutical brand teams on Meta, which includes Facebook and Instagram, and on LinkedIn, once there is a fit. Campaigns are planned around the brand's medical, legal and regulatory review, and nothing runs until that team has approved it. We start with a scoping conversation about your campaign type, audience, markets and review process, and we agree who would be responsible for what before any proposal is made.
+We run paid social for pharmaceutical brand teams on Meta and LinkedIn, once there is a fit. Nothing runs until your medical, legal and regulatory team has approved it. We start with a scoping conversation about your campaign type, audience, markets and review process.
 
 Discuss your pharma campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=pharma-paid-social-agency)
 
@@ -16134,13 +16134,13 @@ Fair balance and the presentation of risk and benefit information are part of th
 ## Audiences we target
     
 
-Healthcare professional, patient and caregiver audiences are platform options, and the brand chooses which to use for a given campaign. Some campaigns are meant for clinicians. Others are meant for a patient, caregiver or public audience, such as a product campaign or a disease awareness message. The choice sits with your team and has to follow each platform's advertising rules.
+Healthcare professional, patient and caregiver audiences are options on some platforms, and the brand chooses which to use for a given campaign. Some campaigns are meant for clinicians. Others are meant for a patient, caregiver or public audience, such as a product campaign or a disease awareness message. The choice sits with your team and has to follow each platform's advertising rules.
     
 
 We describe these audiences as options, not as lists we already hold and not as groups defined by a health condition we assume they have. A healthcare professional audience may be planned when the message is for clinicians. A patient or caregiver audience may be planned when the brand wants to reach people who are looking for information about a product, a condition area or a support message, without writing the ad as if we already know the viewer's own health. Where a campaign needs more than one of these audiences, they are planned as separate efforts so the copy, the review and the platform rules can be kept distinct.
     
 
-Targeting follows the rules of the platform you use, and we do not use implied health conditions as a way to reach people. On Meta, ads must not assert or imply personal attributes, including a person's physical or mental health or a medical condition. Copy should describe the product or the service, not speak as if the viewer already has a condition. For ads that promote prescription drugs on Meta, the authorization, country and age rules above still apply. On LinkedIn, targeting also has to follow LinkedIn's own advertising rules for the campaign type you want to run.
+Targeting follows the rules of the platform you use, and we do not use implied health conditions as a way to reach people. On Meta, ads must not assert or imply personal attributes, including a person's physical or mental health or a medical condition. Copy should describe the product or the service, not speak as if the viewer already has a condition. For ads that promote prescription drugs on Meta, the authorization, country and age rules above still apply. On LinkedIn, ads for prescription drugs need LinkedIn's authorization and must be aimed at healthcare-related professionals, not consumers or a general audience, so a patient or caregiver audience is not an option for those ads there.
     
 
 We do not quote audience sizes, reach figures or list volumes on this page, because those numbers depend on the market, the platform and what your reviewers allow. We also do not claim that one audience will produce a better result than another. The first conversation is about which option fits the campaign you are planning and what each platform will allow for that option.
@@ -16149,7 +16149,7 @@ We do not quote audience sizes, reach figures or list volumes on this page, beca
 ## A paid social pilot
     
 
-We organise the start of a program as a pilot in ordered phases, not as a fixed calendar. Phase length depends on the brand's review. This is a way to structure the work, not a promise that a campaign will launch, finish or produce a result in a set period.
+We organize the start of a program as a pilot in ordered phases, not as a fixed calendar. Phase length depends on the brand's review. This is a way to structure the work, not a promise that a campaign will launch, finish or produce a result in a set period.
     
 
 Scoping. We talk through the campaign type, audience, markets, review process and whether we are the right fit. This is also when we ask what your team has already confirmed with each platform, what source material we may use and who on your side will review the work. No ads are built to run during this phase. If there is not a fit, we say so and we do not move to the next phase.
@@ -16182,7 +16182,7 @@ Your team, your reviewers and the platform rules decide which options are approp
 Social ads attract comments. Some may describe a possible adverse event. We ask how comments on brand channels would be monitored and routed into the brand's own pharmacovigilance process. The brand's safety function decides what is a reportable event. We do not assess medical details, decide who qualifies or replace that function. Your safety team sets how brand channels are screened.
     
 
-This conversation happens before ads run, so responsibilities are clear from the start. Comments can include ordinary questions, complaints and messages that may need to go to your safety team. We can help agree how comments are watched and how they are passed to the people you name. We do not store medical details from those comments, and we do not decide whether a comment is a reportable safety event. If your process says a comment must be escalated, it is escalated under that process, not under a process we invent.
+This conversation happens before ads run, so responsibilities are clear from the start. Comments can include ordinary questions, complaints and messages that may need to go to your safety team. We can help agree how comments are watched and how they are passed to the people you name. We do not ask for medical details from those comments, and we do not decide whether a comment is a reportable safety event. If your process says a comment must be escalated, it is escalated under that process, not under a process we invent.
     
 
 The brand remains responsible for its pharmacovigilance obligations. If you already have an agency, a vendor or an internal team that handles this work, we plan around that arrangement. We do not take the place of that function.
@@ -16242,12 +16242,12 @@ We can talk through either type, along with corporate campaigns. The first conve
 
 Can you target healthcare professionals, patients and caregivers?
 
-Yes, those are platform options, and the brand chooses which to use. Targeting follows each platform's rules, and ad copy must not assert or imply a viewer's health condition.
+Healthcare professionals, yes. Patient and caregiver audiences are options only where the platform's rules allow, and on LinkedIn prescription drug ads must be aimed at healthcare-related professionals, not consumers. The brand chooses which to use, and ad copy must not assert or imply a viewer's health condition.
       
 
 What does a paid social pilot involve?
 
-We organise a pilot in ordered phases: scoping, then build and review, then launch and learn. Phase length depends on the brand's review. It is not a promise that a campaign will launch or finish in a set period, and we do not promise results, meetings or leads.
+We organize a pilot in ordered phases: scoping, then build and review, then launch and learn. Phase length depends on the brand's review. It is not a promise that a campaign will launch or finish in a set period, and we do not promise results, meetings or leads.
       
 
 Which ad formats do you use?
