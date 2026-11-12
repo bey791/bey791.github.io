@@ -16032,7 +16032,7 @@ Bar rules that apply to your firm:
 - ABA model rules 7.1, 7.2 and 7.3 are a useful starting point. Your state's own rules are what actually bind the firm.
 
 Platform rules on Meta:
-- On Meta's current published list, legal services are not a Special Ad Category. A category has to be selected when the ad itself concerns housing, a job opening, financial products and services, or a social issue, election or political campaign. A hiring post for your own office would use the employment category. An ad that promotes credit, loans, debt relief or insurance can fall under financial products and services. An ad that argues a social or political issue would use that category. Ordinary representation ads do not sit in those groups on the list we fetched. Meta can still refuse or remove any ad, and we check the list again before launch.
+- On Meta's current published list, legal services are not a Special Ad Category. A category has to be selected when the ad itself concerns housing, a job opening, financial products and services or a social issue, election or political campaign. A hiring post for your own office would use the employment category. An ad that promotes credit, loans, debt relief or insurance can fall under financial products and services. An ad that argues a social or political issue would use that category. Ordinary representation ads do not sit in those groups on the list we fetched. Meta can still refuse or remove any ad, and we check the list again before launch.
 - Meta bars ads that assert or imply a personal attribute about the person who sees them, including health. Creative on this program describes the firm's services and does not address the viewer's private life.
 - We keep the work to legal representation. Hiring posts, debt relief, loans, settlement advances, insurance offers and policy advocacy are left out, because those can pull a campaign into a Special Ad Category.
 - We write to Meta's advertising standards. Approval of any single ad is not something we can promise.
@@ -16057,7 +16057,7 @@ This fits if:
 - Consumer-facing firms in family, criminal defense, estate, immigration or employment law, and other practices that want firm-wide Meta ads
 - Firms whose intake desk can handle new inquiries as they come in
 - Firms that will share signed-matter status with us, even as a short recap
-- Firms that assign a lawyer or compliance contact to review advertising
+- Firms that will have counsel review every ad
 
 This does not fit if:
 - Firms that want creative published without counsel looking at it
@@ -16075,7 +16075,7 @@ Q: Do Facebook ads work for law firms?
 A: They can bring inquiries when a firm reaches people in the right place and its intake staff follows up. Outcomes differ by practice, market and how intake is run. We judge the work by the qualified intakes and signed matters your staff records. We give no promise of a result or of signed-matter volume, and we do not quote figures from other firms.
 
 Q: Do we have to pick a Special Ad Category for legal ads?
-A: On Meta's current published list, legal services are not a Special Ad Category. A category has to be selected when the ad itself concerns housing, a job opening, financial products and services, or a social issue, election or political campaign. Ordinary representation ads do not sit in those groups on the list we fetched. Meta can still refuse or remove any ad.
+A: On Meta's current published list, legal services are not a Special Ad Category. A category has to be selected when the ad itself concerns housing, a job opening, financial products and services or a social issue, election or political campaign. Ordinary representation ads do not sit in those groups on the list we fetched. Meta can still refuse or remove any ad.
 
 Q: Should we use Instant Forms or a landing page?
 A: Either can work. We pick with you on the call, based on the practice, the states you serve and how your intake staff wants to receive responses. In both cases the questions stay limited to a name, contact details, state, the practice or matter type and a preferred time to talk. Qualification stays on your intake call.
