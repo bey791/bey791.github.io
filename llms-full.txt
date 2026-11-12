@@ -16002,7 +16002,7 @@ Month to month? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30mi
 URL: https://www.beleaded.com/nonprofit-paid-social-agency/
 
 Published: 2026-11-11
-Updated: 2026-11-11
+Updated: 2026-11-13
 
 - Home (https://www.beleaded.com/)
 - Services (https://www.beleaded.com/services/)
@@ -16010,9 +16010,9 @@ Updated: 2026-11-11
 
 # Paid social for nonprofits: donor and recurring giving campaigns
 
-By Ahmad Khan, founder of Be Leaded. Published November 11, 2026. Updated November 11, 2026.
+By Ahmad Khan, founder of Be Leaded. Published November 11, 2026. Updated November 13, 2026.
 
-Planning paid social for your fundraising? Nonprofit paid social usually means Facebook and Instagram through Meta. We also talk through whether YouTube, TikTok or LinkedIn suit your supporters. Start with a scoping conversation about gifts and recurring donors, not likes. We talk through your donation journey, what you want to measure and whether we are the right fit before any proposal.
+A nonprofit paid social agency plans and runs paid ads to bring in one-time gifts and monthly donors. That work is usually on Facebook and Instagram through Meta, with YouTube, TikTok or LinkedIn used when they fit your supporters, and it also covers the donation page, consented supporter lists and Meta's rules for ads about social issues, elections or politics. Be Leaded starts with a scoping conversation on your gift types, donation journey and measurement before any proposal.
 
 Discuss your fundraising campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=nonprofit-paid-social-agency)
 
@@ -16040,6 +16040,36 @@ If an ad talks about a topic Meta treats as a social issue in your country, Meta
 
 Fundraising calendars differ. We ask about your own appeals, events and reporting deadlines rather than assuming a standard giving season. If you are planning a GivingTuesday or year-end appeal, raise it early, because ads, matching landing pages and any platform authorization take time to put in place.
 
+## What paid social can ask for
+
+Paid social for a nonprofit is not limited to a single gift ask. A campaign can invite a one-time gift, a monthly gift, a volunteer sign-up, a registration for an event or a subscription to your email list. Each of those is a different request and should have its own landing path and its own success event. Mixing a volunteer form into a donation campaign, or sending event registrants to a general homepage, makes the results harder to read and often weaker for the person who clicked.
+
+One-time and monthly giving still need separate creative and separate thank-you paths, as the earlier section on this page explains. Volunteer and event campaigns should send people to a form that confirms the role or the date, not to a donation page that happens to mention the event in passing. List-growth campaigns should ask only for the data you will actually use and should state how you will write to that person. We do not treat every click as a donor. We agree the intended action before ads are drafted.
+
+Some organizations want more than one of these running in the same season. That can be done when each campaign has a clear job and when your team can follow up on gifts, shifts and RSVPs without mixing the lists. If capacity is tight, it is better to run one ask well than to launch four weak ones at once. The scoping conversation is the place to pick the first job.
+
+## CRM and donation platform tracking
+
+Ad reporting is only useful when a completed action on your side can be seen next to the campaign that prompted it. For gifts, that usually means a completed donation on your donation platform or a new monthly donor record in your CRM. For volunteers and events, it means a confirmed sign-up rather than a page view. We look at which of your tools can pass those events into Meta when the platform allows it, and we record the gap when a tool cannot.
+
+The technical path varies. Some donation platforms can send a completed-gift event through a pixel or a server-side connection. Others need a manual export or a middle tool. We do not assume a connection exists until we have checked the platform you actually use. UTMs on every paid link still help your own reports, even when a live event feed is not available. Your organization owns the supporter records. We do not upload a list unless you have a documented, lawful basis and a clear purpose for that use, which the earlier data section on this page already covers.
+
+Health-related and other sensitive causes can limit what a website is allowed to share with Meta. That limit is about the topic and the data, not about how popular the cause is. We flag it before anyone plans a campaign. Tracking is set up to measure the actions you care about. It is not a claim that gifts, volunteers or registrations will rise by a set amount.
+
+## Google Ad Grants and paid social
+
+Google Ad Grants does not pay for Facebook or Instagram ads. The Grants program is a Google search benefit for eligible nonprofits. Paid social is billed on its own, in your ad account, under a budget you agree for that work. The two can sit next to each other. Search can meet people who are already looking for your cause or for a way to give. Social can reach people who may not be searching today, including supporters you already have permission to speak to and people who match the audiences you are allowed to build.
+
+We talk through how the two would work together for your appeals rather than treating paid social as a replacement for Grants or the other way around. If you already have a Grants program, bring a plain account of what it covers so the social campaigns do not copy the same ask in a way that confuses supporters. If you do not have Grants, that does not block a paid social conversation. It simply means search is outside the first scope unless you want to raise it later.
+
+## Planning a year-end or calendar appeal
+
+Year-end and GivingTuesday work best when they are built from your own calendar, not from a generic seasonal template. The earlier section on this page already asks you to flag those dates with enough lead time for creative, the matching pages and any platform authorization. This section is the planning checklist we walk through so those pieces are actually in place.
+
+First, lock the ask. Decide whether the appeal is a one-time gift, a monthly gift, an event tied to the season or a list invite that supports a later ask. Write the appeal in language your board and counsel already accept. Second, confirm the donation or sign-up page on a phone: the amount options, the monthly toggle if you use one, the load time and the thank-you or confirmation state that will count as the success event. Third, confirm tracking for that event in your donation platform or CRM, including UTMs on the paid links. Fourth, check whether the appeal is about social issues, elections or politics under Meta's rules and whether your team already has authorization. If authorization is still needed, start it before creative is finalized, because that step is outside our control.
+
+Fifth, agree who watches results during the appeal. Someone on your side should be able to see completed gifts or sign-ups, reply to questions from supporters and pause or adjust a creative if a page breaks. We can review the ads with you on a regular cadence, but we cannot be the inbox for donor questions. Sixth, plan the quiet after the spike: a thank-you path, a decision about whether monthly giving is offered to one-time donors and a simple record of what to keep or drop next time. None of this is a promise about the size of the appeal. It is the work that has to happen so the ads have a real place to send people.
+
 ## Common questions
 
 Do Google Ad Grants cover Facebook or Instagram ads?
@@ -16053,6 +16083,15 @@ It depends on the platform. Some pass completed gifts back to ad reporting more 
 
 We fundraise in Europe. Does that change anything?
 Yes. Meta no longer runs ads about social issues in the European Union, and its built-in fundraising tools ended in the European Economic Area in 2024, so donations need to go through your own donation page.
+
+Can paid social support volunteers, events or list growth, not only gifts?
+Yes. A campaign can invite a one-time gift, a monthly gift, a volunteer sign-up, a registration for an event or a subscription to your email list. Each request should have its own landing path and its own success event. We agree the intended action before ads are drafted.
+
+How should we plan paid social around a year-end appeal?
+Build the appeal from your own calendar. Lock the ask, confirm the donation or sign-up page on a phone, confirm tracking for the success event, check whether Meta authorization is needed and agree who will watch results and donor questions during the appeal. Flag the dates with enough lead time for creative, the matching pages and any authorization. This is planning work, not a promise about the size of the appeal.
+
+Does every nonprofit ad need Meta social issue authorization?
+No. Authorization applies when the ad is about social issues, elections or politics. Meta can disapprove an ad it places in that category if authorization and a Paid for by disclaimer are missing. Many program or event ads do not need it. We check your specific appeal rather than assuming every nonprofit ad requires authorization.
 
 ## What to bring to the conversation
 
@@ -16069,7 +16108,7 @@ For our wider services, see our paid social services (https://www.beleaded.com/p
 URL: https://www.beleaded.com/pharma-paid-social-agency/
 
 Published: 2026-11-09
-Updated: 2026-11-09
+Updated: 2026-11-12
 
 - Home (https://www.beleaded.com/)
 - Services (https://www.beleaded.com/services/)
@@ -16077,40 +16116,266 @@ Updated: 2026-11-09
 
 # Pharma paid social agency for pharmaceutical brand teams
 
-By Ahmad Khan, founder of Be Leaded. Published November 9, 2026. Updated November 9, 2026.
+By Ahmad Khan, founder of Be Leaded. Published November 9, 2026. Updated November 12, 2026.
 
-Planning paid social for a pharmaceutical brand? Start with a scoping conversation. We talk through your objective, audience, markets and review process, assess whether we are the right fit, and agree who would be responsible for what before any proposal is made.
+We run paid social for pharmaceutical brand teams on Meta and LinkedIn, once there is a fit. Nothing runs until your medical, legal and regulatory team has approved it. We start with a scoping conversation about your campaign type, audience, markets and review process.
 
 Discuss your pharma campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=pharma-paid-social-agency)
 
 30 minutes: campaign type, review constraints, and whether we fit. No pitch deck.
 
-## Start with the type of campaign
+## Campaign approach
+    
 
-Disease awareness and corporate campaigns can have different objectives and review requirements. In the first conversation we clarify which one you are planning, who you need to reach and in which markets, so the discussion starts from the right constraints.
+If there is a fit, the work we would discuss is paid social on Meta, which includes Facebook and Instagram, and on LinkedIn. We plan the campaign type, the markets, the audience and the creative around the brand's review and around each platform's advertising rules. Any creative, targeting, landing pages or forms we discuss would go through the brand's review before anything runs.
+    
 
-## Your review process stays in charge
+The steps are straightforward. We first agree what you are trying to do and who you need to reach. We then prepare the ads and any pages or forms so your reviewers can assess them. After your medical, legal and regulatory team has approved the work, we submit only those approved versions to the platform. Later changes go back through the same review.
+    
+
+A campaign can be a disease awareness effort, a corporate message or a branded product campaign. Those types can have different objectives and review requirements, so we start by clarifying which one you are planning, who you need to reach and in which markets. We also talk through how paid social would sit next to work you already have in place, without expanding beyond the paid social scope we agree.
+    
+
+The approach stays the same across types. The brand sets the objective and the claims that can be made. We turn the approved source material into ads and, where needed, into a landing page or a form. Your reviewers stay in charge of what may be said and what must sit next to it. The platforms stay in charge of whether an ad is allowed to run. We do not treat platform acceptance as a substitute for your review, and we do not treat your review as proof that a platform will accept the ad.
+    
+
+Social platforms also have their own advertising rules for health and pharmaceutical content. We ask what your team has already confirmed with each platform. If a market, a placement or a format is not allowed for the campaign type you want, we say so in the planning conversation and we do not build work around it.
+    
+
+### Platform rules for pharma ads on Meta
+    
+
+Meta's Drugs and Pharmaceuticals standard requires authorization for ads that promote prescription drugs. Those ads may target only people 18 or older, only in the United States, Canada and New Zealand, and only in countries where the advertiser is certified. Manufacturers can seek authorization through LegitScript certification or through Meta's internal review, which does not require a LegitScript certification. Meta also asks for a disclaimer to consult a licensed health professional or to obtain a valid prescription, and for completion of its prescription drug onboarding.
+    
+
+Ads must not assert or imply personal attributes, including a person's physical or mental health or a medical condition. Copy should describe the product or the service. A separate Health and Wellness standard requires 18 or older targeting for dietary, health and weight loss or weight gain products and services, and for cosmetic procedures.
+    
+
+These are summaries of Meta's public advertising standards, and the standards can change. Your team should read the current Meta pages before a campaign is planned. Nothing here is a promise that an ad will be approved by Meta or by any other platform.
+    
+
+## Compliance and MLR review
+    
 
 Your medical, legal and regulatory team keeps approval authority over claims, risk information, disclosures and landing pages. Any work we discuss would be planned around that review. We do not provide legal, medical or regulatory advice, and approval by your team or by any platform is never assured.
+    
 
-Social platforms also have their own advertising rules for health and pharmaceutical content. We ask what your team has already confirmed with each platform.
+We work inside the brand's medical, legal and regulatory process, often called MLR, rather than in place of it. You share the approved source material, the campaign type, the markets and the review workflow. Please do not send patient information. We prepare the ads, targeting and any landing pages or forms for that review. Your reviewers decide what is approved. Only approved versions are submitted to Meta or LinkedIn. If something needs to change after that, it goes back to the same team before it runs.
+    
 
-## Talk through what happens after ads run
+In practice the flow looks like this. First, your team tells us which claims, indications and risk language are already approved for use, and which pieces of source material we may draw from. Next, we assemble a version of the ad and any destination page or form that stays inside that material. Then your medical, legal and regulatory reviewers examine the work and tell us what may run, what must change and what may not be used. After that, we submit only the approved versions. If a platform asks for an edit, or if your team wants a new line or a new image, the change goes back through the same review before it is used.
+    
 
-Social ads attract comments. We ask how your team currently handles comments on brand channels, so responsibilities are clear from the start.
+We keep the record of what was submitted for review and what was approved, so later edits can be checked against that history. We do not decide whether a claim is allowed. We do not write around a rejected line and run it anyway. If the source material does not support a request, we say so and we wait for your reviewers to decide how to proceed.
+    
 
-## Agree what success would mean
+Fair balance and the presentation of risk and benefit information are part of the brand's review, not a separate service we sell. Your reviewers decide how risk information appears in each ad. Important Safety Information is a common heading for that information, and your reviewers decide whether to use it. FDA rules on risk and benefit information can also apply; our guide to pharmaceutical advertising regulations for social media (https://www.beleaded.com/guides/pharma-advertising-regulations-social-media/) covers them.
+    
 
-Measurement depends on the objective. Reach to the right audience, relevant site visits or an approved landing page action could all be valid. We agree what would be measured before any discussion of results.
+## Audiences we target
+    
+
+Healthcare professional, patient and caregiver audiences are options on some platforms, and the brand chooses which to use for a given campaign. Some campaigns are meant for clinicians. Others are meant for a patient, caregiver or public audience, such as a product campaign or a disease awareness message. The choice sits with your team and has to follow each platform's advertising rules.
+    
+
+We describe these audiences as options, not as lists we already hold and not as groups defined by a health condition we assume they have. A healthcare professional audience may be planned when the message is for clinicians. A patient or caregiver audience may be planned when the brand wants to reach people who are looking for information about a product, a condition area or a support message, without writing the ad as if we already know the viewer's own health. Where a campaign needs more than one of these audiences, they are planned as separate efforts so the copy, the review and the platform rules can be kept distinct.
+    
+
+Targeting follows the rules of the platform you use, and we do not use implied health conditions as a way to reach people. On Meta, ads must not assert or imply personal attributes, including a person's physical or mental health or a medical condition. Copy should describe the product or the service, not speak as if the viewer already has a condition. For ads that promote prescription drugs on Meta, the authorization, country and age rules above still apply. On LinkedIn, ads for prescription drugs need LinkedIn's authorization and must be aimed at healthcare-related professionals, not consumers or a general audience, so a patient or caregiver audience is not an option for those ads there.
+    
+
+We do not quote audience sizes, reach figures or list volumes on this page, because those numbers depend on the market, the platform and what your reviewers allow. We also do not claim that one audience will produce a better result than another. The first conversation is about which option fits the campaign you are planning and what each platform will allow for that option.
+    
+
+## A paid social pilot
+    
+
+We organize the start of a program as a pilot in ordered phases, not as a fixed calendar. Phase length depends on the brand's review. This is a way to structure the work, not a promise that a campaign will launch, finish or produce a result in a set period.
+    
+
+Scoping. We talk through the campaign type, audience, markets, review process and whether we are the right fit. This is also when we ask what your team has already confirmed with each platform, what source material we may use and who on your side will review the work. No ads are built to run during this phase. If there is not a fit, we say so and we do not move to the next phase.
+    
+
+Build and review. We prepare creative, targeting and any landing pages or forms for your medical, legal and regulatory team. That team decides what is approved, and the time this takes is set by their process. We do not skip this phase, and we do not treat a draft as ready to run. If reviewers ask for changes, we make them and we send the work back until your team has signed off.
+    
+
+Launch and learn. Once approved work is running, we look at the measures you agreed in advance and discuss what to test next, with any change going back through review. Measurement depends on the objective. Reach to the right audience, relevant site visits or an approved landing page action could all be valid. We agree what would be measured before any discussion of results. We do not promise leads, meetings, prescriptions or any other outcome from this phase.
+    
+
+These phases run in that order. A later phase does not begin until the work of the earlier phase is complete enough for your team to proceed. If review takes longer than you expected, the later phases wait. If you want to stop after scoping, you can. Nothing in this outline is a timetable, a start date or a finish date.
+    
+
+## Approved ad formats
+    
+
+The channels in this program are Meta, which includes Facebook and Instagram, and LinkedIn. We use the ad formats those platforms offer, as options for the campaign, not as a set package. A format is used only if it is available on the platform, allowed for the campaign type and approved by your reviewers.
+    
+
+On Meta, that can include feed placements, stories and lead forms, along with other ad formats Meta makes available. On LinkedIn, that can include sponsored content and lead forms, along with other ad formats LinkedIn makes available. If a destination page is needed, that page is part of the same review as the ad. If a form is used, the questions on it stay limited to what your reviewers and the platform allow. We do not add health, diagnosis or product use questions to a platform form unless your counsel has approved that request and the platform permits it.
+    
+
+Your team, your reviewers and the platform rules decide which options are appropriate. We may recommend a format when it fits the objective and the review constraints, and your reviewers still decide whether it may be used. We do not claim that one format will perform better than another, and we do not claim that a format will be accepted by the platform before it is reviewed there.
+    
+
+## Comments and possible adverse event reports
+    
+
+Social ads attract comments. Some may describe a possible adverse event. We ask how comments on brand channels would be monitored and routed into the brand's own pharmacovigilance process. The brand's safety function decides what is a reportable event. We do not assess medical details, decide who qualifies or replace that function. Your safety team sets how brand channels are screened.
+    
+
+This conversation happens before ads run, so responsibilities are clear from the start. Comments can include ordinary questions, complaints and messages that may need to go to your safety team. We can help agree how comments are watched and how they are passed to the people you name. We do not ask for medical details from those comments, and we do not decide whether a comment is a reportable safety event. If your process says a comment must be escalated, it is escalated under that process, not under a process we invent.
+    
+
+The brand remains responsible for its pharmacovigilance obligations. If you already have an agency, a vendor or an internal team that handles this work, we plan around that arrangement. We do not take the place of that function.
+    
 
 ## What to bring to the conversation
+    
 
 Your campaign objective, audience, markets, campaign type, current agency arrangements and review workflow, plus any approved creative and pages you already have. Please do not send patient information.
+    
+
+It also helps to know who will review claims and risk information, what your team has already confirmed with Meta or LinkedIn and whether the campaign is meant for healthcare professionals, patients, caregivers or more than one of those audiences. If you are early in planning, bring what you have. The scoping conversation is there to sort the rest.
+    
 
 If there is a fit, scope and pricing are discussed after the conversation. Media spend is agreed separately.
+    
+
+## Sources
+    
+      
+- Meta, Drugs and Pharmaceuticals (https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/)
+      
+- Meta, Privacy Violations and Personal Attributes (https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/)
+      
+- Meta, Health and Wellness (https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness)
+    
+    
+
+## Questions about pharma paid social
+    
+      
+
+What do we talk through on the scoping call?
+
+Your objective, audience, markets, campaign type and review process, and whether we are the right fit. Please do not send patient information.
+      
+
+Who approves claims, risk information and landing pages?
+
+Your medical, legal and regulatory team keeps approval authority over claims, risk information, disclosures and landing pages. We do not provide legal, medical or regulatory advice, and approval by your team or by any platform is never assured.
+      
+
+What do Meta's rules require for prescription drug ads?
+
+Authorization from Meta, targeting only to people 18 or older and a limit to the United States, Canada and New Zealand, only in countries where the advertiser is certified. Manufacturers can use a LegitScript path or Meta's internal review, which does not require a LegitScript certification.
+      
+
+How are comments and possible adverse event reports handled?
+
+They are monitored and routed under the brand's own pharmacovigilance process. The brand's safety function decides what is a reportable event. We do not assess medical details and we do not replace that function.
+      
+
+Do you run disease awareness campaigns and branded product campaigns?
+
+We can talk through either type, along with corporate campaigns. The first conversation starts by clarifying which one you are planning.
+      
+
+Can you target healthcare professionals, patients and caregivers?
+
+Healthcare professionals, yes. Patient and caregiver audiences are options only where the platform's rules allow, and on LinkedIn prescription drug ads must be aimed at healthcare-related professionals, not consumers. The brand chooses which to use, and ad copy must not assert or imply a viewer's health condition.
+      
+
+What does a paid social pilot involve?
+
+We organize a pilot in ordered phases: scoping, then build and review, then launch and learn. Phase length depends on the brand's review. It is not a promise that a campaign will launch or finish in a set period, and we do not promise results, meetings or leads.
+      
+
+Which ad formats do you use?
+
+We use the formats Meta and LinkedIn offer, as options, including feed placements, stories and lead forms on Meta and sponsored content and lead forms on LinkedIn. Your reviewers and the platform rules decide which options are appropriate. We do not claim that one format will perform better than another.
+      
+
+How do you work with our medical, legal and regulatory review?
+
+Your medical, legal and regulatory team keeps approval authority over claims, risk information, disclosures and landing pages. We prepare work for that review and submit only what they have approved. Later changes go back through the same process. We do not provide legal, medical or regulatory advice, and approval by your team or by any platform is never assured.
 
 Discuss your pharma campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=pharma-paid-social-agency)
 
-For our wider services, see our paid social services (https://www.beleaded.com/paid-social-agency/) page.
+The wider program across platforms is described on our paid social and search (https://www.beleaded.com/paid-social-agency/) page.
 
 Pharma campaign? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=pharma-paid-social-agency)
+
+---
+
+URL: https://www.beleaded.com/cpg-paid-social-agency/
+
+Published: 2026-11-13
+Updated: 2026-11-13
+
+- Home (https://www.beleaded.com/)
+- Services (https://www.beleaded.com/services/)
+- CPG paid social agency
+
+# Paid social for CPG brands: direct and retail sales
+
+By Ahmad Khan, founder of Be Leaded. Published November 13, 2026. Updated November 13, 2026.
+
+CPG paid social usually means Facebook and Instagram through Meta. We also talk through TikTok, Pinterest or YouTube where your shoppers spend time. Talk through paid social for your own checkout, retail distribution or both, with product availability and the evidence you can measure at the center. Plan your next campaign around the way customers actually buy.
+
+Discuss your CPG growth plan (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=cpg-paid-social-agency)
+
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+## Where should the sale happen?
+
+An ad that sends people to your own checkout and an ad that encourages them to buy at a retailer are different campaigns. Direct campaigns can connect many clicks to orders on your site. Retail campaigns aim to get shoppers to pick your product on a shelf or retailer site, where the purchase usually happens out of view of the ad platform. In the conversation we clarify which path each campaign would support. Some retailers share their product catalog with brands through Meta's Collaborative Ads, which lets a brand send shoppers straight to that retailer's site or app and see the sales the retailer's own tracking reports. Not every retailer offers this, so we ask which of yours do.
+
+## Availability comes before spend
+
+Ads should not push products people cannot buy. We ask which products are in stock on your site, which retailers carry them and in which areas, because patchy availability changes what a campaign should do. If your product is in some stores but not others, we talk through keeping ads to the areas around stores that actually carry it, so spend follows your distribution.
+
+## Product claims need support
+
+Claims about what a product does, especially health or nutrition benefits, need proper support before they run. Your team decides which claims are approved, and any creative discussed would stay inside them. The same applies to creator and customer videos used in ads. A paid relationship needs a clear disclosure, and a creator's claim about your product needs the same support as your own.
+
+## Be honest about measurement
+
+Sales on your own site are easier to connect to ads, but not completely: consent choices, browser privacy limits and attribution settings mean some orders go unseen, and a tracked order does not prove the ad caused it. Retail sales are harder still. Without sales data from a retailer or a measurement partner, ad reporting will not show which store purchases came from ads. We would agree which signals matter for you, such as site orders, store locator clicks, retailer link clicks or your own sales trends, and what each can and cannot show. The most direct way to see whether ads changed sales is a lift test, where a control group does not see the ads. It needs enough spend and sales to read clearly, so we talk through whether one fits your plan or whether simpler signals are the honest choice for now. If your products relate to health, such as supplements or personal care, Meta may limit which purchase events your site can share, which affects what campaigns can optimize for. We check this before planning a sales campaign.
+
+## Channels beyond Meta
+
+Facebook and Instagram are the usual starting point, and they are not the only channels we talk through. TikTok often fits when a product can be shown in a short video, including how a creator would describe it inside your approved claims. Pinterest often fits when people are planning a purchase or saving a recipe. YouTube often fits when a longer walk-through or a pre-roll ad can explain the product before someone chooses where to buy it.
+
+## How an engagement runs
+
+Work starts with the scoping conversation, covering the purchase path, product availability, the claims your team has approved and what you want the first campaign to do. If there is a fit, we set out a proposal for the channels, the campaign's job, the creative needed and how results will be reported. Your team reviews the proposal before any ads are built and reviews the ads before anything is published. Once ads are running, we share the signals we agreed to watch, and changes to creative, audiences or spend are proposed and approved before they go out.
+
+## Common questions
+
+Can you show which store sales came from our ads?
+Not from ad reporting alone. That needs sales data from the retailer or a measurement partner, or a lift test. We talk through which of those you have access to.
+
+We already run ads on Amazon or Walmart. Does paid social replace that?
+No. Retailer ad networks are a separate channel. Tell us what you run there and we talk through how social would sit next to it.
+
+Do you work with brands that sell both online and in stores?
+Yes. That is the main reason this conversation starts with where each sale happens.
+
+Can you plan ads around a product launch or a seasonal campaign?
+Yes. Bring the launch or season, where the products will be sold and which claims are already approved. We plan the ads so the message and the stock line up, and we do not name a go-live date until your team has approved the creative and confirmed that the product is available where the ads will mention it.
+
+Who owns the ad creative and UGC after the engagement?
+Work we produce for your ads is intended to stay with your brand when the engagement ends. Creator or customer videos follow the usage rights agreed with the person who made them. We will put our intended terms in the proposal and the contract. Please confirm those terms in the signed agreement, because this page states our intent and is not a substitute for the contract.
+
+## Bring one growth decision to the call
+
+Are you trying to win first purchases, bring back repeat buyers, grow orders on your site, support a retail launch or reach shoppers where your products are stocked? Bring that priority, your product range, where it sells, the claims your team has approved and any sales data you already receive. The conversation starts with the purchase path, the evidence available to judge performance and whether we are the right fit.
+
+If there is a fit, scope and pricing are discussed after the conversation. Ad spend is agreed separately.
+
+Discuss your CPG growth plan (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=cpg-paid-social-agency)
+
+For our wider services, see our paid social services (https://www.beleaded.com/paid-social-agency/) page.
+
+CPG brand? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=cpg-paid-social-agency)
