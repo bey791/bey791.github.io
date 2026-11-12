@@ -9341,7 +9341,7 @@ URL: https://www.beleaded.com/cold-email-deliverability/
 
 # Cold email deliverability in 2026: what Gmail, Yahoo and Outlook require
 
-By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026.
+By Ahmad Khan, founder of Be Leaded. Updated November 13, 2026.
 
 The short answer: authenticate every sending domain with SPF, DKIM and DMARC, keep your spam complaint rate under 0.1% and never let it reach 0.3%, give every recipient an easy way to opt out, send from separate domains warmed for two to three weeks, verify every address before it goes out, and keep daily volume per inbox low (https://www.beleaded.com/blog/how-many-cold-emails-per-day/). Gmail and Yahoo have required this of bulk senders since February 2024. Microsoft began rejecting non-compliant mail to Outlook.com addresses on May 5, 2025, and Gmail began rejecting non-compliant traffic in November 2025.
 
@@ -9504,6 +9504,7 @@ Thirty minutes with the founder. You'll leave with a clear picture of your marke
 
 Or email sales@beleaded.com
 
+Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=cold-email-deliverability)
 
 ---
 
