@@ -16182,7 +16182,7 @@ Attorney advertising rules:
 - Rules 7.1 through 7.3 of the ABA model set are a helpful reference. The rules of your own state are the ones that govern your firm.
 
 Meta advertising policies:
-- Legal services are not themselves a Special Ad Category. Advertisers have to declare a category when an ad is about housing, employment, financial products and services, or issues, elections and politics. A hiring campaign for your own staff, or an ad on a political or social issue, would need the matching category. Representation-only mass tort ads do not fall in those groups on Meta's published list, and Meta can still reject or take down any ad. We recheck the list before a campaign goes live, because Meta can change it.
+- Legal services are not themselves a Special Ad Category. Advertisers have to declare a category when an ad is about housing, employment, financial products and services or issues, elections and politics. A hiring campaign for your own staff, or an ad on a political or social issue, would need the matching category. Representation-only mass tort ads do not fall in those groups on Meta's published list, and Meta can still reject or take down any ad. We recheck the list before a campaign goes live, because Meta can change it.
 - Meta's personal attributes rule bars ads that assert or imply something personal about the person seeing them, including physical or mental health. Our ads describe the firm's services and do not address the viewer's condition.
 - Settlement advances, loans, debt relief or insurance offers can pull a campaign into financial products and services. Policy advocacy can pull a campaign into issues, elections and politics. We keep the work to legal representation.
 - We build the campaigns to sit inside Meta's advertising standards. We cannot promise that Meta will approve a given ad.
@@ -16231,7 +16231,7 @@ Q: Who follows up with people who respond?
 A: Your intake staff does. They receive the alert and they make the first contact. We do not call or text the people who submit a form. Eligibility questions are asked only by your intake staff on the call, under your firm's process and counsel. We never see or store medical details and we never decide who qualifies.
 
 Q: Does Meta treat legal services as a Special Ad Category?
-A: Legal services are not themselves a Special Ad Category. Advertisers have to declare a category when an ad is about housing, employment, financial products and services, or issues, elections and politics. A hiring campaign for your own staff, or an ad on a political or social issue, would need the matching category. Meta can still reject or take down any ad.
+A: Legal services are not themselves a Special Ad Category. Advertisers have to declare a category when an ad is about housing, employment, financial products and services or issues, elections and politics. A hiring campaign for your own staff, or an ad on a political or social issue, would need the matching category. Meta can still reject or take down any ad.
 
 Direct answers on Meta ads for mass tort dockets.
 
