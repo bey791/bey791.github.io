@@ -16050,7 +16050,7 @@ A match if:
 
 - Offices whose front desk can reach new inquiries on the day they arrive
 - Teams that can tell us which consults were booked and which patients attended
-- Practices that will have a dentist or a compliance contact sign off on advertising
+- Practices that will have a dentist sign off on every ad
 
 Not a match if:
 
