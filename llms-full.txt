@@ -16278,7 +16278,7 @@ Dates: 2026-11-13 (package target ship day; Noah restamps at merge if the day ch
 ## Lead
 Be Leaded builds and manages Meta ad campaigns for consumer-facing law firms. The ad account stays with your firm. Counsel reviews the creative. Your intake staff speaks with every person who responds.
 
-We plan and run Facebook and Instagram ads for law firms. The ad account stays in your firm's name. Counsel reviews every piece of creative before it is shown, and your intake staff talks to every person who responds. We judge the work by qualified intakes and signed matters your staff records, rather than by form volume.
+We judge the work by qualified intakes and signed matters your staff records, rather than by form volume.
 
 30 minutes: the practices you want to advertise, the states you serve and who handles intake.
 
@@ -16291,6 +16291,7 @@ Firm: Your firm decides if the matter should move forward
 
 ## What a law firm Meta program covers
 You choose the practice, the geography and the definition of a qualified inquiry. Creative is subject to your counsel. Intake conversations and signing decisions stay with your staff. Our role is marketing, not legal practice or legal advice.
+We plan and run Facebook and Instagram ads for law firms. The ad account stays in your firm's name. Counsel reviews every piece of creative before it is shown, and your intake staff talks to every person who responds.
 
 - Creative for one practice area at a time, such as family, criminal defense, estate, immigration or employment
 - A lead form or landing page, with consent wording supplied by your counsel
@@ -16439,7 +16440,7 @@ Dates: 2026-11-13 (package target ship day; Noah restamps at merge if the day ch
 ## Lead
 Be Leaded plans and runs Facebook and Instagram campaigns for mass tort dockets that belong to one firm. Each inquiry is delivered only to that firm's intake staff. We are not a lead vendor and we do not share names.
 
-We run Facebook and Instagram ads for mass tort dockets that belong to a single firm. The ad account is in your firm's name. Counsel at your firm reviews each ad, each form and each page before anything is shown. Your intake staff receives every response. We do not sell leads, we do not share names with other firms and we do not contact the people who submit a form.
+The ad account is in your firm's name. Counsel at your firm reviews each ad, each form and each page before anything is shown.
 
 30 minutes: the dockets you want to run, the states you file in and how your intake is set up.
 
@@ -16452,6 +16453,7 @@ Firm: Your firm decides whether the inquiry is a qualified matter
 
 ## What a mass tort Meta campaign covers
 Your firm picks the docket, the states and what counts as a qualified inquiry. Your counsel decides what may appear in an ad. Your intake staff speaks with the people who respond and decides who to sign. We market legal services. We are not counsel and we do not advise on the law.
+We run Facebook and Instagram ads for mass tort dockets that belong to a single firm. Your intake staff receives every response. We do not sell leads, we do not share names with other firms and we do not contact the people who submit a form.
 
 - Creative for one docket at a time, written at a general level about a product, device or exposure your counsel has approved for advertising
 - A landing page or lead form with consent wording supplied by your counsel
@@ -16477,8 +16479,8 @@ When a form is submitted, your intake staff gets an alert by text and email. The
 The Meta form asks only for name, phone, email, state and one scheduling question. It does not ask about health, a diagnosis, product use or an injury, because Meta does not allow those questions without its prior written permission. Any eligibility questions are asked only by your intake staff on the call, under your firm's process and counsel. We never see or store medical details and we never decide who qualifies. Consent wording on the form comes from your counsel.
 
 ## How signed and declined outcomes go back to Meta
-After your intake staff records what happened to an inquiry, those outcomes can be sent back to Meta so later delivery can be guided by signed retainers and by inquiries your desk declined, not only by form fills. We use Meta's Conversions API for that server-side handoff, alongside any browser activity the firm already has in place. Meta describes the Conversions API in its Business Help Center article at https://www.facebook.com/business/help/204096211248161 and in its developer documentation at https://developers.facebook.com/docs/marketing-api/conversions-api/.
-Event names and the details attached to them stay limited to contact matching fields the firm is willing to share and to a simple result, such as whether the inquiry was qualified, signed or declined. They do not include a diagnosis, a drug, a device, a medical condition or any other health detail. We do not invent a result to send, and we only send what your staff has recorded and your counsel has allowed.
+After your intake staff records what happened to an inquiry, those outcomes can be sent back to Meta so later delivery can be guided by signed retainers and by inquiries your desk declined, not only by form fills. We use Meta's Conversions API for that server-side handoff, alongside any browser activity the firm already has in place. Meta describes the Conversions API in its Business Help Center article at https://www.facebook.com/business/help/2041148702652965 and in its developer documentation at https://developers.facebook.com/docs/marketing-api/conversions-api/.
+Event names and the details attached to them stay limited to contact matching fields the firm is willing to share and to a simple result, such as whether the inquiry was qualified, signed or declined. The firm controls what is sent. We do not send client health details or case facts with that status. They do not include a diagnosis, a drug, a device, a medical condition or any other health detail. We do not invent a result to send, and we only send what your staff has recorded and your counsel has allowed.
 
 ## Consent wording on the form
 The wording that asks for permission to call or text is supplied by your counsel, not by us. In practice that wording names the firm that will place the contact, so the person is agreeing to hear from that firm rather than from a pool of unnamed advertisers. We do not write that language as legal advice, and a checked box is not a finding that a later call or text is lawful.
@@ -16583,7 +16585,7 @@ These are the primary policy pages this URL relies on. They can be revised, so r
 - Special Ad Categories in Meta's Marketing API documentation: https://developers.facebook.com/docs/marketing-api/audiences/special-ad-category/
 - Personal attributes and privacy rules in Meta's ad policies: https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/
 - The Lead Ads rules inside Meta's advertising standards: https://transparency.meta.com/policies/ad-standards
-- Meta Business Help Center article on the Conversions API: https://www.facebook.com/business/help/204096211248161
+- Meta Business Help Center article on the Conversions API: https://www.facebook.com/business/help/2041148702652965
 - Meta developer documentation for the Conversions API: https://developers.facebook.com/docs/marketing-api/conversions-api/
 - FCC consumer pages on unwanted calls and texts: https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts
 
