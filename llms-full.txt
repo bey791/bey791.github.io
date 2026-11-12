@@ -2075,7 +2075,7 @@ Some searchers run outreach from their own domains and write every note themselv
 The program is scoped to everything between a mandate you set and a first conversation with an owner. Lists are researched against the sector, geography, size and ownership rules you approve. Mail and LinkedIn go out under your name after you sign off. A meeting is booked only when an owner asks for one and matches the brief. There are no public listings and no published owner names. Phone outreach is not in the default published scope.
 
 ## Where our work stops
-Once the meeting is on the calendar, our work on that owner is done. We do not value the company, draft an IOI or LOI, negotiate terms, advise on financing or diligence, list the business, share the owner's name in public, claim that a buyer is waiting or write again after an opt-out. The contact file and every reply thread stay yours.
+Once the meeting is on the calendar, our work on that owner is done. We do not value the company, draft an IOI or LOI, negotiate terms, advise on financing or diligence, list the business, share the owner's name in public, claim that a buyer is waiting or write again after an opt-out. The lists and replies are yours.
 
 ## Questions searchers ask
 
@@ -2095,7 +2095,7 @@ Q: In whose name does the outreach go out?
 A: Under your name. Sending is set up to sit with your brand, the notes are written in your voice and you approve every message before it is sent. Meetings are booked directly onto your calendar.
 
 Q: Can the work be stopped after a month?
-A: Yes. That term is on the month to month lead generation writeup: No 3-month commitment, pay month by month. The program can be closed when the month you are in has finished. The contact file and every reply thread stay yours.
+A: Yes. That term is on the month to month lead generation writeup: No 3-month commitment, pay month by month. You can cancel at the end of any month. The lists and replies are yours.
 
 Q: Do you replace brokered deal flow?
 A: No. Brokered processes can continue as they are. The work on this page is a direct approach to owners who have not listed the business. The two should not be mixed in the same file.
