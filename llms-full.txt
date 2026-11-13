@@ -1063,6 +1063,8 @@ If you are weighing other done for you LinkedIn shops, the comparison is Cleverl
 Staffing desks pair a profile note with email about one live req. That version is lead generation for staffing and recruiting companies (https://www.beleaded.com/industries/staffing-recruiting/).
 Business brokers and advisors use the same profile-plus-email motion for mandates. That industry writeup is M&A advisor lead generation (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 
+Law, accounting and consulting firms use the same profile-plus-email motion for partner-led outreach. That industry writeup is professional services lead generation (https://www.beleaded.com/industries/professional-services/).
+
 ### The request
 
 A blank connection request, or a pitch in the note. Accepted rarely, remembered never.
@@ -1142,7 +1144,7 @@ It helps for list building and larger markets, and we'll tell you on the first c
 
 **What does it cost?**
 
-Programs start from $2,000 a month. LinkedIn is often added to a cold email program rather than run alone, and the price reflects the channels you run.
+Programs start from $2,000 a month, as explained on our pricing page (https://www.beleaded.com/pricing/). LinkedIn is often added to a cold email program rather than run alone, and the price reflects the channels you run.
 
 ## Tell us who you want to meet.
 
@@ -1829,7 +1831,7 @@ Yes, with consent. In the US, marketing texts need the recipient's prior express
 
 **What does it cost?**
 
-Programs start from $2,000 a month. The price depends on how often you send, how many audiences you have and whether SMS is included. You'll get an exact number after a 30-minute call.
+Programs start from $2,000 a month, as explained on our pricing page (https://www.beleaded.com/pricing/). The price depends on how often you send, how many audiences you have and whether SMS is included. You'll get an exact number after a 30-minute call.
 
 ## Tell us who you want to meet.
 
@@ -3297,7 +3299,7 @@ Most firms live on referrals (https://www.beleaded.com/guides/how-business-broke
 
 An inbound form (https://www.beleaded.com/guides/business-broker-marketing/) introduces you after the owner has often talked to another firm. The earlier conversation is the one that frames value and what the owner will consider. Waiting for that form means you meet people who have already started a process.
 
-Direct mail is still where a lot of new brokers start. A broker on Reddit said the return on drop cards and letters is typically 1 to 2 percent, and that maybe a third of those return calls are sellable. That is a lot of driving for a short list of real sellers. The same thread points at bankers, attorneys, and CPAs, who hear about an exit before anyone lists. Those introductions are strong, and they are uneven when nobody is in touch with the partners on purpose.
+Direct mail is still where a lot of new brokers start. A broker on Reddit said the return on drop cards and letters is typically 1 to 2 percent, and that maybe a third of those return calls are sellable. That is a lot of driving for a short list of real sellers. The same thread points at bankers, attorneys, and CPAs, who hear about an exit before anyone lists. Those introductions are strong, and they are uneven when nobody is in touch with the partners on purpose. Partner-led outreach for law, accounting and consulting firms is covered on professional services (https://www.beleaded.com/industries/professional-services/).
 
 A cold note fails when it asks "are you selling" or invents a buyer. It earns a reply when it is short, about that owner's business, and easy to decline. That is the motion in our off-market deal flow program: a list built to your mandate, a note in your firm's name, and a person reading the reply before an advisor sees it.
 
@@ -6214,7 +6216,7 @@ Cold email
 
 # Cold email vs LinkedIn outreach
 
-By Ahmad Khan, founder of Be Leaded. Updated October 20, 2026. 8 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 14, 2026. 8 min read.
 
 Cold email covers a verified list. LinkedIn outreach covers fewer people, usually more senior, from a real profile. If you are weighing LinkedIn outreach vs cold email for B2B, ask which books more B2B meetings for the list you actually have. Cold email wins when that list is large and the titles live in the inbox. LinkedIn wins when the list is short, the buyers are senior, and a familiar face matters more than reach. For most founders and sales leaders, the sequence that books more meetings runs both: email carries the volume, a LinkedIn touch sits between the emails, and a person puts an interested reply on the calendar the same business day.
 
@@ -6282,7 +6284,7 @@ Email scales with inboxes and domains, inside a low daily cap per inbox. LinkedI
 
 ### Cost
 
-Email's cost is data, domains, and the people who write and answer. LinkedIn's cost is time on real profiles, so each touch costs more and a senior conversation is easier to justify. Be Leaded prices either path as one monthly retainer. Email and LinkedIn. Calling is quoted separately. See cold calling services. Programs start from $2,000 a month. One monthly retainer covers lists, sending, copy, reply handling, and booking. LinkedIn is often added to a cold email program rather than run alone, and the price reflects the channels you run. You get an exact number after a 30-minute call.
+Email's cost is data, domains, and the people who write and answer. LinkedIn's cost is time on real profiles, so each touch costs more and a senior conversation is easier to justify. Be Leaded prices either path as one monthly retainer. Email and LinkedIn. Calling is quoted separately. See cold calling services. Programs start from $2,000 a month, as explained on our pricing page (https://www.beleaded.com/pricing/). One monthly retainer covers lists, sending, copy, reply handling, and booking. LinkedIn is often added to a cold email program rather than run alone, and the price reflects the channels you run. You get an exact number after a 30-minute call.
 
 ### Deliverability and account risk
 
@@ -7879,7 +7881,7 @@ Deliverability
 
 # How many cold emails to send per day, per inbox and per domain
 
-By Ahmad Khan, founder of Be Leaded. Updated on October 21, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated on November 14, 2026. 4 min read.
 
 The short answer: Send 25 to 50 cold emails a day per inbox, run two or three inboxes per sending domain, and add domains rather than pushing any inbox past 50. Hunter's 2025 data found inboxes sending 20 to 49 emails a day replied 27% above average, while volumes over 100 a day hurt deliverability. Reaching 25,000 prospects a month with four touches is an infrastructure job, and that's the kind of infrastructure we build for clients.
 
@@ -7916,7 +7918,7 @@ Start from the number of prospects you want to reach each month and the number o
 
 Divide the daily figure by 35 emails per inbox, then by two or three inboxes per domain.
 
-Replies and bounces remove people from the sequence, so real send counts run 15% to 25% under these figures. Even so, the table makes the point: reaching tens of thousands of prospects a month is an infrastructure job, not a copy job. It's why our sending infrastructure (https://www.beleaded.com/cold-email-agency/) is built to carry more than 400,000 emails a day across many domains, and why no single inbox in it sends more than a few dozen. When you compare outside firms, ask each one how many inboxes and domains it runs per client. The B2B lead generation agencies we compared (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/) are a good starting list.
+Replies and bounces remove people from the sequence, so real send counts run 15% to 25% under these figures. Even so, the table makes the point: reaching tens of thousands of prospects a month is an infrastructure job, not a copy job. It's why our sending infrastructure (https://www.beleaded.com/cold-email-agency/) is built to carry more than 400,000 emails a day across many domains, and why no single inbox in it sends more than a few dozen. When you compare outside firms, ask each one how many inboxes and domains it runs per client. The B2B lead generation agencies we compared (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/) are a good starting list. How Be Leaded prices that sending infrastructure, starting from $2,000 a month, is on our pricing page (https://www.beleaded.com/pricing/).
 
 ## Ramp, don't switch on
 
@@ -9686,13 +9688,13 @@ URL: https://www.beleaded.com/about/
 
 # About Be Leaded
 
-Updated October 18, 2026.
+Updated November 14, 2026.
 
 Book a 30-minute call
 
 Programs start from $2,000 a month
 
-Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. We run cold email (https://www.beleaded.com/cold-email-agency/) and appointment setting (https://www.beleaded.com/appointment-setting/), LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. The full outbound program is on B2B lead generation (https://www.beleaded.com/lead-generation-services/).
+Be Leaded is a B2B marketing agency based in the US, founded by Ahmad Khan. We run cold email (https://www.beleaded.com/cold-email-agency/) and appointment setting (https://www.beleaded.com/appointment-setting/), LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. The full outbound program is on B2B lead generation (https://www.beleaded.com/lead-generation-services/), and partner-led outreach for law, accounting and consulting firms is on professional services (https://www.beleaded.com/industries/professional-services/).
 
 ## Be Leaded at a glance
 
