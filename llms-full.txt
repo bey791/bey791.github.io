@@ -3581,17 +3581,30 @@ Or email sales@beleaded.com
 
 URL: https://www.beleaded.com/industries/marketing-agencies-white-label/
 
-- Home
-- Industries
+- Home (https://www.beleaded.com/)
+- Industries (https://www.beleaded.com/industries/)
 - Agencies and consultants (white label)
 
 Agencies and consultants (white label)
 
 # White-label outbound and newsletters for agencies
 
-You sold the retainer. We do the outbound and the newsletters under your name: domains, lists, copy, sending, replies and reporting, or a newsletter series designed and sent every week. Your client sees your brand. We work in the background and report to you.
+White-label outbound is cold email, LinkedIn and meeting booking an agency sells under its own brand. Be Leaded runs the program for each client, books the meetings and sends you the report to present as your own.
 
-Programs start from $2,000 a month
+## What white-label outbound is
+
+White label means the work carries your name. Your client signs with you, hears from you and reads reports with your brand on them. The outreach behind it is run by a partner.
+
+For outbound, that covers the parts a client rarely wants to think about:
+
+- Sending domains and mailboxes set up for the client, authenticated and warmed.
+- A list of the companies and people the client wants to reach, checked before anything sends.
+- Copy in the client's voice, read and approved before it goes out.
+- Replies read and answered, with interested people moved toward a meeting.
+- Meetings placed on the client's calendar.
+- A weekly report you can forward as your own.
+
+You keep the client, the strategy and the price. The partner keeps the machinery running.
 
 ## Who we reach
 
@@ -3607,6 +3620,40 @@ Who need execution behind their strategy. If a client needs a dedicated rep rath
 
 Whose clients keep asking for leads after the site launches.
 
+## Why agencies add outbound
+
+The usual trigger is a client conversation. A site launches and a campaign runs, then the client asks where the sales conversations are.
+
+### Clients ask for it
+
+Many clients judge a marketing relationship by whether the sales team has more to talk about. Of all the channels, outbound is the one you can aim at a market you choose and switch on when you decide.
+
+### It fits beside what you already sell
+
+Strategy, positioning, content and ads all feed the same pipeline. Outbound adds the part that goes out and starts the conversation.
+
+### You can offer it without hiring
+
+Building a sending setup, a list process and a reply desk takes time and a new kind of staff. A partner lets you add the service line first and decide later whether to build.
+
+### It adds a recurring line
+
+A monthly program is a monthly line on your invoice, with a margin you set.
+
+## What your client sees and what stays in the background
+
+White label works when the seams do not show. Decide ahead of time which surfaces carry whose name.
+
+| Surface | Brand | Note |
+| Sending domains | Tied to the client | The client's main domain stays off the cold program. |
+| Email templates and signatures | Yours or the client's | Written in the client's voice. |
+| Weekly report | Yours | In your format, one per client. |
+| Calendar and meeting notes | The client's | Meetings land on the client's calendar. |
+| Invoices and contracts | Yours | The client's relationship is with you. |
+| Questions about the work | Yours | Questions come to you, and you decide what to pass along. |
+
+Be Leaded works in the background. The client does not hear from us unless you want them to.
+
 ## What works in agencies
 
 The specifics that make the difference between a campaign that books meetings and one that gets ignored.
@@ -3617,16 +3664,215 @@ The specifics that make the difference between a campaign that books meetings an
 - Newsletter production at agency volume: a newspaper-format series, vertical editions, weekly sends
 - Pricing that leaves room for your margin
 
+## What goes into one client program
+
+Each client gets a program of its own, and the steps run in the same order every time.
+
+### Intake
+
+Who the client sells to, what the offer is and who is not a fit.
+
+### A written definition of a qualified meeting
+
+Agreed with you and the client before anyone is contacted.
+
+### Domains and sending setup
+
+Separate sending domains for the client, authenticated and warmed before the first send.
+
+### A list and a sample
+
+Built to the definition, checked and shown to you as a sample first.
+
+### Copy for approval
+
+Sequences in the client's voice that you read before the first send.
+
+### Sending, replies and booking
+
+Outreach goes out, replies are answered and interested people are booked.
+
+### Weekly reporting
+
+One report per client, in your format.
+
+## Starting a new client: the intake
+
+A clean intake saves weeks later. These are the questions every client should answer in writing before outreach starts.
+
+- Who buys, by title, company type and region?
+- What does the client sell, in two sentences?
+- Who is not a fit, such as competitors and certain industries?
+- Which current customers and open deals must stay off the list?
+- Who on the client's team takes the meetings, and whose calendar receives them?
+- What has the client already tried, and what happened?
+- Who approves copy, and how fast can they answer?
+
+You can run the intake yourself or bring the client to a working session. Either way the answers become the first draft of the written definition.
+
+## Writing the qualified meeting definition with a client
+
+The definition is the contract between you, your client and the program. It says what counts as a meeting worth booking.
+
+- The title or role that signs or strongly influences the purchase.
+- The company type, size and region.
+- The problem or interest a reply has to mention.
+- A time accepted on the client's calendar.
+- The people and companies that are excluded.
+
+Have the client sign off on it. It protects you in the first month when a reply comes in that is polite but not a lead, and the client wonders why it was not booked.
+
+A courteous no thanks is not a lead either. The definition is how everyone agrees on that early, while it is still easy.
+
+## Where approvals sit
+
+Three approvals keep a client program safe, and each has an owner.
+
+### The list sample
+
+You and the client read a sample before launch. If the wrong kind of company shows up, the filters change before anything sends.
+
+### The copy
+
+You read every sequence. The client may read it too, if that is how you work. The first send waits for that read.
+
+### The calendar
+
+The client chooses which calendar receives meetings, so the booking reaches whoever will actually take the call.
+
+A shared workspace lets you see every reply and every issue before it sends, so you are never surprised by what went out under a client's name.
+
+## Domains and sending for each client
+
+This is the part of the job clients never see and always pay for if it goes wrong.
+
+- Each client has its own sending domains, tied to that client.
+- The client's main company domain is not used for cold volume.
+- Authentication records show inbox providers that the sender is allowed to use the domain.
+- Warmup builds a sending record before volume.
+- Each client's domains are set up apart from the others.
+
+Separation is what lets you run several clients with less risk of one account affecting the others. See cold email deliverability (https://www.beleaded.com/cold-email-deliverability/) for the sending side in more detail.
+
+## Copy in the client's voice
+
+Cold email only works when it sounds like the company it comes from. A message that reads like an agency template is easy to spot.
+
+Each program starts with the client's own words: how they describe the problem, what customers say, what they never say. The first draft is written from that, and you edit it before it goes anywhere.
+
+Good copy for a client is short, aimed at a single reader and gives a clear reason for writing today. It does not list every feature. It asks one small question.
+
+The cold email agency (https://www.beleaded.com/cold-email-agency/) page covers the email channel on its own.
+
+## Cold email for your clients
+
+Email is the base of most client programs. Readers can skim it, answer in a line, and you can count what happens.
+
+Messages go out from the client's separate sending domains at a steady pace, adding mailboxes as volume grows rather than loading more onto one. Sequences follow up politely and stop when someone replies or asks to be removed.
+
+Because email fails quietly, the setup matters more than any single message. A weak setup shows up as silence, and silence is hard to explain to a client.
+
+## LinkedIn for your clients
+
+On LinkedIn the buyer meets the same message in a different place, which suits the roles that spend their day on the platform.
+
+Connection notes go out from profiles the client's team already has, timed alongside the email so the buyer reads one story. The first note gives a reason to accept and does not pitch.
+
+It suits smaller, named lists and senior roles. See LinkedIn lead generation (https://www.beleaded.com/linkedin-lead-generation-agency/) for the channel in detail.
+
+## Cold calling for client programs
+
+A few clients sell to people who pick up the phone more readily than they open email. The phone is its own program, run from the same list, with its own scope and quote.
+
+Phone outreach brings registry and consent rules of its own, which is part of why it stands alone. See cold calling services (https://www.beleaded.com/cold-calling-services/).
+
+## Meeting booking and the handoff
+
+The handoff is where a program becomes real for the client. A meeting on the calendar with no context wastes the work that got it there.
+
+A booked meeting should carry the reply thread, the contact's role and the line that earned the call. The client's seller sees what the buyer already knows.
+
+After the call, the client tells you what they learned. If a booking missed the definition, the definition changes the following week.
+
+## Replies, and who sees them
+
+Every reply is read by a person and answered the same business day. Replies fall into groups: interested, wrong person, not now, a question, not interested and remove me. Each gets a different handling.
+
+Interested people are moved toward a meeting. Wrong-person replies lead to the right contact. Not now is recorded for later. A request to stop is honored.
+
+You can read every thread through the shared workspace, so when a client asks what happened with a lead you can answer from the record.
+
+## The weekly report for each client
+
+One report per client, in your format, ready to forward as your own.
+
+- Contacts reached, by channel.
+- The replies, quoted as they were written.
+- Which conversations fit the agreed definition.
+- Meetings booked, meetings held and the outcome of each.
+- Planned changes and the reason for each.
+
+A report that leads with send counts shows effort. A report that shows who replied and what they said shows the work. You can check every line against the threads.
+
 ## Programs we run for agencies
 
 ### Cold email and appointment setting
+
 Qualified meetings on your calendar.
 
+Explore (https://www.beleaded.com/cold-email-agency/)
+
 ### Newsletters, email and SMS
+
 Newsletters people open.
 
+Explore (https://www.beleaded.com/newsletter-agency/)
+
 ### Paid social and search
+
 Ads with the follow-up built in.
+
+Explore (https://www.beleaded.com/paid-social-agency/)
+
+## Newsletters for agency clients
+
+Some clients need to stay in front of buyers who are not ready to talk. A newsletter holds that space.
+
+We produce weekly issues and multi-edition series for agency clients, including newspaper-format series and industry editions under one newsletter name. Everything carries your brand or the client's, never ours.
+
+See newsletters, email and SMS (https://www.beleaded.com/newsletter-agency/) for the program.
+
+## Pricing and your margin
+
+Programs start from $2,000 a month per client program. Email and LinkedIn. Calling is quoted separately. The price leaves room for your margin, and we will price a bundle for agencies running several clients. Your program targets up to 25,000 new contacts a month across your clients.
+
+How you price it to the client is yours to decide. Agencies usually choose one of three shapes.
+
+### A flat monthly retainer
+
+Simple to explain and easy to budget. The client pays for the program, not for the count.
+
+### A retainer plus a fee for held meetings
+
+Ties part of the price to outcomes. It needs a clear written definition so both sides agree on what counts.
+
+### An add-on to an existing retainer
+
+Lets a current client try outbound without a new contract. It works when the relationship is already strong.
+
+Our own rates are explained on pricing (https://www.beleaded.com/pricing/), and the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/) helps you size a client program.
+
+## Ways to package outbound for a client
+
+The same program can be sold in different shapes. Pick the one that matches how the client buys.
+
+| Package | What the client gets | Good for |
+| Pilot | One market, one offer and a short written scope. | A client who wants proof before committing. |
+| Standalone retainer | A full program with a weekly report. | A client who has decided to run outbound. |
+| Add-on | Outbound added to a current retainer. | A client who already trusts you with strategy. |
+| Multi-market | Separate programs for separate buyers. | A client with more than one product or region. |
+
+Whichever you pick, put the written definition and the report format in the proposal.
 
 400K+
 
@@ -3646,11 +3892,164 @@ Client programs
 
 Want outbound you can resell under your own brand? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=industries-marketing-agencies-white-label) and we'll spell out the white-label handoff.
 
-## Questions
+## Which clients suit outbound
+
+Outbound is not right for every client. Choosing well protects your reputation as much as theirs.
+
+### Good fit
+
+- A buyer who can be named by role, company type and region.
+- An offer the client can explain in two sentences.
+- A seller on the client's side who will take meetings and follow up.
+- A deal large enough to carry a monthly program.
+
+### Poor fit
+
+- A client who cannot say who buys.
+- A client with no one to take calls.
+- A client who wants an ad campaign, not a conversation.
+- A client whose market cannot be reached by email or LinkedIn.
+
+Saying no to a poor fit is better than running a program that cannot work.
+
+## Running several client programs at once
+
+Agencies that sell outbound to more than one client need a routine that does not depend on memory.
+
+- One report format across every client, so you can review them quickly.
+- Separate sending domains for each client, so one client's setup is not tied to another's.
+- A shared workspace where you see every reply and issue.
+- One written definition per client, kept with the account.
+- A regular review where each client's definition is checked against the replies.
+
+A bundle for several clients can be priced together. Ask about it on the call.
+
+## Protecting a client's existing relationships
+
+A cold program should never cross a conversation the client is already having.
+
+Before outreach, the client lists its current customers, open deals and anyone it does not want contacted. Those names come off the list. Competitors and partners are handled the same way.
+
+It is easy to forget and painful to learn after a buyer replies to say they are already a customer.
+
+## Compliance when outreach goes out in a client's name
+
+Rules for outbound vary by channel and by country, so treat this as a list of questions to ask rather than legal advice, and check your own situation with counsel.
+
+- Email calls for a truthful sender name, a truthful subject line, a physical mailing address and a working unsubscribe.
+- An unsubscribe is respected everywhere the program reaches that person.
+- LinkedIn sets its own limits on how profiles may be used.
+- Phone outreach brings registry and consent rules of its own.
+- Agree in writing who answers for what when messages carry a client's name.
+
+The blog post is cold email legal (https://www.beleaded.com/blog/is-cold-email-legal/) covers the email rules.
+
+## What a white-label agreement should cover
+
+A short written agreement avoids most disputes. Ask any partner to put these in writing.
+
+- The scope of each client program and what is not included.
+- Who contacts the client, and under what circumstances.
+- Confidentiality over your clients and your pricing.
+- Who owns the lists and the replies when a program ends.
+- How a client program is paused or stopped.
+- What is included in the price and what is quoted separately.
+
+Bring the questions to the call. Anything you are unsure about should be answered before you sell the service.
+
+## When a client wants a dedicated rep
+
+Some clients want a person working their accounts every day, not a campaign. If a client needs a dedicated rep rather than a program, we can run an outsourced SDR team (https://www.beleaded.com/outsourced-sdr-team/) under your brand.
+
+That is a different shape of service, with its own scope and price. Treat it as a second conversation after the outbound program is working.
+
+## White label, referral or building it yourself
+
+There are three ways to add outbound to an agency.
+
+| Option | What you do | What to weigh |
+| White label | Sell the service under your brand and keep the client and margin. | You rely on a partner, so choose one carefully. |
+| Referral | Introduce the client to a provider and step back. | Lower effort, and the client relationship moves with them. |
+| Build it | Hire, set up infrastructure and run it yourself. | Most control, and the most time and cost before the first client. |
+
+White label sits in the middle. It lets you sell the service now and keep the option to build later.
+
+## Questions to ask any white-label outbound partner
+
+Take these to every call. How a partner answers matters as much as the answer.
+
+- Will my client ever hear from you directly?
+- Whose name is on the domains, the emails and the reports?
+- Can I read every reply and every sequence before it sends?
+- How are my clients kept separate from one another?
+- Who owns the lists and the replies if we stop?
+- How is price set for several clients?
+- What does the weekly report show?
+- What costs extra beyond the starting price?
+
+How a partner answers is a preview of how it works.
+
+## Warning signs when choosing a partner
+
+A few warning signs show up again and again.
+
+- A target number announced before anyone has looked at the market.
+- Branding that slips, such as a footer or link that names the partner.
+- Messages you only see after they have gone out.
+- No list to inspect before the first send.
+- Replies counted as if they were results.
+- An agreement that lets the partner keep the contacts after the work ends.
+
+One warning sign deserves a question. A cluster deserves a different partner.
+
+## When white-label outbound is the wrong move for your agency
+
+Sometimes the honest advice is to hold off.
+
+- You have no client who can use outbound today.
+- You cannot explain the service to a client in a few sentences.
+- You do not have time to review reports and talk to clients about them.
+- Your agency's reputation depends on a channel you are not ready to stand behind.
+
+When most of these describe your agency, start with one pilot client or wait. A service line you cannot explain is hard to sell.
+
+## What to bring to the first call
+
+The first call is a working conversation with the founder. A little preparation makes it more useful.
+
+- The client or clients you have in mind, and what each sells.
+- Who buys from them, by role and region.
+- How you want to price and present the service.
+- Who on your side will review reports.
+- Questions about branding, handoff and what is included.
+
+You do not need a finished plan. Bring your questions about the white-label handoff and we will spell it out.
+
+## Where white-label outbound stops
+
+Outbound opens conversations. Closing the client's deals is a different job.
+
+It cannot close deals, repair an offer the market rejects or stand in for your strategy work. A company with no need today stays that way.
+
+What it can do is put real conversations on the client's calendar, with people who match the written definition. The client owns what happens next.
+
+## Questions about white-label outbound
 
 **How does white-label outbound work?**
 
 We set up and run the program under your brand: sending domains tied to the client, copy in the client's voice, replies handled and meetings booked. You get one weekly report per client and present it as your own.
+
+**What is white-label outbound?**
+
+White-label outbound is cold email, LinkedIn and meeting booking that an agency sells to its own clients under its own brand, while a partner sets up and runs the program.
+
+**Does the client approve the copy?**
+
+You read every sequence before it sends, and the client can too if that is how you work. The first send waits for that read.
+
+**Are my clients kept separate from one another?**
+
+Yes. Each client program has its own sending domains, its own list and its own written definition.
 
 **Will the client know Be Leaded is involved?**
 
@@ -3660,9 +4059,83 @@ Not unless you want them to. Domains, templates and reports carry your brand.
 
 Yes. We produce weekly issues and multi-edition series for several agency clients today, including newspaper-format editorial series and industry editions under one newsletter name.
 
+**Can I see the replies?**
+
+Yes. A shared workspace lets you see every reply and every issue.
+
+**What does the client need to provide?**
+
+Who they sell to, what they sell, who is not a fit, which customers stay off the list and whose calendar receives meetings.
+
+**Do you offer cold calling for client programs?**
+
+Calling is quoted separately, with its own scope. Email and LinkedIn are the core of each client program.
+
+**What costs extra beyond the starting price?**
+
+Calling is quoted separately. The starting price covers email and LinkedIn.
+
 **How is white-label priced?**
 
-Programs start from $2,000 a month per client program, with room for your margin. We'll price a bundle for agencies running several clients.
+Programs start from $2,000 a month per client program. Email and LinkedIn. Calling is quoted separately. The price leaves room for your margin, and we'll price a bundle for agencies running several clients.
+
+**Which clients are a poor fit?**
+
+Clients who cannot say who buys, have no one to take meetings or want an ad campaign instead of conversations.
+
+**Can a client get a dedicated rep instead?**
+
+Yes. We can run an outsourced SDR team under your brand when a client needs a dedicated rep rather than a program.
+
+**What should be in a white-label agreement?**
+
+Scope, who contacts the client, confidentiality, who owns the lists and replies, how a program is paused or stopped and what is quoted separately.
+
+**What is a qualified meeting?**
+
+A call the client's calendar has accepted, with a person who matches the definition you and the client wrote down before launch.
+
+## Related
+
+Where to read more about each part.
+
+### Cold email agency
+
+The email program that sits behind a client engagement.
+
+Read cold email (https://www.beleaded.com/cold-email-agency/)
+
+### LinkedIn lead generation
+
+Notes paced with the email, from profiles the client already uses.
+
+Read LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
+
+### Appointment setting
+
+A held conversation on the client's calendar, judged against a written definition.
+
+Read appointment setting (https://www.beleaded.com/appointment-setting/)
+
+### Cold calling services
+
+Phone outreach for clients whose buyers answer calls, scoped on its own.
+
+Read cold calling (https://www.beleaded.com/cold-calling-services/)
+
+### Outsourced SDR team
+
+When a client needs a dedicated rep rather than a program.
+
+Read outsourced SDR (https://www.beleaded.com/outsourced-sdr-team/)
+
+### Pricing
+
+What a program includes and how the starting price works.
+
+See pricing (https://www.beleaded.com/pricing/)
+
+Part of our B2B lead generation program (https://www.beleaded.com/lead-generation-services/). Agencies vetting other white label partners can use our comparison of top lead generation agencies for B2B (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
 
 ## Tell us who you want to meet.
 
