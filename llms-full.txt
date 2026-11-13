@@ -2694,35 +2694,71 @@ Or email sales@beleaded.com
 ---
 URL: https://www.beleaded.com/industries/it-services-msp/
 
-- Home
-- Industries
+- Home (https://www.beleaded.com/)
+- Industries (https://www.beleaded.com/industries/)
 - IT services and MSPs
 
 IT services and MSPs
 
 # MSP lead generation for IT services firms
 
-Most businesses your size already have an IT provider and many are not happy with it. We find them in your region, reach the owner at the moment they reconsider, and book the call. Target up to 25,000 new contacts a month.
+MSP lead generation is outbound outreach that puts an IT services firm in front of businesses that buy managed IT and books the interested ones on its calendar. Be Leaded builds the regional list, sends the notes you approve and books the calls. Target up to 25,000 new contacts a month.
 
-Programs start from $2,000 a month.
+## What MSP lead generation includes
 
-Example email. Names and companies are illustrative.
+The phrase covers a handful of separate jobs. Knowing them helps you tell a real program from a list with a logo on it.
 
-Subject: cyber insurance renewal
+### A territory and a customer profile
 
-Tom, most manufacturers your size in Ohio are getting longer cyber insurance questionnaires this year.
+The region you can serve well, the kinds of company you want and the size band where managed IT makes sense. For an MSP the territory is often a practical limit, because onsite work means someone has to be able to get there.
 
-We help companies with 50 to 200 staff answer them without a scramble: MFA, backups, endpoint protection, documented.
+### A checked list of businesses and the people who sign
 
-Is your renewal coming up before the end of the year?
+Companies in the territory, then the owner or operations lead at each one, checked before a message goes out.
 
-Alex
+### Outreach that reads like a local provider
+
+Short email and LinkedIn notes, written to one reader and tied to a moment that makes IT worth discussing.
+
+### Reply handling
+
+A person reads each answer, including the ones that say the company is under contract and the ones from a manager who is not the buyer.
+
+### Booking and reporting
+
+Calls placed on your calendar against a definition you approved, and a weekly record of what was sent and what came back.
 
 ## Why referrals stop filling the calendar
 
 Most MSPs still get the next client from someone they already know. That holds until the introductions slow down. The companies you want already pay an IT provider, and they do not leave because a stranger asked.
 
-They leave when a date makes the current setup feel risky. Appointment setting (https://www.beleaded.com/appointment-setting/) for an MSP is built for that window: a list by region, industry and headcount, a note to the person who signs, and a call on your calendar.
+They leave when a date makes the current setup feel risky. Appointment setting (https://www.beleaded.com/appointment-setting/) for an MSP is built for that window: a list by region, industry and headcount, a note to the person who signs and a call on your calendar.
+
+## Who buys managed IT, role by role
+
+A managed services decision rarely sits with one person at a small or mid-size company, and the person who answers the first note is often not the one who signs. Writing to the right role is half the message.
+
+### The owner or CEO
+
+At a smaller company the owner usually approves the IT contract personally. They care about downtime, cost and whether the problem goes away without their attention. They read short notes about a business reason and skip anything that sounds like a technical brochure.
+
+### The operations lead
+
+The person who feels it when email is down or a new hire has no laptop. They know the current vendor's habits and can start a conversation about switching, even if they cannot sign.
+
+### The finance lead or controller
+
+Reads renewals, invoices and insurance paperwork. A cyber insurance questionnaire or a rising renewal price lands here first.
+
+### The office or practice manager
+
+Manages the vendor day to day at clinics, law firms and accounting firms. Often the first to say the provider is slow, and often not the one who can end the contract.
+
+### The internal IT lead, where there is one
+
+A company with one IT person may want a co-managed arrangement, not a replacement. Writing to them as if they are about to be removed ends the conversation.
+
+We write to the owner and the operations lead at most companies and add the others where the list shows a clear role.
 
 ## Who we reach
 
@@ -2748,6 +2784,33 @@ Every contact is checked against the size and the territory you set, before a si
 - A current provider, or no provider at all
 - One timing trigger you can name in the first line
 
+## How the sales cycle works for an MSP
+
+Managed IT is a recurring agreement, so the buyer is choosing a long relationship rather than a one time purchase. That shapes how the cycle runs.
+
+- The buyer usually already has some IT support, even if it is a favor from a relative or a break-fix contractor.
+- Switching has a real cost in effort and risk, so most people wait for a reason.
+- The current agreement often has a renewal date, and the date can matter more than the pain.
+- More than one person weighs in, and the owner is rarely the only voice.
+- A first meeting usually leads to an assessment of the current setup, then a proposal, then a decision.
+
+Outbound cannot shorten a cycle that is set by the buyer's contract. What it can do is put your name in front of the right person early, so that when the date or the pain arrives, you are already known.
+
+That is why a first meeting is booked against a definition and not against a calendar slot. The goal is a conversation with the person who has a reason to talk now or soon.
+
+## What situation is the buyer in?
+
+The same message does not work for every company. The buyer's current setup changes what you should say first.
+
+| Current setup | What the buyer worries about | A sensible first angle |
+| No IT support at all | That a problem will arrive with nobody to call. | A plain explanation of what support covers and how it starts. |
+| Break-fix contractor | Paying for each emergency and never knowing the total. | Predictable support in place of surprise bills. |
+| One internal IT person | Coverage gaps, vacations and a single point of failure. | Co-managed help that backs up the person already there. |
+| An existing MSP | That switching will be painful and that the next one will be no better. | A reason tied to a date or an event, with a calm switching process. |
+| Mixed vendors | Nobody owns the whole picture. | One accountable provider for the pieces that matter. |
+
+The first line should name the situation you believe the reader is in, in words they would use. If you guess wrong, the reply tells you, and the thread becomes useful.
+
 ## What works in IT services
 
 The first email has to read like a local provider who looked at the company, not a script about managed services.
@@ -2758,40 +2821,258 @@ The first email has to read like a local provider who looked at the company, not
 - LinkedIn to the owner alongside email to the operations lead
 - A newsletter for prospects who said 'we're under contract until March'
 
+## Messaging angles by service line
+
+MSPs sell more than one thing, and each service line has its own natural reader and its own reason to write now. These are starting points, not scripts.
+
+| Service line | Usual reader | Angle for the first line |
+| Managed IT support | Owner or operations lead | A moment when the current support feels risky. |
+| Co-managed IT | Internal IT lead or owner | Backup for a small team, not a replacement for it. |
+| Cybersecurity services | Owner or finance lead | A policy, an insurer's questions or a customer's security review. |
+| Cloud and Microsoft 365 projects | Operations lead | A migration that people want to get right the first time. |
+| Compliance support | Owner or practice manager | An audit or a client request that needs documented controls. |
+| Projects and moves | Operations lead | A new office or a merger that needs network and access ready on time. |
+
+Pick one angle per message and one reader per list. A note that tries to cover every service reads like a brochure, and brochures get ignored.
+
+## What belongs in the first email, and what does not
+
+The first email is a small test of whether the reader recognizes their own situation. It should be short enough to read on a phone between meetings.
+
+### What belongs
+
+- A line that shows you looked at the company, such as its industry or a public event.
+- One sentence on what you do, in plain words.
+- One easy question.
+- A sender who is a real person with a real region.
+
+### What stays out
+
+- Acronyms the owner does not use.
+- A list of every certification and tool.
+- Three offers in one message.
+- A price.
+- An attachment or a deck.
+
+You read every sequence before it sends. If it sounds like a manufacturer's brochure, rewrite it until it sounds like a neighbor who happens to run IT.
+
+## Sample opening lines, by situation
+
+These are illustrations of the shape, not copy to paste. Each one uses a placeholder where your own name or detail goes.
+
+### The company that pays per incident
+
+"Most companies that pay a contractor each time something breaks never see the whole year added up. [Your company] covers support for a flat monthly fee. Would it help to see what that looks like for [their company]?"
+
+### The company with one IT person
+
+"Having one person run IT works until that person is out sick or on vacation. [Your company] backs up in-house IT without replacing it. Is coverage something you have thought about?"
+
+### The company with an insurance renewal coming
+
+"Insurers keep asking more about how companies protect their systems. [Your company] helps businesses in [your region] answer those questions with documentation. Is your renewal on your mind?"
+
+### The company that just opened an office
+
+"A new office needs network, access and support ready before people start. [Your company] sets that up for businesses in [your region]. Who is handling it for you?"
+
+Notice what is missing: no tool list, no acronyms and no price. Each ends in a small question the reader can answer in one line.
+
+## Writing to the owner and writing to the operations lead
+
+Two readers, two different notes. The same list can carry both when each gets the line that fits.
+
+### To the owner
+
+Lead with the business reason: an insurance renewal that is getting harder, a bill that keeps growing, a risk the owner cannot see. Keep technical words out. Ask a question about the business, not about the network.
+
+### To the operations lead
+
+Lead with the day to day: how requests are handled, how long a new hire waits for equipment, what happens when something breaks. This reader knows the vendor. A fair, specific note does better than a promise to fix everything.
+
+LinkedIn reaches the owner while email runs to the operations lead, so one company hears from two angles without feeling pushed.
+
 ## How the outreach runs
 
 Email carries the deadline. LinkedIn reaches the owner. Replies become calls. A newsletter waits out a contract.
 
 ### Cold email
-A short note about a real deadline, sent from separate domains, with copy you approve first. https://www.beleaded.com/cold-email-agency/
+
+A short note about a real deadline, sent from separate domains, with copy you approve first.
+
+See cold email (https://www.beleaded.com/cold-email-agency/)
 
 ### LinkedIn
-The owner hears from a person on the same days the email reaches operations. https://www.beleaded.com/linkedin-lead-generation-agency/
+
+The owner hears from a person on the same days the email reaches operations.
+
+See LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
 
 ### Appointment setting
-Replies are checked against the definition you approved, then booked with your team. https://www.beleaded.com/appointment-setting/
+
+Replies are checked against the definition you approved, then booked with your team.
+
+See appointment setting (https://www.beleaded.com/appointment-setting/)
 
 ### Newsletter
-When they are under contract until March, a newsletter keeps you present until that date. https://www.beleaded.com/newsletter-agency/
+
+When they are under contract until March, a newsletter keeps you present until that date.
+
+See newsletters (https://www.beleaded.com/newsletter-agency/)
 
 ## Why outbound works when they already have IT
 
-A cold email does not make someone leave a vendor they have kept for years. A renewal, an audit, an outage, or a move does.
+A cold email does not make someone leave a vendor they have kept for years. A renewal, an audit, an outage or a move does.
 
 Outbound works for MSPs when the first line is that moment, and the reader is the person who signs. These are the triggers we write to.
 
-Moments when a company reconsiders its IT provider:
+| Trigger | Why the owner will read it |
+| Cyber insurance renewal | The questionnaire got longer, and the owner is the one who has to sign it. |
+| Compliance audit | HIPAA, CMMC or SOC 2 work for their own clients is on the calendar and the current setup is undocumented. |
+| Microsoft 365 or cloud move | Mail, files or a line of business app is changing and nobody wants the cutover to fail. |
+| Recent outage | Downtime just had a cost, and the owner will hear a second opinion. |
+| New office | A new site needs network, access and support before the team sits down. |
+| New ops leader | A new operations lead inherits the vendor and is allowed to question it. |
 
-- Cyber insurance renewal: The questionnaire got longer, and the owner is the one who has to sign it.
-- Compliance audit: HIPAA, CMMC, or SOC 2 work for their own clients is on the calendar, and the current setup is undocumented.
-- Microsoft 365 or cloud move: Mail, files, or a line of business app is changing, and nobody wants the cutover to fail.
-- Recent outage: Downtime just had a cost, and the owner will hear a second opinion.
-- New office: A new site needs network, access, and support before the team sits down.
-- New ops leader: A new operations lead inherits the vendor and is allowed to question it.
+## Reading trigger signals honestly
+
+The trigger table above lists moments when a company reconsiders its IT provider. Some of those moments are visible from outside, and some are only learned in conversation.
+
+### Often visible
+
+- A new office or a second location.
+- A new operations or finance leader.
+- A company that has started hiring for IT roles, which can signal growth or a gap.
+- A recent public event that affects many companies in one industry, such as a new requirement from a regulator or an insurer.
+
+### Usually learned in the reply
+
+- The date the current agreement renews.
+- Whether the last outage was a one time event or a pattern.
+- How satisfied the owner is with the current provider.
+
+We do not claim to know a contract date we cannot see. The first line names a moment that is likely, and the reply tells us the rest. A wrong guess costs a polite no, and a right one starts a conversation.
+
+## Territory rules and regional lists
+
+For most MSPs the map is the first filter. A client you cannot support in person is a client you will lose, and a list that crosses your boundary wastes effort.
+
+### Drawing the boundary
+
+Name the cities, counties or states you serve. Decide whether a company with offices in two places counts, and which office you would support.
+
+### Existing clients and conflicts
+
+Current clients come off the list before anything sends. So do companies you have lost and do not want back, and partners who refer you work.
+
+### Overlap with other MSPs you work alongside
+
+If you have a referral partner in another city, say so, so the list leaves their territory alone.
+
+A regional list is smaller than a national one, and that is the point. A list of companies you can reach, support and keep is worth more than a bigger one you cannot.
+
+## Industries where an MSP can stand out
+
+A focus on one or two industries makes the message sharper and the list easier to define. These are common choices, and each has its own reason for a conversation.
+
+### Clinics and healthcare practices
+
+They handle patient information and answer to privacy rules. The conversation is about secure systems and documentation, written in plain terms for a practice manager.
+
+### Law and accounting firms
+
+They hold client confidences and live with deadlines. Reliability, access control and a clear escalation path matter to a partner.
+
+### Manufacturers
+
+Plant systems and office systems sometimes sit side by side. Downtime on the floor is a vivid cost for an operations leader.
+
+### Nonprofits and associations
+
+Tight budgets and mixed equipment. A clear scope and a predictable monthly cost are the draw.
+
+### Professional and financial services
+
+Customers and insurers increasingly ask security questions. A provider who can help answer them has a natural opening.
+
+If your best clients cluster in one industry, say so in the working session. It is the strongest starting point for a list.
+
+## Email, LinkedIn and calling for MSPs
+
+Each channel has a job, and the program is built around the reader, not around the tool.
+
+### Email
+
+Carries the trigger and the reason to write. It suits operations and finance leads, who read mail all day.
+
+### LinkedIn
+
+Reaches the owner as a person, from a profile your team uses. The note is short and builds familiarity before any ask.
+
+### Calling
+
+Some owners are easier to reach by phone than by inbox, and calling suits those territories. It is its own program with its own quote. See cold calling services (https://www.beleaded.com/cold-calling-services/).
+
+Most MSPs start with email and LinkedIn and add the phone when the early replies show where it would help.
+
+## What to do with a reply that says they are under contract
+
+This is one of the most common replies, and it is not a no. It is a date.
+
+- Thank the reader and ask, lightly, when the agreement comes up.
+- Record the date and the reason for any dissatisfaction they share.
+- Schedule a follow up before the renewal window, not after it.
+- Keep the company in front of them in the meantime with something useful, not a reminder to buy.
+
+A newsletter (https://www.beleaded.com/newsletter-agency/) can hold that space for a company that is not ready to move, and a note timed before the renewal date can reopen the thread.
+
+These replies are not booked as meetings, because the definition requires a real reason to talk. They are kept and used when the date gets close.
+
+## Replies MSP sellers hear most, and honest answers
+
+Prepare for these before the first call. They are common because they are reasonable.
+
+### We already have someone
+
+That is the starting point for almost every MSP conversation. Ask how it is working and whether anything about the arrangement worries them. Do not argue against a provider the buyer has chosen.
+
+### We are under contract
+
+Ask when it renews and what they would want to be different. Note the date. See the section above on what to do with that reply.
+
+### Send me some information
+
+Often a polite way to end the call. Offer a short, specific page about the situation they described, and ask whether a short conversation would be more useful than reading.
+
+### What does it cost?
+
+Cost depends on size, locations and scope. Explain what drives it and offer to review the current setup before quoting.
+
+### We have had a bad experience with an MSP
+
+Listen. What went wrong is the best guide to what you should do differently. Do not rush to say you are not like the last one.
+
+## Sending capacity behind the program
+
+400K+
+
+Emails a day of sending capacity
+
+99%
+
+Delivery rate across programs
+
+49 to 51%
+
+Average open rate on newsletters
+
+30+
+
+Client programs
+
+## Show the list on the call
 
 Tell us your region and size range. We will show you the list on the call.
-
-Sending capacity: 400K+ emails a day of sending capacity. 99% delivery rate across programs. 49 to 51% average open rate on newsletters. 30+ client programs.
 
 ## What counts as a qualified MSP lead
 
@@ -2803,9 +3084,76 @@ The definition is written down before launch. A reply counts only when it matche
 - Has a provider, or has none
 - Has asked for a call
 
+## Questions the first call should answer
+
+A booked call is worth more when it has a job. These are the questions a good first conversation covers, and the answers you want recorded before the meeting ends.
+
+- Who supports the company's IT today, and how does that arrangement work?
+- What is the size of the team, and how many locations?
+- What prompted the conversation now?
+- When does the current agreement renew, if there is one?
+- Who else will weigh in on a change?
+- What would make the owner comfortable switching?
+
+Your seller gets the reply thread before the call, so these questions pick up where the note left off instead of starting over.
+
+## What happens after the first meeting
+
+The first meeting is a conversation. The rest of the sales process is yours, and it follows the usual shape for managed services.
+
+### Assessment
+
+A review of the current setup: devices, accounts, backups and security basics. This is where trust is built, because it shows the buyer that you looked closely.
+
+### Proposal
+
+A written scope and a monthly price, explained in terms the owner understands. If the buyer is nervous about switching, the plan for moving over is as important as the price.
+
+### Decision
+
+Often involves the owner and one other person. Be available for their questions and keep the thread alive.
+
+We pass along the reply thread and the trigger that started the conversation, so the assessment can start from what the buyer already told us.
+
+## What to track in an MSP outbound program
+
+The weekly report should let you challenge the work. These are the things worth reading.
+
+- Who was contacted, by role and by channel.
+- What they said, including the under contract replies and their dates.
+- Which replies fit the definition you wrote and which fell short.
+- Meetings booked, meetings held and what each led to.
+- What changes next, and which signal is behind the change.
+
+Do not judge a program by send counts. Judge it by whether the right people are answering, what they are saying and whether the meetings fit your service range.
+
+Every thread behind the summary is open to you, so you can check it.
+
 ## Your data stays yours
 
 An MSP owner on r/msp (https://www.reddit.com/r/msp/comments/13wji6c/has_anyone_here_worked_with_any_of_the_larger/) described the end of a campaign this way: "They did not turn over the bulk data when we were done with the campaign." On this program, lists and replies are yours at the end.
+
+## Referrals, partners and outbound
+
+Most MSPs grow on referrals from clients, vendors and local professionals. That works until it does not, and a program should add to it, not replace it.
+
+### Referrals
+
+Reliable and slow. The volume depends on how many people already know you.
+
+### Vendor and channel partners
+
+Useful when the vendor has a program and customers in your region. They can come in waves.
+
+### Local search and content
+
+Reaches companies that are already looking, and it takes time to build.
+
+### Outbound
+
+Starts conversations with companies that are not looking today, in a territory you choose. It runs beside the others.
+
+A common pattern is to keep referrals as the base, build search over time and use outbound to fill the gap. Ads, when you want them, sit in paid social and search (https://www.beleaded.com/paid-social-agency/).
 
 ## Inbound and outbound for MSPs
 
@@ -2815,11 +3163,66 @@ They miss the owner who is unhappy with IT and is not searching today.
 
 Outbound fills that gap while SEO builds. Ads, when you want them, sit in paid social and search (https://www.beleaded.com/paid-social-agency/).
 
+## When outbound is the wrong move for an MSP
+
+There are honest reasons to wait.
+
+- You have no one to run discovery calls or follow up.
+- You cannot onboard a new client without strain.
+- The territory is too small to support a list.
+- You are not sure which clients are a good fit, so every reply looks the same.
+- The offer has not been written down in plain language.
+
+If two or three of those are true, sort them out first. An outbound program works best when a seller is ready to take the meetings and the team is ready to onboard the clients that follow.
+
+## Questions to ask any MSP lead generation provider
+
+Take these to every call. How a provider answers matters as much as the answer.
+
+- Who decides which companies are on the list, and can I see a sample before sending?
+- How does the provider understand managed IT buyers, and can it explain it in plain words?
+- Who writes the messages, and do I read them first?
+- Who answers the replies, and how are under contract replies handled?
+- How are my existing clients kept off the list?
+- What does the weekly report show?
+- When the work ends, who is left holding the contacts and the replies?
+- What is not covered by the starting price?
+
+Clear answers now usually mean clear work later.
+
+## Warning signs when comparing MSP lead providers
+
+These patterns come up often enough to name.
+
+- A set number of leads or meetings named before your territory is known.
+- Copy written for every IT company at once.
+- Nothing to look at until the first send.
+- A refusal to say what counts as a lead.
+- Terms that leave the contact file with the provider when the work ends.
+- A pitch that mixes inbound and outbound without saying which does what.
+
+Spotting one is a reason to ask. Spotting several is a reason to keep looking.
+
+## What to prepare for the first call
+
+It is a working conversation with the founder, so a little preparation pays off.
+
+- Your territory, described by cities or counties.
+- Your best clients, by industry, size and how they found you.
+- Clients you would not take again, and why.
+- The services you most want to sell this year.
+- Who on your team will take discovery calls.
+- Any partner relationships that affect territory.
+
+You do not need a finished brief. Tell us your region and size range and we will show you the list on the call.
+
 ## Target up to 25,000 new contacts a month
 
-Programs start from $2,000 a month.
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately.
 
-See pricing (https://www.beleaded.com/pricing/). Size the program with the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/).
+See what the pricing page includes (https://www.beleaded.com/pricing/)
+
+Size the program with the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/)
 
 - Regional lists by industry and headcount
 - Separate sending domains and warmup
@@ -2828,13 +3231,19 @@ See pricing (https://www.beleaded.com/pricing/). Size the program with the outbo
 - Calls booked with owners and operations leaders
 - Weekly reporting you can read
 
-Selling security services? See cybersecurity lead generation.
-
-## Questions
+## Questions about MSP lead generation
 
 **What size companies should an MSP target?**
 
 Most MSPs do best between 20 and 200 employees: large enough to need managed IT, small enough to have no internal team. We build the list to your sweet spot and region.
+
+**What is MSP lead generation?**
+
+MSP lead generation is outbound marketing that puts a managed service provider in front of the businesses that buy managed IT and books the interested ones onto the sales calendar.
+
+**Who buys managed IT at a small company?**
+
+Usually the owner, with input from an operations or finance lead. At clinics and professional firms an office or practice manager often manages the vendor day to day.
 
 **What angles work for MSP outreach?**
 
@@ -2842,7 +3251,23 @@ Deadlines and moments of reconsideration: cyber insurance renewals, compliance a
 
 **Does cold email work for MSPs?**
 
-Yes, when it is tied to a moment the owner is already reconsidering IT, like a cyber insurance renewal or an audit, and sent to the person who signs.
+Yes, when it is tied to a moment the owner is already reconsidering IT, like a cyber insurance renewal or an audit and sent to the person who signs.
+
+**Can outbound shorten the MSP sales cycle?**
+
+Not a cycle set by the buyer's contract. It can put your name in front of the right person early, so you are known when the date or the problem arrives.
+
+**What should the first email to an owner say?**
+
+It should show you looked at the company, say what you do in one sentence and ask one easy question. It should not list tools or certifications.
+
+**What do you do when a prospect says they are under contract?**
+
+We record the renewal date and any dissatisfaction they mention, then follow up before the window opens. It is not booked as a meeting until there is a real reason to talk.
+
+**Do you keep my existing clients off the list?**
+
+Yes. Current clients, lost accounts you do not want back and partners are removed before anything sends.
 
 **What counts as a qualified lead?**
 
@@ -2850,7 +3275,19 @@ A decision maker at a company in your size range and region who has asked for a 
 
 **Do you handle the replies?**
 
-Yes. We answer replies the same business day, qualify, and book meetings with your team. You read every thread.
+Yes. We answer replies the same business day, qualify and book meetings with your team. You read every thread.
+
+**Does the program include cold calling?**
+
+Cold calling is its own program, scoped and quoted on its own. Cold email and LinkedIn are the core here.
+
+**Is anything not covered by the starting price?**
+
+Calling is quoted separately. The starting price covers email and LinkedIn.
+
+**Can I read the emails before they send?**
+
+Yes. Every sequence is yours to read first, and nothing sends before you have.
 
 **Who owns the data when we stop?**
 
@@ -2858,7 +3295,55 @@ You do. Lists and replies are yours.
 
 **How much does MSP lead generation cost?**
 
-Programs start from $2,000 a month.
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately.
+
+**Do you work with co-managed IT and cybersecurity providers?**
+
+Yes. The list and the message are written for the service line and the reader, whether that is managed support, co-managed help, security or cloud projects.
+
+**When should an MSP not start outbound?**
+
+When no one is ready to take discovery calls, when onboarding a new client would strain the team or when the offer has not been written down in plain words.
+
+## Related
+
+### Appointment setting
+
+The call is booked with the owner or the ops lead, against a definition you approved.
+
+See appointment setting (https://www.beleaded.com/appointment-setting/)
+
+### Cold email
+
+Separate domains, warmup and the note you approve before it sends to your region.
+
+See cold email (https://www.beleaded.com/cold-email-agency/)
+
+### LinkedIn lead generation
+
+A personal note to the owner while email runs to the operations lead.
+
+See LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
+
+### Newsletters
+
+For the company that is under contract until March and is not ready to switch.
+
+See newsletters (https://www.beleaded.com/newsletter-agency/)
+
+### Cold email deliverability
+
+How the sending domains stay authenticated so the renewal note lands in the inbox.
+
+See deliverability (https://www.beleaded.com/cold-email-deliverability/)
+
+### Cold email templates
+
+The trigger email shape an MSP uses when a new office or a deadline is public.
+
+See templates (https://www.beleaded.com/blog/cold-email-templates/)
+
+Part of our B2B lead generation program (https://www.beleaded.com/lead-generation-services/). MSPs weighing several partners can start with our guide to the best B2B lead generation companies (https://www.beleaded.com/guides/best-b2b-lead-generation-agencies/).
 
 ## Tell us who you want to meet.
 
