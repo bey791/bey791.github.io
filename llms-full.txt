@@ -12975,51 +12975,471 @@ See demand generation (https://www.beleaded.com/demand-generation-agency/).
 
 URL: https://www.beleaded.com/cold-calling-services/
 
+- Home (https://www.beleaded.com/)
+- Services (https://www.beleaded.com/services/)
+- Cold calling services
+
+Cold calling
+
 # B2B cold calling services
 
-Cold calling can run alongside your email and LinkedIn outreach. One buyer can be reached on more than one channel. Target up to 25,000 new contacts a month.
+Cold calling services are outside teams that phone the buyers you want to reach and book the qualified ones onto your sales calendar. Target up to 25,000 new contacts a month.
 
-400K+ Emails a day of sending capacity
-99% Delivery rate across programs
-49 to 51% Average open rate on newsletters
-30+ Client programs
+400K+
 
-Programs start from $2,000 a month. Call minutes billed at cost.
+Emails a day of sending capacity
 
-What a cold calling service does: cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message. Firms that sell booking alone are compared in best B2B appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
+99%
 
-The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains, and the reply handling. This page adds phone outreach beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
+Delivery rate across programs
 
-Who gets called: buyers who match a definition you approve, on the same accounts as the email and the LinkedIn note.
+49 to 51%
 
-Qualification: against a written definition you approve before launch.
+Average open rate on newsletters
 
-Target up to 25,000 new contacts a month
-Programs start from $2,000 a month. Call minutes billed at cost. See pricing (https://www.beleaded.com/pricing/).
-Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
+30+
 
-What is a B2B cold calling service?
-Phone outreach alongside email and LinkedIn, for buyers who match a definition you approve.
+Client programs
 
-How does cold calling fit with email and LinkedIn?
-Cold calling can run alongside your email and LinkedIn outreach. Buyers are the ones you approved.
+Last updated November 18, 2026
 
-How do you qualify a call?
+## What a cold calling service does
+
+Be Leaded's team runs cold calling as a phone program of its own, working from the same list as email and LinkedIn, with the meeting placed on your calendar. Cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message.
+
+The fit definition is yours to sign before any outreach goes out. Email and the LinkedIn note use that same definition. A buyer who matches it, and who agrees to a time, is booked on your calendar. A conversation that misses the definition is not booked to fill a week.
+
+This sits inside B2B lead generation (https://www.beleaded.com/lead-generation-services/). Appointment setting (https://www.beleaded.com/appointment-setting/) is the booking work when a reply is ready for a hold on the calendar. Firms that sell booking alone are compared in best B2B appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
+
+## What a calling program is made of
+
+A calling program is a short chain of jobs. Each one has to be done for the next to matter, and a gap in any link shows up as calls that go nowhere.
+
+- A written definition of who counts as a fit
+- An account list built from that definition and approved by you
+- A talk track that says why you are calling
+- The calls themselves, with notes on every outcome
+- A check of each interested buyer against the definition
+- A hold on your calendar and a handoff to your seller
+Our team runs the phone work as its own program, beside email and LinkedIn. You write or approve the definition, review the list and take the meetings.
+
+## When the phone is the right channel
+
+Phone earns its cost when a conversation moves a deal further than a paragraph can. That usually means a purchase that involves several people, a problem that is easier to explain aloud than in writing or a market small enough that every account matters.
+
+It also helps when the buyers you want rarely answer written messages. Some roles live on the phone and in meetings. A short call lets a buyer ask the one question that would have taken three emails.
+
+## When the phone is the wrong channel
+
+Calling is a poor fit when the offer is still being worked out. A caller cannot make up for a message that the buyer does not recognize as a problem they have.
+
+It is also a poor fit when the buyers are known to refuse unscheduled calls, or when the value of a sale is too small to carry the cost of a conversation. In those cases email and LinkedIn do the work, and the cold email program (https://www.beleaded.com/cold-email-agency/) is the better place to start.
+
+## Why calling works with email, not instead of it
+
+Prospects hear from you more than once. The phone does not replace the email or the LinkedIn note.
+
+Some buyers answer a short email and never pick up. Some ignore the inbox and will take a call. Running the channels together means a miss on one is not the end of the attempt. A reply on email can change what the next call says. A call can explain a sentence the email could not.
+
+The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains and the reply handling. This page adds phone outreach beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
+
+Want calls with your buyers booked for you?
+
+## How a call and an email change each other
+
+When both channels point at one buyer, each can use what the other learned. An email that was opened but not answered tells the caller the subject is not foreign to the buyer. A call that ended with a request to send something in writing gives the next email a clear first line.
+
+The reverse also holds. A buyer who never picks up may still read a short note, and the note can name the call that was missed. Neither channel has to start from nothing.
+
+## Calling after a reply and calling before one
+
+There are two patterns, and a program can use both. In the first, the call follows a reply. A buyer who wrote back with interest but did not choose a time gets a call to settle the time. The buyer asked for contact, so the call is welcome.
+
+In the second, the call comes first and the written note follows. The buyer has never heard from you, so the call has to earn its two minutes. Which one fits depends on the market and on how much the buyer has already seen.
+
+## Why one account list matters
+
+Three channels working from three lists make a buyer feel chased by three companies. One shared list keeps the message consistent and keeps the record clean: who was written to, who was called and what was said.
+
+It also keeps exclusions in one place. A name removed because it is a current customer is removed from the email, the LinkedIn note and the call at once.
+
+## Who gets called and how lists are built
+
+The buyers you already named, reached by phone together with email and LinkedIn.
+
+### Your ICP
+
+Role, account type and the problem you sell against, agreed in writing. That agreement is the market the list comes from. Advisors and brokers who need business owners reached on a mandate (https://www.beleaded.com/guides/how-business-brokers-get-leads/) should start with off-market deal flow (https://www.beleaded.com/m-and-a-deal-flow/), which is built for confidential owner outreach.
+
+### The same accounts
+
+Email, LinkedIn and the call can share one account list, so the buyer is not hearing from three unrelated efforts.
+
+You review the account list before it goes into the program. Current customers and the live deals the client names are left out. Target up to 25,000 new contacts a month.
+
+## Writing the fit definition
+
+The definition is three short statements. Who is the person, what kind of account employs them and what problem do they have that your offer answers. If a statement cannot be checked in a conversation, it is too vague to use.
+
+### A loose definition
+
+Heads of operations at companies that want to grow. Nearly every conversation fits that, so nothing is ever screened out and the calendar fills with meetings that go nowhere.
+
+### A tight definition
+
+Operations leads at regional distributors who run their own delivery routes and have said that late deliveries cost them accounts. A caller can ask about each part, and a seller can tell afterward whether the meeting matched.
+
+You sign the definition before any outreach goes out, and email, LinkedIn and the call all use it.
+
+## Reviewing the account list before it goes live
+
+The list is the largest single factor in whether a calling program works, and it is the part you can check without waiting for results. Read it as your own seller would.
+
+- Do the companies match the definition you signed?
+- Are the roles the ones who decide or influence the purchase?
+- Are current customers and the deals your sellers are working left out?
+- Are there companies you would never want to call, for any reason?
+
+Current customers and the live deals you name are left out before the list goes into the program. Anything else you want removed goes on the same exclusion list.
+
+## Direct lines, switchboards and how a caller reaches a person
+
+A phone number on a list is only as useful as the person at the other end. Some numbers reach the buyer directly. Others reach a switchboard, a front desk or a voicemail menu, and each needs a different approach.
+
+When you compare providers, ask where the numbers come from and how they are checked. A list full of numbers that ring nowhere wastes the caller's time and the buyer's patience.
+
+## A talk track is an outline, not a script
+
+A caller who reads a script sounds like it. A caller with no plan wanders. The workable middle is an outline with five parts: why this call, a question that tests fit, a short answer to what the buyer says, a clear next step and a polite exit.
+
+Agree the outline with whoever runs the phone work before the first dial. The wording will change as buyers respond, and that is expected.
+
+## How a call opens
+
+The first sentence has one job, which is to say who is calling and admit that the call is unexpected. Then it gives a reason that is about the buyer, not about you.
+
+Example only, with placeholders in brackets: "Hi, this is [name] with [your company]. I know I am calling out of the blue. I work with operations leads at regional distributors on late deliveries, and I wondered if that is a problem on your side." It ends on a question the buyer can answer in a word.
+
+This example is illustrative. Names and details are made up.
+
+## Gatekeepers and front desks
+
+The person who answers is doing a job, which is to protect the buyer's time. Treat that person as a professional. Say who is calling and why in a sentence, ask for the right person by role and accept an honest no.
+
+A caller who invents a relationship to get past a front desk damages the company they represent. Good practice is plain and short, and it leaves the door open for the next call.
+
+## Voicemail and what follows it
+
+Many calls end in voicemail. A short message that names the company, gives one reason and says an email is coming is enough. Long pitches in voicemail rarely help.
+
+The follow-up matters more than the message. A note sent after the call, which refers to it, gives the buyer a second chance to respond in the way they prefer.
+
+## Objections buyers raise and honest answers
+
+Most objections are variations of a few, and the useful answers are short and truthful.
+
+### We already have someone for that
+
+Ask what they use and whether anything about it bothers them. If nothing does, thank them and move on.
+
+### Send me something
+
+A request to send information can be a polite exit or real interest. Ask one question about what they would want to see, and send exactly that.
+
+### This is not a good time
+
+Offer to call at a time that suits them. Many buyers will name one.
+
+### How did you get my number
+
+Answer plainly and offer to remove the number if they would like. A direct answer calms most of these calls.
+
+## Scheduling a callback instead of pushing for a meeting
+
+Not every interested buyer is ready to book a meeting on the first call. A callback at a time the buyer picks is a smaller commitment, and it keeps the conversation friendly. The buyer who asked for the callback expects the call and is likely to take it.
+
+## Qualification and booking
+
 Against a written definition you approve before launch.
 
-Who gets called?
+- 01 Write the definition The role, the account and the problem, agreed before outreach starts.
+- 02 Check the fit Interest that misses the definition does not get a hold.
+- 03 Hold the time A buyer who matches the written definition gets a hold on your sales calendar.
+- 04 Your team takes it Booking ends our part. Your sellers run the meeting from there.
+## What counts as a qualified conversation
+
+Define it in writing, with your sellers, before the first call. A qualified conversation is one where the buyer matches the fit definition and has agreed to a specific next step with a named person at your firm.
+
+| Outcome of the call | What it means | What happens next |
+| Fits and agrees to a time | Matches the definition and chose a slot | A hold goes on your calendar |
+| Interested but not yet | Matches the definition and wants to wait | A callback or a note at a time they named |
+| Curious only | Willing to talk but outside the definition | No hold is made |
+| Not a fit | Wrong role, account or problem | Closed with thanks |
+| Asked to stop | Does not want further calls | Removed from the list |
+
+A meeting that misses the definition is not booked to fill a week. That is how the program keeps your sellers' time for buyers who match.
+
+## From booked to held
+
+A meeting on the calendar is not a meeting that happened. Between the two sit reminders, time zones, calendar conflicts and second thoughts. A confirmation after the call and a short reminder before the meeting help, and so does a clear invite that says who will attend and what it covers.
+
+When you compare providers, ask what they count: meetings booked or meetings held. The two numbers are not the same thing.
+
+## What your seller should receive after a booking
+
+A seller who walks into a meeting without context starts from the beginning. Whoever books the call should pass on a short note.
+
+- The buyer's name, role and company
+- What the buyer said about the problem, in their words where possible
+- Anything they asked to be sent or avoided
+- Which channel the first contact came through
+- The time zone and the agreed slot
+
+Booking is where our part ends, and your seller runs the meeting from the hold.
+
+## Follow-up after a call
+
+Every call ends in an outcome, and every outcome has a next step. A booked buyer gets a confirmation. An interested but not yet buyer gets a note at the time they named. A buyer who asked for information gets exactly that, and an asked to stop is removed and left alone.
+
+The record of these outcomes is what lets email and LinkedIn pick up the thread without repeating what the buyer already said.
+
+## What a calling report should show
+
+A report that only counts dials says little. What matters is what happened to the people reached. When you ask any provider for reporting, look for these items.
+
+- How many buyers were reached and how many were not
+- The outcome of each conversation, using words you agreed
+- Meetings held as well as meetings booked
+- What buyers said that should change the message
+- Names removed or asked to stop
+
+Ask to see a sample before you sign. A provider that cannot show one has told you something.
+
+## What is included and what it costs
+
+Phone with the other two channels, a written definition and a hold on your calendar.
+
+### Phone with email and LinkedIn
+
+Calling runs beside the other two channels, on the buyers you approved.
+
+### Qualification
+
+A written definition, applied before a meeting is booked.
+
+### Booked calls
+
+Qualified conversations placed on your calendar.
+
+## How calling is priced across the market
+
+Providers use a handful of billing models. Knowing them helps you compare quotes that look unrelated.
+
+### By the seat
+
+A fixed monthly fee for a dedicated caller. It is simple to read and puts the risk of a slow month with you.
+
+### By the hour or the dial
+
+You pay for time or activity. It keeps cost tied to effort, and effort is not the same as results.
+
+### By the meeting
+
+You pay when a meeting is booked or held. Ask who defines a qualified meeting, because that definition drives the price.
+
+### By the pod or the program
+
+A package that bundles a team and a set of channels. The Callbox alternatives guide (https://www.beleaded.com/guides/callbox-alternatives/) walks through how that billing reads.
+
+Here, calling carries its own scope and its own fee, apart from the email and LinkedIn work, and you have the number after a 30 minute call.
+
+## Target up to 25,000 new contacts a month
+
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. See pricing (https://www.beleaded.com/pricing/)
+
+Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
+
+- Phone alongside email and LinkedIn
+- The buyers you approved
+- A written fit definition
+- A hold on your calendar
+- Customers and live deals left out
+- Your team takes the meeting
+
+## Compliance questions to ask any calling provider
+
+Rules for business calls differ by country and by state, and they change. This is guidance for a buyer, not legal advice, and your own counsel should confirm what applies to your calls.
+
+These are fair questions for any provider, and the answers should be specific.
+
+- How are numbers checked against do not call lists before a dial?
+- What happens the moment a buyer says to stop calling?
+- Are calls recorded, and how is consent handled where the law asks for it?
+- Does the provider use automated dialing or prerecorded messages?
+- Who keeps the records, and can you see them?
+
+Ask for the answers in writing. A provider that treats these questions as a nuisance is one to think about twice.
+
+## Where AI voice fits and where it does not
+
+AI voice follow-up is a different program. It calls people who asked to be contacted, such as someone who filled in a form, and it is not used for cold calls. Cold calling to new buyers is the work on this page, run by our team.
+
+If you want to see how follow-up for inbound leads works, read about AI voice follow-up (https://www.beleaded.com/ai-voice-agents/). The two programs are scoped and priced apart.
+
+## Calling in house, with a hire or with a provider
+
+An in house caller gives you control and a person who learns your market. It also gives you a hire to find, train, manage and replace, plus the tools and data they need. A provider takes that setup on, and you give up some day to day control.
+
+The comparison depends on how many accounts you need to reach and how soon. The outsourced SDR team page (https://www.beleaded.com/outsourced-sdr-team/) sets out how a hire compares with a managed team, and the appointment setting program (https://www.beleaded.com/appointment-setting/) covers the booking side.
+
+## Questions to ask any cold calling provider
+
+Use this list with every firm you speak to, including us.
+
+- Who makes the calls, and are they dedicated to your account?
+- Where do the phone numbers come from?
+- Who writes the talk track and who approves it?
+- How is a qualified conversation defined, and by whom?
+- Can you hear a sample call or read the notes?
+- What does the report show, and how often?
+- How are do not call lists and stop requests handled?
+- Who owns the list and the call notes if the program ends?
+- What is the term, and how does it end?
+
+## Warning signs when comparing providers
+
+A few patterns should slow you down.
+
+- A fixed number of meetings stated up front with no written definition of a meeting
+- No way to hear a call or read the notes
+- A price that cannot be explained in one sentence
+- A reluctance to discuss do not call handling
+- A list you cannot see before the program starts
+
+None of these proves a provider is poor. Each one is a reason to ask a plain question and listen to the answer.
+
+## What to have in hand before we talk
+
+We keep the first call to thirty minutes. A rough version of each item below is enough, and the conversation fills in the rest.
+
+- Who you want to reach, as roles and account types
+- The problem you sell against, in a sentence
+- Current customers and live deals to leave off the list
+- What a good meeting looks like to your sellers
+- Who takes the meetings and in which calendar
+
+If you only want email and LinkedIn at first, say so. Calling can be added later and is quoted on its own.
+
+## Where cold calling stops
+
+A calling program opens conversations. It does not close sales, and it cannot make a buyer take a meeting they do not want. We do not advise on your offer or your pricing, and we book meetings against the definition you approve. Everything after the hold belongs to your sellers.
+
+## Related
+
+### Lead generation
+
+The wider program that keeps email and LinkedIn in the same plan.
+
+See lead generation (https://www.beleaded.com/lead-generation-services/)
+
+### Cold email
+
+The written sequence, the domains and reply handling beside the phone.
+
+See cold email (https://www.beleaded.com/cold-email-agency/)
+
+### Appointment setting
+
+How a matching buyer becomes a hold on your sales calendar.
+
+See appointment setting (https://www.beleaded.com/appointment-setting/)
+
+### LinkedIn lead generation
+
+Notes to the same accounts, paced with the email and the call.
+
+See LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
+
+## Questions about cold calling services
+
+**What is a B2B cold calling service?**
+
+Phone outreach alongside email and LinkedIn, for buyers who match a definition you approve.
+
+**Is cold calling still worth doing?**
+
+It can be, when the buyers you want take calls and the value of a sale justifies a conversation. It works best beside email and LinkedIn, so a buyer who ignores one channel can still be reached on another.
+
+**What does a cold calling service include?**
+
+A written fit definition, a reviewed account list, the calls, a check of each interested buyer against the definition and a hold on your calendar. Our team runs it as a phone program of its own, working from the same list as email and LinkedIn.
+
+**Does Be Leaded use AI voice for cold calls?**
+
+No. AI voice follow-up calls people who asked to be contacted and is not used for cold calls. Cold calling is run by our team as its own program.
+
+**How does cold calling fit with email and LinkedIn?**
+
+Cold calling can run alongside your email and LinkedIn outreach. Buyers are the ones you approved.
+
+**How do you qualify a call?**
+
+Against a written definition you approve before launch.
+
+**What is a qualified conversation?**
+
+One where the buyer matches the written fit definition and agrees to a specific next step. You approve the definition before launch, and a conversation that misses it is not booked.
+
+**What happens when a buyer says stop?**
+
+The buyer is removed from the list and left alone. Ask any provider how it handles stop requests and keep the answer in writing.
+
+**Can I see the list before calls start?**
+
+Yes. You review the account list before it goes into the program, and current customers and the live deals you name are left out.
+
+**Who gets called?**
+
 Buyers from the account list you review before the program starts.
 
-What is left off the list?
+**What is left off the list?**
+
 Current customers and the live deals the client names are left out before the list goes into the program.
 
-Who takes the meeting once it is booked?
+**Can I run calling without email and LinkedIn?**
+
+Calling can be quoted on its own or alongside them. Say which you want on the call, and the quote follows that scope.
+
+**Is cold calling legal?**
+
+Rules differ by country and state, and they change, so this is not legal advice. Ask any provider how it handles do not call lists, stop requests and recording consent, and have your own counsel confirm what applies to your calls.
+
+**How do I know calling is working?**
+
+Look at meetings held, not only meetings booked, and at what buyers said about the problem. A report that shows only dials tells you little.
+
+**Who takes the meeting once it is booked?**
+
 Your sellers run the meeting from the hold. Booking is where this program ends.
 
-How much does it cost?
-Programs start from $2,000 a month. Call minutes billed at cost.
+**What does calling cost beyond the starting price?**
 
-Related: https://www.beleaded.com/lead-generation-services/ https://www.beleaded.com/cold-email-agency/ https://www.beleaded.com/appointment-setting/ https://www.beleaded.com/linkedin-lead-generation-agency/
+Calling is quoted on its own, based on the scope you need. We work out the quote with you on a 30-minute call.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately.
+
+**What should I bring to the first call?**
+
+The roles and accounts you want to reach, the problem you sell against, the customers and live deals to leave off the list and what a good meeting looks like to your sellers.
+
+## Tell us who you want to meet.
+
+Thirty minutes. You leave with the buyers to reach by phone, email and LinkedIn, and with a fee for that plan.
+
+Or email sales@beleaded.com
+
 
 ---
 
