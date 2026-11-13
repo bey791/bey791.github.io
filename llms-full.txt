@@ -16396,31 +16396,176 @@ Updated: 2026-11-15
 
 By Ahmad Khan, founder of Be Leaded. Published November 15, 2026. Updated November 15, 2026.
 
-Paid social for retailers with physical stores, an online shop or both. Before any proposal, we discuss which locations and products should carry the campaign and what your team can actually measure.
+A retail paid social agency plans and runs ads on social platforms such as Facebook and Instagram so a retailer's products reach people who can buy them, in a store, online or both. Before any proposal, we discuss which locations and products should carry the campaign and what your team can actually measure.
 
 Discuss your retail campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=retail-paid-social-agency)
 
 30 minutes: fit for your market + what a campaign looks like. No pitch deck.
 
+## What a retail paid social agency does
+
+The work covers which stores and products to promote, how the product catalog feeds the ads, how store and online sales are read back against the ads and how changes are agreed with your team.
+
+For a retailer the hard parts are stock that changes daily, promotions that start and stop and sales that happen at a till the ad platform never sees. The sections below take each of those in turn.
+
 ## Decide what each campaign should do
 
 Bringing people into a store and selling online are different jobs. A store campaign is local and depends on opening hours, stock in that store and how far people will travel. An online campaign depends on delivery, returns and checkout. Retailers pursuing both goals may need different ads and destinations. On the call we look at which goal matters most for your next campaign.
+
+## Which social channels suit a retailer
+
+Facebook and Instagram, both run through Meta, are the usual starting point because one catalog and one set of sales data can serve both. TikTok suits products that show well in a short video, such as a try-on, an unboxing or a quick demonstration. Pinterest suits shoppers who save ideas before they buy, such as home goods, gifts or seasonal items. YouTube suits products that need a longer explanation.
+
+We talk through which of these your shoppers use and whether your team has the creative and the data to support more than one channel. Learning from one or two channels first is often more useful than spreading a first campaign across five.
 
 ## Start with the stores that matter
 
 Not every location needs the same push. We discuss which stores have the stock, staff and room for more customers, and which areas you want to grow, so ads point people to a place that can serve them.
 
+## Opening a store or running a local event
+
+A new store, a relocation or an in-store event is a local job. The people worth reaching live within an easy trip of that address, and the ad should say what is actually there on the day, such as the range, the event or the opening hours.
+
+We talk through how far your customers realistically travel, whether neighboring stores should be kept out of the plan and how your team will handle extra footfall. Where a store has little spare capacity, the better move may be to hold the push until it can serve more people.
+
 ## Promote what you can sell
 
 Promoting an unavailable product can waste a visit and disappoint a customer. We talk through how your team confirms local and online availability before a promotion runs, and how promotions change when stock runs low.
+
+## Product ads that follow stock
+
+Meta's Help Center explains that ads with product media, previously called Advantage+ catalog ads, show each person the most relevant products from your catalog based on their interests, intent and actions online. The ads draw on your product data, so they are only as current as that data is.
+
+Every product in a catalog has an availability field, and Meta lists in stock and out of stock as the supported values. Products marked out of stock are not shown in ads, although they stay visible in shops on Facebook and Instagram, marked as sold out. The practical way to avoid advertising an empty shelf is a catalog whose availability is kept up to date.
+
+Our view is that a store-based retailer has an extra question to settle. A catalog may hold one availability value per product and not one per store, so we ask what your feed represents before a campaign leans on it. This is our own reading, not a Meta statement.
+
+## Keeping the product feed current
+
+Meta can fetch your product file on a schedule, hourly, daily or weekly. It offers an update schedule that changes existing products quickly and a replace schedule that refreshes the whole catalog, and the two can be used together. Meta's developer guidance for an update schedule is to mark items out of stock instead of deleting them, so Meta can show a person similar items that are still available.
+
+Price follows the same path. Price and sale price are fields in the feed, a sale price must be lower than the full price or it will not be shown, and Meta recommends adding a sale price effective date to control when the sale price appears. Meta suggests timing an upload shortly after your own feed refreshes.
+
+We ask how your feed is produced, who owns it and how often it changes, because a feed that breaks when stock changes can leave product ads showing the wrong items.
+
+## Matching product IDs between feed and site
+
+Meta states that, for catalog ads, the ID of a product in the catalog must exactly match the content ID for the same product in the Meta Pixel code on your website. Meta suggests using the product's SKU where possible and says each content ID should appear only once in the catalog.
+
+A mismatch is easy to create. A platform migration, a renamed SKU or a bundle sold under a new code can all separate the feed from the site. We would ask for a short list of sample products and check that the same ID shows in the feed and in the purchase events before any spend goes behind a catalog campaign.
 
 ## Keep sale messages honest
 
 A sale works when the saving is real. If a campaign shows a reduced price, the original price should be one you genuinely charged for a meaningful period. Your team confirms prices and terms before ads run.
 
+## Planning around promotions and seasonal peaks
+
+Retail demand moves with the calendar. We ask for your promotion dates, supplier deadlines and the weeks when stock is tightest, then work backward so ads start when products are on the shelf and stop when they are not.
+
+A promotion that applies only in store should not send people to checkout, and an online offer should not leave store staff unaware of it. We ask who tells each store about an offer and who ends an offer in the feed, because a sale price left running after the sale ends misleads shoppers.
+
+## Creative for a retail shelf
+
+Retail creative has two jobs. Some ads show a product clearly, and others show a place, a person or a moment around it. Meta's Help Center notes that when product videos are in a catalog, Meta shows either product images or videos based on what a person is more likely to respond to, and falls back to the image if a product has no video.
+
+We discuss which products your team can film or photograph in a useful way, what store staff or customers could contribute with their agreement and how your approvals work. If creators are involved, we ask how paid relationships will be disclosed and which product claims your team has approved.
+
 ## Be clear about measurement
 
-Online orders are easier to connect to ads, but not completely: consent choices, browser privacy limits and attribution settings leave gaps, and a tracked order does not prove the ad caused it. Store purchases are harder still, and how much you can see depends on your point of sale and data setup. We would agree which signals matter for you and what each can and cannot show.
+Orders placed on your site are simpler to link to ads, yet some will never be seen: customers who decline tracking, browsers that restrict it and the attribution settings you pick all leave gaps, and a tracked order is not proof that an ad caused it. Store purchases are harder still, and what you can see depends on your point of sale and data setup. Together we decide which signals are worth watching and what each of them can and cannot tell you.
+
+## How store sales get tied back to ads
+
+An ad platform sees the click but not the till. To connect store purchases to ads, sales data has to travel from your point of sale to the platform. Meta's Help Center describes uploading interaction data from your store or locations to Meta Events Manager so that offline events and transactions can be attributed to your Meta ad campaigns.
+
+Meta's developer documentation covers sending these store events through the Conversions API with the action source set to physical store, and sets a limit on how long after a purchase a store transaction can still be uploaded. A purchase event carries a value and a currency, and Meta matches it to a person using customer information such as a hashed email address or phone number. Meta has announced the discontinuation of its older Offline Conversions API and recommends uploading events to datasets through the Conversions API instead, so guides that mention offline event sets may be out of date.
+
+This route depends on what your shop collects at checkout and on the consent customers have given. If you collect little customer information, it will show less, and that is a useful thing to know before anyone plans around it. Whether we would help set this up is decided in the proposal, after fit is confirmed.
+
+## Questions to ask your point of sale provider
+
+Store measurement depends more on the data than on the ad account. Before a campaign is planned around store sales, we suggest your team asks the provider behind your tills a short list of questions.
+
+Can it export each sale with an order or receipt ID and a precise timestamp? Meta's guidance asks for both. Can it export the store location with each sale, and does it hold a customer email or phone number only where the customer agreed to that use? Can the export run daily or more often? Meta recommends uploading in real time or daily so offline data can be matched against the ads you are running. Are refunds and exchanges in the export or separate?
+
+The answers shape what can honestly be reported. They also tell us whether store measurement is practical now or whether a simpler signal is the better starting point.
+
+## Reading online orders with the Meta Pixel and Conversions API
+
+For web orders, Meta's documentation says events sent through the Conversions API are linked to a dataset ID and processed like events sent with the Meta Pixel, so the two feed the same place. What we check on a retail site is whether purchase events carry product IDs that match your catalog, because ads built from a catalog rely on that match.
+
+We also ask who maintains the site tags, since a checkout change by a developer can quietly stop events from firing. Meta's Ads Data Advisor can be used to check that a pixel is sending the events a catalog needs.
+
+## Testing whether ads changed sales
+
+Meta describes Conversion Lift as a controlled experiment that divides an audience into a test group, who have the opportunity to see your ads, and a control group, who do not. The difference in conversions between the groups reveals the lift caused by the presence of the ads.
+
+For a retailer with several stores, our method is to compare stores in areas that received ads with similar stores that did not. That is our own approach and not a Meta feature, and it shows a difference between stores, not proof of cause. Either approach needs a good volume of sales before a result means anything, so the question is whether a test is realistic at your size or whether site orders, store locator clicks and your own sales trends are the honest signals for now.
+
+## Splitting budget between stores and online
+
+Ad spend is agreed separately and is not covered here, but how it is divided is worth a plain conversation. We look at where stock and staff can take more customers, which products carry healthy margins once shipping and returns are counted and which stores are ready for extra visits.
+
+A product that sells well online can cost more to return than it earns, and a product that sells well in one region may not stock in another. Budget follows those facts. Your team keeps the final say on where money goes.
+
+## Click and collect, delivery and returns
+
+Online orders add commitments that ads must honor. If ads mention collection in store, the store must be ready to hand over the order. If they mention delivery times, the dates must match what your carrier and warehouse can actually do. If they mention returns, the policy shown must be the policy you apply.
+
+We ask your team to confirm these terms before ads run and again when terms change. If a stock shortage or carrier problem pushes dates out, ads that mention them need to change with them.
+
+## Paid social next to marketplaces and retailer ad networks
+
+Some retailers also sell through marketplaces or advertise on other retailers' own sites. Those networks sell on their own platforms, while paid social can send people to your site or your stores. They are different channels with different data.
+
+We ask where each of your products is sold and at what price, because social ads that lead shoppers to a listing with a lower price elsewhere work against you. We also keep reporting for each channel separate, so a sale is not counted twice.
+
+## Reaching shoppers who have bought before
+
+People who have already bought from you can be reached through paid social and through channels you own. If you hold an email or phone list with the right permission, our email and SMS programs (https://www.beleaded.com/newsletter-agency/) cover newsletters and texts for brands with a list to work.
+
+We ask what you collect at checkout, what customers agreed to and whether store and online customers are in one record or two. That decides what a repeat purchase campaign can sensibly aim at.
+
+## How an engagement runs
+
+It starts with a scoping call about your stores, your online shop, your catalog and what you can see in sales data. If there is a fit, we write a proposal covering the channels, the job of the first campaign, the creative needed, the catalog and tracking work that is in scope and the way results are reported back. You read and agree it before anything is built.
+
+Ads are drafted for your review and nothing is published until you approve it. After launch we send the signals named in the proposal, and any change to creative, audiences, the catalog or spend is put to you first. The pieces that depend on your point of sale or website developer are listed in the proposal, so it is clear who owns each one.
+
+## What we need from your team
+
+A campaign moves faster when a few things are ready: access to your ad account, catalog and pixel or dataset, a contact for your point of sale data, your promotion calendar, the names of the people who approve prices and claims and a list of the stores that should be in the plan.
+
+If some of these are missing, we say so on the call. A first campaign can begin with the simpler pieces, and store measurement can be added later.
+
+## Who this fits and who it does not
+
+It tends to fit retailers who have a product range, a way to share stock and price data and a team that can approve ads and stand behind what the ads say. It fits both multi-store retailers and shops that sell only online.
+
+It may not fit a business with no product data to share, no one to confirm stock or an expectation that ads alone will settle a pricing or range problem. We say that on the call instead of building a plan around it.
+
+## Common questions
+
+Can ads be linked to what people buy in our shops?
+Ad reports alone will not show it. Till data has to reach the platform from your point of sale, or a controlled experiment has to be run, and each route depends on the data you hold. We discuss which of them is realistic for your business.
+
+Do we need a product catalog to run retail ads?
+Not for every campaign. Ads with your own images or video can run without one. Ads that show different products to different people draw on a catalog, and they work best when it matches the products on your site.
+
+What happens to an ad when a product sells out?
+If the catalog marks the product as out of stock, Meta does not show it in ads. That depends on the feed being current, so we ask how often your stock data updates and who is responsible for it.
+
+Can ads promote one store instead of the whole chain?
+Yes, that can be discussed. A single store with spare capacity, a new opening or a local event can have its own plan. We look at stock, staff and how far people will travel before setting it up.
+
+Will you set up our in-store tracking or point of sale feed?
+That is not assumed. Who does the point of sale work, you, your provider or us, is set out in the proposal once fit is confirmed. Some of it can only be done by the people who run your tills.
+
+How do sales and discounts show in the ads?
+In catalog ads, price and sale price come from your feed, and Meta recommends a sale price effective date to control when a sale price shows. Your team confirms prices and terms before ads run and removes a sale price when the sale ends.
+
+We only sell online. Is this page still for us?
+Yes. The sections on the catalog, the feed, online orders and promotions apply. The store sections matter if you add shops or pop-ups later.
 
 ## Bring this to the first call
 
@@ -16430,7 +16575,7 @@ Scope and pricing are agreed after we assess fit. Ad spend is agreed separately.
 
 Discuss your retail campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=retail-paid-social-agency)
 
-For our wider services, see our paid social agency (https://www.beleaded.com/paid-social-agency/) page.
+To see the wider range, read our overview of paid social and search (https://www.beleaded.com/paid-social-agency/) services.
 
 Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=retail-paid-social-agency)
 
