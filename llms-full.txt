@@ -16396,31 +16396,188 @@ Updated: 2026-11-18
 
 By Ahmad Khan, founder of Be Leaded. Published November 18, 2026. Updated November 18, 2026.
 
-Paid social for fashion and apparel brands whose sales depend on collection launches, the right sizes in stock and customers keeping what they buy. Before any proposal, we discuss your next drop and how you judge success after returns.
+For apparel, footwear and accessories brands, a fashion paid social agency handles advertising across social platforms, mainly Facebook and Instagram, built around collection launches, the sizes actually in stock and the share of orders that come back. Before any proposal, we discuss your next drop and how you judge success after returns.
 
 Discuss your next collection (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=fashion-paid-social-agency)
 
 30 minutes: fit for your market + what a campaign looks like. No pitch deck.
 
+## Fashion paid social agency work, in brief
+
+The work covers which pieces to promote and when, how sizes and colors reach the product feed, and how results are read once returns are taken into account.
+
+For a fashion brand the hard parts are demand that clusters around a drop, stock that runs out one size at a time and orders that return. The sections below deal with each.
+
 ## Plan around the launch calendar
 
 A new collection and an always-on best seller need different timing, creative and budget. On the call we look at your upcoming drops, restocks and sale periods, so new pieces get a fair start without cutting off what already sells.
+
+## Phasing a drop: before, during and after
+
+A launch has stages, and each wants different ads. Before a drop the aim is to get the right people watching your brand. During it the aim is to send ready shoppers to the pieces that are on sale. After it the aim shifts to the sizes that remain and the pieces people keep asking about.
+
+We ask for the order of events on your side, such as the preview, the on-sale moment and any restock, and plan the ads around it. Your team signs off the creative and the stock position first, and only then does an ad have a date.
+
+## Which social channels suit a fashion brand
+
+Most fashion brands begin with Facebook and Instagram, which are both managed through Meta and can share a single catalog and a single set of purchase data. TikTok suits clothing that moves well on camera, such as styling clips and fit comparisons. Pinterest suits shoppers collecting outfit and wardrobe ideas ahead of buying. YouTube suits brands with longer material such as a collection film or a fit guide.
+
+We discuss where your customers already spend time and what creative your team can make for more than one platform. Doing fewer channels well tends to teach you more than a thin spread across all of them.
 
 ## Stock by size and color, not just by product
 
 A style can be in stock while the sizes most people want are gone. We discuss how your team tracks stock by variant and when a product should stop being promoted, so ads do not send people to a size they cannot buy.
 
+## Sizes and colors in the product feed
+
+In Meta's catalog, a field called item group ID lets you set up variants of the same product, such as different sizes, colors or patterns, by entering the same group ID for every variant. Meta also asks for size to be written as a word, abbreviation or number such as Small or XL, and for color to be described in words rather than a hex code. Meta notes that size is required for selling products in shops in certain categories, including clothing and shoes.
+
+This matters because a shopper does not buy a style, they buy a size in a color. We ask how your store platform exports variants and whether the feed groups them properly before ads depend on it.
+
+## Ads that stop when a size runs out
+
+Every item in Meta's catalog carries an availability value, either in stock or out of stock, and an item marked out of stock is left out of ads. In our reading of Meta's catalog fields, each variant is its own item, so a size that sells out can be switched off without pulling the whole style.
+
+The risk is a feed that updates slowly. If a best-selling size goes first and the feed is a day behind, ads keep leading people to a size page they cannot buy. We ask how often your stock changes, how often the feed refreshes and who is responsible when the two drift apart.
+
+A style with only awkward sizes left is a judgment call for your team. We can raise it, and you decide whether the ad keeps running.
+
+## Catalog ads for a fashion range
+
+Catalog ads, which Meta's Help Center now describes as ads with product media and used to call Advantage+ catalog ads, pick products out of your catalog for each viewer according to what that person has shown interest in online. For a fashion range this suits a large number of styles that would be slow to build by hand, and shoppers who have already looked at specific pieces.
+
+Catalog ads are one tool among several. A new collection often needs hand-built creative that sets the mood, with catalog ads following behind for people who have looked at pieces. We discuss the mix for your next drop.
+
+## Keeping the feed in step with a drop
+
+Meta will collect your product file on an hourly, daily or weekly timetable. A quick update timetable handles changes to existing items, and a replace timetable rebuilds the whole catalog. Meta's developer notes single out holiday sales and rapid price or availability changes as the cases where the quick timetable earns its place.
+
+For a drop, the feed has to be ready when the products are. We ask who adds the new styles, who checks the images and titles and who switches products on at the on-sale moment, so ads do not point at pages that are not live yet.
+
+## Making the feed and the website agree
+
+Meta requires each catalog product's content ID to be identical to the ID your website's pixel sends for that product, and suggests using the SKU. A range with many sizes and colors has many IDs to keep consistent.
+
+We would pick a handful of styles that have several variants and check that the IDs seen in the feed are the same ones the website sends when someone views or buys that exact size. That check is cheaper before a campaign than after it.
+
 ## Fit information comes before the ad
 
 Unanswered fit questions can contribute to returns. We talk through what your pages already show, such as size guides, fit notes and model sizing, and where clearer information could help shoppers choose the right size the first time. Your team decides what changes.
+
+## Size guides and fit notes on the page the ad opens
+
+An ad can bring a shopper to a product page that leaves the size question open. Size guides, fit notes, model height and the size the model wears answer it before the shopper has to guess.
+
+We look at what your pages show today and where a shopper would hesitate. Page changes are your team's decision, and we suggest only what appears to matter based on the questions customers ask you.
 
 ## Judge results after returns
 
 Gross order revenue alone does not show what customers keep after returns. We would agree how returns are reflected in reporting, based on the data your store can share, and what that data can and cannot show.
 
+## Reading ad results next to returns
+
+A return takes revenue back after the ad has already been credited. If reports show only gross orders, a style with many returns can look better than it is. We ask what your store can share about returns, whether by style, by size or by order, and how that could sit next to the ad reports.
+
+The result might be a simple view, such as orders after returns for each campaign, or something rougher if your data is limited. Either way, we agree what the figures can and cannot show before anyone reads a campaign by them.
+
+## Online orders: the Meta Pixel and Conversions API
+
+According to Meta, server events sent through the Conversions API land in a dataset and are handled the same way as Pixel events. A shop can send both, so a browser setting that blocks one does not have to hide every order.
+
+What we check is that purchase events carry the product and variant IDs your catalog uses, and that someone owns the site tags. A theme update on your store platform can quietly stop events from firing.
+
+## Testing whether ads changed sales
+
+Meta's Conversion Lift splits an audience in two. One group is able to see your ads and the other is not, and the gap in conversions between them is the lift the ads caused.
+
+Such a test needs a good volume of orders before the answer is readable, and a launch that lasts a short while may be too small. We talk through whether a test is realistic for you or whether a more modest signal, such as orders after returns by collection, is the honest choice.
+
+## Best sellers, slow movers and what to push
+
+Not every piece deserves the same budget. A best seller may be limited by stock, a slow mover may be limited by interest and a new piece may simply not be known yet. Each of the three needs a different decision.
+
+We ask which pieces have depth in stock, which carry healthy margins after returns and which your team wants to give a fair start. Ads then follow those priorities, and the priorities change as stock does.
+
+## Sales, markdowns and end of season
+
+End of season is when stock decisions turn into price decisions. In a catalog, price and sale price sit in separate fields. A sale price appears only if it is lower than the regular price, and Meta advises setting an effective date so the markdown shows for the right period and then taking it out after the sale closes.
+
+Your team sets the markdown and confirms that the previous price is one you genuinely charged. We make sure the ads, the feed and the site all show the same price at the same time.
+
+## Creative that shows how a piece wears
+
+Shoppers often want to see fabric, movement and fit. Short video of a piece worn, a close shot of a seam or a side-by-side of two sizes can show more than a studio image. Meta's Help Center says that if a catalog holds product videos, Meta picks the video or the still image for each viewer according to which they are likelier to respond to, and uses the still when no video exists.
+
+We discuss what your team can shoot and which pieces most need motion. Models and creators should be shown in sizes and styles that match who actually buys.
+
+## Creator content and customer photos
+
+Creators and customers can show clothing in real settings. Before any of that content is used in an ad, we ask what rights were agreed with the person who made it and whether the relationship with your brand is clearly disclosed.
+
+Claims in creator content, such as about fabric or fit, should match what your own pages say. Your team decides which content is approved, and nothing runs until you have seen it.
+
+## Preorders, waitlists and restocks
+
+A preorder or waitlist changes what an ad can honestly say. The page should state that the item is not yet in stock and what the customer is signing up for. A restock is a chance to reach people who missed a size, if your team can tell us who asked.
+
+We ask how your store handles these cases and keep ad wording to the facts your team confirms.
+
 ## Be clear about delivery promises
 
 If ads mention delivery times or preorders, those promises need to match what you can actually ship. Your team confirms delivery and returns terms before ads run.
+
+## Brands that also sell in shops or through stockists
+
+A brand with its own store, a pop-up or a stockist adds a second place where a sale can happen. Meta supports uploading in-store purchases through the Conversions API by marking each event with a physical store source, so shop sales can reach Meta next to online ones. That depends on what your till system can export and on the consent customers have given.
+
+Wholesale is different. Ads that send people to a stockist's site or shop need that stockist's cooperation to show anything back. We ask which of your partners can share sales data before any plan relies on it.
+
+## Balancing new pieces and the existing range
+
+Ad spend is agreed separately, and how it is divided deserves a plain conversation. New pieces need room to be seen, and the backbone of your range needs steady support. If a drop takes all the attention, the pieces that pay your bills can fade.
+
+We ask which lines carry your year, how seasonal they are and how much stock is left. Decisions on where the budget goes stay with you.
+
+## How an engagement runs
+
+The first step is a scoping call on your next collection, your catalog, your stock by size and the way you look at returns. Where the fit is right, a written proposal follows, setting out channels, what the first campaign is for, which creative is needed, what catalog and tracking work is included and how results come back to you. Nothing is built until you have read it.
+
+Ads are drafted for you to review, and publication waits for your word. Once they are live you receive the signals the proposal lists, and changes to creative, audiences, catalog or spend reach you before they happen. Work that sits with your store platform or developer is named in the proposal so each piece has an owner.
+
+## What we need from your team
+
+Preparation helps. Useful items include entry to the ad account, the catalog, the pixel or dataset, a named contact for your store platform, the launch and sale calendar, whoever signs off prices and claims and whatever you already know about why pieces are returned.
+
+Gaps are fine and get named on the call. The first campaign can use what exists, with fuller return reporting added afterwards.
+
+## Is this a fit for your brand?
+
+The work suits apparel, footwear and accessories brands that have a product feed, a launch rhythm and people able to confirm stock and approve ads. Mainly online brands and brands with shops are both in scope.
+
+It is a poor match where nobody can see stock by size, nobody can approve content or the hope is that advertising will repair a fit, quality or pricing problem. If that is the situation we will tell you during the call.
+
+## Common questions
+
+Can ads stop showing a size once it sells out?
+Yes, provided the catalog marks that size as out of stock, because Meta leaves such items out of ads. A current feed makes that work, so we ask how frequently stock data refreshes and who keeps it accurate.
+
+Do you plan ads around a collection drop?
+Yes, and it is the center of the first call. Bring the dates, the pieces and any creative you hold, and the ads are planned around the preview, the on-sale moment and any restock. Dates are set after your team approves creative and stock.
+
+How do returns affect how you read results?
+A return reduces what a customer actually kept, so gross orders can overstate an ad. We discuss what return data your store can share and how to show orders after returns beside the ad reports.
+
+Do we need size and color data in a feed to run catalog ads?
+Catalog ads rely on it. Meta's catalog has fields for size, color and an item group ID that ties the variants of one product together. If your feed is not set up that way, we raise it in the proposal.
+
+Can you run ads for pieces with creator content?
+That can be discussed. We ask what rights were agreed with the creator, how the relationship is disclosed and whether the claims match your own pages. Your team approves each piece before it runs.
+
+Will you set up our store platform or tracking?
+Nothing is assumed here. The proposal, written once fit is confirmed, names who handles store platform and tracking work, whether that is you, your developer or us. Some tasks belong to whoever administers your store.
+
+We sell through shops as well as online. Is this still for us?
+Yes. Store sales are harder to show to an ad platform, and how much is possible depends on your till system and customer data. We talk through what is realistic.
 
 ## Bring this to the first call
 
@@ -16430,7 +16587,7 @@ Scope and pricing are agreed after we assess fit. Ad spend is agreed separately.
 
 Discuss your next collection (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=fashion-paid-social-agency)
 
-For our wider services, see our paid social agency (https://www.beleaded.com/paid-social-agency/) page.
+Our paid social and search services (https://www.beleaded.com/paid-social-agency/) page covers the wider range of work.
 
 Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=fashion-paid-social-agency)
 
