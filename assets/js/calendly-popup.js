@@ -439,16 +439,24 @@ document.addEventListener("keydown", function (e) {
   }
 });
 /* book_meeting fires once per page load, on production hosts only.
-   bl_last_cta is JSON. position is sent only when that JSON parses and
-   position is a non-empty string of 32 characters or fewer.
-   An empty string, a bad value, or a missing position sends unknown.
-   page_path is location.pathname.
-   cta_slot, link_mode, landing_page, first_referrer, and audience are added
-   only when that same JSON has a non-empty string for them.
+   bl_last_cta is JSON. cta_position prefers bl_last_cta.cta_position,
+   then bl_last_cta.position, when that value is a non-empty string of
+   32 characters or fewer. An empty string, a bad value, or a missing
+   value sends unknown. page_path is location.pathname. page_slug uses
+   the same slash-to-hyphen rule as site.js. cta_slot, link_mode,
+   landing_page, first_referrer, and audience are added only when that
+   same JSON has a non-empty string for them.
    Invitee fields from the Calendly message are never read or sent. */
+function blMeetingPageSlug(pathname) {
+  var path = String(pathname || "");
+  path = path.replace(/^\/+|\/+$/g, "").replace(/\//g, "-").toLowerCase();
+  path = path.replace(/[^a-z0-9-]/g, "");
+  if (path.length > 60) path = path.slice(0, 60);
+  return path || "home";
+}
 var bookMeetingSent = false;
 window.addEventListener("message", function (event) {
-  var data, position, stored, parsed, meeting, extraKeys, extraI, extraKey, extraVal;
+  var data, position, stored, parsed, meeting, extraKeys, extraI, extraKey, extraVal, slug;
   if (!beleadedHost()) return;
   if (!event || event.origin !== "https://calendly.com") return;
   data = event.data;
@@ -461,12 +469,19 @@ window.addEventListener("message", function (event) {
     stored = window.localStorage.getItem("bl_last_cta");
     if (stored) {
       parsed = JSON.parse(stored);
-      if (parsed && typeof parsed.position === "string" && parsed.position && parsed.position.length <= 32) position = parsed.position;
+      if (parsed && typeof parsed.cta_position === "string" && parsed.cta_position && parsed.cta_position.length <= 32) {
+        position = parsed.cta_position;
+      } else if (parsed && typeof parsed.position === "string" && parsed.position && parsed.position.length <= 32) {
+        position = parsed.position;
+      }
     }
   } catch (err) {
     parsed = null;
   }
-  meeting = { position: position, page_path: location.pathname };
+  meeting = { position: position, cta_position: position, page_path: location.pathname };
+  try { slug = blMeetingPageSlug(location.pathname); }
+  catch (errSlug) { slug = ""; }
+  if (slug) meeting.page_slug = slug;
   extraKeys = ["cta_slot", "link_mode", "landing_page", "first_referrer", "audience"];
   if (parsed) {
     for (extraI = 0; extraI < extraKeys.length; extraI++) {
