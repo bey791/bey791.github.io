@@ -2600,19 +2600,22 @@
   /* One delegated listener. The inline stub defines gtag() before this file runs
      and queues onto dataLayer, so a click before gtag.js loads still records.
      If a page has no stub, skip the gtag call instead of throwing.
-     cta_click takes position from utm_campaign on that link's href only.
-     It does not read location.search and does not send any page query param.
+     book_call_click, cta_click, and email_click send cta_position from
+     utm_campaign or data-cta, and page_slug from blPageContentSlug.
+     cta_click takes position from the same value, from utm_campaign on that
+     link's href only. It does not read location.search and does not send any
+     page query param. book_call_click also sends position with that value.
      The same click stores bl_last_cta for a later /booked/ page in another tab.
      The handler does not cancel the click. These links open in a new tab.
-     book_call_click also sends page_path. cta_location, position, and cta
-     stay the raw data-cta or utm_campaign from main. When a data-cta value
-     repeats, the numbered label (inline-1, inline-2) is added as cta_slot
-     on those events and as bl_last_cta.cta_slot. A unique slot omits cta_slot.
+     book_call_click also sends page_path. cta_location and cta stay the raw
+     data-cta from main. When a data-cta value repeats, the numbered label
+     (inline-1, inline-2) is added as cta_slot on those events and as
+     bl_last_cta.cta_slot. A unique slot omits cta_slot.
      book_call_click also sends link_mode. landing_page and first_referrer
      come from bl_ft when that record exists. audience is sent when
-     data-audience is set. bl_last_cta stores cta, link_mode, landing_page,
-     first_referrer, and audience the same way. position and page_path stay
-     as they are. */
+     data-audience is set. bl_last_cta stores cta, cta_position, page_slug,
+     link_mode, landing_page, first_referrer, and audience the same way.
+     position and page_path stay as they are. */
   function campaignOf(href) {
     var i = href.indexOf("?");
     if (i < 0) return "";
@@ -2626,6 +2629,24 @@
       catch (err) { return value; }
     }
     return "";
+  }
+  function blCtaPosition(anchor) {
+    var href, position, cta;
+    try {
+      if (!anchor) return "unknown";
+      href = (anchor.getAttribute && anchor.getAttribute("href")) || "";
+      position = campaignOf(href);
+      if (!position && anchor.href) position = campaignOf(anchor.href);
+      if (!position) {
+        cta = (anchor.getAttribute && anchor.getAttribute("data-cta")) || "";
+        if (cta) position = cta;
+      }
+      if (!position) return "unknown";
+      if (position.length > 32) return position.slice(0, 32);
+      return position;
+    } catch (err) {
+      return "unknown";
+    }
   }
   function blMailParamKey(pair) {
     var key = String(pair || "").split("=")[0];
@@ -3045,6 +3066,13 @@
     var cta = a.getAttribute("data-cta");
     var slot = "";
     var linkMode = "";
+    var position = blCtaPosition(a);
+    var pageSlug = "";
+    var pagePath = "";
+    try { pageSlug = blPageContentSlug(); }
+    catch (errSlug) { pageSlug = ""; }
+    try { pagePath = location.pathname; }
+    catch (errPath0) { pagePath = ""; }
     try {
       if (cta) slot = blCtaSlot(a) || "";
     } catch (errSlot) {}
@@ -3052,13 +3080,15 @@
     if (typeof gtag === "function") {
       var clickParams = {
         cta_location: cta || "unlabeled",
-        link_text: (a.textContent || "").trim().slice(0, 60)
+        link_text: (a.textContent || "").trim().slice(0, 60),
+        cta_position: position
       };
+      if (pageSlug) clickParams.page_slug = pageSlug;
       if (isCal) {
         var ftClick = null;
         var audience = "";
-        try { clickParams.page_path = location.pathname; }
-        catch (errPath) {}
+        if (pagePath) clickParams.page_path = pagePath;
+        clickParams.position = position;
         try { clickParams.link_url = a.href; }
         catch (errUrl) {}
         try {
@@ -3078,10 +3108,9 @@
       gtag("event", isCal ? "book_call_click" : "email_click", clickParams);
     }
     if (!isCal) return;
-    var position = campaignOf(a.href) || "unknown";
-    var pagePath = location.pathname;
     if (typeof gtag === "function") {
-      var fields = { position: position, page_path: pagePath };
+      var fields = { position: position, cta_position: position, page_path: pagePath };
+      if (pageSlug) fields.page_slug = pageSlug;
       if (cta) fields.cta = cta;
       if (slot) fields.cta_slot = slot;
       gtag("event", "cta_click", fields);
@@ -3089,11 +3118,13 @@
     try {
       var stored = {
         position: position,
+        cta_position: position,
         page_path: pagePath,
         ts: Date.now()
       };
       var ftStored = null;
       var audStored = "";
+      if (pageSlug) stored.page_slug = pageSlug;
       if (slot) stored.cta_slot = slot;
       if (cta) stored.cta = cta;
       stored.link_mode = linkMode;
@@ -3183,7 +3214,7 @@
     if (window.blCalendlyOpen) return fn && fn();
     if (!blS) {
       blS = document.createElement("script");
-      blS.src = "/assets/js/calendly-popup.js?v=20261021c";
+      blS.src = "/assets/js/calendly-popup.js?v=20261117a";
       blS.addEventListener("error", function () { blBad = 1; });
       document.head.appendChild(blS);
     }
