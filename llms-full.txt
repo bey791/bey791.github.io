@@ -1281,6 +1281,8 @@ Or email sales@beleaded.com
 
 URL: https://www.beleaded.com/meta-ads-for-distributors/
 
+Updated: 2026-11-13
+
 - Home (https://www.beleaded.com/)
 - Services (https://www.beleaded.com/services/)
 - Meta Ads for distributors
@@ -1289,7 +1291,7 @@ URL: https://www.beleaded.com/meta-ads-for-distributors/
 
 Be Leaded runs Meta Ads for distributors and wholesalers. Facebook and Instagram campaigns for dealer recruitment, B2B account acquisition and retargeting, with lead forms into your CRM and follow up by email, text or voice within minutes. Ads produce the inquiry. Follow up is what puts the meeting on the calendar.
 
-Meta Ads for distributors means the same Meta lead generation setup we run as a Meta and Google Ads (https://www.beleaded.com/paid-social-agency/) program, scoped to wholesale and distribution. Instant forms or a landing page, retargeting, and lookalikes drawn from your customer list, and a reply within minutes so the lead does not go cold. When Meta sits next to outbound and newsletters, use our demand generation (https://www.beleaded.com/demand-generation-agency/) program. Nonprofit teams raising donations on Facebook and Instagram can see how we plan fundraising campaigns around gifts and monthly giving (https://www.beleaded.com/nonprofit-paid-social-agency/).
+Meta Ads for distributors means the same Meta lead generation setup we run as a Meta and Google Ads (https://www.beleaded.com/paid-social-agency/) program, scoped to wholesale and distribution. Instant forms or a landing page, retargeting, and lookalikes drawn from your customer list, and a reply within minutes so the lead does not go cold. When Meta sits next to outbound and newsletters, use our demand generation (https://www.beleaded.com/demand-generation-agency/) program. Nonprofit teams raising donations on Facebook and Instagram can see how we plan fundraising campaigns around gifts and monthly giving (https://www.beleaded.com/nonprofit-paid-social-agency/). Personal injury firms can see how we plan Facebook ads for personal injury lawyers (https://www.beleaded.com/facebook-ads-for-personal-injury-lawyers/).
 
 Book a 30 minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=meta-ads-for-distributors)
 See what we run
@@ -1961,11 +1963,19 @@ URL: https://www.beleaded.com/m-and-a-deal-flow/
 
 # Off-market deal flow for M&A advisors and business brokers
 
-Be Leaded finds owners of privately held companies who may be open to a sale, a recapitalization or a valuation, and starts confidential conversations in your firm's name. You get meetings with owners who want to talk. We don't advise on transactions. Your team does.
+Sell-side mandate origination means finding owners who may sell and starting the first conversation before a formal process begins. Be Leaded runs it for M&A advisors and brokers: owner research to your mandate, notes sent as your firm and meetings with owners who asked to talk.
+
+## What sell-side mandate origination means
+
+Sell-side mandate origination is the work that happens before an engagement letter exists. Someone defines the owners a firm wants to represent, finds them and starts a conversation while the owner is still asking whether to sell at all. The aim is a mandate that grows out of a relationship instead of a bidding round.
+
+Marketing a listing begins after an owner has said yes. Origination begins earlier, with an owner who has said nothing yet.
+
+We research owners to your mandate, write and send confidential notes in your firm's name, screen the replies and book meetings with owners who asked to talk. Valuation, engagement terms and the transaction stay with your advisors.
 
 ## The best deals are rarely listed.
 
-Many owners of solid businesses never put them on the market (https://www.beleaded.com/guides/how-business-brokers-get-leads/). When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you. The broker and advisor page for the same program is lead generation for business brokers and M&A advisors: https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/
+Many owners of solid businesses never put them on the market (https://www.beleaded.com/guides/how-business-brokers-get-leads/). When they do sell, it's often to the advisor or buyer who reached them first and treated the conversation with care. That's the conversation we start for you. The broker and advisor page for the same program is lead generation for business brokers and M&A advisors (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/).
 
 ### The list
 
@@ -1984,6 +1994,12 @@ A short, respectful note from a real person at your firm, with something true ab
 Every reply lands on an advisor's desk, including the curious, the unqualified and the angry.
 
 We screen replies for intent and book meetings only with owners who asked for one and fit your mandate.
+
+## The mandate profile everything starts from
+
+Every origination program is only as sharp as the profile behind it. The profile is a short page that says which owners are worth a conversation and which are not. Start with the sectors your firm can value and sell with confidence, and a revenue band that fits how your firm is paid. Name the sectors you would turn down as well as the ones you want. List the states or metros you cover and the ownership you want. Founder-owned and family-owned companies are the usual starting point.
+
+A succession sale, a partner buyout, a recapitalization and a carve-out are four different engagements. Say which ones your firm takes. The profile is what the research is checked against, and it is what each reply is judged against when we decide whether to book a meeting.
 
 ## What we deliver
 
@@ -2011,7 +2027,27 @@ Valuation calls and introductions with owners who asked for them, booked directl
 
 ### Confidential by default
 
-No listings, no public owner names, and no mention of a client or buyer unless you approve it.
+No listings, no public owner names and no mention of a client or buyer unless you approve it.
+
+## Seller timing signals
+
+A timing signal is a public reason to think a conversation could be welcome now. It is a reason to look closer. It is not proof that an owner wants to sell. Two public signals matter most for sell-side mandates: no succession plan, and an owner near retirement. A private equity owner near the end of its hold is a different case, and only belongs in a program when the mandate says sponsor-owned companies are in scope.
+
+### No succession plan
+
+An owner has run the company for decades and nobody on the team page, in the press or on a public profile is set to take over. That gap gives an owner a natural reason to think about what comes next.
+
+### Owner near retirement
+
+We use an owner's age only where a public bio, an interview or a filing states it. We do not guess from a photograph. Other public signs point the same direction: a long tenure, a first general manager hired to take the owner off the floor, a partner who has retired.
+
+## A private equity owner near the end of its hold
+
+Sponsor-owned companies are a different seller. A fund often buys, builds and later plans an exit, and the sponsor's own portfolio page may show the acquisition date. This is general background, not a default Be Leaded timing signal, and we do not monitor hold periods as a standard step. Founder-owned and family-owned companies are what a program covers unless the mandate says otherwise. If your mandate includes sponsor-owned companies, say so at the start. In that case a conversation, if one happens, is usually with the sponsor's deal team rather than a founder.
+
+## Where owner information comes from
+
+An owner list is only useful if the owners on it are real, reachable and still in charge. Ownership is cross-checked against a state filing, the business's website or press coverage, and the person we list has to still look like the one in charge. Each email address is verified before outreach, and any record that fails a check is dropped before a note is written.
 
 How we approach owners
 
@@ -2023,6 +2059,34 @@ Owners of good businesses are approached constantly. The ones who reply are answ
 - Curiosity about the business, with no claim that a buyer is waiting
 - An offer of a confidential valuation or a short conversation
 - Easy to decline, and opt-outs honored right away
+
+## Reaching owners before a formal process begins
+
+Once a formal process begins, the conversation usually belongs to that process. The window for a first conversation is the stretch before that, while the owner is still asking what the business is worth and what the options look like.
+
+### Why the first conversation shapes the rest
+
+A form that arrives through a website often introduces you after the owner has already spoken with another firm. A note that arrives earlier is the conversation that comes first, and the first conversation tends to set how an owner thinks about value and about who should run a sale.
+
+### What an owner has not decided yet
+
+An owner at this stage usually has not picked a banker, a price or even a decision. The note respects that. It offers a private read on what the business may be worth, or on the options open to the owner. It says nothing about a buyer who does not exist and it makes declining easy.
+
+## Email, LinkedIn and why the call comes later
+
+The first touch is a written note, not a cold call. Owners of good businesses are approached constantly, and a short note that shows someone read about their company is easier to answer than a phone call from a stranger.
+
+Notes go out by email from separate sending domains tied to your firm, so the main domain your clients use is kept clear of cold volume. The wording is yours, and each message waits for your approval before it sends. For the technical side, see the page on cold email deliverability (https://www.beleaded.com/cold-email-deliverability/).
+
+For owners who are active on LinkedIn, a note from an advisor's own profile sits beside the email.
+
+A phone call makes sense once an owner has replied and asked to talk. Before that, a call is an interruption. The meeting that lands on your calendar is the one the owner asked for.
+
+## Qualifying an owner on readiness, size, timing and value
+
+A reply is not a meeting. Before a thread reaches your calendar, a person reads it and sorts it against the written mandate. A warm reply from a company below your floor is still below your floor. Revenue band and ownership are checked against the mandate before a meeting is booked.
+
+Some owners want to talk this quarter and some want to talk in a year or two. Both are useful. The first goes to your calendar and the second goes onto the long-cycle path described further down. Replies tend to fall into four groups. The curious get a short answer. The not-now owners go onto the follow-up path. The angry are suppressed and the serious are booked.
 
 ## Who we work with
 
@@ -2044,6 +2108,22 @@ Buy-side
 
 Independent sponsors, search funds, family offices and platform companies looking for add-on acquisitions.
 
+## Long-cycle nurture for owners who are not ready yet
+
+Many owners who reply are not ready. They are a year or three from a decision, and the firm they remember when it comes is often the one that kept a light and respectful contact going. Nurture is how an origination program treats that group as a pipeline instead of a closed file.
+
+### A follow-up in six months for not-now owners
+
+A not-now reply is logged for a follow-up in six months, so the owner is neither dropped nor chased. Owners come back months later.
+
+### A quarterly note in between
+
+Between follow-ups, owners who said not now can receive a quarterly note. It keeps your firm's name in front of an owner without a pitch.
+
+## Where referral partners fit
+
+Accountants, estate attorneys, commercial bankers and wealth advisors are often the first to hear that an owner is weighing what to do next, well before any listing exists. Those introductions are useful, and they come when they come. This page is about owner outreach. A partner list is something to discuss on the mandate call, not a packaged track we run as standard.
+
 ## How it works
 
 From your mandate to owner conversations in about three weeks.
@@ -2052,6 +2132,48 @@ From your mandate to owner conversations in about three weeks.
 - Days 2 to 14 Build Owner research, verification, sending domains, warmup and the first sequences for your approval.
 - Week 3 Outreach Email and LinkedIn go live at a careful pace. Replies are screened and meetings booked.
 - Every week Report Owners contacted, replies, meetings and the conversations in progress.
+## What to bring to the mandate call
+
+The first step is a call about your mandate. It covers sectors, geography, size range, deal types and what a qualified owner conversation means to your firm. Bring the written profile if you have one, and a rough one if you do not.
+
+- The sectors you want and the ones you would turn down
+- Geography, size range and the ownership you are after
+- The deal types your firm takes and the ones it passes on
+- What a qualified owner conversation means to your firm
+- Who approves the notes and which advisor should take which reply
+
+## What to ask about list sharing and who the owner meets
+
+Two questions are worth asking at the start. Will an owner I reach also hear from another firm, and who does that owner meet?
+
+### Is the owner shared with another firm
+
+Ask whether a list is built for your firm and mandate or sold to several clients. A shared or resold owner introduction is a different product, and the owner may hear from your competitor in the same week. We build each list for one firm and its mandate. An owner's name, email address and reply thread remain within your engagement and are not reused for any other firm.
+
+A provider that works for competing firms in one sector owes you a straight answer about how it keeps the lists apart. Ask for that answer in writing before you start. Exclusivity is a term to agree. It is not something to assume.
+
+## Who the owner is told will call
+
+Named-partner routing, as buyers use the term, means a note names a partner at your firm and an owner who replies meets that partner. Ask any provider whether the note names a partner, whose voice it is written in and where a reply goes. Our notes are written in your voice and sent from sending domains tied to your brand. You approve every message, and meetings are booked directly with your advisors.
+
+If two partners cover different sectors, say so at the start so a reply goes to the right desk. When an owner asks to talk, the serious reply is booked with the right person at your firm, with what the owner said attached.
+
+## Doing origination in house or with a provider
+
+Both routes work. The choice usually comes down to who has the hours. In house origination keeps every relationship inside the firm. The cost is time, because the people who would write notes and read replies are the same people running live deals. A provider takes on the research, the sending setup and the reply screening. The firm still approves the notes and takes the meetings.
+
+## Questions to ask before you sign
+
+- Who writes the notes and who approves them?
+- Which domains send them?
+- Is the owner list shared with any other client?
+- Who reads a reply before it reaches an advisor?
+- Who owns the list and the threads if we stop?
+- What does the weekly report show?
+
+## What origination cannot do
+
+Origination opens conversations. It does not make an owner decide to sell, and it does not replace the advisor's judgment once a conversation starts. We do not claim a buyer exists when one does not.
 
 Clear lines
 
@@ -2068,6 +2190,38 @@ Our job ends when an owner is on your calendar. Everything after that belongs to
 
 Ask anything else on the call.
 
+**What is sell-side mandate origination?**
+
+Sell-side mandate origination is the work of finding owners who may sell and starting the first conversation with them before a formal process begins. For an M&A advisor or business broker it means a written mandate, a researched owner list, notes sent as the firm and meetings with owners who asked to talk.
+
+**How do you reach an owner before a formal process begins?**
+
+We write to the owner directly, in your firm's name, with a short confidential note about their own business. The note offers a private read on value or on the owner's options and says nothing about a buyer who does not exist. Owners who reply are screened by a person before anything reaches your advisors.
+
+**What signals show an owner may be ready to sell?**
+
+Long tenure, a company with nobody named to take over, a newly hired first general manager, a second site or an owner whose age a public source states. None of them proves an owner wants to sell. Each one is a reason to look closer, and a person reviews it before a note is written.
+
+**Does a private equity owner near the end of its hold count?**
+
+It can, when your mandate says sponsor-owned companies are in scope. That is not a default timing signal. Founder-owned and family-owned companies are what a program covers unless the mandate says otherwise. If sponsor-owned companies are in scope, the sponsor's own portfolio page may show the acquisition date, and a conversation would usually be with the sponsor's deal team rather than a founder.
+
+**What happens to owners who are not ready?**
+
+A not-now reply is logged for a follow-up in six months, and the owner can receive a quarterly note in between. Owners who are 12 to 36 months from a decision stay in the pipeline this way instead of being dropped.
+
+**Will another firm get the same owners?**
+
+We build each list for one firm and its mandate, and owner data remains within your engagement. Ask any provider in writing how it keeps lists apart when two firms want the same sector.
+
+**Who does the owner meet?**
+
+Meetings go straight onto your advisors' calendars. Each note is drafted in your voice and waits for your approval before it sends, and a serious reply is booked with the right person at your firm.
+
+**Do you call owners?**
+
+The first touch is a written note by email or LinkedIn. A phone call belongs after an owner has replied and asked to talk.
+
 **What is off-market deal sourcing?**
 
 Off-market deal sourcing means finding companies that aren't listed for sale and reaching their owners directly. Many privately held businesses are never formally marketed, so an advisor or buyer who starts the conversation early can talk to the owner before a formal process begins.
@@ -2082,7 +2236,7 @@ Yes. We set up sending domains tied to your brand and write in your voice. You a
 
 **Is the outreach confidential?**
 
-Yes. We never name a client or a buyer without your approval, we never publish owner names, and owner data stays private to your engagement.
+Yes. We never name a client or a buyer without your approval and we never publish owner names. Owner data stays private to your engagement.
 
 **Which industries do you cover?**
 
@@ -2092,15 +2246,37 @@ Any industry with privately held companies in your size range. Common mandates i
 
 Yes. Independent sponsors, search funds, family offices and platform companies use the same process to source add-on acquisitions directly from owners.
 
+**Who owns the owner list and the replies?**
+
+You do. The list and every reply belong to your firm, and the owner relationship stays at your firm after the introduction.
+
+**What should we bring to the first call?**
+
+Your mandate, even if it is rough: sectors, geography, size range, ownership and the deal types you take or pass on. Also bring the name of whoever approves the notes.
+
 **What does it cost?**
 
-Programs start from $2,000 a month. The exact number depends on the size of your mandate and the channels we run, and you'll have it after a 30-minute call.
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. The exact number depends on the size of your mandate and the channels we run, and you'll have it after a 30-minute call.
 
 ## Related
 
-How business brokers find buyers (https://www.beleaded.com/guides/how-business-brokers-find-buyers/). When the company is already a listing, this covers the buyer file, the blind note, and the checks a broker runs before a memorandum goes out.
-Owners who might sell (https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/). The research side of a mandate: spotting owners before a company is ever listed.
-M&A advisors and business brokers (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/). The seller program for advisors, with buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) as an optional second track.
+### How business brokers find buyers
+
+When the company is already a listing, this covers the buyer file, the blind note and the checks a broker runs before a memorandum goes out.
+
+Read the guide (https://www.beleaded.com/guides/how-business-brokers-find-buyers/)
+
+### Owners who might sell
+
+The research side of a mandate: spotting owners before a company is ever listed.
+
+Read the post (https://www.beleaded.com/blog/how-to-find-business-owners-who-want-to-sell/)
+
+### M&A advisors and business brokers
+
+The seller program for advisors, with buyer outreach (https://www.beleaded.com/m-and-a-buyer-outreach/) as an optional second track.
+
+See the page (https://www.beleaded.com/industries/m-and-a-advisors-business-brokers/)
 
 ### Deal sourcing firms for advisors
 
@@ -2115,6 +2291,142 @@ Thirty minutes with the founder. You'll leave with a clear picture of your marke
 Or email sales@beleaded.com
 
 Need sellers? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=m-and-a-deal-flow)
+
+---
+
+# Search Fund Deal Sourcing: Owner Outreach | Be Leaded
+URL: https://www.beleaded.com/search-fund-deal-sourcing/
+Updated: 2026-11-16
+
+Owner outreach for search fund deal sourcing
+
+Owner outreach for searchers: a mandate you set, notes sent in your name and meetings with owners who ask to talk. We do not advise on the deal.
+
+Search fund deal sourcing, on this page, means reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. This guide explains that motion from a searcher's point of view. It is not a new service, a case history or a promise of a set number of conversations.
+
+## What this page is
+Searchers often want conversations with owners who have not put a company on the market. The work that gets those conversations started already exists on /m-and-a-deal-flow/. That writeup is the source of truth for the offer. This page does not replace it, and it does not announce a product only for search funds.
+
+The work described here is the published owner outreach program, read from a searcher's side. It is not a marketplace of listed deals, and it is not a promise that a deal will close. Be Leaded already publishes that program for advisors, brokers and buy-side readers, including searchers. It is built around a mandate you approve, a researched list of matching owners, mail and LinkedIn sent under your name and a meeting booked only when an owner asks for one and fits the mandate. After a meeting is set, your search handles valuation, diligence and any offer. We do not advise on those steps.
+
+## Why searchers look for help with sourcing
+A search still has to cover a wide set of owners, keep raising or stewarding capital and sit in every conversation that matters. Proprietary outreach takes time to research, write and follow. The published program can carry the research, the sending and the booking, so the searcher can stay on the mandate and on the calls that get set.
+
+## Proprietary conversations and brokered processes
+Many searches already review deals that come through brokers or other intermediaries. Treat the two as parallel tracks, not as one mixed queue. The published motion is the direct-to-owner track. It does not replace broker coverage, and it is not a Be Leaded software product for search funds. Software and research help can organize a file. They do not replace the owner conversation.
+
+## How a searcher builds and scores a target universe
+The searcher still owns the buy box that the list is built against. Building the universe means turning that mandate into companies and owners worth reaching. Scoring, on this page, only means putting some owners earlier in the queue when a signal you approved suggests a possible window. Those signals are not evidence that a sale is underway. We do not publish a scoring formula, a typical universe size or a hit rate for letters.
+
+## A weekly pipeline loop
+Sourcing holds up when the same few steps repeat every week: refresh names that still fit, decide who is next, send and follow up, read replies and record what happened. On the published program, a weekly note is the visible form of that loop. It is a working rhythm, not a quota and not a promise of a deal in a set window.
+
+## Building the work yourself or using the published program
+Some searchers run outreach from their own domains and write every note themselves. The published program is for a search that wants the list built, the sending set up under the searcher's name and the booking handled, while the searcher still approves copy and takes every owner call. That is a capacity decision, not a claim that one path closes more deals.
+
+## What the published offer covers
+The program is scoped to everything between a mandate you set and a first conversation with an owner. Lists are researched against the sector, geography, size and ownership rules you approve. Mail and LinkedIn go out under your name after you sign off. A meeting is booked only when an owner asks for one and matches the brief. There are no public listings and no published owner names. Phone outreach is not in the default published scope.
+
+## Where our work stops
+Once the meeting is on the calendar, our work on that owner is done. We do not value the company, draft an IOI or LOI, negotiate terms, advise on financing or diligence, list the business, share the owner's name in public, claim that a buyer is waiting or write again after an opt-out. The lists and replies are yours.
+
+## What traditional and self-funded search mean for sourcing
+Traditional search and self-funded search are two ways a searcher can fund the period spent looking for a company. They are not two different services, and this page does not treat one model as stronger than the other. What changes is how much time, help and list width a search can usually sustain while the searcher still has to sit in every conversation that matters.
+
+In a traditional search, outside investors typically back the searcher during the search itself. That backing can make it easier to keep a wider set of matching owners in motion, because the weekly work of research, sending and follow-up does not have to be paid for only from the searcher's own cash. Cadence can stay steadier too, because the searcher is often expected to keep a regular file moving and to report on it. A wider list still has to match the buy box. Backing is not a reason to write to companies that fall outside the mandate, and it is not a reason to promise a set number of conversations.
+
+In a self-funded search, the searcher is usually paying for the search with personal capital, with later investors at the time of a purchase or with both. Hours and cash are more tightly held. Many self-funded searchers therefore keep the list closer to a narrower slice of the buy box, or they stretch the gap between rounds of notes so the work stays manageable beside the rest of the search. That is a practical choice about capacity, not a claim that a tighter list produces a better company.
+
+Either model still needs the same core: a clear buy box the searcher owns, notes sent in the searcher's name and a meeting only when an owner wants one. The published program can carry research, sending and booking for both kinds of searcher, including an individual searcher, a search fund investor backing a search and a self-funded searcher. It does not change how the search is financed, and it does not advise the searcher on which funding model to use. After the first meeting, valuation, diligence and any offer stay with the search, whatever the funding model was.
+
+## What a first note to an owner usually contains
+The first note is a short written introduction, not a bid and not a request for a data room. It goes out under the searcher's name, in the searcher's voice, after the searcher has approved the wording. Mail and LinkedIn are the channels on the published program. The aim is a yes to a conversation, not a yes to a sale.
+
+A useful first note usually does four plain things.
+
+It says who the searcher is. The owner should be able to tell that a named person is running a search and wants to buy and operate a company, not that a vague firm is fishing for deal flow. A sentence on the searcher's background, in the searcher's own words, is enough. It should not pretend a backer is already committed to this company, and it should not hide that this is an approach about a possible purchase.
+
+It says why this company. The reason has to be specific and true: a product line the searcher actually knows, a geography the searcher will cover or a way of operating that matches the buy box. Generic praise is easy to ignore and easy to distrust. If the searcher cannot say something honest about this business, the name should not be in the queue yet.
+
+It shows care for the team and the name. Owners who built a company want to know that a buyer would treat the people and the reputation with respect. The note can say that plainly. It should not claim a plan for the staff that the searcher has not thought through, and it should not treat the company as a set of assets to be turned over quickly. Care is a stance, not a promise about future roles.
+
+It offers a small next step. The usual ask is a short call or a meeting to learn more, with an easy way to decline. The note should not demand financials, a tour or a decision. A small step is easier to accept, and it keeps the first contact in line with where the work on this page stops: a conversation, not a negotiation.
+
+We do not publish a reply rate, a conversion figure or a stock first letter that claims a set result. Copy is written for the mandate and approved by the searcher before it is sent. If an owner says not to write again, that file is closed.
+
+## How a searcher turns a buy box into a list
+Building a list is the practical work of turning a mandate into named companies and named owners. The earlier section on the target universe covers the rules and the scoring idea. This section covers the sources a searcher, or the published program working from the searcher's rules, can actually use. None of these sources replaces the buy box. A source is only useful if the company still fits sector, geography, size and ownership, and if the searcher has not already excluded it.
+
+Industry codes are a starting filter, not a finished list. Official or widely used classification codes can pull companies that sit in the sectors the searcher has already named. Codes are blunt. A firm can be coded too broadly, too narrowly or under a legacy label that no longer describes the work. The code gets you a first cut. A person still has to read what the company actually does and drop the mismatches.
+
+Trade associations and professional groups often publish member directories, award lists or supplier lists in the same sectors. Those lists can surface independently owned firms that a code search misses, especially when the association is local or tightly specialized. Membership is not a sign that an owner wants to sell. It is only a lead to a company that may fit the mandate. The searcher should use directories the way a researcher would: as a source of names to check, not as a rented audience.
+
+Conference programs, speaker lists and exhibitor lists work the same way. A company that presents or exhibits in a sector the searcher already cares about is a candidate for a closer look. Attendance or a speaking slot is not a timing signal and not permission to write. It is a way to find a real operating company and, later, a named owner.
+
+Public records fill in ownership and location. State registrations, licensing boards, professional filings and other official records can show who is listed as a principal, where the company is registered and whether it still appears to be active. Records go stale. They have to be checked against a current site or another recent source before a note is written. Public records are not a license to publish an owner's name, and they are not a substitute for the searcher's exclusions.
+
+Once a company looks like a fit, the work is to attach a current owner or principal, confirm the geography is one the searcher will actually cover and set the name aside if there is a conflict, a known process or a clear mismatch. You still approve the rules before research starts, and you can reject names that do not belong. We do not review vendors here, and we do not publish a typical list size or a rate at which these methods produce meetings.
+
+## Why the top of the funnel has to be wide
+A search needs conversations with owners who match the mandate and who want to talk. Most owners who receive a note will not want to talk, at least not now. Some are a poor fit once you look more closely. Some are already in a process and should not be approached on the direct track. Some never reply. If the starting set is only a handful of familiar names, the file can go quiet before the searcher has had enough real conversations to learn from, let alone enough owners who are open to a sale.
+
+That is why the top of the funnel has to be wide enough to cover the buy box, not merely the companies the searcher already knows. Width here means a full pass across the companies that fit the mandate, refreshed as new names appear and as old ones fall out. It does not mean writing to every company in a sector, and it does not mean dropping the exclusions. A wide top still has to be a clean top: matching owners only, no public lists of targets and no notes to people who have asked to be left alone.
+
+A thin list also puts too much weight on each name. When only a few owners are in the file, a single no, a single opt-out or a single process already in motion can stall the week's work. A wider file lets the searcher keep the weekly loop moving: refresh, queue, send, follow up and record, without treating any one reply as the whole search.
+
+Width is not a substitute for a sharp buy box. If the mandate is vague, a wide list is only a wide pile. The searcher still has to say which sectors, geographies, sizes and ownership types belong, and which do not. The published program can help build and work a list of that width. It does not promise that a wide file will produce a deal, and it does not publish a figure for how many companies a search should touch.
+
+## Referrals and professional networks as a third channel
+Proprietary outreach and brokered processes are the two tracks already described on this page. There is a third way names reach a searcher: an introduction from someone the owner already trusts. Accountants, lawyers and other advisors often know owners in the same sectors and towns the searcher wants to cover. A warm introduction is not a substitute for a buy box, and it is not a listed process. It is a conversation that starts with a person the owner already knows.
+
+This channel is educational here, not a product. Be Leaded does not run a referral network, does not sell introductions and does not claim to operate a partner program for searchers. If a searcher already has accountants, lawyers or advisors who are willing to make an introduction, those introductions can sit beside the direct track and the brokered track. The published program is still the direct-to-owner work: a researched list, notes in the searcher's name and a meeting when an owner asks for one.
+
+An introduction still has to be checked against the mandate. A respected advisor can send a company that is the wrong size, the wrong sector or already in a process. The searcher should apply the same rules used on the direct list: does it fit, is there a conflict and is this a conversation the searcher actually wants? The first meeting, if it happens, is still the searcher's to take. Diligence and any offer stay with the search.
+
+Keep the three channels in separate files, the same way proprietary notes and brokered teasers should not be mixed. An introduction is not a reason to send a cold note as if the owner had never been reached, and it is not a reason to treat the advisor as a broker running a sale. Thank the person who made the introduction, record how the name arrived and proceed only if the owner wants to talk.
+
+Some searchers invest time in these relationships because a single trusted introduction can open a door that a letter may not. That work belongs to the searcher. It is not scoped into the published offer, and we do not measure or promise results from it.
+
+## Questions searchers ask
+
+Q: What does search fund deal sourcing mean on this page?
+A: It means reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. The work described here is the published owner outreach program, read from a searcher's side, not a marketplace of listed deals and not a promise that a deal will close.
+
+Q: Is this a separate search fund product?
+A: No. The published deal flow page already lists search funds among the buy-side readers the motion can serve. This URL does not create a second program, a separate track or a record of completed acquisitions. If you want the full writeup of the current offer, read the off-market deal flow page.
+
+Q: What does Be Leaded actually do for a searcher?
+A: You define the mandate. We research and check a list of owners against it, set up sending under your name and write copy you approve before anything goes out. Mail and LinkedIn are the channels in the published program. Replies are reviewed, and a meeting is placed on your calendar only when an owner asks for one and matches the brief.
+
+Q: What does Be Leaded not do?
+A: We do not value businesses, structure terms or advise on a transaction. We do not list companies or publish owner names. We do not invent a waiting buyer, and we do not write again to an owner who has asked to be left alone. The search keeps every step after the first meeting is booked.
+
+Q: In whose name does the outreach go out?
+A: Under your name. Sending is set up to sit with your brand, the notes are written in your voice and you approve every message before it is sent. Meetings are booked directly onto your calendar.
+
+Q: Can the work be stopped after a month?
+A: Yes. That term is on the month to month lead generation writeup: No 3-month commitment, pay month by month. You can cancel at the end of any month. The lists and replies are yours.
+
+Q: Do you replace brokered deal flow?
+A: No. Brokered processes can continue as they are. The work on this page is a direct approach to owners who have not listed the business. The two should not be mixed in the same file.
+
+Q: Can a searcher run this outreach themselves?
+A: Yes. Some searches keep the writing and the sending in house. The published program is an option when you want research, setup and booking handled, with every message still going out under your name after you approve it.
+
+Q: How is the list of owners built?
+A: From the mandate you set: sector, geography, size range, ownership rules and exclusions. We turn that brief into companies and owners who appear to fit, and you can reject names that do not belong. Scoring, here, only means putting some owners earlier in the queue when a signal you approved suggests a possible window. It is not a model that predicts a close.
+
+Q: What does the weekly note include?
+A: It shows the week's file on the direct track: outreach sent, replies received and conversations requested. It is a working rhythm, not a quota. We do not commit to a number of new names or meetings in any given week.
+
+## Related reading
+- /m-and-a-deal-flow/
+- /guides/best-m-and-a-deal-sourcing-firms/
+- /month-to-month-lead-generation/
+- /industries/m-and-a-advisors-business-brokers/
+- /services/
+
+Book a 30-minute call: https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=search-fund-deal-sourcing
 
 ---
 
@@ -2901,7 +3213,7 @@ One hiring manager on Reddit (https://www.reddit.com/r/RecruitmentAgencies/comme
 
 A recruiter on Reddit pointed at ads that had been reposted 30 plus days after they first went up, and read the repost as a sign the internal team had not filled the seat. The same note said to offer two candidate profiles for review instead of pitching the agency (https://www.reddit.com/r/RecruitmentAgencies/comments/1vts5rv/how_i_stopped_wasting_hours_on_cold_bd_and/).
 
-The program under this page is appointment setting (https://www.beleaded.com/appointment-setting/) for staffing and recruiting firms. We build the signal list, write to the manager who owns the role, and place the call on your recruiter's calendar. Firms that want a rep booking calls with hiring managers every day can use our outsourced sales development reps (https://www.beleaded.com/outsourced-sdr-team/).
+The program under this page is appointment setting (https://www.beleaded.com/appointment-setting/) for staffing and recruiting firms. We build the signal list, write to the manager who owns the role, and place the call on your recruiter's calendar. If you are already comparing large appointment-setting vendors, start with our comparison that includes Callbox (https://www.beleaded.com/guides/callbox-alternatives/). Firms that want a rep booking calls with hiring managers every day can use our outsourced sales development reps (https://www.beleaded.com/outsourced-sdr-team/).
 
 What gets a note ignored
 
@@ -14204,7 +14516,7 @@ Best if buying another sequencer will not fix the real bottleneck.
 
 Programs start from $2,000 a month.
 
-Email and LinkedIn. Calling is quoted separately.
+Email and LinkedIn. Calling is quoted separately. If you are comparing calling-led firms, start with our writeup of Callbox and similar appointment-setting companies (https://www.beleaded.com/guides/callbox-alternatives/).
 
 No 3-month commitment, pay month by month.
 
@@ -15994,7 +16306,7 @@ Be Leaded runs the program month to month. No 3-month commitment, pay month by m
 
 ## What you get
 
-Cold email, LinkedIn outreach and appointment setting with booking on your calendar. Email and LinkedIn. Calling is quoted separately.
+Cold email, LinkedIn outreach and appointment setting with booking on your calendar. Email and LinkedIn. Calling is quoted separately. Buyers weighing a calling vendor can read our side-by-side of Callbox and other appointment-setting firms (https://www.beleaded.com/guides/callbox-alternatives/).
 
 - Month to month. No 3-month commitment, pay month by month. Cancel anytime.
 - No 45-day ramp story. Most programs go live in about three weeks. List build, sending domains, warmup and approved copy come first, then outreach.
