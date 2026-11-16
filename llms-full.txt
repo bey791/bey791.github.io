@@ -2502,7 +2502,7 @@ Searchers with a thesis and a timeline. We match thesis to listing before a note
 
 Funds and platform companies hunting for add on deals that fit the size and sector of the listing.
 
-Independent sponsors and family offices appear in our buyer education guide. They are not the targets of this outreach track. The working steps sit in how business brokers find buyers (https://www.beleaded.com/guides/how-business-brokers-find-buyers/).
+Independent sponsors and family offices appear in our buyer education guide. They are not the targets of this outreach track. Separately, Be Leaded runs buy-side deal sourcing that finds acquisition targets for independent sponsors and PE firms. The working steps sit in how business brokers find buyers (https://www.beleaded.com/guides/how-business-brokers-find-buyers/).
 
 ## The buy box every note is checked against
 
