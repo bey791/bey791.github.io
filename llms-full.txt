@@ -2330,6 +2330,63 @@ The program is scoped to everything between a mandate you set and a first conver
 ## Where our work stops
 Once the meeting is on the calendar, our work on that owner is done. We do not value the company, draft an IOI or LOI, negotiate terms, advise on financing or diligence, list the business, share the owner's name in public, claim that a buyer is waiting or write again after an opt-out. The lists and replies are yours.
 
+## What traditional and self-funded search mean for sourcing
+Traditional search and self-funded search are two ways a searcher can fund the period spent looking for a company. They are not two different services, and this page does not treat one model as stronger than the other. What changes is how much time, help and list width a search can usually sustain while the searcher still has to sit in every conversation that matters.
+
+In a traditional search, outside investors typically back the searcher during the search itself. That backing can make it easier to keep a wider set of matching owners in motion, because the weekly work of research, sending and follow-up does not have to be paid for only from the searcher's own cash. Cadence can stay steadier too, because the searcher is often expected to keep a regular file moving and to report on it. A wider list still has to match the buy box. Backing is not a reason to write to companies that fall outside the mandate, and it is not a reason to promise a set number of conversations.
+
+In a self-funded search, the searcher is usually paying for the search with personal capital, with later investors at the time of a purchase or with both. Hours and cash are more tightly held. Many self-funded searchers therefore keep the list closer to a narrower slice of the buy box, or they stretch the gap between rounds of notes so the work stays manageable beside the rest of the search. That is a practical choice about capacity, not a claim that a tighter list produces a better company.
+
+Either model still needs the same core: a clear buy box the searcher owns, notes sent in the searcher's name and a meeting only when an owner wants one. The published program can carry research, sending and booking for both kinds of searcher, including an individual searcher, a search fund investor backing a search and a self-funded searcher. It does not change how the search is financed, and it does not advise the searcher on which funding model to use. After the first meeting, valuation, diligence and any offer stay with the search, whatever the funding model was.
+
+## What a first note to an owner usually contains
+The first note is a short written introduction, not a bid and not a request for a data room. It goes out under the searcher's name, in the searcher's voice, after the searcher has approved the wording. Mail and LinkedIn are the channels on the published program. The aim is a yes to a conversation, not a yes to a sale.
+
+A useful first note usually does four plain things.
+
+It says who the searcher is. The owner should be able to tell that a named person is running a search and wants to buy and operate a company, not that a vague firm is fishing for deal flow. A sentence on the searcher's background, in the searcher's own words, is enough. It should not pretend a backer is already committed to this company, and it should not hide that this is an approach about a possible purchase.
+
+It says why this company. The reason has to be specific and true: a product line the searcher actually knows, a geography the searcher will cover or a way of operating that matches the buy box. Generic praise is easy to ignore and easy to distrust. If the searcher cannot say something honest about this business, the name should not be in the queue yet.
+
+It shows care for the team and the name. Owners who built a company want to know that a buyer would treat the people and the reputation with respect. The note can say that plainly. It should not claim a plan for the staff that the searcher has not thought through, and it should not treat the company as a set of assets to be turned over quickly. Care is a stance, not a promise about future roles.
+
+It offers a small next step. The usual ask is a short call or a meeting to learn more, with an easy way to decline. The note should not demand financials, a tour or a decision. A small step is easier to accept, and it keeps the first contact in line with where the work on this page stops: a conversation, not a negotiation.
+
+We do not publish a reply rate, a conversion figure or a stock first letter that claims a set result. Copy is written for the mandate and approved by the searcher before it is sent. If an owner says not to write again, that file is closed.
+
+## How a searcher turns a buy box into a list
+Building a list is the practical work of turning a mandate into named companies and named owners. The earlier section on the target universe covers the rules and the scoring idea. This section covers the sources a searcher, or the published program working from the searcher's rules, can actually use. None of these sources replaces the buy box. A source is only useful if the company still fits sector, geography, size and ownership, and if the searcher has not already excluded it.
+
+Industry codes are a starting filter, not a finished list. Official or widely used classification codes can pull companies that sit in the sectors the searcher has already named. Codes are blunt. A firm can be coded too broadly, too narrowly or under a legacy label that no longer describes the work. The code gets you a first cut. A person still has to read what the company actually does and drop the mismatches.
+
+Trade associations and professional groups often publish member directories, award lists or supplier lists in the same sectors. Those lists can surface independently owned firms that a code search misses, especially when the association is local or tightly specialized. Membership is not a sign that an owner wants to sell. It is only a lead to a company that may fit the mandate. The searcher should use directories the way a researcher would: as a source of names to check, not as a rented audience.
+
+Conference programs, speaker lists and exhibitor lists work the same way. A company that presents or exhibits in a sector the searcher already cares about is a candidate for a closer look. Attendance or a speaking slot is not a timing signal and not permission to write. It is a way to find a real operating company and, later, a named owner.
+
+Public records fill in ownership and location. State registrations, licensing boards, professional filings and other official records can show who is listed as a principal, where the company is registered and whether it still appears to be active. Records go stale. They have to be checked against a current site or another recent source before a note is written. Public records are not a license to publish an owner's name, and they are not a substitute for the searcher's exclusions.
+
+Once a company looks like a fit, the work is to attach a current owner or principal, confirm the geography is one the searcher will actually cover and set the name aside if there is a conflict, a known process or a clear mismatch. You still approve the rules before research starts, and you can reject names that do not belong. We do not review vendors here, and we do not publish a typical list size or a rate at which these methods produce meetings.
+
+## Why the top of the funnel has to be wide
+A search needs conversations with owners who match the mandate and who want to talk. Most owners who receive a note will not want to talk, at least not now. Some are a poor fit once you look more closely. Some are already in a process and should not be approached on the direct track. Some never reply. If the starting set is only a handful of familiar names, the file can go quiet before the searcher has had enough real conversations to learn from, let alone enough owners who are open to a sale.
+
+That is why the top of the funnel has to be wide enough to cover the buy box, not merely the companies the searcher already knows. Width here means a full pass across the companies that fit the mandate, refreshed as new names appear and as old ones fall out. It does not mean writing to every company in a sector, and it does not mean dropping the exclusions. A wide top still has to be a clean top: matching owners only, no public lists of targets and no notes to people who have asked to be left alone.
+
+A thin list also puts too much weight on each name. When only a few owners are in the file, a single no, a single opt-out or a single process already in motion can stall the week's work. A wider file lets the searcher keep the weekly loop moving: refresh, queue, send, follow up and record, without treating any one reply as the whole search.
+
+Width is not a substitute for a sharp buy box. If the mandate is vague, a wide list is only a wide pile. The searcher still has to say which sectors, geographies, sizes and ownership types belong, and which do not. The published program can help build and work a list of that width. It does not promise that a wide file will produce a deal, and it does not publish a figure for how many companies a search should touch.
+
+## Referrals and professional networks as a third channel
+Proprietary outreach and brokered processes are the two tracks already described on this page. There is a third way names reach a searcher: an introduction from someone the owner already trusts. Accountants, lawyers and other advisors often know owners in the same sectors and towns the searcher wants to cover. A warm introduction is not a substitute for a buy box, and it is not a listed process. It is a conversation that starts with a person the owner already knows.
+
+This channel is educational here, not a product. Be Leaded does not run a referral network, does not sell introductions and does not claim to operate a partner program for searchers. If a searcher already has accountants, lawyers or advisors who are willing to make an introduction, those introductions can sit beside the direct track and the brokered track. The published program is still the direct-to-owner work: a researched list, notes in the searcher's name and a meeting when an owner asks for one.
+
+An introduction still has to be checked against the mandate. A respected advisor can send a company that is the wrong size, the wrong sector or already in a process. The searcher should apply the same rules used on the direct list: does it fit, is there a conflict and is this a conversation the searcher actually wants? The first meeting, if it happens, is still the searcher's to take. Diligence and any offer stay with the search.
+
+Keep the three channels in separate files, the same way proprietary notes and brokered teasers should not be mixed. An introduction is not a reason to send a cold note as if the owner had never been reached, and it is not a reason to treat the advisor as a broker running a sale. Thank the person who made the introduction, record how the name arrived and proceed only if the owner wants to talk.
+
+Some searchers invest time in these relationships because a single trusted introduction can open a door that a letter may not. That work belongs to the searcher. It is not scoped into the published offer, and we do not measure or promise results from it.
+
 ## Questions searchers ask
 
 Q: What does search fund deal sourcing mean on this page?
