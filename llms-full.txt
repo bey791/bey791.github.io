@@ -16713,6 +16713,278 @@ A: Not in the US. Without prior consent a text is the wrong first touch. SMS wor
 Tell us who you sell to and how buyers reach you today. On the call we will sketch the email sequence, the point where a reply turns into permission to text and what the consent record should hold.
 
 ---
+
+# B2B SMS Marketing: A Consent First Playbook | Be Leaded
+URL: https://www.beleaded.com/guides/b2b-sms-marketing/
+Updated: 2026-11-17
+
+B2B SMS marketing: a consent first playbook
+
+B2B SMS marketing that runs on consent or after a reply: use cases, opt in, 10DLC setup, templates, timing and metrics, plus how texts fit with email.
+
+By Ahmad Khan, Founder. Published and updated November 17, 2026.
+
+B2B SMS marketing is texting business buyers who opted in or who replied and agreed to continue by phone. In the US, a cold text needs prior consent under the TCPA, so the first reach-out goes by email and any text waits until the person replies. It works for scheduling, reminders and timely follow up, never for texting cold lists.
+
+## What B2B SMS marketing is and what it is not
+
+B2B SMS marketing means sending text messages to people at other businesses as part of how you win and keep customers. The audience is buyers, users and decision makers rather than shoppers, so the messages are fewer, plainer and closer to a conversation than a promotion.
+
+It is not a way to reach strangers. Business buyers carry the same phones as everyone else and the numbers they share are usually personal mobiles. Neither the cited FCC guide (https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts) nor 47 CFR 64.1200 (https://www.ecfr.gov/current/title-47/chapter-I/subchapter-B/part-64/subpart-L/section-64.1200) states a special rule for people you are contacting at work. Both sources focus on texts to a mobile phone and on consent for commercial messages. That puts every useful B2B text into one of two groups: messages to people who opted in to hear from you by text and messages to people who replied to another channel and agreed to continue by phone.
+
+Read through the guides that rank for this topic and you will find the same position from the SMS platforms themselves: texting is for consented contacts, not for cold lists. We hold the same line in every program we run. The rest of this guide shows how to make SMS earn its place inside those limits.
+
+## Why consent decides where SMS can run
+
+Marketing texts in the US fall under the Telephone Consumer Protection Act plus the FCC rules that carry it out. The FCC's guide to robocalls and texts (https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts) says texts sent to a mobile phone with an autodialer are banned unless the owner consented first. It adds that commercial texts require written consent and that these rules hold whether or not the number appears on the federal Do Not Call list. The detailed rules sit in 47 CFR 64.1200 (https://www.ecfr.gov/current/title-47/chapter-I/subchapter-B/part-64/subpart-L/section-64.1200).
+
+Two practical points follow for business senders. First, a number from a data provider, a scraped directory or an email signature is contact information, not consent. Second, a person can withdraw consent at any time in any reasonable way. The FCC guide is clear that a recipient may opt out of robotexts in any reasonable manner, so a plain "stop texting me" has to be honored just like the keyword STOP.
+
+We keep this section short on purpose. The full checklist, covering consent language on forms, record keeping, registration and quiet hours, lives in our SMS compliance guide (/blog/sms-marketing-compliance/). None of this is legal advice. Ask counsel to review your consent wording before you send.
+
+## Where SMS fits in a B2B sales sequence
+
+Most B2B buying starts slowly and moves fast at the end. SMS belongs in the fast part. It is the channel for the moments when a buyer is ready to act and a delay would cost you the meeting or the renewal.
+
+In an outbound program, that means email or LinkedIn opens the conversation. When a prospect replies with interest, you offer to continue by text for scheduling and quick questions. If they say yes, the next messages move to SMS. If they do not, the thread stays where it started. Our cold SMS vs cold email guide (/guides/cold-sms-vs-cold-email/) explains why that order is the safe one in the US.
+
+In an inbound program, a buyer fills in a form or books a demo. If the form asks for permission to text in plain words and the buyer agrees, SMS can carry confirmations and reminders from the first minute. Fast follow up on new leads is where text often matters most, as our piece on speed to lead (/blog/speed-to-lead/) explains.
+
+For existing customers, SMS supports the account: onboarding steps, renewal dates, service updates and invitations to events. These contacts usually agreed to texts when they signed up or later in the relationship. The consent record should say which kinds of messages they accepted.
+
+## B2B SMS use cases that earn their place
+
+The best B2B texts save the reader time. If a message would be just as good as an email, send an email. If speed or convenience changes the outcome, text is worth it.
+
+- Meeting scheduling: settling a time with a buyer who agreed to text, without a chain of calendar emails
+- Meeting reminders: a short note the day before and a link on the day, which helps buyers show up prepared
+- Follow up after a reply: a quick check in when a buyer who opted in has gone quiet for a few days
+- Inbound lead response: a text that confirms a demo request right away when the form included text consent
+- Event logistics: booth locations, session times and meeting points for buyers who registered with a mobile number and agreed to updates
+- Onboarding: one step at a time nudges during the first weeks of a new account
+- Renewals and billing notices: a heads up before a contract date or a payment that needs attention
+- Service alerts: outages, delivery changes or order status for business customers who asked for them
+
+Notice what is missing: broadcast promotions to a whole database, discount codes for strangers and newsletters by text. Some B2B companies do run promotional texts to opted in subscribers, but they work best when the list is small, engaged and expecting them.
+
+## How to collect consent from business buyers
+
+Consent is easier to collect than most teams expect, as long as the request is honest about what the buyer will receive. Here are the routes we see work.
+
+- In an email reply: when a prospect agrees to meet, ask whether a text would be easier for scheduling and let them send the number
+- On a demo or contact form: an unticked checkbox with plain wording about the texts they will get, how often and how to stop
+- On a booking page: an optional mobile field with a line explaining it is used only for reminders about that meeting
+- At events: a sign up sheet or badge scan that states clearly that the visitor will receive texts and why
+- Inside your product or portal: a notification setting where customers choose SMS for the alerts they care about
+- By keyword: a short code or number that buyers text to join a list, with a confirmation that explains what comes next
+
+Whatever the route, keep a record of each yes: the wording the buyer saw, the date, the number and the source. That record protects you if a question ever comes up. It also keeps your team honest about which messages each contact agreed to.
+
+Scope matters. A buyer who gave a number for one meeting agreed to texts about that meeting. Moving them onto a broader list needs a separate ask.
+
+Plain wording beats legal sounding wording. A form line such as "Text me reminders and updates about my demo from Brightline Payroll. Message frequency varies. Reply STOP to opt out. Consent is not required to book." tells the buyer what to expect in a single glance. Keep the box unticked, keep the line next to the phone field rather than in a linked policy and have counsel confirm the final wording for your use case.
+
+## Setting up numbers and registration
+
+Before the first text goes out, the sending side has to be set up the way US carriers expect. Skipping this step is one of the most common reasons business texts fail to arrive.
+
+- A2P 10DLC registration: business texts from standard ten digit numbers should be registered with The Campaign Registry (https://www.campaignregistry.com/) by brand and by campaign, normally through your SMS platform
+- Honest campaign descriptions: the sample messages and use case you register should match what you actually send
+- Number type: local numbers suit one to one conversations; toll free and short code numbers have their own approval processes
+- Carrier guidance: the CTIA messaging principles (https://www.ctia.org/the-wireless-industry/industry-commitments/messaging-interoperability-sms-mms) set out what carriers expect around permission, unsubscribes and message content
+- Keyword replies: STOP and HELP messages processed by the platform and written back to your contact records
+
+The SMS tool we use is ClickSend (https://www.clicksend.com/us/). Any reputable platform should support registration, keyword handling and two way conversations. Pick one that lets replies flow to the same place your team handles email replies, so no buyer message sits unseen.
+
+## Writing B2B texts that people answer
+
+A business text competes with messages from family, colleagues and banks. It has to look like it came from a real contact with a real reason to write.
+
+- Say who you are: your first name and company in the first message and after any long gap
+- Give the reason: refer to the meeting, the reply or the request that led to the text
+- Ask one thing: a time, a quick yes or no or a single link
+- Keep it short: one or two sentences; anything longer belongs in an email
+- Write like a colleague: no capital letter shouting, no exclamation chains and no sales slogans
+- Use your own link domain: public URL shorteners are a common reason carriers filter messages
+- Include the way out: a short reminder that STOP ends texts, at least in the first message
+
+The test is simple. Read the message aloud and ask whether you would be comfortable receiving it from a supplier on a Tuesday afternoon. If not, rewrite it.
+
+## B2B SMS marketing examples and templates
+
+Each example below assumes the buyer opted in or replied and agreed to texts for the purpose shown. The people and company names are invented placeholders, so swap in your own and keep the structure.
+
+### After an email reply
+
+"Hi Priya, it's Marcus from Harbor Analytics. Thanks for replying to my email. Would Wednesday at 11 or Thursday at 3 work for a short call? Reply STOP to opt out."
+
+### Meeting reminder
+
+"Hi Leo, quick reminder of our call tomorrow at 10 your time about warehouse scheduling. Here is the link: [link]. Reply here if you need to move it."
+
+### Same day check in
+
+"Hi Leo, Marcus here. We are on in an hour. Anything you would like me to bring to the call?"
+
+### Missed meeting
+
+"Hi Priya, sorry we missed each other today. Happy to find another slot this week. Does Friday morning suit you?"
+
+### Inbound demo request
+
+"Hi Sam, this is Ana at Brightline Payroll. We got your demo request. Pick a time that suits you here: [link]. Reply STOP to opt out."
+
+### Event follow up
+
+"Hi Jordan, Ana from Brightline here. Good to meet you at the booth today. Still keen to see the reporting view? I can send two times for next week."
+
+### Onboarding step
+
+"Hi Chris, your Brightline account is ready. The first step is connecting your HR system, which takes a few minutes: [link]. Questions? Just reply."
+
+### Renewal notice
+
+"Hi Morgan, your Harbor Analytics plan renews next month. Want a quick review call first? Reply with a day that works."
+
+None of these push a discount or a list of features. Each one moves a conversation the buyer already started or a relationship they already have.
+
+## Timing and frequency
+
+Business buyers read texts during the working day and resent them outside it. Send in their local business hours, adjust for time zones on national lists and avoid weekends unless the buyer asked for something urgent. The FCC's telemarketing rules bar calls to a home before 8 a.m. or after 9 p.m. local time. Working hours are the safer window for sales texts.
+
+Frequency should follow the conversation, not a calendar. A buyer scheduling a meeting may trade several messages in an hour. A customer on a renewal track might hear from you by text only a few times a year. If you send recurring texts, tell people how often at the point of opt in and stick to it.
+
+Silence is information too. If a buyer stops replying, give it a few days, send one short check in and then go back to email. Repeated texts to a quiet number are the fastest way to earn an opt out.
+
+## Personalization and segmentation
+
+With SMS, personal does not mean clever. It means accurate. Use the buyer's first name, the right company, the meeting they booked and the time in their own zone. A wrong detail in a text feels far worse than in an email because the channel is so personal.
+
+Segment by stage and by what each contact agreed to receive. A practical split for most B2B teams looks like this.
+
+- Prospects in an active thread: scheduling and reminders only
+- Inbound leads with text consent: confirmations and follow up on their request
+- Customers: onboarding, service and renewal messages they opted in to
+- Event contacts: logistics and one follow up, unless they agree to more
+
+Keep these segments in your CRM rather than in the SMS tool alone, so the person writing an email can see that a buyer prefers text and the person sending texts can see the latest email.
+
+## Pairing SMS with email, LinkedIn and calls
+
+SMS is strongest as a supporting channel. On its own it lacks the room to explain value. Paired with other channels it closes the gaps they leave.
+
+- Email: the main channel for first contact, detail and documents; SMS takes over for timing once a buyer agrees
+- LinkedIn: useful for context and credibility before a meeting; a text confirms the time
+- Calls: a call can follow a text that asks whether now is a good moment, which tends to feel less intrusive than a call out of nowhere
+- Newsletters: customers who opted in to both can get the long form by email and a short alert by text when something matters
+
+For teams with a list of subscribers or customers, we run email and SMS together in our newsletter, email and SMS programs (/newsletter-agency/), with text reserved for people who asked for it.
+
+## Metrics to track
+
+SMS dashboards often lead with sends and clicks. For B2B, the useful numbers are closer to the pipeline.
+
+- Reply rate: the share of texts that get a response, which tells you whether messages read as conversation
+- Time to confirmed meeting: how quickly scheduling closes once a thread moves to text
+- Show rate: meetings attended out of meetings confirmed, compared with meetings confirmed by email alone
+- Opt out rate: a rising number is an early warning that messages drifted beyond what buyers agreed to
+- Delivery and filtering: failed or filtered messages, which often point to registration or content issues
+- Consent coverage: the share of texted numbers with a stored consent record, which should always be all of them
+
+Review these alongside your email numbers, not apart from them. The question is whether texting helps the whole sequence produce more meetings that happen, not whether texts look busy on their own.
+
+## Running a first B2B SMS pilot
+
+You do not need to text your whole customer base to learn whether SMS helps. Start with one narrow use case where speed clearly matters and the consent is easy to show.
+
+- Pick the use case: meeting reminders for booked calls are the usual starting point because every message has an obvious purpose
+- Add the consent step: put an optional mobile field with plain text wording on the booking page or ask in the confirmation email
+- Register and test: complete registration on the platform, then send test messages to your own team on several carriers
+- Write two or three messages: a confirmation, a reminder and a missed meeting note are enough to begin
+- Decide who watches replies: name the person who answers texts and the hours they cover
+- Compare against email only: track show rate and reply speed for buyers who chose text against those who did not
+
+Once the pilot shows whether texting changes the outcome for your buyers, extend it to the next use case, such as follow up on inbound requests or onboarding steps for new customers. Grow one use case at a time so each new message type has its own consent wording and its own measure of success.
+
+## What about B2B cold SMS marketing?
+
+People search for B2B cold SMS marketing because texting looks like a shortcut past crowded inboxes. In the US it is the wrong shortcut. A marketing text to a mobile number with no prior consent runs into the rules described above. Buying a list does not fix that.
+
+The approach that works is slower by a step and far safer. Open with email or LinkedIn, earn a reply and then ask whether text is welcome. You keep the speed of SMS for the part of the process where it matters and you keep the trust of the buyer you are trying to win.
+
+If someone offers to run cold texting to a purchased list for you, treat that as a warning sign about how they run the rest of their outreach.
+
+## Common B2B SMS mistakes
+
+- Texting numbers without consent: scraped, purchased or copied from a signature
+- Using one consent for everything: a yes to meeting reminders is not a yes to promotions
+- Skipping registration: unregistered business traffic is filtered or blocked
+- Writing like an ad: capital letters, urgency and public link shorteners
+- Ignoring replies: a two way channel with nobody watching the inbox frustrates buyers fast
+- Texting at odd hours: evenings and weekends on a personal phone
+- Treating soft opt outs as noise: "please don't text me" must end the texts
+- Keeping SMS in a silo: texts and emails that contradict each other
+
+Most of these come from treating SMS as a broadcast tool. Treat it as a conversation with someone who invited you and the mistakes mostly disappear.
+
+## Questions to ask before choosing an SMS platform
+
+Most SMS platforms look alike on a feature list. The differences show up in how they handle B2B conversations, consent and the link back to your other channels. Ask these questions before you commit.
+
+- Registration support: will the platform submit and manage your A2P 10DLC brand and campaign registration?
+- Two way messaging: can buyers reply and can your team answer from a shared inbox rather than a single phone?
+- Opt out sync: do STOP replies update your CRM so no other tool keeps texting that number?
+- Consent fields: can each contact carry the source, date and scope of their permission?
+- Integrations: does it connect to the CRM and the email tools you already use?
+- Time zone sending: can scheduled messages follow the recipient's local time?
+- Reporting: can you see replies and opt outs by segment, not just sends?
+
+A platform that answers yes to most of these will support a consent first program. One that leads with bulk upload and blast scheduling was built for a different job.
+
+## How Be Leaded runs SMS
+
+We add SMS to a program only for contacts who opted in or who replied and agreed to continue by text. Before the first send, the number is registered for A2P 10DLC, consent wording is in plain view wherever numbers are collected and STOP and HELP replies are handled on every thread. We send through ClickSend, in reasonable local hours, with one conversation per contact.
+
+We never text purchased or scraped numbers. In outbound programs, email and LinkedIn do the opening and SMS speeds up the meetings that follow. In customer programs, texts carry the alerts and reminders people asked for.
+
+## Sources
+
+- FCC consumer guide: Stop Unwanted Robocalls and Texts (https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts)
+- Electronic Code of Federal Regulations: 47 CFR 64.1200 (https://www.ecfr.gov/current/title-47/chapter-I/subchapter-B/part-64/subpart-L/section-64.1200)
+- CTIA Messaging Principles and Best Practices (carrier guidance) (https://www.ctia.org/the-wireless-industry/industry-commitments/messaging-interoperability-sms-mms)
+- A2P 10DLC brand and campaign registration: The Campaign Registry (https://www.campaignregistry.com/)
+
+## Frequently asked questions
+
+Q: What is B2B SMS marketing?
+A: It is texting business buyers who opted in or who replied to another channel and agreed to continue by text. Typical uses are scheduling, meeting reminders, inbound lead follow up, onboarding and renewal notices.
+
+Q: Is it legal to run B2B SMS marketing in the US?
+A: It is when every recipient consented. FCC rules ban autodialed texts to mobile phones without prior consent and commercial texts need written consent. Those sources do not add a workplace exception, which is why we do not text a business buyer who never agreed. General information only, not legal advice.
+
+Q: Can I text a B2B prospect I found in a database?
+A: Not as a first touch. A number from a database is contact information, not consent. Start with email or LinkedIn and ask for permission to text once the buyer replies.
+
+Q: Do I need 10DLC registration for B2B texting?
+A: If you send business texts from standard ten digit US numbers, carriers expect the brand and campaign to be registered for A2P 10DLC. Your SMS platform usually handles this through The Campaign Registry.
+
+Q: How often should a B2B company send texts?
+A: As often as the conversation needs and no more. Scheduling can involve several texts in a day; account updates may come a few times a year. State the frequency at opt in and keep to it.
+
+Q: Which SMS platform does Be Leaded use?
+A: ClickSend. We text from registered numbers and only reach contacts who opted in or agreed to texts after replying.
+
+Q: Should SMS replace email in B2B outreach?
+A: No. Email opens the conversation and carries the detail. SMS works best once a buyer has engaged and wants a faster way to settle times and questions.
+
+Q: How do I write a B2B text message?
+A: Say who you are, name the reason for the text, ask one thing and keep it to a sentence or two. Include a reminder that STOP ends texts in the first message.
+
+## Ready to add texting to the buyers who already said yes?
+
+Bring your current outreach and a sense of how leads arrive now. In thirty minutes we will map where SMS belongs in your sequence, how consent gets captured and which messages are worth sending.
+
+---
 URL: https://www.beleaded.com/month-to-month-lead-generation/
 
 - Home
