@@ -4950,7 +4950,7 @@ Programs start from $2,000 a month. Paid programs add ad spend, and voice progra
 
 **Is there a minimum term?**
 
-Outbound programs take about three weeks to build and a few more to read, so we ask for enough time to judge them fairly. We'll set the term out plainly in the scope before you sign anything.
+Programs run month to month with no long-term contract.
 
 **What do we keep if we stop?**
 
@@ -8911,7 +8911,7 @@ M&A deal flow
 
 # How to find business owners who might sell: off-market deal sourcing for advisors and buyers
 
-By Ahmad Khan, founder of Be Leaded. Updated November 5, 2026. 4 min read.
+By Ahmad Khan, founder of Be Leaded. Updated November 17, 2026. 4 min read.
 
 The short answer: Owners who might sell rarely announce it. You find them by building a list of companies that fit your mandate, prioritizing the ones showing timing signals (long tenure, no named successor, a first general manager hire, a second location, a recent partner exit), and approaching the owner personally with a short, respectful note that offers a confidential conversation rather than a buyer. Done well, a sourcing program produces a steady flow of owner conversations, and the best ones never reach a listing.
 
@@ -9009,7 +9009,7 @@ Yes. In the US it's commercial email under CAN-SPAM, so it needs accurate header
 
 **Should buyers source deals this way too?**
 
-Yes. Independent sponsors, search funds, family offices and platform companies use the same process to find add-on acquisitions directly from owners, without an auction.
+Yes. Independent sponsors, search funds, family offices and platform companies use the same process to find add-on acquisitions directly from owners, without an auction. Searchers can read our search fund deal sourcing (https://www.beleaded.com/search-fund-deal-sourcing/) page for how we run that owner outreach for them.
 
 ## Sources
 
@@ -13285,51 +13285,471 @@ See demand generation (https://www.beleaded.com/demand-generation-agency/).
 
 URL: https://www.beleaded.com/cold-calling-services/
 
+- Home (https://www.beleaded.com/)
+- Services (https://www.beleaded.com/services/)
+- Cold calling services
+
+Cold calling
+
 # B2B cold calling services
 
-Cold calling can run alongside your email and LinkedIn outreach. One buyer can be reached on more than one channel. Target up to 25,000 new contacts a month.
+Cold calling services are outside teams that phone the buyers you want to reach and book the qualified ones onto your sales calendar. Target up to 25,000 new contacts a month.
 
-400K+ Emails a day of sending capacity
-99% Delivery rate across programs
-49 to 51% Average open rate on newsletters
-30+ Client programs
+400K+
 
-Programs start from $2,000 a month. Call minutes billed at cost.
+Emails a day of sending capacity
 
-What a cold calling service does: cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message. Firms that sell booking alone are compared in best B2B appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
+99%
 
-The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains, and the reply handling. This page adds phone outreach beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
+Delivery rate across programs
 
-Who gets called: buyers who match a definition you approve, on the same accounts as the email and the LinkedIn note.
+49 to 51%
 
-Qualification: against a written definition you approve before launch.
+Average open rate on newsletters
 
-Target up to 25,000 new contacts a month
-Programs start from $2,000 a month. Call minutes billed at cost. See pricing (https://www.beleaded.com/pricing/).
-Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
+30+
 
-What is a B2B cold calling service?
-Phone outreach alongside email and LinkedIn, for buyers who match a definition you approve.
+Client programs
 
-How does cold calling fit with email and LinkedIn?
-Cold calling can run alongside your email and LinkedIn outreach. Buyers are the ones you approved.
+Last updated November 18, 2026
 
-How do you qualify a call?
+## What a cold calling service does
+
+Be Leaded's team runs cold calling as a phone program of its own, working from the same list as email and LinkedIn, with the meeting placed on your calendar. Cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message.
+
+The fit definition is yours to sign before any outreach goes out. Email and the LinkedIn note use that same definition. A buyer who matches it, and who agrees to a time, is booked on your calendar. A conversation that misses the definition is not booked to fill a week.
+
+This sits inside B2B lead generation (https://www.beleaded.com/lead-generation-services/). Appointment setting (https://www.beleaded.com/appointment-setting/) is the booking work when a reply is ready for a hold on the calendar. Firms that sell booking alone are compared in best B2B appointment setting companies (https://www.beleaded.com/guides/best-appointment-setting-companies/).
+
+## What a calling program is made of
+
+A calling program is a short chain of jobs. Each one has to be done for the next to matter, and a gap in any link shows up as calls that go nowhere.
+
+- A written definition of who counts as a fit
+- An account list built from that definition and approved by you
+- A talk track that says why you are calling
+- The calls themselves, with notes on every outcome
+- A check of each interested buyer against the definition
+- A hold on your calendar and a handoff to your seller
+Our team runs the phone work as its own program, beside email and LinkedIn. You write or approve the definition, review the list and take the meetings.
+
+## When the phone is the right channel
+
+Phone earns its cost when a conversation moves a deal further than a paragraph can. That usually means a purchase that involves several people, a problem that is easier to explain aloud than in writing or a market small enough that every account matters.
+
+It also helps when the buyers you want rarely answer written messages. Some roles live on the phone and in meetings. A short call lets a buyer ask the one question that would have taken three emails.
+
+## When the phone is the wrong channel
+
+Calling is a poor fit when the offer is still being worked out. A caller cannot make up for a message that the buyer does not recognize as a problem they have.
+
+It is also a poor fit when the buyers are known to refuse unscheduled calls, or when the value of a sale is too small to carry the cost of a conversation. In those cases email and LinkedIn do the work, and the cold email program (https://www.beleaded.com/cold-email-agency/) is the better place to start.
+
+## Why calling works with email, not instead of it
+
+Prospects hear from you more than once. The phone does not replace the email or the LinkedIn note.
+
+Some buyers answer a short email and never pick up. Some ignore the inbox and will take a call. Running the channels together means a miss on one is not the end of the attempt. A reply on email can change what the next call says. A call can explain a sentence the email could not.
+
+The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains and the reply handling. This page adds phone outreach beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
+
+Want calls with your buyers booked for you?
+
+## How a call and an email change each other
+
+When both channels point at one buyer, each can use what the other learned. An email that was opened but not answered tells the caller the subject is not foreign to the buyer. A call that ended with a request to send something in writing gives the next email a clear first line.
+
+The reverse also holds. A buyer who never picks up may still read a short note, and the note can name the call that was missed. Neither channel has to start from nothing.
+
+## Calling after a reply and calling before one
+
+There are two patterns, and a program can use both. In the first, the call follows a reply. A buyer who wrote back with interest but did not choose a time gets a call to settle the time. The buyer asked for contact, so the call is welcome.
+
+In the second, the call comes first and the written note follows. The buyer has never heard from you, so the call has to earn its two minutes. Which one fits depends on the market and on how much the buyer has already seen.
+
+## Why one account list matters
+
+Three channels working from three lists make a buyer feel chased by three companies. One shared list keeps the message consistent and keeps the record clean: who was written to, who was called and what was said.
+
+It also keeps exclusions in one place. A name removed because it is a current customer is removed from the email, the LinkedIn note and the call at once.
+
+## Who gets called and how lists are built
+
+The buyers you already named, reached by phone together with email and LinkedIn.
+
+### Your ICP
+
+Role, account type and the problem you sell against, agreed in writing. That agreement is the market the list comes from. Advisors and brokers who need business owners reached on a mandate (https://www.beleaded.com/guides/how-business-brokers-get-leads/) should start with off-market deal flow (https://www.beleaded.com/m-and-a-deal-flow/), which is built for confidential owner outreach.
+
+### The same accounts
+
+Email, LinkedIn and the call can share one account list, so the buyer is not hearing from three unrelated efforts.
+
+You review the account list before it goes into the program. Current customers and the live deals the client names are left out. Target up to 25,000 new contacts a month.
+
+## Writing the fit definition
+
+The definition is three short statements. Who is the person, what kind of account employs them and what problem do they have that your offer answers. If a statement cannot be checked in a conversation, it is too vague to use.
+
+### A loose definition
+
+Heads of operations at companies that want to grow. Nearly every conversation fits that, so nothing is ever screened out and the calendar fills with meetings that go nowhere.
+
+### A tight definition
+
+Operations leads at regional distributors who run their own delivery routes and have said that late deliveries cost them accounts. A caller can ask about each part, and a seller can tell afterward whether the meeting matched.
+
+You sign the definition before any outreach goes out, and email, LinkedIn and the call all use it.
+
+## Reviewing the account list before it goes live
+
+The list is the largest single factor in whether a calling program works, and it is the part you can check without waiting for results. Read it as your own seller would.
+
+- Do the companies match the definition you signed?
+- Are the roles the ones who decide or influence the purchase?
+- Are current customers and the deals your sellers are working left out?
+- Are there companies you would never want to call, for any reason?
+
+Current customers and the live deals you name are left out before the list goes into the program. Anything else you want removed goes on the same exclusion list.
+
+## Direct lines, switchboards and how a caller reaches a person
+
+A phone number on a list is only as useful as the person at the other end. Some numbers reach the buyer directly. Others reach a switchboard, a front desk or a voicemail menu, and each needs a different approach.
+
+When you compare providers, ask where the numbers come from and how they are checked. A list full of numbers that ring nowhere wastes the caller's time and the buyer's patience.
+
+## A talk track is an outline, not a script
+
+A caller who reads a script sounds like it. A caller with no plan wanders. The workable middle is an outline with five parts: why this call, a question that tests fit, a short answer to what the buyer says, a clear next step and a polite exit.
+
+Agree the outline with whoever runs the phone work before the first dial. The wording will change as buyers respond, and that is expected.
+
+## How a call opens
+
+The first sentence has one job, which is to say who is calling and admit that the call is unexpected. Then it gives a reason that is about the buyer, not about you.
+
+Example only, with placeholders in brackets: "Hi, this is [name] with [your company]. I know I am calling out of the blue. I work with operations leads at regional distributors on late deliveries, and I wondered if that is a problem on your side." It ends on a question the buyer can answer in a word.
+
+This example is illustrative. Names and details are made up.
+
+## Gatekeepers and front desks
+
+The person who answers is doing a job, which is to protect the buyer's time. Treat that person as a professional. Say who is calling and why in a sentence, ask for the right person by role and accept an honest no.
+
+A caller who invents a relationship to get past a front desk damages the company they represent. Good practice is plain and short, and it leaves the door open for the next call.
+
+## Voicemail and what follows it
+
+Many calls end in voicemail. A short message that names the company, gives one reason and says an email is coming is enough. Long pitches in voicemail rarely help.
+
+The follow-up matters more than the message. A note sent after the call, which refers to it, gives the buyer a second chance to respond in the way they prefer.
+
+## Objections buyers raise and honest answers
+
+Most objections are variations of a few, and the useful answers are short and truthful.
+
+### We already have someone for that
+
+Ask what they use and whether anything about it bothers them. If nothing does, thank them and move on.
+
+### Send me something
+
+A request to send information can be a polite exit or real interest. Ask one question about what they would want to see, and send exactly that.
+
+### This is not a good time
+
+Offer to call at a time that suits them. Many buyers will name one.
+
+### How did you get my number
+
+Answer plainly and offer to remove the number if they would like. A direct answer calms most of these calls.
+
+## Scheduling a callback instead of pushing for a meeting
+
+Not every interested buyer is ready to book a meeting on the first call. A callback at a time the buyer picks is a smaller commitment, and it keeps the conversation friendly. The buyer who asked for the callback expects the call and is likely to take it.
+
+## Qualification and booking
+
 Against a written definition you approve before launch.
 
-Who gets called?
+- 01 Write the definition The role, the account and the problem, agreed before outreach starts.
+- 02 Check the fit Interest that misses the definition does not get a hold.
+- 03 Hold the time A buyer who matches the written definition gets a hold on your sales calendar.
+- 04 Your team takes it Booking ends our part. Your sellers run the meeting from there.
+## What counts as a qualified conversation
+
+Define it in writing, with your sellers, before the first call. A qualified conversation is one where the buyer matches the fit definition and has agreed to a specific next step with a named person at your firm.
+
+| Outcome of the call | What it means | What happens next |
+| Fits and agrees to a time | Matches the definition and chose a slot | A hold goes on your calendar |
+| Interested but not yet | Matches the definition and wants to wait | A callback or a note at a time they named |
+| Curious only | Willing to talk but outside the definition | No hold is made |
+| Not a fit | Wrong role, account or problem | Closed with thanks |
+| Asked to stop | Does not want further calls | Removed from the list |
+
+A meeting that misses the definition is not booked to fill a week. That is how the program keeps your sellers' time for buyers who match.
+
+## From booked to held
+
+A meeting on the calendar is not a meeting that happened. Between the two sit reminders, time zones, calendar conflicts and second thoughts. A confirmation after the call and a short reminder before the meeting help, and so does a clear invite that says who will attend and what it covers.
+
+When you compare providers, ask what they count: meetings booked or meetings held. The two numbers are not the same thing.
+
+## What your seller should receive after a booking
+
+A seller who walks into a meeting without context starts from the beginning. Whoever books the call should pass on a short note.
+
+- The buyer's name, role and company
+- What the buyer said about the problem, in their words where possible
+- Anything they asked to be sent or avoided
+- Which channel the first contact came through
+- The time zone and the agreed slot
+
+Booking is where our part ends, and your seller runs the meeting from the hold.
+
+## Follow-up after a call
+
+Every call ends in an outcome, and every outcome has a next step. A booked buyer gets a confirmation. An interested but not yet buyer gets a note at the time they named. A buyer who asked for information gets exactly that, and an asked to stop is removed and left alone.
+
+The record of these outcomes is what lets email and LinkedIn pick up the thread without repeating what the buyer already said.
+
+## What a calling report should show
+
+A report that only counts dials says little. What matters is what happened to the people reached. When you ask any provider for reporting, look for these items.
+
+- How many buyers were reached and how many were not
+- The outcome of each conversation, using words you agreed
+- Meetings held as well as meetings booked
+- What buyers said that should change the message
+- Names removed or asked to stop
+
+Ask to see a sample before you sign. A provider that cannot show one has told you something.
+
+## What is included and what it costs
+
+Phone with the other two channels, a written definition and a hold on your calendar.
+
+### Phone with email and LinkedIn
+
+Calling runs beside the other two channels, on the buyers you approved.
+
+### Qualification
+
+A written definition, applied before a meeting is booked.
+
+### Booked calls
+
+Qualified conversations placed on your calendar.
+
+## How calling is priced across the market
+
+Providers use a handful of billing models. Knowing them helps you compare quotes that look unrelated.
+
+### By the seat
+
+A fixed monthly fee for a dedicated caller. It is simple to read and puts the risk of a slow month with you.
+
+### By the hour or the dial
+
+You pay for time or activity. It keeps cost tied to effort, and effort is not the same as results.
+
+### By the meeting
+
+You pay when a meeting is booked or held. Ask who defines a qualified meeting, because that definition drives the price.
+
+### By the pod or the program
+
+A package that bundles a team and a set of channels. The Callbox alternatives guide (https://www.beleaded.com/guides/callbox-alternatives/) walks through how that billing reads.
+
+Here, calling carries its own scope and its own fee, apart from the email and LinkedIn work, and you have the number after a 30 minute call.
+
+## Target up to 25,000 new contacts a month
+
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. See pricing (https://www.beleaded.com/pricing/)
+
+Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
+
+- Phone alongside email and LinkedIn
+- The buyers you approved
+- A written fit definition
+- A hold on your calendar
+- Customers and live deals left out
+- Your team takes the meeting
+
+## Compliance questions to ask any calling provider
+
+Rules for business calls differ by country and by state, and they change. This is guidance for a buyer, not legal advice, and your own counsel should confirm what applies to your calls.
+
+These are fair questions for any provider, and the answers should be specific.
+
+- How are numbers checked against do not call lists before a dial?
+- What happens the moment a buyer says to stop calling?
+- Are calls recorded, and how is consent handled where the law asks for it?
+- Does the provider use automated dialing or prerecorded messages?
+- Who keeps the records, and can you see them?
+
+Ask for the answers in writing. A provider that treats these questions as a nuisance is one to think about twice.
+
+## Where AI voice fits and where it does not
+
+AI voice follow-up is a different program. It calls people who asked to be contacted, such as someone who filled in a form, and it is not used for cold calls. Cold calling to new buyers is the work on this page, run by our team.
+
+If you want to see how follow-up for inbound leads works, read about AI voice follow-up (https://www.beleaded.com/ai-voice-agents/). The two programs are scoped and priced apart.
+
+## Calling in house, with a hire or with a provider
+
+An in house caller gives you control and a person who learns your market. It also gives you a hire to find, train, manage and replace, plus the tools and data they need. A provider takes that setup on, and you give up some day to day control.
+
+The comparison depends on how many accounts you need to reach and how soon. The outsourced SDR team page (https://www.beleaded.com/outsourced-sdr-team/) sets out how a hire compares with a managed team, and the appointment setting program (https://www.beleaded.com/appointment-setting/) covers the booking side.
+
+## Questions to ask any cold calling provider
+
+Use this list with every firm you speak to, including us.
+
+- Who makes the calls, and are they dedicated to your account?
+- Where do the phone numbers come from?
+- Who writes the talk track and who approves it?
+- How is a qualified conversation defined, and by whom?
+- Can you hear a sample call or read the notes?
+- What does the report show, and how often?
+- How are do not call lists and stop requests handled?
+- Who owns the list and the call notes if the program ends?
+- What is the term, and how does it end?
+
+## Warning signs when comparing providers
+
+A few patterns should slow you down.
+
+- A fixed number of meetings stated up front with no written definition of a meeting
+- No way to hear a call or read the notes
+- A price that cannot be explained in one sentence
+- A reluctance to discuss do not call handling
+- A list you cannot see before the program starts
+
+None of these proves a provider is poor. Each one is a reason to ask a plain question and listen to the answer.
+
+## What to have in hand before we talk
+
+We keep the first call to thirty minutes. A rough version of each item below is enough, and the conversation fills in the rest.
+
+- Who you want to reach, as roles and account types
+- The problem you sell against, in a sentence
+- Current customers and live deals to leave off the list
+- What a good meeting looks like to your sellers
+- Who takes the meetings and in which calendar
+
+If you only want email and LinkedIn at first, say so. Calling can be added later and is quoted on its own.
+
+## Where cold calling stops
+
+A calling program opens conversations. It does not close sales, and it cannot make a buyer take a meeting they do not want. We do not advise on your offer or your pricing, and we book meetings against the definition you approve. Everything after the hold belongs to your sellers.
+
+## Related
+
+### Lead generation
+
+The wider program that keeps email and LinkedIn in the same plan.
+
+See lead generation (https://www.beleaded.com/lead-generation-services/)
+
+### Cold email
+
+The written sequence, the domains and reply handling beside the phone.
+
+See cold email (https://www.beleaded.com/cold-email-agency/)
+
+### Appointment setting
+
+How a matching buyer becomes a hold on your sales calendar.
+
+See appointment setting (https://www.beleaded.com/appointment-setting/)
+
+### LinkedIn lead generation
+
+Notes to the same accounts, paced with the email and the call.
+
+See LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
+
+## Questions about cold calling services
+
+**What is a B2B cold calling service?**
+
+Phone outreach alongside email and LinkedIn, for buyers who match a definition you approve.
+
+**Is cold calling still worth doing?**
+
+It can be, when the buyers you want take calls and the value of a sale justifies a conversation. It works best beside email and LinkedIn, so a buyer who ignores one channel can still be reached on another.
+
+**What does a cold calling service include?**
+
+A written fit definition, a reviewed account list, the calls, a check of each interested buyer against the definition and a hold on your calendar. Our team runs it as a phone program of its own, working from the same list as email and LinkedIn.
+
+**Does Be Leaded use AI voice for cold calls?**
+
+No. AI voice follow-up calls people who asked to be contacted and is not used for cold calls. Cold calling is run by our team as its own program.
+
+**How does cold calling fit with email and LinkedIn?**
+
+Cold calling can run alongside your email and LinkedIn outreach. Buyers are the ones you approved.
+
+**How do you qualify a call?**
+
+Against a written definition you approve before launch.
+
+**What is a qualified conversation?**
+
+One where the buyer matches the written fit definition and agrees to a specific next step. You approve the definition before launch, and a conversation that misses it is not booked.
+
+**What happens when a buyer says stop?**
+
+The buyer is removed from the list and left alone. Ask any provider how it handles stop requests and keep the answer in writing.
+
+**Can I see the list before calls start?**
+
+Yes. You review the account list before it goes into the program, and current customers and the live deals you name are left out.
+
+**Who gets called?**
+
 Buyers from the account list you review before the program starts.
 
-What is left off the list?
+**What is left off the list?**
+
 Current customers and the live deals the client names are left out before the list goes into the program.
 
-Who takes the meeting once it is booked?
+**Can I run calling without email and LinkedIn?**
+
+Calling can be quoted on its own or alongside them. Say which you want on the call, and the quote follows that scope.
+
+**Is cold calling legal?**
+
+Rules differ by country and state, and they change, so this is not legal advice. Ask any provider how it handles do not call lists, stop requests and recording consent, and have your own counsel confirm what applies to your calls.
+
+**How do I know calling is working?**
+
+Look at meetings held, not only meetings booked, and at what buyers said about the problem. A report that shows only dials tells you little.
+
+**Who takes the meeting once it is booked?**
+
 Your sellers run the meeting from the hold. Booking is where this program ends.
 
-How much does it cost?
-Programs start from $2,000 a month. Call minutes billed at cost.
+**What does calling cost beyond the starting price?**
 
-Related: https://www.beleaded.com/lead-generation-services/ https://www.beleaded.com/cold-email-agency/ https://www.beleaded.com/appointment-setting/ https://www.beleaded.com/linkedin-lead-generation-agency/
+Calling is quoted on its own, based on the scope you need. We work out the quote with you on a 30-minute call.
+
+**How much does it cost?**
+
+Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately.
+
+**What should I bring to the first call?**
+
+The roles and accounts you want to reach, the problem you sell against, the customers and live deals to leave off the list and what a good meeting looks like to your sellers.
+
+## Tell us who you want to meet.
+
+Thirty minutes. You leave with the buyers to reach by phone, email and LinkedIn, and with a fee for that plan.
+
+Or email sales@beleaded.com
+
 
 ---
 
@@ -14928,7 +15348,7 @@ URL: https://www.beleaded.com/guides/how-business-brokers-find-buyers/
 
 Guides
 # How business brokers find buyers for a listing
-By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated October 21, 2026. 12 min read.
+By Ahmad Khan (https://www.beleaded.com/about/), founder of Be Leaded. Updated November 17, 2026. 12 min read.
 Brokers find buyers three ways: listing marketplaces, their own buyer file, and a written note to companies and investors who fit the deal. That third group is strategic acquirers, search funds and private equity groups who are not browsing listings, and the business name stays off the note.
 Want this run for a live listing? Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=guides-how-business-brokers-find-buyers)
 Programs start from $2,000 a month
@@ -14952,9 +15372,9 @@ Brokers ask the same thing in public, and the questions are more useful than the
 ## Who buys a listing like this
 Write the profile before you collect names. Industry, geography, earnings band, and what the buyer would actually be buying: a book of contracts, a territory, a crew, a brand. Then sort buyers by why they would care. The groups below are a map of who buys companies. They are not a menu of outreach products.
 - Strategic acquirers already operate in the niche or next to it. A competitor wants the customers, the routes, or the license. An adjacent service sells to the same customer and would rather own the work than subcontract it. A supplier wants the downstream margin. A company in another region has said, on its own site or in a filing, that it wants this territory.
-- Search funds are one or two people who raise capital to buy a single company and run it. Many post a buy box: industry, location, and the size they can close. Stanford's search fund research (https://www.gsb.stanford.edu/experience/about/centers-institutes/ghces/research/search-funds), the public record of that model, is the background. Match the listing to the box they posted. Skip the searcher whose box names a different industry.
+- Search funds are one or two people who raise capital to buy a single company and run it. Many post a buy box: industry, location, and the size they can close. Stanford's search fund research (https://www.gsb.stanford.edu/experience/about/centers-institutes/ghces/research/search-funds), the public record of that model, is the background. Match the listing to the box they posted. Skip the searcher whose box names a different industry. Searchers who want owner outreach run for them can see our search fund deal sourcing (https://www.beleaded.com/search-fund-deal-sourcing/) page.
 - Private equity groups buy companies to hold inside a fund. A platform that already owns a business in the niche will look at add-on acquisitions that resemble the one you have. Read the portfolio page on the firm's own site before you write, and note the date you opened it. When this guide describes what Be Leaded runs, it says PE groups. An add-on thesis is education about who buys, not a separate offer.
-- Family offices invest a family's capital and often hold longer than a fund. Independent sponsors raise money for one deal at a time. Both show up as buyers, so a broker should recognize them. Neither is a Be Leaded service.
+- Family offices invest a family's capital and often hold longer than a fund. Independent sponsors raise money for one deal at a time. Both show up as buyers, so a broker should recognize them. On the buy side, Be Leaded finds companies for independent sponsors and PE firms to acquire through buy-side deal sourcing.
 Buyer outreach from Be Leaded, when a broker asks for it, reaches strategic acquirers, search funds and PE groups for active listings. Family offices and independent sponsors stay in the paragraph above, as part of learning who buys.
 ## Build the buyer list before you write
 Start with the industry code, not a brand you happen to remember. The Census Bureau's NAICS (https://www.census.gov/naics/) classification is the public list of codes. Take the code for the listing, then the codes beside it: the supplier, the complement, the service the same customer buys in the same month. That adjacency is how a commercial kitchen supplier ends up on the file for a food distributor, and how a plumbing consolidator ends up on the file for an HVAC shop.
@@ -16520,6 +16940,293 @@ A: Choose a network if you need creative, medical writing and access work from o
 Bring your campaign type, your audience, your markets and a picture of how review works at your company. We will tell you plainly whether we fit and what a first program could look like.
 
 ---
+
+# Best Buy Side Deal Sourcing Firms in 2026 | Be Leaded
+URL: https://www.beleaded.com/guides/best-buy-side-deal-sourcing-firms/
+Updated: 2026-11-20
+
+Best buy side deal sourcing firms for PE and sponsors
+
+Compare the best buy side deal sourcing firms for PE funds and independent sponsors who need off-market companies to buy.
+
+By Ahmad Khan, Founder. Published and updated November 20, 2026.
+
+Buy side deal sourcing firms help private equity funds and independent sponsors find off-market companies to buy by contacting owners before a sale process starts. Be Leaded is the firm to pick if you want that outreach run in your name. Month to month, no long-term contract.
+
+## A short Be Leaded recommendation
+
+Be Leaded serves private equity funds and independent sponsors who need off-market companies to buy, which is the M&A deal flow those buyers have to generate themselves.
+
+Be Leaded is a buy side deal sourcing firm for those funds and sponsors. We build a list that matches your thesis, write outreach in your name and book conversations with owners on email and LinkedIn. Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. Month to month, no long-term contract. Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min) to walk through a mandate.
+
+If you are comparing firms, start with that line. The rest of this guide explains what buy side deal sourcing firms do, how fee models differ, how to judge a proposal and how the firms listed below describe their own work, each with a public source.
+
+## Who this comparison is for
+
+This page is for a private equity deal team or an independent sponsor that wants to hire help finding companies to buy, not for a business broker who needs seller meetings or buyer coverage on a live listing. Those are different jobs. Mixing them is how a generic "best M&A deal sourcing company" answer ends up pointing at the wrong kind of firm.
+
+People asking "buy-side deal sourcing firms for private equity" usually want a partner that can map a thesis, contact owners who fit and put a deal team on a first conversation before a banker runs a process. People asking the same question for independent sponsors want that same work, but they also care about how the first message is signed, how quickly a thin team can follow a reply and whether the firm will still be useful when the sponsor is raising capital around a live deal. This guide answers both.
+
+Advisors and brokers who need seller meetings should use our guide to M&A deal sourcing firms for advisors (/guides/best-m-and-a-deal-sourcing-firms/). Search fund principals who want owner outreach written for a search can use our page on search fund deal sourcing (/search-fund-deal-sourcing/). Brokers who need buyers for an active listing should use buyer outreach for business brokers (/m-and-a-buyer-outreach/). Those pages are live. This one stays on the buy side.
+
+## What a buy side deal sourcing firm does
+
+A buy side deal sourcing firm works for the buyer. The buyer names the sectors, size range, geography and ownership profile that fit the mandate. The firm then builds a list of companies that appear to match, finds a way to reach the owner or a decision maker and opens a conversation about a possible sale or partnership. The buyer keeps the valuation work, the diligence, the terms and any capital raise.
+
+The useful output is not a pile of names. It is a qualified conversation with an owner whose company is in the buy box, plus a clear record of who was contacted, what was said and what came back. Some firms stop at the first meeting. Some stay involved through a letter of intent. You should ask where the work ends, because that boundary changes both the fee and the kind of attention you get after a reply.
+
+Most of the work sits in four steps. First, the firm turns your thesis into a list with filters you can see. Second, it checks that the names are real and that the outreach can be delivered. Third, it contacts the owners through the channels you approved. Fourth, it handles replies, books time and hands you a conversation you can take over. If a proposal skips any of those steps, ask who does that part and how you will see it.
+
+## How this work differs from a data platform
+
+A data platform sells you access to company records, contacts and search tools. Your team still has to pick the names, write the messages, send them and follow every reply. That can be the right purchase when you already have people who will do the outreach every week. It is not the same as hiring a firm to run the outreach for you.
+
+A deal sourcing firm is paid to do the outreach or a defined slice of it. You should expect a list built to your thesis, messages you can approve, a send that goes out on a schedule and a way to see replies. If the firm also sells software, ask which part you are buying this month: a login, a managed program or both.
+
+The mix-up matters because many "best firms" lists put software products next to outreach firms. Both can help a deal team. They answer different questions. If you need off-market conversations and you do not have spare capacity on the desk, a login will not close that gap by itself.
+
+## How this work differs from a banker or sell side advisor
+
+A sell side advisor or investment banker is hired by an owner who has already decided to explore a sale. That advisor builds a list of buyers and runs a process. You want to be on those lists. Relationship work with bankers still matters. It is not the same as going out to owners who have not hired anyone yet.
+
+Buy side outreach is earlier and quieter. The owner may not be running a process. The first note has to make sense without a teaser or a data room. The conversation may lead to a sale, a later introduction or a polite no. A firm that only covers bankers and brokers can still be useful, but it will not replace direct owner outreach if proprietary conversations are the goal.
+
+Some firms in this category also cover intermediaries: they stay in touch with brokers and bankers so on-market deals reach you faster. That is a coverage service, not an off-market search. Ask for the split. A program that is mostly intermediary coverage will feel busy and still leave you in competitive processes.
+
+## Private equity funds and independent sponsors
+
+The core job is the same for both buyers: find off-market companies that fit a thesis and start a conversation with the owner. The constraints are not the same, which is why a page that only talks about "PE firms" will miss what an independent sponsor actually needs. A page that only talks about sponsors will underserve a fund with several live mandates.
+
+A fund usually has a defined allocation, a stated sector focus and a deal team that can take a first call without waiting on a raise. It may want outreach running in the fund's name across one platform thesis and several add-on theses at once. It will care about how lists are separated, how replies are routed and whether the same owner is contacted twice under two mandates.
+
+An independent sponsor often has a thinner bench. The person taking the first owner call may also be the person raising equity and debt if the deal moves. Outreach in the sponsor's name has to be careful about how the buyer is described, because an owner will ask who is writing the check. A good firm will help you answer that in plain language rather than hiding it. The sponsor also needs a program that can pause or refocus when a live deal takes over the week.
+
+If you are a sponsor, ask whether the firm has actually written messages for a buyer that is not a committed fund. Ask to see how those messages introduce the sponsor. If you are a fund, ask how the firm will handle add-ons that should be signed by a portfolio company rather than by the fund itself. Those two details change the work more than a generic slide about "the lower middle market."
+
+## What off-market means in this context
+
+Off-market, in the way buyers use the phrase here, means the company is not in a formal sale process when you make contact. The owner has not hired a banker or broker to run a wide auction. At least you are not arriving through that process. The company may still be known to other buyers. Off-market is not a synonym for secret or exclusive.
+
+A firm should be honest about that limit. Direct outreach can put you in the room earlier. It cannot claim that no one else will write to the same owner. This guide will not invent a line like that. What you can ask for is a clean record of the list, a rule about sharing your targets with other clients and a clear account of whether the firm also runs a marketplace or a matching service that may show the same company to more than one buyer.
+
+On-market coverage still has a place. If a firm also watches intermediaries, you may hear about a process sooner. Treat that as a separate line of work when you compare proposals, so a busy broker inbox does not get counted as proprietary deal flow.
+
+## How to compare buy side deal sourcing firms
+
+Start with the mandate, not with a logo. Write down the sectors, the size range, the geographies, the ownership types and how you will define a qualified conversation with an owner. Then ask each firm to show how it would turn that page into a list and a first month of outreach. The quality of that answer tells you more than a generic capability deck.
+
+Use the same questions with every firm:
+
+- Who is the work for: funds, independent sponsors, searchers, corporate buyers or a mix?
+- Who makes first contact? In whose name do the messages go out?
+- Which channels are in the fee? Which ones are scoped on their own?
+- How is the list built? Can you see and edit it before anyone is contacted?
+- What happens to the list, the messages and the reply threads if you stop?
+- How are fees set: a monthly fee, a success fee, a mix or a software seat?
+- How long must you stay in? How do you end the work?
+- Where does the firm stop: first conversation, intro call, letter of intent or close?
+
+If two proposals look similar, compare the sample messages and the definition of a qualified conversation. A firm that counts every reply as a success will look busier than a firm that only counts owners inside your buy box who agreed to talk. Ask for the definition in writing before the first month starts.
+
+## Fee models you will see
+
+You will mainly see four ways to pay. Some firms use one. Some offer more than one. This section describes the structure only. It does not invent typical fees, close rates or "cost per deal" figures. It does not treat a number on a third-party blog as a fact.
+
+- A monthly fee for a defined program, sometimes called a retainer or a subscription. You pay for the work whether a deal closes or not. The test is whether the scope, the channels and the definition of a qualified conversation are clear.
+- A success fee paid when a named event happens, such as a meeting, a letter of intent or a closed deal. Upfront cost can be lower. The incentive may tilt toward volume. The fee on a closed deal can dwarf a monthly program.
+- A mix: a smaller monthly fee plus a success fee. You are paying both for the work and for an outcome. Read both parts before you compare it with a flat monthly fee.
+- A software seat. You pay for data or a workspace. Outreach is still your team's job unless you buy a managed program on top.
+
+Be Leaded uses a monthly program fee. Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. The exact figure depends on how large the mandate is and which channels you want. You will have it after a 30-minute call. See current program pricing (/pricing/). Month to month, no long-term contract.
+
+When a firm does not publish a price, do not guess one. Ask what is in the fee, what is not, whether there is a minimum term and whether a success fee applies to deals you were already working. Get that in writing. A missing price on a website is not a reason to invent a range.
+
+## Email, LinkedIn and calling
+
+Email is the usual opening channel for this work in the United States. It leaves a record, it scales across a thesis and it lets an owner reply in their own time. The quality of the send matters: domains, authentication, list hygiene and a message that sounds like the buyer, not like a blast. If a firm cannot explain how mail is set up and how bounces are handled, the rest of the pitch is ahead of the basics.
+
+LinkedIn is a useful second channel when the owner is active there. It also helps when a short note after an email makes the buyer look real. It is slower than email and it is a poor primary channel if the mandate needs broad coverage. It still helps when a fund or sponsor wants the first touch to feel like a person at the firm, not only a mailbox.
+
+Calling is a different product. It can open doors that a written note does not. It needs a brief, a callback rule and a person who can speak about the thesis without wandering. At Be Leaded, calling is priced on its own, apart from the email and LinkedIn work. If another firm bundles calling, ask who places the calls, in whose name and how you will hear the results. If calling is an add-on, ask for that quote on its own so you can compare programs fairly.
+
+## What the first month of a program usually looks like
+
+The first month is mostly setup. That is normal. It is also the part buyers often underestimate. You should leave the kickoff with a written buy box, a definition of a qualified conversation, a rule about whose name appears on the messages and a date for the first approved send. If those four items are missing, the month will drift.
+
+Week one is usually the mandate. You walk through sectors, size, geography, ownership and any companies the firm must not contact because you already know them. The firm should come back with a list plan you can see: the filters, the sources and a rough sense of how many companies fit. You do not need a finished list on day two. You do need to see how the list will be built.
+
+Week two is usually the list and the copy. You review names, drop the ones that are wrong and add any owners you already wanted in the set. You also review the first messages and the follow ups. Approve them in writing. If a firm wants to start sending before you have seen both the list and the copy, slow it down. A send you did not approve is hard to undo once an owner has read it.
+
+Week three is often the first send, if the domains, the inboxes and the list checks are ready. Most programs go live in about three weeks when those pieces are in place. Early replies can start in this stretch. Bounces and bad contacts also show up here. A good firm will clean those quickly and tell you what changed in the list.
+
+Week four should look like a real weekly rhythm: new contacts added inside the same thesis, follow ups going out, replies sorted into conversations you should take and replies that are not a fit. By the end of the month you should have a simple report: who was contacted, who replied, which conversations are live and what will happen in month two. If the report only shows activity counts, ask for the conversations themselves. If a fund is running more than one thesis, the report should keep those theses apart so an add-on conversation is not mixed into a platform search. That habit is easier to start in month one than to repair later, once the inbox is already crowded.
+
+Independent sponsors should use this first month to test how the firm introduces the sponsor. Read those sentences out loud. If they dodge the question of who the buyer is, fix the copy before the second month. Funds should use the first month to test routing: who on the deal team gets the reply. Check how an add-on thesis is kept separate from a platform thesis.
+
+## What you should keep after a program starts
+
+Before you sign, ask what remains yours. The minimum you should keep is the target list, the approved copy, the send record and every reply thread. If the firm contacted owners in your name, those conversations belong with the mandate, not in a black box you lose when the month ends.
+
+Ask how the firm prevents your list from being reused for another buyer. Exclusive use of a list, for a defined period, is one way to handle this. A marketplace or a matching service is a different model: the same company might be shown to more than one buyer. Neither model is automatically wrong. You just need to know which one you are in, especially if proprietary coverage is the reason you hired the firm.
+
+Also ask who owns the sending domains, the inboxes and the LinkedIn seats used on the program. If those sit entirely inside the firm's account, you may have trouble continuing the work yourself later. If they sit under your brand, confirm that you can keep them and that the firm will hand over the credentials and the threads in a usable form.
+
+## Questions to ask before you sign
+
+A first call should leave you with answers to the items below, not only with a follow-up deck. If a firm cannot answer them, wait.
+
+- How will you turn our thesis into a list? Which sources will you use?
+- Can we see the list and the messages before the first send?
+- In whose name does outreach go out? Who replies when an owner writes back?
+- What is a qualified conversation on this mandate, in one sentence?
+- Which channels are in the monthly fee? What would calling cost if we want it?
+- Is there a minimum term? How do we stop at the end of a month?
+- Do you charge a success fee? On which event?
+- Will this list be used for any other buyer while we are working it?
+- What do we keep if we leave: names, copy, domains and reply threads?
+- How do you describe an independent sponsor to an owner if that is who we are?
+- How would you handle an add-on thesis that should be signed by a portfolio company?
+- When should we expect the first approved send? What has to happen before then?
+
+Write the answers down in your own words and send them back to the firm. If the written version drifts from what you heard, fix it before the first invoice. Most later disputes are about scope, exclusivity or the definition of a qualified conversation, not about whether someone "tried hard."
+
+## Signs a firm may not fit
+
+Walk away or narrow the test if you see the patterns below. None of these is a moral judgment. They are mismatches that waste a quarter.
+
+- The firm will not show sample messages written in a buyer's name. Or the samples could be sent to any owner in any sector.
+- The proposal counts "leads" or "touches" and never defines a qualified owner conversation.
+- The only coverage on offer is a feed of brokered deals, sold as if it were proprietary search.
+- You cannot get a straight answer on term, success fees or what you keep if you stop.
+- The firm wants to contact your targets before you have seen the list.
+- The same owner would be eligible for several of the firm's other clients at the same time. No one will say so plainly.
+- You are an independent sponsor and the firm has no example of how it introduces a sponsor to an owner.
+
+A short paid trial on one tight thesis can be a reasonable way to test a firm, as long as the trial uses the same channels and the same definition of success you would use on a full program. A trial that only produces a spreadsheet of names does not tell you whether the outreach will work.
+
+## Firms in this category, in alphabetical order
+
+The firms below appear in alphabetical order. That order is not a ranking. Each note is limited to what the firm's own public pages said when they were opened on November 17, 2026. Claims from other comparison blogs are not repeated here. If a page did not support a claim, the claim was left out.
+
+Firms are included only where an official site could be opened and checked. Software platforms are labeled as such so they are not mistaken for managed outreach.
+
+Be Leaded is listed with the others, in the same alphabetical pass, so a reader gets a consistent description rather than a hidden pitch at the bottom of the page.
+
+## Axia Growth
+
+On its homepage (https://axiagrowth.com/), Axia Growth presents the firm on that page as an M&A deal-sourcing firm for the lower middle market. The same page says it offers buy-side retained search and a buyer database for private equity firms, family offices, holdcos and searchers. It also describes sell-side seller lead generation. In short, it works both sides of the table, which you should factor in if you want a firm that only represents buyers.
+
+The homepage FAQ says Axia works on the buy side with search funds, private equity, family offices, holdcos, strategic acquirers, investment banks and business brokers. It also says a campaign for a buy box is exclusive: no other buyer gets that list. On calling, the page says the callers are named and U.S.-based. It also says a qualified meeting is an owner inside the buy box on the calendar with revenue verified. A public monthly price was not found on the pages opened for this guide.
+
+Axia may fit a buyer who wants retained search plus a claim of list exclusivity and is comfortable with a firm that also generates seller leads. If you only want buy-side representation, ask how sell-side work is separated from your mandate.
+
+## Be Leaded
+
+Be Leaded runs buy side owner outreach for private equity funds and independent sponsors who need off-market companies to buy. The program builds a list to your thesis, writes messages in your name and books conversations. Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. Month to month, no long-term contract.
+
+Most programs go live in about three weeks, once the mandate, the list rules and the copy are agreed. You approve the messages before they go out. The contact file and every reply thread stay yours. We do not advise on valuation, diligence, deal terms or capital. Price, financing and the close stay with you and the advisors you already use. The monthly starting price and the channels in the fee are the same ones named earlier on this page.
+
+Choose Be Leaded when you want a managed email and LinkedIn program, a clear monthly fee and the ability to stop at the end of a month. Choose a different firm when you want a success-fee search through close, a software login you will operate yourself or a house that also runs sell-side processes. Book a 30-minute call (https://calendly.com/ahmad-beleaded/30min) if you want to test a mandate against that line.
+
+## CAPTARGET
+
+CAPTARGET's homepage (https://www.captarget.com/) presents the firm as a fixed-cost deal origination and buy-side offering. The page says CAPTARGET runs origination under your brand, sources off-market founders who fit stated criteria and stays in touch with "12K+ on-market intermediaries." The channels named on the homepage are off-market email, direct calling and banker or broker coverage. The page also states a "100% US-based calling team" and "15+ years of deal sourcing experience." It markets the work as a way to add owner and banker meetings without paying success fees.
+
+A November 17, 2026 open of CAPTARGET's own announcement, CAPTARGET Joins SourceCo to Build the Next Generation of Buy-Side Deal Origination (https://www.captarget.com/insights/captarget-joins-sourceco-to-build-the-next-generation-of-buy-side-deal-origination), says CAPTARGET has joined SourceCo, continues to operate under the same name, model and San Diego office. Founder Gabriel Galvez continues as CEO. A companion announcement page (https://www.captarget.com/insights/captarget-joins-sourceco) describes the client model as a flat retainer with no success fee. It says the combination sits alongside other fee structures under common ownership. A public monthly dollar price was not found on the pages opened for this guide.
+
+CAPTARGET may fit a buyer who wants managed origination under the buyer's brand, a published no-success-fee model and both off-market outreach and intermediary coverage. Because the firm has joined SourceCo, ask how a new mandate is staffed, which brand you will work under and whether any marketplace or matching product shares targets with other buyers.
+
+## Grata
+
+Grata is a software product, not a firm that contacts owners for you. The Grata homepage (https://grata.com/) describes Grata Intelligence as an M&A workspace for finding companies, researching markets and connecting workflows. That is a data and workflow purchase. Your team still has to run the outreach unless you hire someone else to do it.
+
+The pricing page (https://grata.com/pricing) lists plans for deal teams. One plan is described as a fit for family offices and independent sponsors and is framed around private company data, contacts and search tools. Public plan prices were not posted in dollar amounts on the page opened for this guide. The same page also states that Grata and Sourcescrub are joining forces. Treat that as a product combination to ask about, not as outreach capacity.
+
+Grata may fit a deal team that wants to build and work its own list. It does not replace a buy side deal sourcing firm if the gap you are hiring for is the outreach itself.
+
+## Harvey & Company
+
+Harvey & Company is based in Newport Beach, California, at harveyllc.com (https://harveyllc.com/). The homepage describes the firm as a buy-side acquisition search and advisory firm and states that it has been initiating buy-side transactions since its founding in 1998. The page also publishes counts of closed and initiated transactions. Those counts are the firm's own figures and are not checked here.
+
+The acquisition search page (https://harveyllc.com/acquisition-search/) says Harvey & Company serves as an advisor to a select group of corporations seeking to grow by acquisition. Those clients are often private-equity backed or publicly traded, with family-held companies also named. Services listed on that page include working with management to identify acquisitions, managing outreach to primarily founder- and family-owned businesses and facilitating discussions on attractive opportunities. A public monthly price was not found on the pages opened for this guide.
+
+Harvey & Company may fit a buyer that wants a retained search and advisory relationship, not only a monthly outreach program. Ask how a mandate is staffed, whether the firm also advises on the transaction itself and how that advisory role is billed. Do not treat the firm as a software platform or as a mass email vendor. Its own pages describe a search and advisory practice.
+
+## Kiya
+
+Kiya's homepage (https://www.kiya.co/) says the firm "sources off-market acquisitions for independent sponsors, PE platforms and strategic acquirers." The page is written around the first conversation with an owner. It says a founder leads each call. It also says the team stays small so each owner gets that kind of call. Yannick Lorenz is named as founder.
+
+The site does not publish a monthly price, a success-fee schedule or a list of channels beyond the conversation it describes. It also does not read like a high-volume coverage shop. If you need a small number of carefully introduced conversations and you want a founder on the first call, Kiya is in the set worth asking. If you need broad coverage across a large add-on map, ask whether the firm will take that work before you assume it will.
+
+## OutSearched
+
+OutSearched's homepage (https://outsearched.com/) describes OutSearched as an Austin, Texas firm that runs buy-side origination and advisory work for buyers in the lower middle market. It says the firm reaches owners directly, often before a formal process exists. It stays engaged through qualification, a letter of intent and close. Clients named on the page include private equity firms, family offices, independent sponsors, search funds and corporate development teams, typically on mandates involving 1 to 10 million dollars of EBITDA.
+
+The page outlines more than one way to work together, including a model described as a fixed retainer plus a success fee. It states that a deal team can be ready in 21 days. It also compares the offering with hiring in-house business development or buying a software subscription. Public monthly dollar prices were not posted on the pages opened for this guide. Performance figures published on the homepage are the firm's own and are not repeated as facts here.
+
+OutSearched may fit a buyer who wants origination and help through a letter of intent, not only a first meeting. Ask where the advisory work starts and ends, how the success fee is triggered and whether you can buy outreach without the advisory layer.
+
+## SourceCo
+
+SourceCo's official site for this work is sourcecodeals.com (https://www.sourcecodeals.com/), not sourceco.com, which is a different company. The SourceCo homepage describes buy-side acquisition search and off-market M&A deal sourcing. It says SourceCo connects business owners with buyers and that owners do not need to hire a broker or sign a contract. It also says SourceCo "never charges company owners for anything (we're compensated by the buyer)." The page also describes a marketplace that connects vetted buyers with off-market founder-led deals. It says access is invite-only.
+
+The private equity page (https://www.sourcecodeals.com/private-equity) lists private equity, corporate development, family offices and "search funds and independent sponsors" among the buyers SourceCo works with. On that page, search funds and independent sponsors are described as served by CapTarget, a SourceCo company. The same site describes market mapping, outreach and first owner calls as part of how deals are sourced.
+
+SourceCo's announcement that it acquired CAPTARGET (https://www.sourcecodeals.com/blog/sourceco-acquires-captarget) says SourceCo was founded in 2022 by Tomos Mughan and Daniel Kobayashi, is headquartered in Miami and provides retainer-based sourcing services to buyers running active acquisition programs, alongside the marketplace. If you talk to SourceCo, ask which product you are being offered: managed outreach, marketplace access, a CAPTARGET program or a mix. Ask whether a company you care about could be seen by other buyers in the marketplace.
+
+## Visbl
+
+Visbl's homepage (https://visbl.io/) describes the company as a managed email outreach service: "Email outreach to the businesses you want." The page is not limited to private equity. It presents a fully managed outbound system and shows example replies, including replies labeled as coming from search funds, independent sponsors and other businesses. A public monthly price was not found on the homepage opened for this guide. A dedicated private equity service page was not found at a public URL.
+
+Visbl may belong in a comparison if you want managed email outreach to business owners and you are ready to judge a general outbound firm, not a dedicated deal advisory shop. Ask how lists are built for a buy box, in whose name mail is sent and how the firm handles a thesis that is about a sale conversation rather than a vendor sale. Do not treat homepage reply examples as a track record for your mandate.
+
+## How to use this list without treating it as a ranking
+
+Alphabetical order makes the list easy to scan without implying a winner. It is not a score. A retained advisory search, a monthly outreach program, a marketplace and a software seat can all be the right purchase for someone and the wrong purchase for you.
+
+A practical way to use the list is to drop any firm whose model you do not want, then take the remaining two or three through the questions above with your actual thesis on the table. Ask each one to show a sample list sketch and two sample messages. The firm that can do that in your sector, in your name, without vagueness, is usually the one to try first.
+
+If you arrived here from a question like "best M&A deal sourcing company," split the question before you hire. If you are a fund or a sponsor buying companies, stay on this page. If you are an advisor who needs seller meetings, use the advisor comparison linked earlier. If you are a broker who needs buyers for a listing, use the buyer outreach page linked earlier. That split is the main way this page stays useful and does not steal answers from a different job.
+
+## Where Be Leaded fits on a buy side mandate
+
+Be Leaded fits when a private equity fund or an independent sponsor wants off-market owner outreach run as a monthly program in the buyer's name on email and LinkedIn. It also fits when you want to pay a published starting price rather than a success fee on a close. Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. Month to month, no long-term contract.
+
+It is a weaker fit when you want a house that will advise you through a letter of intent and a close, when you only want a database login or when you want a firm whose main product is a marketplace of owners already in motion. Those models are real. They are just not this program.
+
+If you want to see whether a thesis is a fit, book a 30-minute call (https://calendly.com/ahmad-beleaded/30min) and bring the sectors, the size range and a sentence about who should appear as the buyer. We will tell you if we can run it. If we cannot, we will say that on the same call.
+
+## Frequently asked questions
+
+Q: What are the best buy side deal sourcing firms for private equity funds and independent sponsors?
+A: No one firm is the right hire for every mandate. Compare firms on who they serve, how they contact owners, what is in the fee, what you keep and whether the model is a monthly outreach program, a retained search, a marketplace or a software seat. Be Leaded is a monthly owner outreach program for funds and sponsors who need off-market companies to buy. Month to month, no long-term contract.
+
+Q: What does a buy side deal sourcing firm do?
+A: It works for the buyer. It turns a thesis into a list of companies, contacts the owners and books conversations, usually before a formal sale process starts. The valuation work, the diligence, the terms and the capital raise stay with the buyer.
+
+Q: Is Be Leaded a buy side deal sourcing firm for private equity?
+A: Yes. Be Leaded runs owner outreach for private equity funds and independent sponsors who need off-market companies to buy, which is M&A deal flow generated by direct contact rather than by waiting on banker processes.
+
+Q: Do you also work with independent sponsors?
+A: Yes. The outreach work is the same job, with more care about how the sponsor is introduced to an owner and about how the program can refocus when a live deal takes over the week.
+
+Q: How is this different from a data platform such as Grata?
+A: A data platform sells company data and tools. Your team still has to contact the owners. A deal sourcing firm is hired to run that outreach or a defined part of it.
+
+Q: How much does Be Leaded charge for buy side deal sourcing?
+A: Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separately. The exact figure depends on the mandate and is set after a 30-minute call.
+
+Q: Is there a long-term contract?
+A: Month to month, no long-term contract. You can stop at the end of a month. The contact file and every reply thread stay yours.
+
+Q: Who are CAPTARGET, Harvey and SourceCo?
+A: CAPTARGET is a deal origination firm that has joined SourceCo and describes a flat retainer with no success fee. Harvey, in this category, is Harvey & Company, a buy-side acquisition search and advisory firm founded in 1998. SourceCo, at sourcecodeals.com, offers buy-side search, a buyer-paid model for owners and a marketplace of founder-led deals. It also owns CAPTARGET.
+
+## Talk through the companies you want to buy
+
+Bring the sectors, size range and regions you want covered. Add any owners already on your list. We will tell you on the call whether owner outreach fits your plan and what a first program would involve. Month to month, no long-term contract.
+
+---
 URL: https://www.beleaded.com/month-to-month-lead-generation/
 
 - Home
@@ -16951,6 +17658,204 @@ Pharma campaign? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30m
 
 ---
 
+URL: https://www.beleaded.com/retail-paid-social-agency/
+
+Published: 2026-11-15
+Updated: 2026-11-15
+
+- Home (https://www.beleaded.com/)
+- Services (https://www.beleaded.com/services/)
+- Retail paid social agency
+
+# Paid social for retailers: stores and online
+
+By Ahmad Khan, founder of Be Leaded. Published November 15, 2026. Updated November 15, 2026.
+
+A retail paid social agency plans and runs ads on social platforms such as Facebook and Instagram so a retailer's products reach people who can buy them, in a store, online or both. Before any proposal, we discuss which locations and products should carry the campaign and what your team can actually measure.
+
+Discuss your retail campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=retail-paid-social-agency)
+
+30 minutes: fit for your market + what a campaign looks like. No pitch deck.
+
+## What a retail paid social agency does
+
+The work covers which stores and products to promote, how the product catalog feeds the ads, how store and online sales are read back against the ads and how changes are agreed with your team.
+
+For a retailer the hard parts are stock that changes daily, promotions that start and stop and sales that happen at a till the ad platform never sees. The sections below take each of those in turn.
+
+## Decide what each campaign should do
+
+Bringing people into a store and selling online are different jobs. A store campaign is local and depends on opening hours, stock in that store and how far people will travel. An online campaign depends on delivery, returns and checkout. Retailers pursuing both goals may need different ads and destinations. On the call we look at which goal matters most for your next campaign.
+
+## Which social channels suit a retailer
+
+Facebook and Instagram, both run through Meta, are the usual starting point because one catalog and one set of sales data can serve both. TikTok suits products that show well in a short video, such as a try-on, an unboxing or a quick demonstration. Pinterest suits shoppers who save ideas before they buy, such as home goods, gifts or seasonal items. YouTube suits products that need a longer explanation.
+
+We talk through which of these your shoppers use and whether your team has the creative and the data to support more than one channel. Learning from one or two channels first is often more useful than spreading a first campaign across five.
+
+## Start with the stores that matter
+
+Not every location needs the same push. We discuss which stores have the stock, staff and room for more customers, and which areas you want to grow, so ads point people to a place that can serve them.
+
+## Opening a store or running a local event
+
+A new store, a relocation or an in-store event is a local job. The people worth reaching live within an easy trip of that address, and the ad should say what is actually there on the day, such as the range, the event or the opening hours.
+
+We talk through how far your customers realistically travel, whether neighboring stores should be kept out of the plan and how your team will handle extra footfall. Where a store has little spare capacity, the better move may be to hold the push until it can serve more people.
+
+## Promote what you can sell
+
+Promoting an unavailable product can waste a visit and disappoint a customer. We talk through how your team confirms local and online availability before a promotion runs, and how promotions change when stock runs low.
+
+## Product ads that follow stock
+
+Meta's Help Center explains that ads with product media, previously called Advantage+ catalog ads, show each person the most relevant products from your catalog based on their interests, intent and actions online. The ads draw on your product data, so they are only as current as that data is.
+
+Every product in a catalog has an availability field, and Meta lists in stock and out of stock as the supported values. Products marked out of stock are not shown in ads, although they stay visible in shops on Facebook and Instagram, marked as sold out. The practical way to avoid advertising an empty shelf is a catalog whose availability is kept up to date.
+
+Our view is that a store-based retailer has an extra question to settle. A catalog may hold one availability value per product and not one per store, so we ask what your feed represents before a campaign leans on it. This is our own reading, not a Meta statement.
+
+## Keeping the product feed current
+
+Meta can fetch your product file on a schedule, hourly, daily or weekly. It offers an update schedule that changes existing products quickly and a replace schedule that refreshes the whole catalog, and the two can be used together. Meta's developer guidance for an update schedule is to mark items out of stock instead of deleting them, so Meta can show a person similar items that are still available.
+
+Price follows the same path. Price and sale price are fields in the feed, a sale price must be lower than the full price or it will not be shown, and Meta recommends adding a sale price effective date to control when the sale price appears. Meta suggests timing an upload shortly after your own feed refreshes.
+
+We ask how your feed is produced, who owns it and how often it changes, because a feed that breaks when stock changes can leave product ads showing the wrong items.
+
+## Matching product IDs between feed and site
+
+Meta states that, for catalog ads, the ID of a product in the catalog must exactly match the content ID for the same product in the Meta Pixel code on your website. Meta suggests using the product's SKU where possible and says each content ID should appear only once in the catalog.
+
+A mismatch is easy to create. A platform migration, a renamed SKU or a bundle sold under a new code can all separate the feed from the site. We would ask for a short list of sample products and check that the same ID shows in the feed and in the purchase events before any spend goes behind a catalog campaign.
+
+## Keep sale messages honest
+
+A sale works when the saving is real. If a campaign shows a reduced price, the original price should be one you genuinely charged for a meaningful period. Your team confirms prices and terms before ads run.
+
+## Planning around promotions and seasonal peaks
+
+Retail demand moves with the calendar. We ask for your promotion dates, supplier deadlines and the weeks when stock is tightest, then work backward so ads start when products are on the shelf and stop when they are not.
+
+A promotion that applies only in store should not send people to checkout, and an online offer should not leave store staff unaware of it. We ask who tells each store about an offer and who ends an offer in the feed, because a sale price left running after the sale ends misleads shoppers.
+
+## Creative for a retail shelf
+
+Retail creative has two jobs. Some ads show a product clearly, and others show a place, a person or a moment around it. Meta's Help Center notes that when product videos are in a catalog, Meta shows either product images or videos based on what a person is more likely to respond to, and falls back to the image if a product has no video.
+
+We discuss which products your team can film or photograph in a useful way, what store staff or customers could contribute with their agreement and how your approvals work. If creators are involved, we ask how paid relationships will be disclosed and which product claims your team has approved.
+
+## Be clear about measurement
+
+Orders placed on your site are simpler to link to ads, yet some will never be seen: customers who decline tracking, browsers that restrict it and the attribution settings you pick all leave gaps, and a tracked order is not proof that an ad caused it. Store purchases are harder still, and what you can see depends on your point of sale and data setup. Together we decide which signals are worth watching and what each of them can and cannot tell you.
+
+## How store sales get tied back to ads
+
+An ad platform sees the click but not the till. To connect store purchases to ads, sales data has to travel from your point of sale to the platform. Meta's Help Center describes uploading interaction data from your store or locations to Meta Events Manager so that offline events and transactions can be attributed to your Meta ad campaigns.
+
+Meta's developer documentation covers sending these store events through the Conversions API with the action source set to physical store, and sets a limit on how long after a purchase a store transaction can still be uploaded. A purchase event carries a value and a currency, and Meta matches it to a person using customer information such as a hashed email address or phone number. Meta has announced the discontinuation of its older Offline Conversions API and recommends uploading events to datasets through the Conversions API instead, so guides that mention offline event sets may be out of date.
+
+This route depends on what your shop collects at checkout and on the consent customers have given. If you collect little customer information, it will show less, and that is a useful thing to know before anyone plans around it. Whether we would help set this up is decided in the proposal, after fit is confirmed.
+
+## Questions to ask your point of sale provider
+
+Store measurement depends more on the data than on the ad account. Before a campaign is planned around store sales, we suggest your team asks the provider behind your tills a short list of questions.
+
+Can it export each sale with an order or receipt ID and a precise timestamp? Meta's guidance asks for both. Can it export the store location with each sale, and does it hold a customer email or phone number only where the customer agreed to that use? Can the export run daily or more often? Meta recommends uploading in real time or daily so offline data can be matched against the ads you are running. Are refunds and exchanges in the export or separate?
+
+The answers shape what can honestly be reported. They also tell us whether store measurement is practical now or whether a simpler signal is the better starting point.
+
+## Reading online orders with the Meta Pixel and Conversions API
+
+For web orders, Meta's documentation says events sent through the Conversions API are linked to a dataset ID and processed like events sent with the Meta Pixel, so the two feed the same place. What we check on a retail site is whether purchase events carry product IDs that match your catalog, because ads built from a catalog rely on that match.
+
+We also ask who maintains the site tags, since a checkout change by a developer can quietly stop events from firing. Meta's Ads Data Advisor can be used to check that a pixel is sending the events a catalog needs.
+
+## Testing whether ads changed sales
+
+Meta describes Conversion Lift as a controlled experiment that divides an audience into a test group, who have the opportunity to see your ads, and a control group, who do not. The difference in conversions between the groups reveals the lift caused by the presence of the ads.
+
+For a retailer with several stores, our method is to compare stores in areas that received ads with similar stores that did not. That is our own approach and not a Meta feature, and it shows a difference between stores, not proof of cause. Either approach needs a good volume of sales before a result means anything, so the question is whether a test is realistic at your size or whether site orders, store locator clicks and your own sales trends are the honest signals for now.
+
+## Splitting budget between stores and online
+
+Ad spend is agreed separately and is not covered here, but how it is divided is worth a plain conversation. We look at where stock and staff can take more customers, which products carry healthy margins once shipping and returns are counted and which stores are ready for extra visits.
+
+A product that sells well online can cost more to return than it earns, and a product that sells well in one region may not stock in another. Budget follows those facts. Your team keeps the final say on where money goes.
+
+## Click and collect, delivery and returns
+
+Online orders add commitments that ads must honor. If ads mention collection in store, the store must be ready to hand over the order. If they mention delivery times, the dates must match what your carrier and warehouse can actually do. If they mention returns, the policy shown must be the policy you apply.
+
+We ask your team to confirm these terms before ads run and again when terms change. If a stock shortage or carrier problem pushes dates out, ads that mention them need to change with them.
+
+## Paid social next to marketplaces and retailer ad networks
+
+Some retailers also sell through marketplaces or advertise on other retailers' own sites. Those networks sell on their own platforms, while paid social can send people to your site or your stores. They are different channels with different data.
+
+We ask where each of your products is sold and at what price, because social ads that lead shoppers to a listing with a lower price elsewhere work against you. We also keep reporting for each channel separate, so a sale is not counted twice.
+
+## Reaching shoppers who have bought before
+
+People who have already bought from you can be reached through paid social and through channels you own. If you hold an email or phone list with the right permission, our email and SMS programs (https://www.beleaded.com/newsletter-agency/) cover newsletters and texts for brands with a list to work.
+
+We ask what you collect at checkout, what customers agreed to and whether store and online customers are in one record or two. That decides what a repeat purchase campaign can sensibly aim at.
+
+## How an engagement runs
+
+It starts with a scoping call about your stores, your online shop, your catalog and what you can see in sales data. If there is a fit, we write a proposal covering the channels, the job of the first campaign, the creative needed, the catalog and tracking work that is in scope and the way results are reported back. You read and agree it before anything is built.
+
+Ads are drafted for your review and nothing is published until you approve it. After launch we send the signals named in the proposal, and any change to creative, audiences, the catalog or spend is put to you first. The pieces that depend on your point of sale or website developer are listed in the proposal, so it is clear who owns each one.
+
+## What we need from your team
+
+A campaign moves faster when a few things are ready: access to your ad account, catalog and pixel or dataset, a contact for your point of sale data, your promotion calendar, the names of the people who approve prices and claims and a list of the stores that should be in the plan.
+
+If some of these are missing, we say so on the call. A first campaign can begin with the simpler pieces, and store measurement can be added later.
+
+## Who this fits and who it does not
+
+It tends to fit retailers who have a product range, a way to share stock and price data and a team that can approve ads and stand behind what the ads say. It fits both multi-store retailers and shops that sell only online.
+
+It may not fit a business with no product data to share, no one to confirm stock or an expectation that ads alone will settle a pricing or range problem. We say that on the call instead of building a plan around it.
+
+## Common questions
+
+Can ads be linked to what people buy in our shops?
+Ad reports alone will not show it. Till data has to reach the platform from your point of sale, or a controlled experiment has to be run, and each route depends on the data you hold. We discuss which of them is realistic for your business.
+
+Do we need a product catalog to run retail ads?
+Not for every campaign. Ads with your own images or video can run without one. Ads that show different products to different people draw on a catalog, and they work best when it matches the products on your site.
+
+What happens to an ad when a product sells out?
+If the catalog marks the product as out of stock, Meta does not show it in ads. That depends on the feed being current, so we ask how often your stock data updates and who is responsible for it.
+
+Can ads promote one store instead of the whole chain?
+Yes, that can be discussed. A single store with spare capacity, a new opening or a local event can have its own plan. We look at stock, staff and how far people will travel before setting it up.
+
+Will you set up our in-store tracking or point of sale feed?
+That is not assumed. Who does the point of sale work, you, your provider or us, is set out in the proposal once fit is confirmed. Some of it can only be done by the people who run your tills.
+
+How do sales and discounts show in the ads?
+In catalog ads, price and sale price come from your feed, and Meta recommends a sale price effective date to control when a sale price shows. Your team confirms prices and terms before ads run and removes a sale price when the sale ends.
+
+We only sell online. Is this page still for us?
+Yes. The sections on the catalog, the feed, online orders and promotions apply. The store sections matter if you add shops or pop-ups later.
+
+## Bring this to the first call
+
+Your store locations, online shop, what sells where, upcoming promotions, current advertising and how you track store and online sales today.
+
+Scope and pricing are agreed after we assess fit. Ad spend is agreed separately.
+
+Discuss your retail campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=retail-paid-social-agency)
+
+To see the wider range, read our overview of paid social and search (https://www.beleaded.com/paid-social-agency/) services.
+
+Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=retail-paid-social-agency)
+
+---
+
 URL: https://www.beleaded.com/cpg-paid-social-agency/
 
 Published: 2026-11-13
@@ -17034,3 +17939,200 @@ Discuss your CPG growth plan (https://calendly.com/ahmad-beleaded/30min?utm_sour
 For our wider services, see our paid social services (https://www.beleaded.com/paid-social-agency/) page.
 
 CPG brand? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=bookbar&utm_content=cpg-paid-social-agency)
+
+---
+
+# Appointment Setting for Commercial Roofing Contractors | Be Leaded
+URL: https://www.beleaded.com/appointment-setting-for-commercial-roofing/
+Updated: 2026-11-17
+
+Appointment setting for commercial roofing contractors
+
+Be Leaded books sales meetings for commercial roofing contractors with facility managers, property managers, building owners and general contractors.
+
+Appointment setting for commercial roofing contractors is outreach we run for you that books a qualified sales meeting with a facility manager, property manager, building owner or general contractor. Be Leaded does this for commercial roofs only, not for homeowners or residential jobs.
+
+## What appointment setting for commercial roofing contractors means
+On this page, appointment setting for commercial roofing contractors means a program that finds the people who choose a roofer for a commercial building, runs outreach in your company's name, checks that the person and the property match rules you set and places a meeting on your sales calendar. The meeting is usually a roof review, a walk of the property or a first conversation about repair, replacement, recover or coating work. It is not a purchased list of names, not a homeowner lead from an ad and not a bid written on your behalf.
+
+Be Leaded runs that program as done-for-you work: the list, the written outreach, the calls when you want calling included and the booking itself. Your estimators and salespeople still go to the building, still inspect what they need to inspect and still write the proposal. The job of this page is to say exactly where our work starts and where it stops, so a commercial roofer can tell whether the motion fits the way that company sells.
+
+A commercial roofing sale rarely turns on a single inbound form. The buyer may manage many sites, already have a roofer on file and move only when a leak, a planned capital project or a coming fiscal year makes the roof a priority. Appointment setting is the work of starting a conversation with that buyer in your service area, on buildings you can actually crew, before your estimator spends a morning on a site that was never in play.
+
+## This page is for commercial roofs only
+Commercial roofing and residential roofing are sold in different ways, to different people, on different calendars. This URL is only for contractors who sell to commercial buildings. It does not book jobs with homeowners, does not run ads for a seasonal offer and does not follow up a web form with a text to a household.
+
+Be Leaded already publishes a separate page for home services companies, including residential roofing, that is built around ads, consent on the form and fast follow-up to a homeowner who asked for a quote. If that is the work you want, read marketing for home services companies (/industries/home-services/). Do not treat this commercial page as a second version of that writeup. The audiences, the channels and the definition of a booked meeting are not the same.
+
+Property managers appear in both conversations, which is why the split has to be explicit. On the home services page, property managers and small commercial accounts are a side motion for companies whose main book is still households. On this page, property managers, facility managers, building owners and general contractors are the buyers. The meeting is about a commercial roof, a commercial budget and a vendor decision that may involve more than one person at the account.
+
+If your company does both residential and commercial work, keep the two motions apart. Residential demand is a different page and a different program. This page stays with commercial roofs so the query, the list and the calendar holds do not get mixed with homeowner estimate requests.
+
+## Who signs off on a commercial roof
+The person worth putting on the calendar is the person who can move a roofing vendor decision or put your estimator in front of the people who can. You name those titles in the brief. The titles commercial roofers most often want are listed below, with the job each one usually holds in the decision. None of this is a claim that every building uses the same chain of approval.
+
+A facility manager or facilities director often lives with the roof every day. They hear about leaks, know how the roof is accessed, keep the maintenance history and care about disruption to tenants or production. A conversation with them is frequently the first useful meeting, even when a later signature sits with someone else.
+
+A property manager may cover one building or a portfolio. They care about tenant complaints, vendor performance, access rules and whether a new contractor can be added to an approved list. They may not release capital on their own, but they often control who is allowed on the roof and who is invited to bid.
+
+A building owner, whether a private owner, a partnership or a corporate real estate lead, cares about the asset, the capital plan and the cost of putting the work off. When the brief includes owners, the outreach has to speak to the building and the plan, not only to a maintenance ticket.
+
+A general contractor may be assembling a bid list, replacing a trade partner or looking for a roofer who can meet a schedule on a project already in motion. Reaching a GC is a different conversation from reaching a facility manager. It belongs in the brief only when you actually want that meeting.
+
+Some programs also include asset managers, real estate investment staff or a warehouse or plant manager, when those roles are the ones who select roofing contractors for the sites you want. The brief can name them. The brief can also exclude titles you do not want to visit, such as a maintenance technician who cannot invite a contractor on site.
+
+Commercial roof decisions often involve more than one of these people. A meeting can still be worth taking when the first person on the calendar is the one who can bring the others in, as long as that is the rule you wrote down. We do not invent a buying committee or a typical approval path. We reach the titles you approve and we record who else would need to be involved when the person on the call tells us.
+
+## Building types and roof systems the list can follow
+The list is only useful if it matches the work your crews actually do. Before outreach starts, you set the building types, the geography, the smallest roof worth a visit and the systems you want to talk about. Those rules are filters for research, not a catalog of services Be Leaded performs. We do not install, coat or recover roofs.
+
+Building types that often appear in a commercial roofing brief include office buildings and campuses, warehouses and distribution centers, retail and shopping centers, manufacturing and other industrial plants, schools and other campuses, hospitals and medical buildings, hotels and hospitality sites and municipal or other public buildings when you bid that work. You can narrow this list. You can also add a type that matters in your market, such as cold storage or a parking structure, when that is a real part of your book.
+
+Roof systems work the same way. Many commercial contractors focus on thermoplastic membranes such as TPO, on EPDM, on metal, on modified bitumen or on coatings and recover work over an existing roof. Some teams also handle steep-slope commercial sections or special details around equipment. If you only want meetings on systems you bid, that belongs in the qualifying rules. If a building's system is unknown until someone is on the roof, the brief can say that a review is still a fit when the other rules are met.
+
+Geography and access matter as much as the membrane. A building outside the area you will actually crew is not a qualified meeting, even if the title is right. A roof that can only be reached in a way your team will not accept can be written out of the brief. It can also be flagged in the notes so your estimator decides. Minimum square footage, if you have one, is another rule you can set. We do not publish a default size or a default system mix, because those choices belong to your operation.
+
+## Why a referral book still leaves gaps
+Plenty of commercial roofing companies still grow from relationships: a property manager who has used the firm for years, a GC who calls when a bid is due, a facility contact who remembers the last leak call. That book is real and it should stay yours. Appointment setting is for the buildings and the buyers who are not already in it.
+
+Some roofs are quietly approaching the end of their service life and have not yet started a formal bid. Some sites have an incumbent contractor on file and have not compared anyone in a long time. A new property manager may have inherited a vendor list and be open to a first review. A general contractor may be looking for another trade partner in a county you already crew. An owner may be planning capital work in a coming fiscal year and has not called a roofer yet. None of those situations is a signed job. Each one is a reason a first meeting can be worth putting on the calendar, when it matches the brief.
+
+Inbound marketing aimed at homeowners does not close these gaps. A person searching for a local residential quote is not a facility manager planning a recover on a warehouse. Ads, seasonal offers and same-day text follow-up belong on the home services page. Commercial buyers are reached by direct outreach to named titles, at named buildings, in the area you serve.
+
+The point of a program like this is consistency, not a claim that referrals have stopped working. Referrals arrive on their own schedule. Outreach can keep a steady set of first conversations in motion while your team is on the roof for the work it already won. We do not attach a meeting count, a win rate or a typical sales cycle to that statement. We only describe the gap the work is meant to fill.
+
+## What a qualified meeting looks like
+A qualified meeting, on this program, is a date and time on your calendar with a person in an approved title, at a commercial property that matches your brief, who has agreed to a roof review, a site walk or a first conversation about work you actually sell. You write the rules. We do not book a meeting that misses a rule you marked as required. We also do not stretch a casual chat into a qualified appointment.
+
+Most commercial roofing briefs draw their rules from a short set of checks. The person has a role in selecting or recommending a roofing contractor or can put your estimator in front of that person. The building sits in your service area. The roof is large enough or the project type is one you want, when you have set a floor. The system, when it is known, is one you bid. If the system is not yet known, the brief can still say a review is welcome. Access is acceptable. The person has a reason to meet, such as a known issue, an upcoming review, interest in a second look at a roof they already have or a bid they are preparing to issue. You can require a timing window such as a planned capital project or a budget cycle. You can also allow a meet-and-review when the rest of the profile fits. That choice is yours.
+
+What does not count is just as important. A phone number without a meeting is not a qualified appointment. A homeowner asking for a residential estimate is not a qualified appointment. A maintenance technician who cannot invite a contractor on site is not a qualified appointment, unless you have expressly allowed that first step. A building your crews will not travel to is not a qualified appointment. A meeting sold to more than one roofer as a shared lead is not how this program hands work to you.
+
+When a meeting is set, your team should already know the property, the title, the time, how to get on the roof if that was discussed and any issue or interest the person mentioned. The notes are there so the estimator is not walking in cold. They are not a substitute for the inspection your own people will do on site.
+
+## How the list is built from your brief
+Everything starts with a brief you approve. The brief names the service area, the titles, the building types, any minimum roof size, the systems you care about, accounts that should be included and accounts that should be left alone. Current customers, buildings already in bid and companies you do not want contacted belong in the exclusion list from the first week. The list is only as good as those rules.
+
+We research commercial properties and the people in the approved titles, then check that the contact is a fit before outreach begins. Public sources, professional profiles and the records you already have can all feed the file. When you hand us a set of target accounts, those names stay in their own lane so they are not mixed up with new research. When a record cannot be verified, it does not go into outreach.
+
+The file stays yours. So do the replies, the meeting notes and any updates made during the program. If the work stops, you keep the list. We do not treat your accounts as a shared pool for another contractor. We also do not publish a typical list size, a hit rate or a count of buildings in a county, because those figures would be invented for the page.
+
+A brief can be tight or wide. A tight brief might limit outreach to warehouses and plants over a stated size, in a short list of counties, with facility managers and owners only. A wider brief might include retail, offices and schools. It might also add general contractors. Tighter rules usually mean fewer meetings and better use of an estimator's mornings. Wider rules mean more conversations and more visits that your team has to judge on site. That tradeoff is one of the things the first call is for.
+
+## Email, LinkedIn and calling used together
+The outreach itself is direct and named. It is not a billboard and it is not a homeowner ad. Be Leaded runs cold email (/cold-email-agency/), LinkedIn outreach (/linkedin-lead-generation-agency/) and, when you want it in the program, cold calling (/cold-calling-services/), then books the meeting when a buyer agrees and the brief is met. The mix is set with you, not copied from another industry.
+
+Written outreach goes out in your company's name and in a voice you have approved. Messages stay short and specific to the building or the role, not generic notes about "growing your business." A facility manager might be asked about a review of seams, drains or a roof that has not been walked in a while. A property manager might be asked about vendor coverage across a portfolio. A general contractor might be asked about trade partners in a county you already crew. You see the copy before it is used. You can reject a line that does not sound like your firm.
+
+Cold mail is sent from domains set up for the program, not from the company domain you use with current customers and vendors. That keeps prospecting volume off the inbox you already rely on. LinkedIn outreach is run in a way that sits with your team's presence, not as a borrowed identity you have not agreed to.
+
+Calling is the spoken channel, used alongside the written ones when you want it, not as a replacement for them and not as a script we hide. Some commercial buyers still prefer a phone call, especially when the first useful step is to agree on a time to walk the roof. If calling is in scope, the people making the calls work from the same brief, the same qualifying rules and the same booking standard as the rest of the program. If calling is left out, email and LinkedIn can still carry the motion. The booking call is where that choice is made.
+
+Replies are read and handled by people working the program, including on the same business day when a buyer writes back with interest or a question. A person who is not a fit is closed out politely. A person who is a fit is moved toward a time on the calendar, not left in a long thread that never becomes a meeting. We do not publish a reply rate or a booking rate for commercial roofing, on this page or as a typical result.
+
+## How a meeting is confirmed and handed to your estimator
+When a buyer agrees to meet and the brief is satisfied, the appointment is placed on the calendar you designate. The hold includes the date, the time, the property, the name and title of the person who will be there and how to reach them if plans change. If the meeting is a site walk, the notes should also say where to enter, how the roof is accessed when that was discussed and whether anyone else from their side is expected.
+
+The notes that travel with the hold are the handoff. They record what the person already shared: a leak or a soft spot, the approximate age of the roof if they gave one, a planned project, a frustration with an incumbent, a request for a second opinion or a simple willingness to have the roof reviewed. They also record anything that would waste a visit if it were missed, such as a tight access window, a badging rule or a need to meet in an office first. Your estimator should be able to read the file once and know why they are going.
+
+We confirm the meeting with the buyer when it is set. If they later cancel or ask to move the time, you are told. A hold that no longer stands is not left on your calendar as if it were still real. We do not attach a no-show figure to commercial roofing visits. A canceled visit is not swapped for a set number of makeup meetings. What we can do is keep the outreach running so the next qualified conversation can still be booked under the same rules.
+
+After the hold is set, our work on that meeting is the handoff. We do not attend the visit, do not climb the roof and do not sit in the proposal meeting unless you have asked for a separate kind of help, which this page does not sell. Your salesperson or estimator owns the relationship from the moment they walk in.
+
+## What to bring to the site visit
+The meeting only pays off if your person shows up ready to talk about that building, not about a generic commercial pitch. Read the notes. Know the title you are meeting. Know whether you are walking the roof, meeting in an office or both. If access details were captured, use them. If the person mentioned a leak, a drainage issue, a coating they were already considering or a bid they plan to issue, start there.
+
+Bring the questions that help you decide whether a proposal is even the next step. How is the roof accessed. Are there interior finishes or operations under the area of concern. Is there a preferred time when work can be done. Who else has to agree if the visit turns into a bid. Whether they want a review and a report, a full proposal or only to get to know a contractor for a later project. Those questions belong to your sales process. We do not script the visit.
+
+Bring a clear picture of what you will and will not bid. If your crew does not recover a certain system, say so on the roof rather than in a later email. If a building is a stretch for your service area, decide that before you drive. Appointment setting can put the right person in front of you. It cannot make a poor-fit building into a good job.
+
+After the visit, the next step is yours: a written review, a proposal, a follow-up with a second decision maker or a polite close if the work is not a fit. We do not write that proposal and we do not chase the account as if we were on your sales team. If you want more first meetings while those follow-ups run, the outreach keeps going against the same brief.
+
+## What this work does not include
+It is easier to trust a program when the limits are written down. Be Leaded books the meeting. Your company does the roofing work. The line between those two jobs stays in place for the life of the engagement.
+
+We do not inspect, core, repair, coat or replace a roof. We do not write specifications, take moisture readings or produce a bid. We do not present ourselves as a roofing contractor. We do not stand in for your estimator on a site walk.
+
+We do not run homeowner advertising, do not book residential estimate visits and do not mix a household lead into a commercial calendar. We do not use this page to sell paid social, search ads or a newsletter for a residential list. Those motions, when they are relevant at all, live on other URLs such as the home services page (/industries/home-services/).
+
+We do not state a number of meetings, a number of jobs or a time to the first appointment. We do not publish commercial roofing case histories, client names or win rates on this page. We do not resell a meeting booked for you as a shared lead to another roofer. Each list is built for your engagement.
+
+We also do not advise you on how to price a job, how to staff a crew or which membrane to recommend. If a buyer asks those questions during outreach, the honest answer is that your estimator will take them on the visit. The program is appointment setting, not a substitute for commercial roofing judgment.
+
+## Running outreach in house or handing it over
+Some commercial roofing companies already have a salesperson or an office lead who researches buildings, writes to facility managers and books their own reviews. That can work when the person has time after estimating, project management and the work that already pays the bills. It often slips when the same person is on a roof all week or is writing proposals until the evenings, because prospecting is the first thing that waits.
+
+Handing the motion to a provider is a capacity choice. You still own the brief, the voice, the qualifying rules and every visit. The provider carries the research, the sending, the calling when it is in scope, the qualification and the booking. Your people spend their mornings on buildings that already agreed to a meeting, not on finding the next name. That is not a claim that an outside program wins more reroofs than an in-house effort. It is a description of who does which part of the work.
+
+A third path is a split. You may already have a short list of accounts you want worked first. You may also want new names added around them. You may want written outreach handled outside and calls made by your own office. Those splits can be discussed on the booking call. They do not require a new product name. They require a brief that says who does what.
+
+If you want a wider view of how Be Leaded books B2B meetings in general, the service page for B2B appointment setting (/appointment-setting/) is the general writeup. This commercial roofing URL is the version written for contractors who sell to buildings, not the general version written for any B2B team. Use this page when the buyers are facility and property titles and the meeting is a roof review or a first commercial conversation.
+
+## How to choose a company for this work
+If you are comparing providers, the questions below will tell you more than a headline about pipeline. Ask them of Be Leaded and of anyone else you are considering. This section does not rank other firms and does not quote their fees.
+
+Ask whether commercial work is kept separate from residential work. A provider that fills a calendar with homeowner estimates is not doing the job described on this page, even if the word roofing appears in the pitch. Ask whether you can write the qualifying rules, including titles, service area, building types, systems and exclusions. Ask whether a meeting that misses a required rule is withheld.
+
+Ask in whose name the email, the LinkedIn messages and the calls go out. Ask whether you approve the copy before it is used. Ask what notes arrive with each hold. Ask whether cancellations are reported. Ask who owns the list and the replies if the engagement ends. Ask how the provider handles a building that already has a contractor. Ask whether they will contact accounts you have asked them to leave alone.
+
+Ask what the provider will not do. If a page is heavy on job counts, client stories or a stated time to the first meeting, treat those as claims to verify, not as a reason to sign. This page does not offer those figures. You should not have to guess why.
+
+For a general comparison of appointment setting companies, not written for commercial roofing alone, you can read appointment setting companies compared (/guides/best-appointment-setting-companies/). Use that guide for the broader market. Use this page for the commercial roofing brief, the buyer titles and the definition of a qualified roofing meeting.
+
+## How the work starts and how it can be stopped
+The starting point is a booking call. You bring the service area, the titles you want, the building types and systems you care about, any minimum roof size, the accounts to include or exclude and the person at your firm who will take the visits. We will walk through how the list would be built, how outreach would read in your name and what a handoff to your estimator would include. If this is not the right work, that should be obvious by the end of the call.
+
+If you go ahead, the brief is written down and the copy is approved before anyone is contacted. Outreach then runs against that brief. You get the meeting holds, the notes and a regular view of activity and replies. When a rule needs to change, for example a county you no longer want or a title that has not been useful, the brief is updated and the list follows.
+
+The work is set up so it can be stopped without a long lock-in. You can cancel at the end of any month. The list, the replies and the notes remain yours. For a fuller description of that billing shape, see month-to-month lead generation (/month-to-month-lead-generation/). This page does not add a new timing claim about launch clocks or a first-meeting deadline.
+
+The only next step, if you want one, is to book that call and bring the brief you already have, even if it is still rough. A short conversation is enough to see whether commercial roofing appointment setting, as described here, is the work you actually want done.
+
+## Questions commercial roofers ask
+
+Q: What does appointment setting for commercial roofing contractors mean?
+A: It means a program that finds the people who choose a roofer for a commercial building, runs outreach in your company's name, checks that the person and the property match rules you set and places a meeting on your sales calendar. The meeting is usually a roof review, a walk of the property or a first conversation about repair, replacement, recover or coating work.
+
+Q: Do you book meetings for residential roofing?
+A: No. This page is for commercial roofs only. Homeowners, residential estimate visits and ads aimed at households are not part of this program. That work is described on the home services page.
+
+Q: Who do you reach?
+A: We reach the titles you approve. Commercial roofers most often name facility managers, property managers, building owners and general contractors. A brief can also include asset managers or a warehouse or plant manager. It can exclude titles that cannot invite a contractor on site.
+
+Q: What makes a commercial roofing meeting qualified?
+A: It is a date and time on your calendar with a person in an approved title, at a commercial property that matches your brief, who has agreed to a roof review, a site walk or a first conversation about work you actually sell. You write the rules. A phone number without a meeting does not count. A homeowner estimate request does not count either.
+
+Q: Do you build the list or do we provide one?
+A: We research and check a list against the brief you approve. You can also give us accounts to include or to leave alone. Current customers and buildings already in bid should be on the exclusion list from the start. The file, the replies and the notes stay yours.
+
+Q: What outreach do you run?
+A: Cold email and LinkedIn outreach in your company's name, with copy you approve. Cold calling is included when you want it. The mix is set on the booking call. Replies are read by people working the program. A fit is moved toward a time on the calendar.
+
+Q: Do you inspect the roof or write the bid?
+A: No. We book the meeting and hand your estimator the notes. We do not inspect, core, repair, coat or replace a roof. We do not write specifications or proposals. Your team owns the visit and the job.
+
+Q: Whose name is on the email and the calls?
+A: Your company's name, in a voice you have approved, before anything is sent. Cold mail uses domains set up for the program, not the company domain you use with current customers and vendors.
+
+Q: Who keeps the contact file if we stop?
+A: Your company does. Contacts, replies and meeting notes belong to you during the engagement and after it ends. Each file is built for your engagement and is not treated as a shared pool for another contractor.
+
+Q: What if we want to stop after a month?
+A: You can cancel at the end of any month. The list, the replies and the notes remain yours.
+
+## Related
+
+B2B appointment setting: The general writeup for booking qualified sales meetings, written for any B2B team rather than for commercial roofing alone. (/appointment-setting/)
+
+Cold email: How done-for-you cold email is set up, including sending that stays off your main company domain. (/cold-email-agency/)
+
+LinkedIn outreach: Written outreach from profiles your team agrees to use, alongside email, not as a standalone trick. (/linkedin-lead-generation-agency/)
+
+Cold calling: Phone outreach that can run with email and LinkedIn when you want calling in the program. (/cold-calling-services/)
+
+Home services marketing: Ads, forms and follow-up for companies that sell to homeowners, including residential roofing. Not this commercial program. (/industries/home-services/)
+
+Month-to-month programs: How billing works when you want an engagement that can end on a monthly cycle, plus the files you keep. (/month-to-month-lead-generation/)
+
+## Tell us who you want to meet.
+Name the counties you crew and the titles that sign off on a commercial roof. On the call we will map how meetings would be booked and what your estimator would receive.
