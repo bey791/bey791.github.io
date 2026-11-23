@@ -2296,7 +2296,7 @@ Need sellers? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?
 
 # Search Fund Deal Sourcing: Owner Outreach | Be Leaded
 URL: https://www.beleaded.com/search-fund-deal-sourcing/
-Updated: 2026-11-16
+Updated: 2026-11-23
 
 Owner outreach for search fund deal sourcing
 
@@ -2422,6 +2422,7 @@ A: It shows the week's file on the direct track: outreach sent, replies received
 ## Related reading
 - /m-and-a-deal-flow/
 - /guides/best-m-and-a-deal-sourcing-firms/
+- guide to buy side deal sourcing firms (/guides/best-buy-side-deal-sourcing-firms/). For private equity teams and independent sponsors comparing firms that find companies to buy.
 - /month-to-month-lead-generation/
 - /industries/m-and-a-advisors-business-brokers/
 - /services/
@@ -13311,7 +13312,7 @@ Average open rate on newsletters
 
 Client programs
 
-Last updated November 18, 2026
+Last updated November 23, 2026
 
 ## What a cold calling service does
 
@@ -13669,6 +13670,8 @@ See appointment setting (https://www.beleaded.com/appointment-setting/)
 Notes to the same accounts, paced with the email and the call.
 
 See LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
+
+If you need meetings with facility or property managers for commercial roofing work, see appointment setting for commercial roofing (https://www.beleaded.com/appointment-setting-for-commercial-roofing/).
 
 ## Questions about cold calling services
 
