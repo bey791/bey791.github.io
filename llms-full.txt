@@ -2363,7 +2363,7 @@ Need sellers? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?
 
 # Search Fund Deal Sourcing: Owner Outreach | Be Leaded
 URL: https://www.beleaded.com/search-fund-deal-sourcing/
-Updated: 2026-11-16
+Updated: 2026-11-24
 
 Owner outreach for search fund deal sourcing
 
@@ -2489,6 +2489,7 @@ A: It shows the week's file on the direct track: outreach sent, replies received
 ## Related reading
 - /m-and-a-deal-flow/
 - /guides/best-m-and-a-deal-sourcing-firms/
+- guide to buy side deal sourcing firms (/guides/best-buy-side-deal-sourcing-firms/). For private equity teams and independent sponsors comparing firms that find companies to buy.
 - /month-to-month-lead-generation/
 - /industries/m-and-a-advisors-business-brokers/
 - /services/
@@ -13378,7 +13379,7 @@ Average open rate on newsletters
 
 Client programs
 
-Last updated November 18, 2026
+Last updated November 24, 2026
 
 ## What a cold calling service does
 
@@ -13736,6 +13737,8 @@ See appointment setting (https://www.beleaded.com/appointment-setting/)
 Notes to the same accounts, paced with the email and the call.
 
 See LinkedIn (https://www.beleaded.com/linkedin-lead-generation-agency/)
+
+If you need meetings with facility or property managers for commercial roofing work, see appointment setting for commercial roofing (https://www.beleaded.com/appointment-setting-for-commercial-roofing/).
 
 ## Questions about cold calling services
 
@@ -17301,13 +17304,13 @@ Bring the sectors, size range and regions you want covered. Add any owners alrea
 
 # Best B2B X (Twitter) Ads Agencies Compared | Be Leaded
 URL: https://www.beleaded.com/guides/best-x-ads-agencies-for-b2b/
-Updated: 2026-11-23
+Updated: 2026-11-24
 
 Best B2B X (Twitter) ads agencies and how to pick one
 
 Choosing a Twitter ads agency for B2B? Compare X ads firms by fee, minimum spend, targeting and CRM tracking, from each firm's own site, plus what to ask.
 
-By Ahmad Khan, Founder. Updated November 23, 2026.
+By Ahmad Khan, Founder. Updated November 24, 2026.
 
 A good Twitter ads agency for B2B, which most firms now call an X ads agency, turns promoted posts on X (formerly Twitter) into sales conversations rather than likes. Be Leaded fits when you want X run with Meta and LinkedIn and every lead followed up fast. Month to month, no long-term contract.
 
@@ -17535,6 +17538,8 @@ Few B2B plans lean on X by itself. LinkedIn reaches people by job title and comp
 
 Many B2B teams use LinkedIn to find the right people, Meta to keep showing up in their feeds and X to join the conversations they care about. For a single firm that plans the three channels as one, see these B2B firms that run Meta, LinkedIn and X together (/guides/best-b2b-paid-social-agencies/).
 
+Already running Meta ads and want an outside read first? Start with our free Meta ad account audit (https://www.beleaded.com/paid-social-audit/).
+
 ## Frequently asked questions
 
 Q: What does a Twitter ads agency do for a B2B company?
@@ -17566,13 +17571,13 @@ Bring the buyer you want to reach, the topics they post about and any X campaign
 
 # B2B Customer Acquisition Agencies Compared | Be Leaded
 URL: https://www.beleaded.com/guides/best-customer-acquisition-agencies/
-Updated: 2026-11-23
+Updated: 2026-11-24
 
 B2B customer acquisition agencies, grouped by motion
 
 Compare B2B customer acquisition agencies by motion: outbound, paid social and inbound. Facts from each firm's own site, fees where published and what to ask.
 
-By Ahmad Khan, Founder. Updated November 23, 2026.
+By Ahmad Khan, Founder. Updated November 24, 2026.
 
 The right customer acquisition agencies for a B2B company match how your buyers buy: outbound, paid social or inbound. Be Leaded fits when you want cold email, LinkedIn and paid social on Meta, LinkedIn and X in one program. Month to month, no long-term contract.
 
@@ -17835,6 +17840,8 @@ If your challenge is building awareness and interest across a market before sale
 If you sell through physical stores or a CPG brand rather than a B2B sales team, see our pages on retail paid social (/retail-paid-social-agency/) and CPG paid social (/cpg-paid-social-agency/).
 
 A comparison of firms is on our list of the best pharma paid social agencies (/guides/best-pharma-paid-social-agencies/).
+
+Already running Meta ads and want an outside read first? Start with our free Meta ad account audit (https://www.beleaded.com/paid-social-audit/).
 
 ## Frequently asked questions
 
