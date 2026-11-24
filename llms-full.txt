@@ -1695,6 +1695,8 @@ Be Leaded plans Meta campaigns on Facebook and Instagram for dental offices seek
 
 Your practice owns the ad account, and a dentist signs off on every ad before launch.
 
+Already running Meta ads? Start with our free Meta ad account audit (https://www.beleaded.com/paid-social-audit/).
+
 ## What the program includes
 Your practice owns the ad account, picks the consult types and decides when a visit counts as booked or seated. A dentist at the practice signs off on every ad before anything is submitted to Meta. Ads also have to follow the practice's state dental board rules. Be Leaded is a marketing vendor, not a clinic, and we offer no clinical advice.
 
@@ -1707,7 +1709,7 @@ Dental practices use this program to run Facebook and Instagram campaigns withou
 - A record of booked consults and seated visits, taken from what your office reports, as measures only, never as promises
 - A weekly look at what ran, what should be paused and the next test to try
 
-After the call we settle the program scope and our fee. Your practice pays Meta directly for media spend, which sits outside our fee.
+Programs start from $2,000 a month plus ad spend. Ad spend is paid to Meta directly and isn't part of our fee. Programs run month to month with no long-term contract.
 
 ## Campaigns by treatment type
 New-patient exams, cosmetic or aligner consults and implant or full-arch consults each get their own campaign, with their own creative, form and measures, because those offers are not interchangeable. Audience setup uses the area around each office and the offer on the ad. The copy names a service the practice already provides. It does not address the viewer's teeth, pain or appearance.
@@ -1761,7 +1763,7 @@ Nothing here is clinical or legal advice. A dentist at the practice signs off on
 Rules that apply to the practice:
 - A dentist at the practice signs off on every ad, form and landing page before anything is submitted to Meta.
 - Ads also have to follow the practice's state dental board rules.
-- Campaigns are written to sit inside Meta's advertising policies, the ADA Principles of Ethics and Code of Professional Conduct, and the advertising rules of your state dental board. Your practice confirms which of those rules apply to your offices.
+- Campaigns are written to sit inside Meta's advertising policies, the ADA Principles of Ethics and Code of Professional Conduct and the advertising rules of your state dental board. Your practice confirms which of those rules apply to your offices.
 - Board rules are not the same in every state. Many boards limit how specialties, fees, discounts, testimonials and promises about outcomes may be described. Creative is planned around the limits your practice identifies.
 - Booked consults and seated visits are measures only, never promises.
 - We do not use before-and-after photos or testimonials.
@@ -1782,7 +1784,7 @@ Two different sets of limits shape this work, and they should not be collapsed i
 HIPAA is a federal rule about protected health information, and it is aimed at health care providers and their vendors, not at a social ad network's public ad policy. Whether a given list, reminder or intake record is subject to HIPAA is a question for the practice and its counsel, not a finding we make on this page. The U.S. Department of Health and Human Services publishes the current HIPAA privacy rule pages at https://www.hhs.gov/hipaa/for-professionals/privacy/index.html. Our part of the process is to keep clinical information out of the ad, the form, the audience and the event, and to send inquiries only to the practice. We do not give HIPAA advice, and we do not describe Meta approval as a substitute for the practice's own privacy review.
 Questions about business associate agreements, how long a record is kept or who inside the practice may see an inquiry are for the practice and its counsel. We will follow the process the practice sets for how inquiries are delivered and who can access the ad account. We do not use a patient list, a form response or a seated-visit note for any other practice.
 
-Buyers who want Meta and search work for a business-to-business pipeline, not local patient consults, can see our Meta and search programs for B2B sellers at /paid-social-agency/.
+Buyers who want paid social work for a business-to-business pipeline, not local patient consults, can see our B2B paid social programs across Meta, LinkedIn and X at /paid-social-agency/.
 
 If Facebook and Instagram should be bringing the consult types you already offer, schedule a conversation. We will review your offices, your booking path and who signs off on ads.
 Book a 30-minute call: https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=facebook-ads-for-dentists
@@ -1826,7 +1828,7 @@ Q: What can the lead form ask?
 A: The form collects contact details and one scheduling question only, such as which office or which consult type they want to book. It does not ask about symptoms, medical history or insurance. Clinical questions stay with your practice after the person is in touch.
 
 Q: Who holds the Meta account and how do fees work?
-A: Your practice owns the ad account and signs off on everything before launch. After the call we settle the program scope and our fee. Your practice pays Meta directly for media spend, which sits outside our fee.
+A: Your practice owns the ad account and signs off on everything before launch. Programs start from $2,000 a month plus ad spend. Ad spend is paid to Meta directly and isn't part of our fee. Programs run month to month with no long-term contract.
 
 Q: Who approves treatment claims in the ads?
 A: A dentist at your practice signs off on every ad, form and landing page before anything is submitted. Ads also have to follow the practice's state dental board rules. Be Leaded is a marketing vendor, not a clinic, and we offer no clinical or legal advice. The ADA Code is a useful reference.
@@ -1839,7 +1841,8 @@ A: The industry URL is about outbound, reactivation and newsletters. This URL is
 - /demand-generation-agency/ (Demand generation)
 - /industries/ (Industries we serve: industry pages, including dental and med spa work that sits outside this Meta ads URL)
 - /services/ (All services: the full list of Be Leaded programs, from outbound to paid social and newsletters)
-- /paid-social-agency/ (one body link; anchor: Meta and search programs for B2B sellers; never exact 'paid social agency')
+- /paid-social-agency/ (one body link; anchor: B2B paid social programs across Meta, LinkedIn and X; never exact 'paid social agency')
+- /paid-social-audit/ (hero link; anchor: free Meta ad account audit)
 - /industries/dental-med-spa/ (one body link; anchor: text and email programs for dental and med spa practices)
 
 ## Sources
