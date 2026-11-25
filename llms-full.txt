@@ -2151,41 +2151,41 @@ We build the call list, write the script with you, set up the agents and review 
 
 ## How AI cold calling works, step by step
 
-Six steps take a program from a list of names to qualified meetings on your calendar. You sign off on the list and the talk track before the AI agents place a single live call.
+AI outbound calling is a first call to people in your ICP, placed by an AI agent that books a meeting on your calendar when the person qualifies. There are no human callers, and this is not inbound follow-up.
 
-- 01 ICP and call list We agree who the AI agents should call: the industries, company sizes, regions and titles in your ICP. Then we build the call list and check it with you.
+- 01 ICP and call list We agree who an AI cold caller should reach: your market, the company profile and the titles that can take a meeting. We build that call list and review it with you before any names are dialed.
 
-- 02 Talk track and qualifying questions We write the opening, the answers to the objections your buyers raise and the questions that decide whether a prospect is qualified. You approve every line.
+- 02 Talk track and qualifying questions We write the opening, how the agent explains what you do and the questions that show who is worth a meeting. You approve every line before test calls begin.
 
-- 03 Test calls The agent places test calls so you can hear the voice, the pacing and the handoff to your calendar. We adjust anything that sounds off.
+- 03 Test calls The agent places test calls so you can hear the voice, the pacing and how a meeting is offered. We change anything that sounds off before the full list is used.
 
-- 04 Launch The AI agents start outbound calling through your list in the hours you set for each time zone.
+- 04 Launch Once you have approved the list and the talk track, the AI agents start calling through your list in the windows you choose for each region.
 
-- 05 Weekly call review and tuning Each week we read the transcripts, see where calls stall and tune the talk track, the questions and the list.
+- 05 Weekly call review and tuning Each week we read the transcripts and tune the talk track, the questions and the list.
 
-- 06 Meetings on your calendar Qualified prospects pick a time on the call. The meeting lands on your calendar with the invite already sent.
+- 06 Meetings on your calendar When a person is qualified and open to a meeting, they pick a time while still on the call. The invite goes out then and the meeting appears on your calendar.
 
 ## Built into your CRM and your calendar
 
-AI outbound calling only helps if your team can see what happened on every call. The agent writes its work into the tools your sales team already uses, so nobody copies notes from one place to another.
+AI outbound calling only helps if your team can see what happened on every call. The agent writes that work into the CRM and calendar your sales team already uses.
 
 ### Every call logged
 
-Each call outcome lands on the matching contact in your CRM: meeting booked, call back later, not interested or no answer.
+Each outcome is written to the matching contact in your CRM: a meeting booked, a later try, no interest or no answer.
 
 ### Transcripts on the record
 
-The full transcript sits on the contact record, so your rep can read the conversation before the meeting starts.
+The full transcript sits on that contact record, so the person taking the meeting can read it first.
 
 ### Invites from your calendar
 
-The agent reads your open times, offers a few options and sends the calendar invite while the prospect is still on the line.
+The agent reads your open times, offers a few of them on the call and sends the calendar invite while the person is still on the line.
 
 ### A clean handoff to sales
 
-Your sales team sees the answers to your qualifying questions next to the booked meeting and walks in knowing why the prospect agreed to talk.
+Your sales team sees the answers to your qualifying questions next to the booked meeting, so they know why the person agreed to talk.
 
-We connect the agents to your CRM and your calendar during setup and check the handoff on the test calls before launch. The result is an AI appointment setter that leaves a full record behind every one of its AI sales calls.
+We connect the agents to your CRM and your calendar during setup and check that handoff on the test calls before launch. What you get is an AI appointment setter that leaves a full record behind its AI sales calls.
 
 ## Where AI outbound calling earns its keep
 
@@ -2211,11 +2211,11 @@ Asks the questions your sales team asks anyway, then books the meeting with the 
 
 Programs start from $2,000 a month, plus platform usage for call minutes, which is billed at cost.
 
-The monthly program covers the work around the calls: building the call list, writing the talk track and qualifying questions, setting up the AI agents, connecting your CRM and calendar and reviewing the calls every week.
+The monthly program covers the work around the calls: the list, the talk track, setup of the AI agents, the CRM and calendar connection and the weekly call review.
 
-Platform usage is the cost of the call minutes themselves. It follows the time the agents spend on the phone, so it moves with the size of your list and the number of calls you want placed each month. You'll have an exact number after a 30-minute call.
+Platform usage is the cost of the call minutes themselves and moves with how large your list is and how much calling you want to run. You'll have an exact number after a 30-minute call.
 
-See our pricing page (https://www.beleaded.com/pricing/) for how programs are put together.
+See our pricing page (https://www.beleaded.com/pricing/).
 
 ## Questions about AI cold calling
 
@@ -2249,19 +2249,19 @@ Programs start from $2,000 a month, plus platform usage for call minutes, which 
 
 **Does the AI agent log calls in our CRM?**
 
-Yes. Each call outcome, the full transcript and any booked meeting are written to the matching contact in your CRM, so your team sees every conversation without copying notes.
+Yes. Each call outcome, the full transcript and any booked meeting are written to the matching contact in your CRM.
 
 **How do booked meetings get onto our calendar?**
 
-The agent reads your open times during the call, offers a few options and sends the calendar invite to the prospect's work email as soon as they pick one.
+The agent reads your open times during the call, offers a few options and sends the calendar invite to the work email the person confirms.
 
 **What are the steps to launch AI cold calling?**
 
-ICP and call list, talk track and qualifying questions, test calls, launch, then a weekly call review and tuning while meetings land on your calendar. You approve the list and the talk track before any live calls go out.
+ICP and call list, talk track and qualifying questions, test calls, launch, then a weekly call review and tuning, with meetings landing on your calendar. You approve the list and the talk track before an AI cold caller places any live calls.
 
 **What does platform usage cover?**
 
-Platform usage is the cost of the call minutes the AI agents spend on the phone. It is billed at cost on top of the monthly program, so it grows with the number of calls placed.
+Platform usage is the cost of the call minutes the AI agents spend on the phone. It is billed at cost on top of the monthly program and moves with how much calling you run.
 
 ## Tell us who you want to meet.
 
