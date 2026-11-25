@@ -9558,7 +9558,7 @@ AI voice / lead generation
 
 By Ahmad Khan, founder of Be Leaded. Updated October 16, 2026. 10 min read.
 
-The short answer: AI voice calling for B2B lead generation is a short callback after someone has asked to hear from you. The agent confirms fit and offers a time with a person. It is not a cold dialer on a purchased list. Use it on form fills, paid leads, inbound requests, and warm replies that asked for a call. Count connect rate, a written definition of a booked meeting, and show rate before you add volume.
+The short answer: AI voice calling for B2B lead generation is AI cold calling: an AI agent calls the people in your ICP, holds a short conversation and books qualified meetings on your calendar. The agent confirms fit and offers a time with your team. Work from a list built to the buyer you defined and run it alongside cold email and LinkedIn. Count connect rate, a written definition of a booked meeting and show rate before you add volume.
 
 - What the call is for
 - Where it fits
@@ -9577,7 +9577,7 @@ An AI voice agent holds a spoken phone conversation. It listens, answers from a 
 
 That is not a robocall. A robocall plays a pitch at people who never asked. A follow-up agent calls one person who raised a hand, names the company, asks one or two qualifying questions, and stops. If they want out, the call ends and the request is logged.
 
-Be Leaded builds these agents for inbound leads and for customers who asked to hear from you. We do not use them for cold calls. People who have not asked for a call stay on email and LinkedIn. The service page is AI voice follow-up (https://www.beleaded.com/ai-voice-agents/).
+Be Leaded runs these agents as AI cold calling. AI agents cold call your ICP, qualify interest and book meetings on your calendar, alongside email and LinkedIn. The service page is AI cold calling (https://www.beleaded.com/ai-voice-agents/).
 
 The agent is not the closer. It checks the lead against the buyer you defined and hands a meeting to a person. Anything outside the script becomes a transcript, not a guessed answer.
 
@@ -9587,7 +9587,7 @@ Four sources. Outside these, leave the dialer off. A purchased mobile list, wher
 
 | Source | What already happened | What the agent does |
 | Paid ad or site form | They submitted a form | Call back, qualify, offer two times |
-| Inbound request | They asked for a conversation | Same script, tied to the offer they asked about |
+| Your ICP list | They match the buyer you defined | The AI agent cold calls, qualifies and books the meeting |
 | Warm reply | They answered email or LinkedIn and asked for a call | Place the callback they asked for |
 | Cold list | They have not asked | Do not call. Use email or LinkedIn |
 
@@ -9689,7 +9689,7 @@ We do not quote a connect rate before the lead source is clear. It depends on th
 
 **What is AI voice calling for B2B lead generation?**
 
-AI voice calling for B2B lead generation is a spoken agent that calls people who already asked to hear from you, such as a form fill, a paid lead, an inbound request, or a warm reply that asked for a call. It confirms a few facts and hands a qualified meeting to a person. It is not a cold call to a purchased list.
+AI voice calling for B2B lead generation is an AI agent that cold calls people in your ICP, holds a short spoken conversation and asks the one or two questions that decide fit. When there is interest it books a qualified meeting on your calendar with your team.
 
 **Where should you use AI voice calling in B2B?**
 
