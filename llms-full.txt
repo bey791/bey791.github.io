@@ -330,7 +330,7 @@ Book a 30-minute call
 
 Programs start from $2,000 a month
 
-Be Leaded runs cold email and appointment setting, LinkedIn lead generation, paid social and search, newsletter, email and SMS programs, AI voice follow-up, off-market deal flow for M&A advisors and business brokers, cold calling alongside email and LinkedIn, and demand generation. Every program runs on infrastructure we build ourselves, and every message is written by a person.
+Be Leaded runs cold email and appointment setting, LinkedIn lead generation, paid social and search, newsletter, email and SMS programs, AI cold calling, off-market deal flow for M&A advisors and business brokers, cold calling alongside email and LinkedIn, and demand generation. Every program runs on infrastructure we build ourselves, and every message is written by a person.
 
 ### Cold email and appointment setting
 Verified lists, plain-text sequences, reply handling and qualified meetings on your calendar.
@@ -344,8 +344,8 @@ Meta, Google and LinkedIn ads with the landing page and the follow-up built in, 
 ### Newsletters, email and SMS
 Newsletters designed, written and sent. Campaign and lifecycle email. SMS for subscribers who opted in.
 
-### AI voice follow-up
-Voice agents that call new leads back within a minute, answer questions and book the appointment.
+### AI cold calling
+AI agents cold call your ICP, answer questions and book meetings on your calendar.
 
 ### Off-market deal flow
 Owner outreach in your firm's name, and meetings with owners open to a sale, a recapitalization or a valuation.
@@ -395,7 +395,7 @@ Most clients start with one and add a second once the first is producing. Start 
 | LinkedIn lead generation | Senior buyers, professional services, paired with email | Conversations from your team's own profiles | $2,000 a month |
 | Paid social and search | Local services and B2B offers people search for | Leads followed up within minutes, reported by cost per appointment | $2,000 a month plus ad spend |
 | Newsletters, email and SMS | Brands and B2B companies with a list to work | Newsletters people open, plus lifecycle email and SMS | $2,000 a month |
-| AI voice follow-up | Anyone getting inbound leads who can't call back in five minutes | Every lead called within a minute and booked | $2,000 a month plus usage |
+| AI cold calling | B2B teams that want more first conversations with their ICP | AI agents cold call your ICP and book meetings | $2,000 a month plus usage |
 | Off-market deal flow | M&A advisors, business brokers and buyers | Conversations with owners open to a sale (https://www.beleaded.com/guides/how-business-brokers-get-leads/) or valuation | $2,000 a month |
 | Cold calling services | B2B teams that want phone outreach alongside email and LinkedIn | Qualified calls booked on your calendar | $2,000 a month |
 | Demand generation | B2B companies that want outbound, paid social and newsletters in one plan | Booked calls from one plan | $2,000 a month |
@@ -2097,99 +2097,103 @@ URL: https://www.beleaded.com/ai-voice-agents/
 
 - Home
 - Services
-- AI voice follow-up
+- AI cold calling
 
-# AI voice agents that call your leads back in under a minute
+# AI cold calling: outbound calling agents that book meetings with your ICP
 
-Be Leaded builds AI voice agents on Retell AI and ElevenLabs. When someone fills in your form, the agent calls within a minute, answers their questions, qualifies them and books the appointment on your calendar. It works for inbound leads and customers who asked to hear from you. We don't use it for cold calls.
+Be Leaded runs AI cold calling for B2B teams. Our AI agents place outbound calls to the companies and titles in your ICP, hold a natural conversation, ask your qualifying questions and book qualified meetings on your calendar. Every call is placed by an AI agent, so there are no dialers to hire or manage.
 
-- Agent Hi Mark, this is Rob's assistant at Copperline. You just asked for a furnace tune-up online. Is now a bad time?
-- Mark No, that's fine. How soon can someone come out?
-- Agent We have Tuesday at 9 or Wednesday at 1. Which works better?
-- Mark Wednesday.
-- Agent Wednesday at 1, and I'll text you the confirmation. Is the address still 41 Elm Street?
+- Agent Hi Dana, this is an AI assistant calling for Rob at Copperline. We help operations teams at distributors cut freight costs. Is now a bad time?
+- Dana I have a minute. We are rebidding carriers this quarter, actually.
+- Agent Then a 20 minute call with Rob could be useful. Would Tuesday at 9 or Wednesday at 1 work better?
+- Dana Wednesday.
+- Agent Wednesday at 1 it is. I'll send the invite to your work email now.
 
-## Speed is the whole game.
+## Cold calling, without the dialing.
 
-In the original lead response study, the odds of reaching a lead dropped 100 times between a call made within 5 minutes and one made at 30 minutes, and the odds of qualifying it dropped 21 times. A person can't sit by the phone all day. An agent can.
+A phone call still starts conversations that an email never would. The hard part is the volume of dials it takes to reach the right person. AI agents make those outbound calls to your ICP all day, open every call the same way and pass you only the people who agree to meet.
 
-### Calls within a minute
+### Calls your ICP
 
-Triggered by your form, your CRM or your ad platform, around the clock or only in the hours you choose.
+Works from a call list built to your ICP: the industries, company sizes, regions and titles you name.
 
 ### Sounds like your business
 
-A natural voice, your script, your tone, and answers to the questions your team hears every day.
+A natural voice, your script, your tone and answers to the questions buyers ask on a first call.
 
-### Books the appointment
+### Books qualified meetings
 
-Reads your calendar, offers times, confirms the address and sends the confirmation by text.
+Asks your qualifying questions, reads your calendar, offers times and sends the invite.
 
-### Hands off when it should
+### Handles the pushback
 
-Transfers to a person for anything outside the script, and flags calls that need a human follow-up.
+Answers the objections your buyers raise, offers a later time when the timing is wrong and flags warm calls to your team.
 
 ### Every call transcribed
 
-Recordings and transcripts in your inbox or CRM, reviewed weekly to improve the script.
+Recordings and transcripts in your inbox or CRM, reviewed weekly to improve the script and the list.
 
-### Built on proven platforms
+### Works with your outbound
 
-Retell AI for the conversation, ElevenLabs for the voice, connected to your tools with n8n.
+Runs alongside cold email and LinkedIn outreach, so the same accounts hear from you on every channel.
 
-The rules we follow
+How a program runs
 
-## Follow-up, not cold calling.
+## AI agents on the phones. You in the meetings.
 
-In the US, calls made with an artificial or AI-generated voice need the recipient's prior express consent under the TCPA, and the FCC confirmed in February 2024 that AI voices count. So our agents call people who asked to be contacted, and nobody else.
+We build the call list, write the script with you, set up the agents and review the calls every week. Your team only shows up for the meetings the agents book.
 
-- Calls only to leads and customers who gave consent on your form or in writing
-- The agent says it's an automated assistant when asked, and identifies your business
-- Calls placed within the hours you set, never late at night
-- Do-not-call requests honored immediately and logged
-- Recordings kept only as long as you need them
+- A call list built from your ICP and checked before the first call goes out
+- A script and qualifying questions agreed with you before launch
+- The agent introduces itself and your business at the start of every call
+- Calls placed in the hours you set for each time zone
+- A weekly review of calls to sharpen the script and the list
 
-## Where it earns its keep
+## Where AI outbound calling earns its keep
 
-Home services and local businesses
+B2B software
 
-### Booking the job while the lead is still on your site
+### Demos with the titles you sell to
 
-Tune-ups, quotes, consultations. The agent calls, offers times and books.
+AI sales calls to operations, finance or IT leaders at the accounts you name, with the demo booked on your calendar.
 
-Vehicle and equipment buying
+Services and distribution
 
-### Confirming offers and pickups
+### First conversations with owners and operators
 
-Follows up on quote requests, confirms details and schedules the pickup.
+Calls to owners and operations leaders at the companies in your ICP, opening with the problem you solve for them.
 
-B2B demo requests
+Appointment setting
 
-### Qualifying before the demo
+### An AI appointment setter for your sales team
 
-Asks the three questions your sales team asks anyway, then books the right rep. The operator guide is how AI voice calling works for B2B lead generation.
+Asks the questions your sales team asks anyway, then books the meeting with the right person. It pairs well with our B2B appointment setting (https://www.beleaded.com/appointment-setting/) program.
 
-## Questions about AI voice agents
+## Questions about AI cold calling
 
-**What is an AI voice agent?**
+**What is AI cold calling?**
 
-An AI voice agent is software that holds a spoken phone conversation: it listens, understands, answers and acts, for example by booking an appointment. Be Leaded builds them on Retell AI for the conversation and ElevenLabs for the voice, and connects them to your forms, calendar and CRM.
+AI cold calling is outbound calling done by AI agents. The agent calls people in your ICP, holds a spoken conversation, answers their questions, asks your qualifying questions and books a meeting on your calendar when there is interest.
 
 **Will people know it's an AI?**
 
-The agent identifies itself as an automated assistant when asked, and we recommend saying so up front. In our experience people care far more about getting a fast answer than about who gave it.
+Yes. The agent introduces itself as an AI assistant calling for your business at the start of every call. In our experience buyers care far more about whether the call is relevant to them than about who placed it.
 
-**Can it make cold calls?**
+**Who does the agent call?**
 
-No. Calls with an AI-generated voice need prior express consent under the TCPA, so we only call leads and customers who asked to be contacted. For new prospects, use cold email or LinkedIn outreach.
+People in your ICP: the industries, company sizes, regions and titles you choose. We build the call list with you and check it before any calls go out.
 
-**What happens if the caller asks something it can't answer?**
+**What happens if the prospect asks something it can't answer?**
 
-It transfers to a person if one is available, or takes a message and flags the call for follow-up. Every call is transcribed so nothing is lost.
+It offers a follow up call with your team, books a time if the prospect wants one and flags the call for you. Every call is transcribed so nothing is lost.
+
+**Can it run alongside cold email?**
+
+Yes. Most programs pair AI cold calling with cold email and LinkedIn outreach, so the same accounts hear from you on each channel and the meetings land on one calendar.
 
 **How long does it take to build?**
 
-About two weeks: script, voice, integrations and a test period where we review every call before it goes live for real leads.
+About two weeks: call list, script, voice, calendar connection and a test period where we review every call before the agents work through your full list.
 
 **What does it cost?**
 
