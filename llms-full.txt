@@ -2177,7 +2177,7 @@ AI cold calling is outbound calling done by AI agents. The agent calls people in
 
 **Will people know it's an AI?**
 
-Yes. The agent introduces itself as an AI assistant calling for your business at the start of every call. In our experience buyers care far more about whether the call is relevant to them than about who placed it.
+Yes. The agent introduces itself as an AI assistant calling for your business at the start of every call.
 
 **Who does the agent call?**
 
