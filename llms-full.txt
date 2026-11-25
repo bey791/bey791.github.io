@@ -667,7 +667,7 @@ checking
 
 ready
 
-Example daily report for a client sending domain. Tools we work in: Apollo, Clay, Saleshandy, Instantly, Smartlead, Salesforce, Dripify and n8n, plus Retell AI and ElevenLabs voice agents for follow-up calls.
+Example daily report for a client sending domain. Tools we work in: Apollo, Clay, Saleshandy, Instantly, Smartlead, Salesforce, Dripify and n8n.
 
 ## Who owns the list and the replies when we stop?
 
@@ -9668,7 +9668,7 @@ The first month is one source. Write the fit in one sentence, have counsel revie
 
 ## The stack, kept light
 
-The AI voice follow-up (https://www.beleaded.com/ai-voice-agents/) page names the live build: Retell AI for the conversation, ElevenLabs for the voice, and n8n between the form, the calendar, and the CRM. Retell AI places the call and can hand off. ElevenLabs supplies the voice. n8n moves the form in, the call out, and the transcript back. A person can test the questions by phone before any of that is wired up.
+The AI cold calling (https://www.beleaded.com/ai-voice-agents/) page covers the live build. The AI calling agent places the call, holds the conversation and pushes the transcript and the booked meeting into the CRM. A person can test the questions by phone before any of that is wired up.
 
 Check current vendor docs before a live form is attached. The voice should name your business and say it is automated. A transfer should reach a person on your team. Transcripts should land where the team already looks, and you should be able to pause the agent without deleting the lead.
 
