@@ -144,8 +144,8 @@ Meta, Google and LinkedIn ads with the landing page and the follow-up built in, 
 ### Newsletters, email and SMS
 Newsletters designed, written and sent. Campaign and lifecycle email. SMS for subscribers who opted in.
 
-### AI voice follow-up
-Voice agents that call new leads back within a minute, answer questions and book the appointment.
+### AI cold calling
+AI agents cold call your ICP, answer questions and book meetings on your calendar.
 
 ### Off-market deal flow
 Owner outreach in your firm's name, and meetings with owners open to a sale, a recapitalization or a valuation.
@@ -283,7 +283,7 @@ If yours isn't here, ask it on the call.
 
 **What does Be Leaded do?**
 
-Be Leaded is a B2B marketing agency. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI voice follow-up, and off-market deal flow for M&A advisors and business brokers. We build the infrastructure, write every message and book meetings on your calendar.
+Be Leaded is a B2B marketing agency. We run cold email and appointment setting, LinkedIn outreach, paid social and search, newsletter, email and SMS programs, AI cold calling, and off-market deal flow for M&A advisors and business brokers. We build the infrastructure, write every message and book meetings on your calendar.
 
 **How soon will we see meetings?**
 
