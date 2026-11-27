@@ -13557,11 +13557,11 @@ URL: https://www.beleaded.com/cold-calling-services/
 - Services (https://www.beleaded.com/services/)
 - Cold calling services
 
-Cold calling
+AI cold calling
 
-# B2B cold calling services
+# AI cold calling services for B2B
 
-Cold calling services are outside teams that phone the buyers you want to reach and book the qualified ones onto your sales calendar. Target up to 25,000 new contacts a month.
+Cold calling services phone the buyers you want to reach and book the qualified ones onto your sales calendar. Ours use AI agents that cold call your ICP. Target up to 25,000 new contacts a month.
 
 400K+
 
@@ -13571,19 +13571,15 @@ Emails a day of sending capacity
 
 Delivery rate across programs
 
-49 to 51%
-
-Average open rate on newsletters
-
 30+
 
 Client programs
 
-Last updated November 24, 2026
+Last updated December 1, 2026
 
 ## What a cold calling service does
 
-Be Leaded's team runs cold calling as a phone program of its own, working from the same list as email and LinkedIn, with the meeting placed on your calendar. Cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message.
+Be Leaded is a cold calling agency built on AI agents. They cold call your ICP as a phone program of its own, working from the same list as email and LinkedIn, and place each qualified meeting on your calendar. AI cold calling can run alongside your email and LinkedIn outreach. The phone reaches the same buyers as those two channels. It is not a separate list with a separate message.
 
 The fit definition is yours to sign before any outreach goes out. Email and the LinkedIn note use that same definition. A buyer who matches it, and who agrees to a time, is booked on your calendar. A conversation that misses the definition is not booked to fill a week.
 
@@ -13596,10 +13592,10 @@ A calling program is a short chain of jobs. Each one has to be done for the next
 - A written definition of who counts as a fit
 - An account list built from that definition and approved by you
 - A talk track that says why you are calling
-- The calls themselves, with notes on every outcome
+- The calls themselves, placed by AI agents, with notes on every outcome
 - A check of each interested buyer against the definition
 - A hold on your calendar and a handoff to your seller
-Our team runs the phone work as its own program, beside email and LinkedIn. You write or approve the definition, review the list and take the meetings.
+Our AI agents run the phone work as its own program, beside email and LinkedIn. You write or approve the definition, review the list and take the meetings they book.
 
 ## When the phone is the right channel
 
@@ -13609,7 +13605,7 @@ It also helps when the buyers you want rarely answer written messages. Some role
 
 ## When the phone is the wrong channel
 
-Calling is a poor fit when the offer is still being worked out. A caller cannot make up for a message that the buyer does not recognize as a problem they have.
+Calling is a poor fit when the offer is still being worked out. An AI cold caller cannot make up for a message that the buyer does not recognize as a problem they have.
 
 It is also a poor fit when the buyers are known to refuse unscheduled calls, or when the value of a sale is too small to carry the cost of a conversation. In those cases email and LinkedIn do the work, and the cold email program (https://www.beleaded.com/cold-email-agency/) is the better place to start.
 
@@ -13619,13 +13615,13 @@ Prospects hear from you more than once. The phone does not replace the email or 
 
 Some buyers answer a short email and never pick up. Some ignore the inbox and will take a call. Running the channels together means a miss on one is not the end of the attempt. A reply on email can change what the next call says. A call can explain a sentence the email could not.
 
-The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains and the reply handling. This page adds phone outreach beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
+The cold email (https://www.beleaded.com/cold-email-agency/) page is the written sequence, the domains and the reply handling. This page adds AI cold calling beside that work. We do not ask you to choose calling instead of email. If you are pricing a calling vendor that bills by the pod, see Callbox alternatives (https://www.beleaded.com/guides/callbox-alternatives/).
 
 Want calls with your buyers booked for you?
 
 ## How a call and an email change each other
 
-When both channels point at one buyer, each can use what the other learned. An email that was opened but not answered tells the caller the subject is not foreign to the buyer. A call that ended with a request to send something in writing gives the next email a clear first line.
+When both channels point at one buyer, each can use what the other learned. An email that was opened but not answered tells the AI agent the subject is not foreign to the buyer. A call that ended with a request to send something in writing gives the next email a clear first line.
 
 The reverse also holds. A buyer who never picks up may still read a short note, and the note can name the call that was missed. Neither channel has to start from nothing.
 
@@ -13643,7 +13639,7 @@ It also keeps exclusions in one place. A name removed because it is a current cu
 
 ## Who gets called and how lists are built
 
-The buyers you already named, reached by phone together with email and LinkedIn.
+The buyers you already named, reached by AI agents on the phone together with email and LinkedIn.
 
 ### Your ICP
 
@@ -13665,7 +13661,7 @@ Heads of operations at companies that want to grow. Nearly every conversation fi
 
 ### A tight definition
 
-Operations leads at regional distributors who run their own delivery routes and have said that late deliveries cost them accounts. A caller can ask about each part, and a seller can tell afterward whether the meeting matched.
+Operations leads at regional distributors who run their own delivery routes and have said that late deliveries cost them accounts. An AI agent can ask about each part on the call, and a seller can tell afterward whether the meeting matched.
 
 You sign the definition before any outreach goes out, and email, LinkedIn and the call all use it.
 
@@ -13680,41 +13676,41 @@ The list is the largest single factor in whether a calling program works, and it
 
 Current customers and the live deals you name are left out before the list goes into the program. Anything else you want removed goes on the same exclusion list.
 
-## Direct lines, switchboards and how a caller reaches a person
+## Direct lines, switchboards and how an AI agent reaches the buyer
 
 A phone number on a list is only as useful as the person at the other end. Some numbers reach the buyer directly. Others reach a switchboard, a front desk or a voicemail menu, and each needs a different approach.
 
-When you compare providers, ask where the numbers come from and how they are checked. A list full of numbers that ring nowhere wastes the caller's time and the buyer's patience.
+When you compare providers, ask where the numbers come from and how they are checked. A list full of numbers that ring nowhere wastes calls and the buyer's patience.
 
 ## A talk track is an outline, not a script
 
-A caller who reads a script sounds like it. A caller with no plan wanders. The workable middle is an outline with five parts: why this call, a question that tests fit, a short answer to what the buyer says, a clear next step and a polite exit.
+An AI agent that reads a rigid script sounds like it. One with no plan wanders. The workable middle is an outline with five parts: why this call, a question that tests fit, a short answer to what the buyer says, a clear next step and a polite exit.
 
-Agree the outline with whoever runs the phone work before the first dial. The wording will change as buyers respond, and that is expected.
+You agree the outline before the first call goes out, and the AI agents work from it on every call. The wording will change as buyers respond, and that is expected.
 
 ## How a call opens
 
 The first sentence has one job, which is to say who is calling and admit that the call is unexpected. Then it gives a reason that is about the buyer, not about you.
 
-Example only, with placeholders in brackets: "Hi, this is [name] with [your company]. I know I am calling out of the blue. I work with operations leads at regional distributors on late deliveries, and I wondered if that is a problem on your side." It ends on a question the buyer can answer in a word.
+Example only, with placeholders in brackets: "Hi, this is [agent name] calling for [your company]. I know I am calling out of the blue. I work with operations leads at regional distributors on late deliveries, and I wondered if that is a problem on your side." It ends on a question the buyer can answer in a word.
 
 This example is illustrative. Names and details are made up.
 
 ## Gatekeepers and front desks
 
-The person who answers is doing a job, which is to protect the buyer's time. Treat that person as a professional. Say who is calling and why in a sentence, ask for the right person by role and accept an honest no.
+The person who answers is doing a job, which is to protect the buyer's time. The AI agent treats that person as a professional. It says who is calling and why in a sentence, asks for the right person by role and accepts an honest no.
 
-A caller who invents a relationship to get past a front desk damages the company they represent. Good practice is plain and short, and it leaves the door open for the next call.
+A caller that invents a relationship to get past a front desk damages the company it represents. Good practice is plain and short, and it leaves the door open for the next call.
 
 ## Voicemail and what follows it
 
-Many calls end in voicemail. A short message that names the company, gives one reason and says an email is coming is enough. Long pitches in voicemail rarely help.
+Many calls end in voicemail. The AI agent leaves a short message that names the company, gives one reason and says an email is coming, and that is enough. Long pitches in voicemail rarely help.
 
 The follow-up matters more than the message. A note sent after the call, which refers to it, gives the buyer a second chance to respond in the way they prefer.
 
 ## Objections buyers raise and honest answers
 
-Most objections are variations of a few, and the useful answers are short and truthful.
+Most objections are variations of a few, and the useful answers are short and truthful. The AI agents are set up with these answers before launch.
 
 ### We already have someone for that
 
@@ -13734,7 +13730,7 @@ Answer plainly and offer to remove the number if they would like. A direct answe
 
 ## Scheduling a callback instead of pushing for a meeting
 
-Not every interested buyer is ready to book a meeting on the first call. A callback at a time the buyer picks is a smaller commitment, and it keeps the conversation friendly. The buyer who asked for the callback expects the call and is likely to take it.
+Not every interested buyer is ready to book a meeting on the first call. A callback at a time the buyer picks is a smaller commitment, and it keeps the conversation friendly. The AI agent places that callback at the time the buyer named. The buyer who asked for the callback expects the call and is likely to take it.
 
 ## Qualification and booking
 
@@ -13765,7 +13761,7 @@ When you compare providers, ask what they count: meetings booked or meetings hel
 
 ## What your seller should receive after a booking
 
-A seller who walks into a meeting without context starts from the beginning. Whoever books the call should pass on a short note.
+A seller who walks into a meeting without context starts from the beginning. The AI agent that books the call passes on a short note.
 
 - The buyer's name, role and company
 - What the buyer said about the problem, in their words where possible
@@ -13797,9 +13793,9 @@ Ask to see a sample before you sign. A provider that cannot show one has told yo
 
 Phone with the other two channels, a written definition and a hold on your calendar.
 
-### Phone with email and LinkedIn
+### AI agents with email and LinkedIn
 
-Calling runs beside the other two channels, on the buyers you approved.
+AI agents place the calls beside the other two channels, on the buyers you approved.
 
 ### Qualification
 
@@ -13807,7 +13803,7 @@ A written definition, applied before a meeting is booked.
 
 ### Booked calls
 
-Qualified conversations placed on your calendar.
+Qualified conversations the AI agents place on your calendar.
 
 ## How calling is priced across the market
 
@@ -13815,7 +13811,7 @@ Providers use a handful of billing models. Knowing them helps you compare quotes
 
 ### By the seat
 
-A fixed monthly fee for a dedicated caller. It is simple to read and puts the risk of a slow month with you.
+A fixed monthly fee per calling seat. It is simple to read and puts the risk of a slow month with you.
 
 ### By the hour or the dial
 
@@ -13827,9 +13823,9 @@ You pay when a meeting is booked or held. Ask who defines a qualified meeting, b
 
 ### By the pod or the program
 
-A package that bundles a team and a set of channels. The Callbox alternatives guide (https://www.beleaded.com/guides/callbox-alternatives/) walks through how that billing reads.
+A package that bundles calling and a set of channels. The Callbox alternatives guide (https://www.beleaded.com/guides/callbox-alternatives/) walks through how that billing reads.
 
-Here, calling carries its own scope and its own fee, apart from the email and LinkedIn work, and you have the number after a 30 minute call.
+Here, AI cold calling carries its own scope and its own fee, apart from the email and LinkedIn work, and you have the number after a 30 minute call.
 
 ## Target up to 25,000 new contacts a month
 
@@ -13837,50 +13833,50 @@ Programs start from $2,000 a month. Email and LinkedIn. Calling is quoted separa
 
 Count contacts for calling in the calculator (https://www.beleaded.com/tools/outbound-calculator/)
 
-- Phone alongside email and LinkedIn
+- AI agents on the phone alongside email and LinkedIn
 - The buyers you approved
 - A written fit definition
 - A hold on your calendar
 - Customers and live deals left out
 - Your team takes the meeting
 
-## Compliance questions to ask any calling provider
+## What you approve before the first call goes out
 
-Rules for business calls differ by country and by state, and they change. This is guidance for a buyer, not legal advice, and your own counsel should confirm what applies to your calls.
+AI cold calling runs on what you sign off. Nothing goes out until each item below has your yes, and you can change any of them once the program is live.
 
-These are fair questions for any provider, and the answers should be specific.
+These are the parts that shape every call, and each one should be specific.
 
-- How are numbers checked against do not call lists before a dial?
-- What happens the moment a buyer says to stop calling?
-- Are calls recorded, and how is consent handled where the law asks for it?
-- Does the provider use automated dialing or prerecorded messages?
-- Who keeps the records, and can you see them?
+- The fit definition the AI agents qualify against
+- The account list, with current customers and live deals left out
+- The talk track and the opening line
+- The short answers to the objections buyers raise most
+- Which calendar gets the hold and what the invite says
 
-Ask for the answers in writing. A provider that treats these questions as a nuisance is one to think about twice.
+Ask any cold calling agency for the same list in writing. A provider that cannot show you what its calls will say before they go out is one to think about twice.
 
-## Where AI voice fits and where it does not
+## Why AI agents place the calls
 
-AI voice follow-up is a different program. It calls people who asked to be contacted, such as someone who filled in a form, and it is not used for cold calls. Cold calling to new buyers is the work on this page, run by our team.
+Every cold call in this program is placed by an AI agent. The agents call your ICP from the approved list, follow the talk track you signed off, answer the common objections and book qualified buyers straight onto your calendar.
 
-If you want to see how follow-up for inbound leads works, read about AI voice follow-up (https://www.beleaded.com/ai-voice-agents/). The two programs are scoped and priced apart.
+An AI cold caller works the list at the pace the program sets and logs the outcome of each call, so you can read what buyers said and change the message. To see how the agents themselves work, read about AI voice agents (https://www.beleaded.com/ai-voice-agents/).
 
-## Calling in house, with a hire or with a provider
+## Calling in house, with a hire or with AI agents
 
-An in house caller gives you control and a person who learns your market. It also gives you a hire to find, train, manage and replace, plus the tools and data they need. A provider takes that setup on, and you give up some day to day control.
+Hiring your own caller gives you control and someone who learns your market. It also gives you a hire to find, train, manage and replace, plus the tools and data they need. AI cold calling hands that setup to us. AI agents place the calls, and you keep control of the definition, the list and the talk track.
 
-The comparison depends on how many accounts you need to reach and how soon. The outsourced SDR team page (https://www.beleaded.com/outsourced-sdr-team/) sets out how a hire compares with a managed team, and the appointment setting program (https://www.beleaded.com/appointment-setting/) covers the booking side.
+The comparison depends on how many accounts you need to reach and how soon. The outsourced sales team page (https://www.beleaded.com/outsourced-sdr-team/) sets out how a hire compares with a managed program, and the appointment setting program (https://www.beleaded.com/appointment-setting/) covers the booking side.
 
 ## Questions to ask any cold calling provider
 
 Use this list with every firm you speak to, including us.
 
-- Who makes the calls, and are they dedicated to your account?
+- What places the calls, and is it set up for your account alone?
 - Where do the phone numbers come from?
 - Who writes the talk track and who approves it?
 - How is a qualified conversation defined, and by whom?
 - Can you hear a sample call or read the notes?
 - What does the report show, and how often?
-- How are do not call lists and stop requests handled?
+- How are stop requests handled?
 - Who owns the list and the call notes if the program ends?
 - What is the term, and how does it end?
 
@@ -13891,7 +13887,7 @@ A few patterns should slow you down.
 - A fixed number of meetings stated up front with no written definition of a meeting
 - No way to hear a call or read the notes
 - A price that cannot be explained in one sentence
-- A reluctance to discuss do not call handling
+- A reluctance to explain how stop requests are handled
 - A list you cannot see before the program starts
 
 None of these proves a provider is poor. Each one is a reason to ask a plain question and listen to the answer.
@@ -13906,7 +13902,7 @@ We keep the first call to thirty minutes. A rough version of each item below is 
 - What a good meeting looks like to your sellers
 - Who takes the meetings and in which calendar
 
-If you only want email and LinkedIn at first, say so. Calling can be added later and is quoted on its own.
+If you only want email and LinkedIn at first, say so. AI cold calling can be added later and is quoted on its own.
 
 ## Where cold calling stops
 
@@ -13944,7 +13940,7 @@ If you need meetings with facility or property managers for commercial roofing w
 
 **What is a B2B cold calling service?**
 
-Phone outreach alongside email and LinkedIn, for buyers who match a definition you approve.
+Phone outreach alongside email and LinkedIn, for buyers who match a definition you approve. At Be Leaded, AI agents place the calls and book qualified meetings on your calendar.
 
 **Is cold calling still worth doing?**
 
@@ -13952,11 +13948,11 @@ It can be, when the buyers you want take calls and the value of a sale justifies
 
 **What does a cold calling service include?**
 
-A written fit definition, a reviewed account list, the calls, a check of each interested buyer against the definition and a hold on your calendar. Our team runs it as a phone program of its own, working from the same list as email and LinkedIn.
+A written fit definition, a reviewed account list, the calls, a check of each interested buyer against the definition and a hold on your calendar. AI agents run it as a phone program of its own, working from the same list as email and LinkedIn.
 
-**Does Be Leaded use AI voice for cold calls?**
+**Does Be Leaded use AI for cold calls?**
 
-No. AI voice follow-up calls people who asked to be contacted and is not used for cold calls. Cold calling is run by our team as its own program.
+Yes. AI agents place every cold call to your ICP, qualify each buyer against your definition and book the qualified ones on your calendar.
 
 **How does cold calling fit with email and LinkedIn?**
 
@@ -13964,7 +13960,7 @@ Cold calling can run alongside your email and LinkedIn outreach. Buyers are the 
 
 **How do you qualify a call?**
 
-Against a written definition you approve before launch.
+The AI agent checks each interested buyer against a written definition you approve before launch.
 
 **What is a qualified conversation?**
 
@@ -13990,9 +13986,9 @@ Current customers and the live deals the client names are left out before the li
 
 Calling can be quoted on its own or alongside them. Say which you want on the call, and the quote follows that scope.
 
-**Is cold calling legal?**
+**What is an AI cold caller?**
 
-Rules differ by country and state, and they change, so this is not legal advice. Ask any provider how it handles do not call lists, stop requests and recording consent, and have your own counsel confirm what applies to your calls.
+An AI agent that places outbound calls to buyers on your approved list, follows the talk track you signed off, answers common questions and books qualified buyers on your calendar.
 
 **How do I know calling is working?**
 
