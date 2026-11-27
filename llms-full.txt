@@ -1153,6 +1153,281 @@ Or email sales@beleaded.com
 
 ---
 
+# LinkedIn Ads Agency for B2B Campaigns | Be Leaded
+
+URL: https://www.beleaded.com/linkedin-ads-agency/
+Title: LinkedIn Ads Agency for B2B Campaigns | Be Leaded
+Meta: A LinkedIn ads agency for B2B teams. We plan and run paid campaigns, set up tracking and report on the account each week. Book a 30-minute call.
+H1: LinkedIn ads agency for B2B paid campaigns
+
+LinkedIn ads agency for B2B paid campaigns
+
+By Ahmad Khan, Founder. Published and updated December 4, 2026.
+
+Be Leaded is a LinkedIn ads agency that plans and runs paid campaigns for B2B teams. We build audiences and write Sponsored Content, Message Ads, Document Ads and Thought Leader Ads. We set up the Insight Tag and Conversions API and report on the account each week. You hold the ad account.
+
+Example Software Co wrote a short brief for operations leaders who are reviewing vendor shortlists this quarter. Open the document or book a time to talk it through.
+
+A mock Sponsored Content ad plus the path from a view to a meeting. Example Software Co is made up for this picture and is not a real company.
+
+## What a LinkedIn ads agency does
+
+A LinkedIn ads agency plans, builds and runs paid campaigns inside LinkedIn Campaign Manager. The work is the ads themselves: who sees them, what they say, which format they use, how they are tracked and how the results are read with sales.
+
+Be Leaded does this as a managed program. We start from the accounts and roles you already want, then set up campaigns that can reach those people while they are on LinkedIn. We write the ads, choose the formats, build the audiences, install the tracking and sit with you each week to decide what to keep, pause or change.
+
+This is not a media plan that we hand over and leave. We work inside your ad account. You remain the account owner. LinkedIn bills the media to that account. Our work is the planning, the build, the weekly changes and the reporting.
+
+A useful partner will also tell you when LinkedIn is the wrong place for a given offer. Some products need a wider consumer audience. Some teams do not yet have a way to follow up when someone fills out a form or visits a page. In those cases we would rather say so on the first call than start campaigns that sales cannot use.
+
+- A written read of the roles, companies and offers the campaigns will support
+- Campaigns built in your LinkedIn ad account, with your Page connected
+- Audiences from LinkedIn targeting, from lists you provide and from people who already visited your site or engaged with your ads
+- Creative for the formats that fit the job, approved by you before anything goes live
+- The Insight Tag and, where your stack allows it, the Conversions API
+- A weekly review that sales can actually use, covering the period just ended
+
+## Paid LinkedIn campaigns and LinkedIn outreach are different jobs
+
+Teams often use "LinkedIn" to mean two separate kinds of work. Mixing them up leads to the wrong hire and the wrong brief.
+
+Paid LinkedIn campaigns run in Campaign Manager. They use formats such as Sponsored Content, Message Ads, Conversation Ads, Document Ads, Thought Leader Ads and Lead Gen Forms. You pay LinkedIn to place those ads in front of the people you choose. The person who sees the ad did not have to connect with you first.
+
+LinkedIn outreach is different. It is the work of sending connection notes and messages from a person's own profile. That work is about writing, timing and reply handling, often next to email. It is not bought as an ad placement.
+
+Be Leaded offers both, on separate programs. If you want outreach from your team's profiles, that lives on our page about LinkedIn outreach from your own profiles at /linkedin-lead-generation-agency/. This page covers only paid campaigns. A company can run both, and the two can support each other, but they should be scoped and measured as different jobs.
+
+When someone on your team says they want more from LinkedIn, ask which of those they mean before you write a brief. The audiences, the writing, the software and the way you score the work are not the same.
+
+## Ad formats we run
+
+LinkedIn offers several paid formats. We pick the format from the job, not from a default stack that we run for every account.
+
+### Sponsored Content
+
+This is the ad in the LinkedIn feed. It can be a single image, a carousel, a video or a document. It is usually the starting format because it can carry a clear offer to a tight audience without asking the person to accept a message. We use it for a point of view, a product story, an invitation to a page or a form.
+
+### Message Ads and Conversation Ads
+
+These arrive in LinkedIn messaging. A Message Ad is a single note. A Conversation Ad can branch, so the person chooses a path and you can send a document or a link as they go. These formats need a careful hand. People treat their inbox as private, so the copy has to earn the interruption. We use them when you have a tight list and a reason to speak to that person now, not as a blanket blast to a wide title group.
+
+### Document Ads
+
+A Document Ad lets someone open a PDF or a slide deck in the feed. This is useful when the offer is a brief, a checklist or a short research summary that a buyer might actually want to keep. The document has to be worth opening. A thin sales deck dressed up as a report will not hold attention, and it trains the audience to ignore the next one.
+
+### Thought Leader Ads
+
+These sponsor a post that already came from a person at your company, with that person's permission, rather than from the company Page alone. Buyers often give more time to a named person than to a logo. The format only works if the person is willing, the post is eligible and the voice already sounds like them. We do not invent a persona or force a post that the person would not have published.
+
+### Lead Gen Forms
+
+A Lead Gen Form sits on the ad and can be prefilled from the member's LinkedIn profile, so the person can share their details without loading a new page. This is an ad format, not a full marketing program on its own. It is useful when you want a lower friction path. It is a poor fit when you need the person to see a product walkthrough, a longer explanation or other context on your own site before they raise a hand. The choice between a form and a page is covered later on this page.
+
+### Retargeting ads
+
+The same formats can be shown again to people who already visited your site, opened a document, watched a video or submitted a form but did not take the next step. Retargeting often meets a warmer audience than a first visit, because the person has already seen you. It still needs new creative. Repeating the exact first ad is how audiences tire out.
+
+We do not run every format on day one. A new program usually starts with one or two formats, enough budget to learn and a clear next step for sales. We add formats when there is a reason, not to fill a menu.
+
+## Audiences, Matched Audiences and account based targeting
+
+The main reason teams come to LinkedIn is the professional targeting. The work is to use that targeting with care, then layer in your own lists and site activity so you are not guessing at every turn.
+
+LinkedIn lets you build audiences from company, industry, company size, job title, job function, seniority, years of experience and skills. Those filters are powerful and easy to overuse. Stacking too many of them can leave you with an audience too small to learn from. Using only a broad title, with no company or seniority limits, can spend on people who will never buy from you. We start from the roles and accounts you already sell to, then test a few clean cuts rather than one giant pile of titles.
+
+Matched Audiences let you bring your own data into the account. That can be a list of companies you want, a list of people you already know, visitors to your website or people who engaged with your ads or your Page. Website audiences depend on the Insight Tag being installed and firing. List audiences depend on the quality of the file you upload. A stale spreadsheet of every contact you have ever collected will not give you a sharp campaign.
+
+Account based work on LinkedIn is usually a Matched Audience of named companies, with role filters on top so you reach the buying group rather than everyone at the firm. This is useful when you already know the accounts that matter. It is not a shortcut if you cannot name those accounts yet. In that case we would rather tighten the industry and role filters first than pretend a vague market is a named list.
+
+Exclusions matter as much as the people you include. Current customers, your own employees, job applicants and people who already booked a meeting can all waste spend if they stay in a prospecting audience. We review exclusions at the start and again as the program runs, because the lists change.
+
+LinkedIn can also place ads off LinkedIn through the Audience Network. That placement is not the same as the LinkedIn feed. Some teams include it. Some prefer to leave it off. We decide that with you and we look at those placements on their own, so they do not hide inside the feed numbers.
+
+## Insight Tag, Conversions API and reporting signals
+
+Tracking is how you tell a useful action from a click. On LinkedIn that usually means the Insight Tag on your site, and often the Conversions API as a second path when browsers limit what a tag can see.
+
+The Insight Tag is a piece of code on your website. It helps Campaign Manager record visits, build website audiences for retargeting and count conversions you define, such as a thank you page after a form or a visit to a key URL. We help you place it, confirm it is firing and set the conversions that match the actions sales actually cares about.
+
+The Conversions API sends those events from your server as well as from the browser. This is useful when a browser blocks the tag, or when you want a more complete record of what happened after the click or the view. Setup depends on your site and your tools. We will tell you what your stack can support and what it cannot, rather than implying that every event will land perfectly.
+
+When your CRM can send a signal back, we also like to count meetings booked and opportunities created, not only form fills. LinkedIn supports offline conversions when the records can be matched. This is how you start to see whether a campaign is helping the pipeline, instead of stopping the story at the form.
+
+Be honest about the limits. A short click window will undercount a purchase that takes months and involves several people. View through numbers can overstate the role of an ad that a person barely noticed. We will show you what Campaign Manager reports, what your CRM reports and where those two views disagree. We will not dress a gap in the data as a result.
+
+## How a campaign is structured
+
+A clean structure makes the weekly review possible. When every title, offer and format sits in one campaign, you cannot tell what is working.
+
+We usually split campaigns by objective and by audience. A campaign that reaches people who already know you should not be mixed with a campaign that introduces you to a cold list. A campaign that offers a document should not share a budget and a bid strategy with a campaign that asks for a meeting. The exact split depends on how many offers you have and how much you can put into media at once.
+
+Warm audiences often come first: site visitors, people who engaged with your ads or your Page and open conversations already in the CRM when those lists can be used. Those groups tend to need less introduction. Colder prospecting comes next, once the tracking is in place and sales has a path for new records. Starting only with the most expensive cold reach is a common way to burn the first month.
+
+The media budget has to support the design. If you cannot fund more than one audience and one format at a time, you are running a single test, not a program. That can still be a fine way to start, but we will say so plainly on the call. We would rather narrow the plan than spread a thin budget across a structure it cannot fill.
+
+Bidding follows the objective you chose in Campaign Manager. We review delivery, frequency and cost as the ads run, and we change bids or budgets when the data supports it. We do not change five things on the same day and then guess which change mattered.
+
+## Creative that holds up in a professional feed
+
+LinkedIn is a professional feed. The ad has to look like it belongs next to a colleague's post. A loud banner style usually gets scrolled past.
+
+The strongest ads we see are specific. They name the role, the problem and the next step. "Learn more" without a reason gives the person nothing to judge. A short point of view, a document worth opening or a clear invitation to talk will do more than a slogan. If you sell to a buying group, different people may need different messages: the user of the product, the person who owns the budget and the person who has to live with the risk.
+
+Creative has to change. A tight audience will see the same ad often. When frequency rises or results fade, we refresh the hook, the image or the offer rather than leaving the first version up for months. Thought Leader Ads should stay in the person's own voice. We can help with a draft, but the post still has to sound like them, and they still have to approve the sponsorship.
+
+You sign off before anything goes live. We write and design. You, or the person you name, reviews the ads, the form or page and the audience plan. Nothing is submitted to LinkedIn until that review is done. If a claim in the copy needs a source or a legal read from your side, we wait for that too.
+
+## A form in the ad or a page on your site
+
+You can collect a response with a Lead Gen Form on the ad, or you can send the person to a page you own. The right choice depends on the offer, not on a house preference.
+
+A Lead Gen Form is fast. Fields can be prefilled from the LinkedIn profile, the person never has to load your site and the record can be sent to your CRM. You can add qualifying questions, but the form is still a short path. It works well when the next step is a conversation or a simple download. It works poorly when the person should see a product walkthrough, a longer explanation or other context before they raise a hand. Easy forms also collect people who were only mildly curious, so sales has to be ready to sort the records.
+
+A page on your site gives you room. You control the story, the layout and the follow up on that page. You also take on the load time, the mobile layout and the need for the Insight Tag or the Conversions API to record what happened. If the page is slow or vague, the ad cannot save it. We will look at the page, or help you plan a short one, before we send paid traffic there.
+
+Many programs use both. A document or a short offer can use a form. A request for a longer conversation can use a page that explains what the meeting is for. We will pick from the offer and from how your sales team wants to work the replies.
+
+## What we review with you each week
+
+The weekly review should be useful to marketing and to sales. A screenshot of Campaign Manager is not a review.
+
+We look at what ran, what it cost, who was reached and what those people did. Title, company, seniority and industry matter here, because they tell you whether the audience is the one you asked for. We look at which creative held attention and which did not. We look at form or page results, and at whether those records reached sales in the way you wanted.
+
+Then we look past the click. If your CRM is connected, we review meetings, opportunities and anything sales marked during the period just ended. Those figures describe that period only. They are not a forecast and they are not a claim about what the next period will do.
+
+If sales has not touched the records, that is part of the review, not a side note. An ad can only take a person so far. A form that sits in a shared inbox for a week will waste good spend. We will raise that directly and help you fix the handoff, because changing the bid will not fix a delayed reply.
+
+Each review ends with a decision: what to keep, what to pause, what to test next and whether any budget should move. You leave with that written down, not with a vague sense that things are being optimized.
+
+## How the work begins
+
+The first call is for scope. We need the accounts and roles you want, the offers you can stand behind, the tools you use and the way sales wants new records delivered.
+
+Bring what you already have. That might be a current LinkedIn ad account, a list of target companies, a sense of which offers have worked in sales conversations and the name of the person who will approve ads. If you already run campaigns, we will look at them with you on the call. We are not asking for a formal audit product here. We just want a clear picture of the starting point.
+
+After the call, we ask for access to the ad account you own, a connection to your LinkedIn Page and help from whoever can place the Insight Tag or approve the Conversions API work. We then build audiences, write creative, set up the form or page path, check the tracking and send the package to you for sign off. Nothing goes live without that sign off.
+
+Most programs go live in about three weeks. The first weeks after launch are for confirming that tracking is clean, that sales is receiving records and that the early audiences make sense. That period is not a verdict on the channel. Give the campaigns time to collect a pattern, especially if your sales cycle is long.
+
+If paid LinkedIn campaigns should be reaching the accounts and roles you already sell to, schedule a conversation. We will go over the audience, the formats, the tracking and the way sales should receive new records.
+
+## Who holds the ad account
+
+You own the LinkedIn ad account, the Page connection, the creative and the data. We work as a user on that account. We do not hold the account hostage.
+
+Ad spend is billed by LinkedIn to your account and is not part of our fee. You can see the spend in Campaign Manager at any time. The fee for our work is set on the first call, based on the scope we agree. Programs run month to month with no long-term contract.
+
+If we part ways, the account stays yours. So do the ads, the audiences you are allowed to keep and the history in Campaign Manager. We will hand off the weekly notes and the current structure so your team, or the next partner, can keep going.
+
+We will not ask you to run spend through us or to hide the account behind an agency login you cannot access. If your company needs a particular permission model, we will set that up with you at the start.
+
+## When this work is a fit
+
+This program is for B2B teams that can name the companies or roles they want, have an offer that can be explained in an ad and have someone in sales who will follow up.
+
+It is a good fit when you already sell to a defined market, you can describe the buying group and you want paid campaigns to reach those people on LinkedIn. It is also a fit when you have run LinkedIn ads before and want a cleaner structure, better tracking or a weekly rhythm that sales will actually attend.
+
+It is a poor fit when you need a wide consumer audience, when no one is available to pick up a form or a meeting request or when you are hoping ads will fix an offer that sales already cannot close. It is also the wrong page if what you actually want is outreach from a person's profile. That work is described on the outreach page linked above.
+
+We will tell you if we are the wrong firm for the brief. There is no value in starting a program that your team cannot support or that the channel cannot honestly serve.
+
+## Running LinkedIn ads next to Meta and X
+
+LinkedIn is the professional feed. Some teams also run campaigns on Meta and X. Those channels can carry a different story to a different mix of people.
+
+We also plan and run campaigns on Meta and X at /paid-social-agency/. This page does not cover that work. If you already have a program in one of those places, we will not force LinkedIn to copy it. We will ask what each channel is for and keep the measurement honest, so a result on one is not counted as a result on the other without a reason.
+
+Some buyers will see you in more than one place. That is fine. The brief still has to say which job LinkedIn is being asked to do: introduce you to a named set of accounts, stay in front of people who already visited or invite a specific role to a conversation. When that job is clear, the formats and the audiences are much easier to choose.
+
+## How to compare LinkedIn ads agencies
+
+This page is about hiring Be Leaded to run the work. If you are still comparing firms, ask the same questions of everyone, including us.
+
+Ask who will own the ad account. Ask how they report past the click, and whether they will sit with sales or only send a dashboard. Ask which formats they actually use and why, not which formats appear on a services list. Ask who writes the ads, how often creative is changed and how they treat placements off LinkedIn. Ask them to explain, in plain language, what the Insight Tag and the Conversions API can and cannot see.
+
+Ask for a view of how they would structure the first campaigns for your market, not a generic deck. A short, specific plan tells you more than a long list of logos. If a firm cannot tell you when they would turn work down, be careful.
+
+We published a comparison of B2B LinkedIn Ads firms at /guides/best-b2b-linkedin-ads-agencies/ for teams that want that side by side read. It is a guide, not this service page. Use it to shape the first call. Use this page when you want to talk about a program with us.
+
+## Mistakes that waste a LinkedIn ads budget
+
+Most wasted spend we see comes from structure and follow up, not from a single wrong bid.
+
+One campaign that holds every title, every offer and every format will not teach you anything. Measuring only clicks on a long sales cycle will make a useful campaign look weak and a noisy campaign look strong. Leaving off LinkedIn placements mixed into the feed results will hide where the money went. Running the same creative for months in a small audience will tire people out.
+
+Sending form fills to a shared inbox that no one owns is another quiet leak. So is uploading a messy list and calling it account based work. So is opening with Message Ads or Conversation Ads to a cold, wide title group. Those formats can work on a tight list with a real reason to write. They are a poor first move when you are still learning who responds.
+
+Buying a new format because it is new, rather than because it fits the job, belongs on this list too. So does starting before tracking is in place. If you cannot tell a meeting from a loose form fill, you are not ready to judge the ads, and you are not ready to scale them.
+
+## When to keep LinkedIn ads in house
+
+Not every team needs a firm for this. Some should keep the work.
+
+Keep it in house if you already have someone who lives in Campaign Manager, can write for this audience, can maintain the Insight Tag and the Conversions API and can meet sales every week. That person needs time, not a leftover hour after other channels. LinkedIn rewards that kind of attention because the audiences are tight and the creative wears out.
+
+Bring in help if that person does not exist, or if they are spread across too many channels to give this one the time it needs. Bring in help if tracking has never been set up cleanly, or if the account has been running for months without a structure sales can trust. We can also give a second read to a team that wants to keep the work and wants another pair of eyes on the plan.
+
+The decision is about capacity and skill, not about a rule that an agency is always the better path. We would rather you keep a strong in house setup than hire us for work you can already do well.
+
+## Questions
+
+Short answers about hiring a LinkedIn ads agency and how Be Leaded runs paid campaigns.
+
+Q: What does a LinkedIn ads agency do?
+A: It plans, builds and runs paid campaigns in LinkedIn Campaign Manager. That work covers audiences, creative and tracking. It also covers formats such as Sponsored Content, Message Ads, Document Ads and Thought Leader Ads, plus a regular review of the results with sales. Be Leaded does this as a managed program in the ad account you own.
+
+Q: How is this different from LinkedIn outreach?
+A: Paid campaigns are ads you buy in Campaign Manager. Outreach is connection notes and messages sent from a person's own profile. They are different jobs, with different writing, software and ways of scoring the work. We offer outreach on a separate page and keep this URL for paid campaigns only.
+
+Q: Which LinkedIn ad formats do you run?
+A: We run Sponsored Content, Message Ads, Conversation Ads, Document Ads, Thought Leader Ads, Lead Gen Forms and retargeting with those same formats. A new program usually starts with one or two, then adds more when there is a reason. The format follows the job, not a fixed menu.
+
+Q: Who owns the LinkedIn ad account and how is spend handled?
+A: You own the ad account, the creative and the data. We work as a user on that account. Ad spend is billed by LinkedIn to your account and is not part of our fee. The fee for the work is set on a 30-minute call. Programs run month to month with no long-term contract.
+
+Q: Should we use a Lead Gen Form or a page on our site?
+A: Use a Lead Gen Form when you want a short path and the next step is a conversation or a simple download. Use a page on your site when the person should see more context before they raise a hand. Many programs use both. We will choose from the offer and from how sales wants to work the replies.
+
+Q: How do you report on LinkedIn ads?
+A: Each week we review what ran, who was reached, which creative held up, what people did on the form or the page and what sales did with those records. When the CRM can send a signal back, we also look at meetings and opportunities for the period just ended. Those figures are a record of that period, not a forecast.
+
+Q: How long before we should judge the campaigns?
+A: The first weeks are for confirming that tracking is clean, that sales is receiving records and that the early audiences make sense. That period is not a verdict. Give the campaigns a full quarter before you treat the numbers as a pattern, and longer if your sales cycle itself runs past a quarter.
+
+Q: Can LinkedIn ads run next to work on Meta and X?
+A: Yes. LinkedIn can sit next to campaigns on Meta and X, as long as each channel has a clear job and you do not count the same result twice without a reason. We also run work on Meta and X on a separate program. This page covers paid LinkedIn campaigns only.
+
+## Related
+
+- /linkedin-lead-generation-agency/ (LinkedIn outreach from your own profiles): Connection notes and messages sent from your team's profiles, which is a different job from paid campaigns.
+- /guides/best-b2b-linkedin-ads-agencies/ (B2B LinkedIn Ads agencies compared): A guide for teams still comparing firms, kept separate from this service page.
+- /services/ (All services): The rest of what Be Leaded offers, if you want to set this program next to other work.
+
+## Sources
+
+Official LinkedIn product and help pages that the sections above rest on. LinkedIn updates these URLs, so check the live page before you lean on one sentence.
+
+- LinkedIn: Sponsored Content: https://business.linkedin.com/advertise/ads/sponsored-content
+- LinkedIn: Lead Gen Forms: https://business.linkedin.com/advertise/ads/sponsored-content/lead-gen-ads
+- LinkedIn: Conversation Ads: https://business.linkedin.com/advertise/ads/sponsored-messaging/conversation-ads
+- LinkedIn Ads Guide, including Thought Leader Ads: https://business.linkedin.com/advertise/ads/ads-guide
+- LinkedIn Help: Create document ads in Campaign Manager: https://www.linkedin.com/help/lms/answer/a733950
+- LinkedIn Help: Targeting options for LinkedIn Ads: https://www.linkedin.com/help/lms/answer/a420820
+- LinkedIn Help: Get started with LinkedIn Matched Audiences: https://www.linkedin.com/help/lms/answer/a421504
+- LinkedIn Help: LinkedIn Insight Tag: https://www.linkedin.com/help/lms/answer/a489169
+- LinkedIn Help: Add the LinkedIn Insight Tag to your website: https://www.linkedin.com/help/lms/answer/a418880
+- LinkedIn Help: Get started with LinkedIn Conversion Tracking: https://www.linkedin.com/help/lms/answer/a420536
+- LinkedIn Help: Set up a Conversions API integration in Campaign Manager: https://www.linkedin.com/help/lms/answer/a1657171
+- Microsoft Learn: LinkedIn Conversions API: https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads-reporting/conversions-api
+
+## Which accounts should we reach first?
+
+Tell us the companies and roles you want, the campaigns you already run and how sales should receive new records.
+
+Book a 30-minute call: https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=end&utm_content=linkedin-ads-agency
+
+---
+
 URL: https://www.beleaded.com/paid-social-agency/
 
 - Home
