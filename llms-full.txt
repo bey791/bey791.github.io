@@ -1285,9 +1285,9 @@ URL: https://www.beleaded.com/paid-social-audit/
 - Services
 - Free Meta ad account audit
 
-# A free Meta ad account audit
+# A free Facebook and Meta ads audit
 
-Be Leaded offers a free Meta ad account audit for businesses that already run Meta ads.
+Be Leaded offers a free Facebook ads audit for businesses that already run Meta ads. It works as a Facebook ad account audit and a Meta ads audit in one: we read the account, then share written findings and a call walkthrough.
 
 Book a free Meta ad account audit (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=audit&utm_content=paid-social-audit)
 
@@ -1328,6 +1328,9 @@ A medical practice advertises in a regulated category, so copy and targeting nee
 Our team manages $100M in annual ad spend and has over a decade of experience running paid social for big pharma brands on Meta, X and other platforms. Ongoing pharma campaign work is on our pharma paid social page (https://www.beleaded.com/pharma-paid-social-agency/).
 
 ## Questions
+
+Q: What is a Facebook ads audit?
+A: It is a review of the Facebook and Meta ad account you already run. We check account structure, targeting, creative, tracking and conversion setup, budget pacing and how ads in regulated categories are set up. You get written findings and a call walkthrough.
 
 Q: What does the audit check?
 A: Account structure, targeting, creative, tracking and conversion setup, budget pacing and how ads in regulated categories are set up.
@@ -1754,11 +1757,11 @@ Injury firm? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?u
 URL: https://www.beleaded.com/facebook-ads-for-dentists/
 Title: Facebook Ads for Dentists | Be Leaded
 Meta: Meta ads for dental practices, measured on booked and seated patients, with campaigns split by treatment type. Book a 30-minute call.
-H1: Facebook and Instagram ads for dental practices
-Updated: 2026-11-24
+H1: Facebook ads for dentists and dental practices
+Updated: 2026-11-27
 
 ## Lead
-Be Leaded plans Meta campaigns on Facebook and Instagram for dental offices seeking more people actually sitting in a chair. Work is split by treatment type. Each inquiry goes to your front desk.
+Be Leaded plans and runs Facebook ads for dentists, with Meta campaigns on Facebook and Instagram for dental offices seeking more people actually sitting in a chair. Our dental Facebook ads are split by treatment type, and each inquiry goes to your front desk.
 
 Your practice owns the ad account, and a dentist signs off on every ad before launch.
 
@@ -1879,6 +1882,9 @@ Not a match if:
 This URL is for Facebook and Instagram ads only. For text and email programs for dental and med spa practices, use that industry page at /industries/dental-med-spa/.
 
 ## FAQ
+Q: What are Facebook ads for dentists?
+A: They are paid campaigns on Facebook and Instagram that invite people near your office to book a consult you already offer, such as a new-patient exam. Each campaign covers one treatment type, a dentist at your practice signs off on every ad and each inquiry goes to your front desk.
+
 Q: Do Facebook ads work for dentists?
 A: They can produce inquiries from people who are looking for a dental office, provided the desk can respond on the day the form arrives. Markets, offers and response speed all change the outcome. We score the work on booked consults and seated visits as your office records them. Those figures are measures only, never promises.
 
@@ -2544,15 +2550,15 @@ Need sellers? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?
 
 ---
 
-# Search Fund Deal Sourcing: Owner Outreach | Be Leaded
+# Private Equity Deal Sourcing and Search Funds | Be Leaded
 URL: https://www.beleaded.com/search-fund-deal-sourcing/
-Updated: 2026-11-24
+Updated: 2026-11-27
 
-Owner outreach for search fund deal sourcing
+Buy side deal sourcing for search funds, PE firms and independent sponsors
 
 Owner outreach for searchers: a mandate you set, notes sent in your name and meetings with owners who ask to talk. We do not advise on the deal.
 
-Search fund deal sourcing, on this page, means reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. This guide explains that motion from a searcher's point of view. It is not a new service, a case history or a promise of a set number of conversations.
+Search fund deal sourcing, on this page, means buy side owner outreach: reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. Search funds, PE firms and independent sponsors use the same proprietary deal sourcing motion, so it is also the direct track of private equity deal sourcing. This guide explains it from a searcher's point of view. It is not a new service, a case history or a promise of a set number of conversations.
 
 ## What this page is
 Searchers often want conversations with owners who have not put a company on the market. The work that gets those conversations started already exists on /m-and-a-deal-flow/. That writeup is the source of truth for the offer. This page does not replace it, and it does not announce a product only for search funds.
@@ -2641,6 +2647,9 @@ Some searchers invest time in these relationships because a single trusted intro
 
 Q: What does search fund deal sourcing mean on this page?
 A: It means reaching owners of private companies who match a mandate and who have not listed the business, then booking a conversation when an owner wants one. The work described here is the published owner outreach program, read from a searcher's side, not a marketplace of listed deals and not a promise that a deal will close.
+
+Q: What is private equity deal sourcing?
+A: It is the work of finding companies a fund or searcher could buy. Proprietary deal sourcing reaches owners directly, before a business is listed or sent to auction. Our part is the owner outreach and the booked conversation. Valuation, diligence and any offer stay with you.
 
 Q: Is this a separate search fund product?
 A: No. The published deal flow page already lists search funds among the buy-side readers the motion can serve. This URL does not create a second program, a separate track or a record of completed acquisitions. If you want the full writeup of the current offer, read the off-market deal flow page.
@@ -3263,7 +3272,7 @@ IT services and MSPs
 
 # MSP lead generation for IT services firms
 
-Most businesses your size already have an IT provider and many are not happy with it. We find them in your region, reach the owner at the moment they reconsider, and book the call. Target up to 25,000 new contacts a month.
+Most businesses your size already have an IT provider and many are not happy with it. Be Leaded is an MSP marketing agency for outbound: our MSP lead generation finds those businesses in your region, reaches the owner at the moment they reconsider and books the call. This is managed service provider lead generation for IT services firms. Target up to 25,000 new contacts a month.
 
 Programs start from $2,000 a month.
 
@@ -3393,6 +3402,10 @@ Selling security services? See cybersecurity lead generation.
 
 ## Questions
 
+**What is MSP lead generation?**
+
+MSP lead generation is outreach that books sales calls for a managed service provider. We find businesses in your region that may reconsider their IT provider, write to the owner and book the call.
+
 **What size companies should an MSP target?**
 
 Most MSPs do best between 20 and 200 employees: large enough to need managed IT, small enough to have no internal team. We build the list to your sweet spot and region.
@@ -3440,7 +3453,7 @@ Staffing and recruiting
 
 # Lead generation for staffing and recruiting companies
 
-One hiring manager on Reddit says he gets 15 to 20 staffing pitches a week (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) and most sound the same. We find companies with roles they are struggling to fill, write to the manager who owns the role, and book the call with your recruiters.
+Lead generation for staffing companies has to stand out. One hiring manager on Reddit says he gets 15 to 20 staffing pitches a week (https://www.reddit.com/r/RecruitmentAgencies/comments/1rsw5ui/how_do_you_get_clients/) and most sound the same. We find companies with roles they are struggling to fill, write to the manager who owns the role and book the call with your recruiters. That is staffing agency marketing that turns a live hiring problem into staffing leads.
 
 Programs start from $2,000 a month.
 
@@ -3599,6 +3612,10 @@ Programs start from $2,000 a month. What the monthly program includes is on pric
 - A weekly report of companies contacted and what they wrote back
 
 ## Questions
+
+**What is lead generation for staffing companies?**
+
+It is outreach that wins new clients for a staffing or recruiting firm. Our staffing lead generation finds companies with roles they are struggling to fill, writes to the hiring manager who owns the role and books the call with your recruiters. Your recruiters handle candidates.
 
 **How do staffing agencies get new clients?**
 
@@ -18063,7 +18080,7 @@ Services
 
 # Month to month lead generation with no lock-in
 
-Many agencies ask for a long commitment and tell you not to expect progress in the first 45 days. Be Leaded runs outbound month to month. No 3-month commitment, pay month by month. Most programs go live in about three weeks. Programs start from $2,000 a month.
+Month to month lead generation from Be Leaded means outbound you can stop at the end of any month. Many agencies ask for a long commitment and tell you not to expect progress in the first 45 days. As a month to month marketing agency, we run done-for-you cold email and LinkedIn with no 3-month commitment, pay month by month. Most programs go live in about three weeks. Programs start from $2,000 a month.
 
 Wider outbound detail is written up on lead generation services (https://www.beleaded.com/lead-generation-services/).
 
@@ -18134,6 +18151,9 @@ Programs start from $2,000 a month. Most programs go live in about three weeks. 
 The starting fee is published on pricing (https://www.beleaded.com/pricing/). Sketch the volume in the outbound calculator (https://www.beleaded.com/tools/outbound-calculator/) before kickoff.
 
 ## Questions about month to month lead generation
+
+What is month to month lead generation?
+It is outbound lead generation without a long contract. There is no 3-month commitment, you pay month by month and you can cancel at the end of any month. Be Leaded runs cold email and LinkedIn on those terms, and most programs go live in about three weeks.
 
 Is Be Leaded month to month?
 Yes. No 3-month commitment, pay month by month. You can cancel at the end of any month.
@@ -18493,17 +18513,17 @@ Pharma campaign? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30m
 URL: https://www.beleaded.com/retail-paid-social-agency/
 
 Published: 2026-11-15
-Updated: 2026-11-24
+Updated: 2026-11-27
 
 - Home (https://www.beleaded.com/)
 - Services (https://www.beleaded.com/services/)
 - Retail paid social agency
 
-# Paid social for retailers: stores and online
+# Retail marketing agency for paid social: stores and online
 
-By Ahmad Khan, founder of Be Leaded. Published November 15, 2026. Updated November 24, 2026.
+By Ahmad Khan, founder of Be Leaded. Published November 15, 2026. Updated November 27, 2026.
 
-A retail paid social agency plans and runs ads on social platforms such as Facebook and Instagram so a retailer's products reach people who can buy them, in a store, online or both. Before any proposal, we discuss which locations and products should carry the campaign and what your team can actually measure.
+Be Leaded is a retail marketing agency for paid social. As a retail advertising agency, we plan and run ads on social platforms such as Facebook and Instagram so a retailer's products reach people who can buy them, through store visits, online sales or both. Before any proposal, we discuss which locations and products should carry the campaign and what your team can actually measure.
 
 Discuss your retail campaign (https://calendly.com/ahmad-beleaded/30min?utm_source=beleaded&utm_medium=site&utm_campaign=inline&utm_content=retail-paid-social-agency)
 
@@ -18653,6 +18673,9 @@ It may not fit a business with no product data to share, no one to confirm stock
 
 ## Common questions
 
+What does a retail marketing agency do?
+A retail marketing agency helps a retailer reach shoppers who can buy, in a store or online. Be Leaded does this through paid social: we plan which stores and products to promote, connect the product catalog to the ads and agree with your team how store and online sales are read back against the ads.
+
 Can ads be linked to what people buy in our shops?
 Ad reports alone will not show it. Till data has to reach the platform from your point of sale, or a controlled experiment has to be run, and each route depends on the data you hold. We discuss which of them is realistic for your business.
 
@@ -18774,15 +18797,15 @@ CPG brand? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?utm
 
 ---
 
-# Appointment Setting for Commercial Roofing Contractors | Be Leaded
+# Commercial Roofing Leads and Appointment Setting | Be Leaded
 URL: https://www.beleaded.com/appointment-setting-for-commercial-roofing/
-Updated: 2026-11-17
+Updated: 2026-11-27
 
-Appointment setting for commercial roofing contractors
+Commercial roofing leads, booked as appointments
 
 Be Leaded books sales meetings for commercial roofing contractors with facility managers, property managers, building owners and general contractors.
 
-Appointment setting for commercial roofing contractors is outreach we run for you that books a qualified sales meeting with a facility manager, property manager, building owner or general contractor. Be Leaded does this for commercial roofs only, not for homeowners or residential jobs.
+Be Leaded turns commercial roofing leads into booked appointments. We run the outreach for you and place a qualified sales meeting, such as a roof review or a site walk, with a facility manager, property manager, building owner or general contractor. This commercial roofing lead generation is for commercial roofs only, not for homeowners or residential jobs.
 
 ## What appointment setting for commercial roofing contractors means
 On this page, appointment setting for commercial roofing contractors means a program that finds the people who choose a roofer for a commercial building, runs outreach in your company's name, checks that the person and the property match rules you set and places a meeting on your sales calendar. The meeting is usually a roof review, a walk of the property or a first conversation about repair, replacement, recover or coating work. It is not a purchased list of names, not a homeowner lead from an ad and not a bid written on your behalf.
@@ -18921,6 +18944,9 @@ The work is set up so it can be stopped without a long lock-in. You can cancel a
 The only next step, if you want one, is to book that call and bring the brief you already have, even if it is still rough. A short conversation is enough to see whether commercial roofing appointment setting, as described here, is the work you actually want done.
 
 ## Questions commercial roofers ask
+
+Q: What are commercial roofing leads?
+A: On this page, commercial roofing leads are booked meetings, not a list of names. Each one is a date on your calendar with a facility manager, property manager, building owner or general contractor at a commercial property that matches your brief. Homeowner and residential roofing leads are not part of this program.
 
 Q: What does appointment setting for commercial roofing contractors mean?
 A: It means a program that finds the people who choose a roofer for a commercial building, runs outreach in your company's name, checks that the person and the property match rules you set and places a meeting on your sales calendar. The meeting is usually a roof review, a walk of the property or a first conversation about repair, replacement, recover or coating work.
