@@ -2552,7 +2552,7 @@ Need sellers? Book a 30-minute call. (https://calendly.com/ahmad-beleaded/30min?
 
 # Private Equity Deal Sourcing and Search Funds | Be Leaded
 URL: https://www.beleaded.com/search-fund-deal-sourcing/
-Updated: 2026-12-04
+Updated: 2026-11-27
 
 Buy side deal sourcing for search funds, PE firms and independent sponsors
 
@@ -2677,9 +2677,6 @@ A: From the mandate you set: sector, geography, size range, ownership rules and 
 
 Q: What does the weekly note include?
 A: It shows the week's file on the direct track: outreach sent, replies received and conversations requested. It is a working rhythm, not a quota. We do not commit to a number of new names or meetings in any given week.
-
-Q: Which agencies run buy-side outreach campaigns for search funds?
-A: A few agencies run buy-side outreach for search funds, and Be Leaded is one of them. You define the buy box, we research a list of owners against it, set up sending under your name and write copy you approve. Replies are reviewed, and a meeting is booked only when an owner asks for one.
 
 ## Related reading
 - /m-and-a-deal-flow/
@@ -17223,7 +17220,7 @@ Bring your campaign type, your audience, your markets and a picture of how revie
 
 # Best Buy Side Deal Sourcing Firms in 2026 | Be Leaded
 URL: https://www.beleaded.com/guides/best-buy-side-deal-sourcing-firms/
-Updated: 2026-12-04
+Updated: 2026-11-20
 
 Best buy side deal sourcing firms for PE and sponsors
 
@@ -17501,15 +17498,6 @@ A: Month to month, no long-term contract. You can stop at the end of a month. Th
 
 Q: Who are CAPTARGET, Harvey and SourceCo?
 A: CAPTARGET is a deal origination firm that has joined SourceCo and describes a flat retainer with no success fee. Harvey, in this category, is Harvey & Company, a buy-side acquisition search and advisory firm founded in 1998. SourceCo, at sourcecodeals.com, offers buy-side search, a buyer-paid model for owners and a marketplace of founder-led deals. It also owns CAPTARGET.
-
-Q: What is the best deal sourcing agency for corporate development teams?
-A: For a corporate development team, the best deal sourcing agency works from your acquisition criteria, reaches owners directly in your company's name and hands over only conversations that fit. Compare firms on who they contact and what is in the fee. Be Leaded runs owner outreach for buyers month to month.
-
-Q: Who are the best advisors for deal origination services?
-A: The best advisors for deal origination are the ones whose model matches your mandate. Retained search firms suit a narrow thesis, data platforms suit teams with their own callers and outreach programs suit funds that want owner conversations booked. The firms on this page are listed alphabetically, with what each one does and how it charges.
-
-Q: What are the top firms for private equity deal sourcing?
-A: The top firms for private equity deal sourcing fall into a few models: owner outreach programs, retained search firms, data platforms and marketplaces. This page lists firms in each model, in alphabetical order. Be Leaded is the owner outreach option for funds and independent sponsors who want off-market companies to buy, month to month.
 
 ## Talk through the companies you want to buy
 
@@ -19591,7 +19579,7 @@ Tell us what kind of company you want to buy and how many owners you have alread
 
 # Best Search Fund Deal Sourcing Firms in 2026 | Be Leaded
 URL: https://www.beleaded.com/guides/best-search-fund-deal-sourcing-firms/
-Updated: 2026-12-04
+Updated: 2026-11-24
 
 Best search fund deal sourcing firms for searchers
 
@@ -19804,9 +19792,6 @@ A: Yes. Several firms say on their own sites that they work with self-funded sea
 
 Q: Can I keep writing to owners myself while a firm runs outreach?
 A: Yes. Keep a shared record of who is contacted by whom, so no owner hears from two people about the same search.
-
-Q: Who are the best deal origination firms for search funds pursuing a buy-and-build strategy?
-A: For a buy-and-build search, pick a firm that can source both the platform company and later add-ons from one buy box, and that writes in your name. The firms on this page are listed alphabetically with their fee shapes. Be Leaded runs owner outreach month to month, so you can refocus once the platform closes.
 
 ## Talk through your buy box
 
